@@ -1,0 +1,2 @@
+import {queryCatalog} from '@/lib/catalog';
+export async function GET(request:Request){const p=new URL(request.url).searchParams;const ids=p.get('ids');const result=queryCatalog({q:p.get('q')||undefined,ids:ids?ids.split(',').filter(x=>/^[a-z0-9-]+$/.test(x)).slice(0,500):undefined,page:Number(p.get('page'))||1});return Response.json({...result,brands:[]},{headers:{'Cache-Control':'private, max-age=30'}});}

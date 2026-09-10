@@ -10,6 +10,8 @@ import {toast} from 'sonner';
 import CategoryIcon from './category-icon';
 import nodes from '@/data/navigation.json';
 import type {Product,Variant} from '@/lib/catalog-types';
+import {collectionMeta} from '@/lib/collection-meta';
+import {Flower2,Diamond,Gift,Play,Tag} from 'lucide-react';
 
 type BagLine={product:Product;variant:Variant;quantity:number};
 type ShopContext={favorites:string[];toggleFavorite:(id:string)=>void;bag:BagLine[];addToBag:(p:Product,v:Variant)=>void;changeQuantity:(id:string,q:number)=>void;ready:boolean};
@@ -34,11 +36,10 @@ export default function StoreShell({children}:{children:React.ReactNode}){
  const groups=nodes.filter(n=>n.parent===active);
  return <Shop.Provider value={{favorites,toggleFavorite,bag,addToBag,changeQuantity,ready}}>
    <a className="skip-link" href="#main">Перейти к содержимому</a>
-   <div className="announcement"><a href="/catalog/fragrance/personal/3"><SprayIcon/>Парфюмерия в распив · 5 / 10 / 20 / 30 мл <ChevronRight size={14}/></a></div>
    <header className="site-header">
     <div className="header-inner wrap">
      <button className="icon-button mobile-menu" aria-label="Открыть каталог" onClick={()=>setMenu(true)}><Menu/></button>
-     <Link href="/" className="wordmark" aria-label="Grace Cosmetics — главная">GRACE<span>COSMETICS</span></Link>
+     <Link href="/" className="wordmark header-wordmark" aria-label="Grace Cosmetics — главная">GRACECOSMETICS</Link>
      <div className="search-area" onBlur={e=>{if(!e.currentTarget.contains(e.relatedTarget as Node))setSearchOpen(false);}}>
       <form className="header-search" action="/search" role="search" onSubmit={rememberSearch}>
        <input ref={input} name="q" value={query} onFocus={()=>setSearchOpen(true)} onChange={e=>setQuery(e.target.value)} placeholder="Найти товар, бренд или оттенок" aria-label="Поиск по каталогу" autoComplete="off"/>
@@ -50,11 +51,12 @@ export default function StoreShell({children}:{children:React.ReactNode}){
      <div className="header-actions">
       <Link href="/favorites" className="header-action" aria-label={'Избранное, '+favorites.length}><span className="count-icon"><Heart size={25}/>{favorites.length>0&&<b>{favorites.length}</b>}</span><span>Избранное</span></Link>
       <Link href="/bag" className="header-action" aria-label={'Корзина, '+bag.reduce((a,b)=>a+b.quantity,0)}><span className="count-icon"><ShoppingBag size={25}/>{bag.length>0&&<b>{bag.reduce((a,b)=>a+b.quantity,0)}</b>}</span><span>Корзина</span></Link>
-      <a href="https://www.instagram.com/grace_cosmetics.ru/" target="_blank" rel="noreferrer" className="header-action header-help"><MessageCircle size={25}/><span>Помощь</span></a>
+      <a href="https://www.instagram.com/grace_cosmetics.ru/" target="_blank" rel="noreferrer" className="header-action header-help" aria-label="Помощь — связаться с Grace"><MessageCircle size={25}/><span>Помощь</span></a>
      </div>
     </div>
     <nav className="main-nav wrap" aria-label="Основная навигация"><button className="catalog-toggle" onClick={()=>setMenu(true)}><Menu size={21}/> Каталог</button><Link href="/#grace-picks" className="nav-featured">Выбор Grace</Link><Link href="/brands">Бренды</Link><span className="nav-divider"/>{roots.map(n=><Link key={n.path} className={pathname.startsWith('/catalog/'+n.path)?'nav-active':''} href={'/catalog/'+n.path}>{n.name}</Link>)}</nav>
    </header>
+   <div className="promo-navigation"><nav className="promo-nav wrap" aria-label="Подборки Grace">{collectionMeta.map(c=>{const Icon={flower:Flower2,diamond:Diamond,gift:Gift,bag:ShoppingBag,play:Play,tag:Tag}[c.icon];return <Link key={c.slug} href={'/collections/'+c.slug} className={'promo-entry '+(pathname==='/collections/'+c.slug?'is-current':'')} aria-current={pathname==='/collections/'+c.slug?'page':undefined}><Icon size={17} strokeWidth={1.5}/><span>{c.title}</span></Link>;})}</nav></div>
    <Sheet open={menu} onOpenChange={setMenu}><SheetContent side="top" className="catalog-sheet" showCloseButton={false}>
     <div className="wrap"><div className="sheet-heading"><SheetTitle>Каталог</SheetTitle><SheetClose className="icon-button" aria-label="Закрыть каталог"><X/></SheetClose></div><SheetDescription className="sr-only">Разделы и подкатегории Grace Cosmetics</SheetDescription>
      <div className="mega-desktop"><div className="mega-roots">{roots.map(n=><button key={n.path} className={active===n.path?'active':''} onClick={()=>setActive(n.path)}><CategoryIcon name={n.path}/><span>{n.name}</span><ChevronRight size={17}/></button>)}<Link href="/catalog" onClick={()=>setMenu(false)}>Все товары <ArrowUpRight size={16}/></Link></div>
@@ -72,4 +74,3 @@ export default function StoreShell({children}:{children:React.ReactNode}){
    <Toaster position="bottom-right" theme="light"/>
  </Shop.Provider>;
 }
-function SprayIcon(){return <CategoryIcon name="fragrance" size={16}/>;}

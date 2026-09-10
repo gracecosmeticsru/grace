@@ -1,3 +1,17 @@
+## Header and curated storefront update — 2026-09-10
+
+Scope: removed the top decant announcement; rebuilt the header with the GRACECOSMETICS wordmark, prominent search, and adjacent favourite/bag/help actions. Added a separate single-row promotional navigation with Lucide icons. On narrow screens all three actions remain available next to search, with horizontal scrolling for the six storefront links.
+
+Shared theme tokens now use milk white, warm taupe, powder and graphite. New header and collection styling uses these tokens. Existing hero/brand/editorial components, homepage product selections, catalogue structure, source records and images are unchanged.
+
+Six `/collections/[slug]` pages each receive 10 real catalogue products. Selection runs on the server, once per module instance, and sends only the selected records to the product grid. Rules live in `lib/collection-selection.ts`, labels in `lib/collection-meta.ts`. Ranking uses source names, categories, formats and curated brand lists, with brand/category diversity and stable ID tie-breaking. K-Beauty includes skincare and makeup. Gifts exclude empty packaging, individual items from sets and specialised depilation/blackhead kits. Miniatures require explicit mini/travel wording or small perfume formats/decants. Reels is an editorial featured selection, without claims of actual publication or social metrics. Sale uses named promotions if present, otherwise an editorial selection labelled “Промо-выбор”; no discount percentages or old prices are invented. The dataset currently has no explicit discount fields or confirmed Reels list.
+
+The user has explicitly confirmed rubles. The 5,029 variants with source prices now display in ₽. Different/missing variant prices produce “от” on listing cards; detail and bag prices follow the selected variant. Missing/invalid/zero prices display a neutral “— ₽”. The basket only displays a numerical total when every line has a valid price. No source price is changed and no decant price is inferred.
+
+Validation: TypeScript check and production build passed. Selection checks require exactly 10 distinct existing products in each collection; currency checks cover null/zero/invalid values, decimals, equal/different variant prices and partial variant pricing. Protected homepage, brand and catalogue source files have no diff. No browser QA was performed for this update; the earlier browser policy restriction was not retried.
+
+Earlier entries below describe prior versions and are retained as implementation history.
+
 # Redesign — 10 September 2026
 
 The current version replaces the earlier editorial violet homepage. Reference pages were opened through web search and inspected in a cloud browser:

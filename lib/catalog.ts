@@ -2,8 +2,9 @@ import rawProducts from '@/data/products.json';
 import rawNavigation from '@/data/navigation.json';
 import rawBrands from '@/data/brands.json';
 import summary from '@/data/summary.json';
+import productImages from '@/data/product-images.json';
 import type { Product, NavNode, Brand, CatalogFilters, CatalogResult } from './catalog-types';
-export const products=rawProducts as Product[];
+export const products=(rawProducts as Product[]).map(p=>({...p,image:(productImages as Record<string,string>)[p.id]||p.image}));
 export const navigation=rawNavigation as NavNode[];
 export const brands=rawBrands as Brand[];
 export {summary};
@@ -33,7 +34,7 @@ export function queryCatalog(f:CatalogFilters={}):CatalogResult{
   return {products:found.slice((page-1)*24,page*24),total,page,pages,brands:facets};
 }
 export function featured(path:string,count=8){
- const pool=queryCatalog({path}).products;
+ const pool=products.filter(p=>!path||p.paths.some(x=>x===path||x.startsWith(path+'/')));
  const picked:Product[]=[];const used=new Set<string>();
  for(const p of pool)if(!used.has(p.brand)){picked.push(p);used.add(p.brand);}
  for(const p of pool)if(!picked.includes(p))picked.push(p);

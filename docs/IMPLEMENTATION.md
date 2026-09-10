@@ -1,3 +1,30 @@
+# Redesign — 10 September 2026
+
+The current version replaces the earlier editorial violet homepage. Reference pages were opened through web search and inspected in a cloud browser:
+- https://global.oliveyoung.com/ — primary structure: header/search/category navigation, centred carousel with neighbouring slides, counter and pause, slim campaign strip, five-product rails, Featured Brands, Our Picks, Recommendations, brand focus, category rail, customer service and footer.
+- https://www.heybabescosmetics.com/ — category shortcuts and Russian catalogue navigation.
+- https://www.sephora.com/ redirected to https://www.sephora.de/ — product presentation and recently viewed products.
+
+Grace uses those block types and proportions with its own catalogue. With no sales, promotion, or review records in the supplied data, the first merchandise rail is labelled “Выбор Grace”; no synthetic best-seller ranks, discounts, reviews, loyalty offers, stock status or dates were introduced. K-pop and app-coupon campaigns do not apply to Grace's provided catalogue.
+
+## Navigation repair
+Product cards now contain one ordinary anchor covering the image, brand, name, variant count and price label. The favourite control is a sibling button, so it does not intercept the product link. Other catalogue and detail links use document navigation; product opening does not depend on the client RSC navigation transition. URL filter changes retain the existing router. Loading UI is present for remaining router transitions.
+
+The reported original click failure was not reproduced as a permanent failure: the original Anua product link eventually opened after waiting. Do not claim a confirmed root cause. The revised Tom Ford card was clicked from the homepage and its detail page and 5/10/20/30 ml plus bottle variants were observed.
+
+## Reference and QA limits
+Desktop reference screenshots were inspected. The browser has no supported viewport-resizing API; Chrome keyboard shortcuts did not resize it. Reference sites refused iframe embedding, so their exact mobile visual layouts could not be verified in this environment. Grace itself was inspected at a 390 px iframe viewport (375 px content width with the desktop scrollbar), including the header, campaign and category navigation. Additional browser QA after a user continuation encountered a URL-policy restriction; no bypass was attempted. Cart interactions and shade changes were not browser-verified in this revision. Do not describe the result as a pixel-perfect copy or claim complete end-to-end validation.
+
+## Assets
+Three verified, official product photographs were integrated: Anua Cleansing Oil 200 ml (gc002705), Rare Beauty Lip Oil Hope 3 ml (gc003374), Tom Ford Tobacco Vanille bottle 50 ml (perf-0139). Sources are recorded in product-image-sources.json. The toner candidate in that manifest was excluded because the current 77+ Hyaluron package could not be confirmed as the supplied version. All other items retain the user-authorized grey image fallback. For decants, the detail caption explains that the photograph shows the original bottle. The generated portrait from the initial design was removed.
+
+## Data and commercial behavior
+The six-level-one catalogue structure, product identities, source SKUs and variants are unchanged. Prices remain by enquiry because source currency is unconfirmed. Favourites, basket, search history and recently viewed items are device-local. Basket copying does not send a message or place an order. The owner-private Site keeps the same project identity and audience.
+
+---
+
+## Initial implementation record (superseded visual design)
+
 # Grace Cosmetics — initial catalog website
 
 ## Scope and sources

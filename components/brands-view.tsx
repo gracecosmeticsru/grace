@@ -1,5 +1,5 @@
 "use client";
-import Link from 'next/link';
+import Link from '@/components/site-link';
 import {useState} from 'react';
 import {Search,ArrowUpRight} from 'lucide-react';
 import {Empty,EmptyTitle} from '@/components/ui/empty';

@@ -1,5 +1,5 @@
 "use client";
-import Link from 'next/link';
+import Link from '@/components/site-link';
 import {useEffect,useState} from 'react';
 import {Heart,ShoppingBag,Minus,Plus,Trash2,Copy,ArrowUpRight,ArrowRight,ChevronLeft,ChevronRight} from 'lucide-react';
 import {toast} from 'sonner';

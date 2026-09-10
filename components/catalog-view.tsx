@@ -1,5 +1,5 @@
 "use client";
-import Link from 'next/link';
+import Link from '@/components/site-link';
 import {usePathname,useRouter} from 'next/navigation';
 import {useState,useTransition} from 'react';
 import {Search,SlidersHorizontal,ChevronRight,ChevronLeft,X,ArrowUpRight} from 'lucide-react';

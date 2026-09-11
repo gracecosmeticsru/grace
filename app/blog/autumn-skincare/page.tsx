@@ -47,7 +47,7 @@ export default function AutumnSkincareArticle() {
 
     <section className={styles.products} id="autumn-products" aria-labelledby="autumn-products-title">
       <div className={styles.productsHeading}><span className={styles.kicker}>ПОДБОРКА GRACE</span><h2 id="autumn-products-title">Уход для нового сезона</h2><p>Очищение, увлажнение, барьерные кремы и SPF из каталога. Это варианты для выбора, а не список обязательных покупок: сверяй состав, инструкцию и потребности кожи.</p></div>
-      <ProductRail products={products} label="Средства для осеннего ухода"/>
+      <ProductRail products={products} label="Средства для осеннего ухода" appearance="showcase"/>
       <a href="/" className={styles.back}><ArrowLeft size={16}/>На главную Grace</a>
     </section>
   </main>;

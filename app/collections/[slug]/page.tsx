@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
 import { ChevronRight } from 'lucide-react';
 import Link from '@/components/site-link';
-import ProductCard from '@/components/product-card';
+import ShowcaseProductCard from '@/components/showcase-product-card';
 import { getCollection } from '@/lib/collections';
 import { collectionMeta } from '@/lib/collection-meta';
 
@@ -22,9 +22,6 @@ export default async function CollectionPage({ params }: Props) {
       <div><span className="curated-kicker">{collection.line}</span><h1>{collection.title}</h1><p>{collection.description}</p></div>
       <span className="curated-count">{collection.products.length} находок Grace</span>
     </div>
-    <div className="curated-grid">{collection.products.map(product => <div key={product.id}>
-      {collection.slug === 'sale' && <span className="curated-label">Промо-выбор</span>}
-      <ProductCard product={product}/>
-    </div>)}</div>
+    <div className="curated-grid">{collection.products.map(product => <ShowcaseProductCard key={product.id} product={product} promotion={collection.slug==='sale'?'Промо-выбор':undefined}/>)}</div>
   </main>;
 }

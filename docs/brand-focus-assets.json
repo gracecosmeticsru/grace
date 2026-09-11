@@ -1,0 +1,66 @@
+{
+  "generator": "built-in image_gen.imagegen",
+  "requested_dimensions": "1536x1024",
+  "requested_count": 4,
+  "attempts": 4,
+  "retries": 0,
+  "assets": [
+    {
+      "name": "celimax",
+      "prompt": "Use case: ads-marketing. Asset type: original homepage brand-card mood photography for Grace Cosmetics, landscape 1536x1024. Rich photorealistic premium beauty editorial. This is an original brand-associated mood image, not an official campaign or a real catalog product photo. Composition: keep the model's face and all key textures and relevant objects within the central 70 percent of the image so a centered square crop is equally compelling. Photographic depth, sophisticated material texture. Absolutely no text, logos, monograms, watermarks, UI, lettering or fictional branded packaging. One finished image only.\nPrimary request: Celimax-associated Korean skincare science and glow mood. Close-up of an adult East Asian woman with fresh luminous natural skin, set within a thoughtful abstract glass laboratory still life. Clear serum textures, translucent frosted white unbranded containers and intricate glass reflections. Color palette is cool ivory and icy blue with one muted deep blue accent. Expressive side light across skin and glass, layered reflections, clear photographic depth and naturally visible skin texture. Editorial beauty photograph with face and laboratory still life integrated in one layered scene. Absolutely no single product on plain green background; no green background.",
+      "status": "generated",
+      "original_path": "/workspace/scratch/810d82295e16/generated_images/exec-986feb99-649e-43ba-b99b-6471c1aa13a8.png"
+    },
+    {
+      "name": "dior",
+      "prompt": "Use case: ads-marketing. Asset type: original homepage brand-card mood photography for Grace Cosmetics, landscape 1536x1024. Rich photorealistic premium beauty editorial. This is an original brand-associated mood image, not an official campaign or a real catalog product photo. Composition: keep the model's face and all key textures and relevant objects within the central 70 percent of the image so a centered square crop is equally compelling. Photographic depth, sophisticated material texture. Absolutely no text, logos, monograms, watermarks, UI, lettering or fictional branded packaging. One finished image only.\nPrimary request: Dior-associated elegant couture beauty mood. Adult woman with polished understated makeup and luminous skin wearing a black couture neckline, with champagne silk and tactile cream toile textile accents in the setting. A silver mirror and sculptural lipstick and compact forms without any branding provide quiet depth in the foreground. Restrained ivory, black and champagne palette. Luxury editorial photography with layered depth and tactile silk and toile texture; absolutely no flat product packshot. Model occupies the center and the arrangement feels poised, intimate and couture.",
+      "status": "failed",
+      "original_path": null,
+      "error": "Image generation output rejected: moderation_blocked / sexual",
+      "request_id": "689a9694-0413-4586-b657-5edfaf0d4d19"
+    },
+    {
+      "name": "anua",
+      "prompt": "Use case: ads-marketing. Asset type: original homepage brand-card mood photography for Grace Cosmetics, landscape 1536x1024. Rich photorealistic premium beauty editorial. This is an original brand-associated mood image, not an official campaign or a real catalog product photo. Composition: keep the model's face and all key textures and relevant objects within the central 70 percent of the image so a centered square crop is equally compelling. Photographic depth, sophisticated material texture. Absolutely no text, logos, monograms, watermarks, UI, lettering or fictional branded packaging. One finished image only.\nPrimary request: Anua-associated fresh everyday Korean skincare calm mood. Adult East Asian woman by a sunlit window with dewy natural skin, a sheer ivory curtain, beautiful water reflections and small fresh botanical leaf details. Transparent unbranded skincare glass sits on creamy stone in the foreground within the central area. Warm white palette with subtle soft botanical green accents. Light is airy, sunlit and alive, soft natural skin texture and luminous layered photographic depth. Absolutely never a plain green background.",
+      "status": "generated",
+      "original_path": "/workspace/scratch/810d82295e16/generated_images/exec-313145d0-8d09-4f7b-8c03-de25140c177a.png"
+    },
+    {
+      "name": "charlotte-tilbury",
+      "prompt": "Use case: ads-marketing. Asset type: original homepage brand-card mood photography for Grace Cosmetics, landscape 1536x1024. Rich photorealistic premium beauty editorial. This is an original brand-associated mood image, not an official campaign or a real catalog product photo. Composition: keep the model's face and all key textures and relevant objects within the central 70 percent of the image so a centered square crop is equally compelling. Photographic depth, sophisticated material texture. Absolutely no text, logos, monograms, watermarks, UI, lettering or fictional branded packaging. One finished image only.\nPrimary request: Charlotte Tilbury-associated glamorous warm makeup editorial. Adult woman with soft bronze smoky eyes, luminous cheek and warm rose lipstick, lush wavy hair. Rich burgundy velvet and rose gold reflections create depth around her. Dramatic golden hour studio light on face and hair, a subtle makeup brush or unbranded rose gold compact in the foreground. Rich burgundy, rose, copper and tan palette. Premium makeup glamour, expressive cinematic photographic depth and tactile materials. This must read as makeup glamour, not skincare.",
+      "status": "generated",
+      "original_path": "/workspace/scratch/810d82295e16/generated_images/exec-feadc2ec-12bd-40bb-ad25-a601d9d2dd33.png"
+    }
+  ],
+  "integrated_assets": [
+    {
+      "name": "celimax",
+      "path": "public/images/brand-focus/celimax.png",
+      "method": "built-in imagegen; original image copied without raster modification"
+    },
+    {
+      "name": "anua",
+      "path": "public/images/brand-focus/anua.png",
+      "method": "built-in imagegen; original image copied without raster modification"
+    },
+    {
+      "name": "charlotte-tilbury",
+      "path": "public/images/brand-focus/charlotte-tilbury.png",
+      "method": "built-in imagegen; original image copied without raster modification"
+    },
+    {
+      "name": "dior",
+      "path": "public/images/brand-focus/dior.jpg",
+      "method": "web image search; downloaded original without raster modification",
+      "source_page": "https://www.beautyalmanac.com/article/dior-rouge-dior-minaudiere-the-atelier-of-dreams-edition-box-couture-lipstick-case/4300",
+      "image_url": "https://www.beautyalmanac.com/uploads/dior/Y0996337_E02_ZHC.jpg",
+      "source_date": "2021-11-13",
+      "accessed": "2026-09-11",
+      "dimensions": [
+        3000,
+        2000
+      ],
+      "note": "Archival brand illustration, not a claim of availability for this specific edition. Source/year linked below the homepage section. Reuse license not stated in the source."
+    }
+  ]
+}

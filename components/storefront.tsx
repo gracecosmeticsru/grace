@@ -5,6 +5,7 @@ import {ChevronRight,FlaskConical,Heart} from 'lucide-react';
 import {Tabs,TabsList,TabsTrigger,TabsContent} from '@/components/ui/tabs';
 import ProductRail from './product-rail';
 import Hero from './hero';
+import AutumnEditorialPromo from './autumn-editorial-promo';
 import CategoryIcon from './category-icon';
 import {ProductImage} from './product-card';
 import type {Product,Brand} from '@/lib/catalog-types';
@@ -24,7 +25,7 @@ export default function Storefront({selections,brands,highlights,brandProducts}:
  return <main id="main"><h1 className="sr-only">Grace Cosmetics — косметика и парфюмерия</h1><div className="utility-strip wrap"><span><FlaskConical size={17}/>Уход, макияж и парфюмерия</span><a href="/brands"><Heart size={17}/>{brands.length} брендов в каталоге <ChevronRight size={14}/></a></div>
  <Hero/>
  <div className="wrap"><nav className="category-shortcuts" aria-label="Быстрый выбор категории">{nodes.filter(n=>!n.parent).map(n=><Link key={n.path} href={'/catalog/'+n.path}><span className={'shortcut-icon icon-'+n.path}><CategoryIcon name={n.path} size={30}/></span><span>{n.name}</span></Link>)}<Link href="/catalog/skincare/extra/7"><span className="shortcut-icon"><CategoryIcon name="spf" size={30}/></span><span>SPF</span></Link><Link href="/catalog/makeup/more/2"><span className="shortcut-icon"><CategoryIcon name="sets" size={30}/></span><span>Наборы</span></Link></nav>
- <a href="/catalog/fragrance/personal/3" className="wide-promo"><div><strong>Знакомство с ароматами начинается с малого</strong><span>Отливанты 5, 10, 20 и 30 мл</span></div><CategoryIcon name="fragrance" size={42}/><ChevronRight size={23}/></a></div>
+ <AutumnEditorialPromo/></div>
  <section className="wrap home-section" id="grace-picks"><div className="section-heading"><h2>Выбор Grace</h2></div><ProductRail products={highlights} label="Выбор Grace"/><ViewMore href="/catalog" label="Перейти в каталог"/></section>
  <section className="wrap home-section"><div className="section-heading"><h2>Бренды в фокусе</h2><Link href="/brands" className="text-link">Все бренды <ChevronRight size={17}/></Link></div><div className="brand-features">{featureBrands.map(b=>{const p=highlights.find(p=>p.id===b.id);const brand=brands.find(x=>x.name===b.name);return brand?<Link href={'/brands/'+brand.slug} key={b.name} className="brand-feature"><div className={'brand-feature-image '+b.tone}>{p&&<ProductImage product={p}/>}</div><h3>{b.name}</h3><p>{b.note}</p><ChevronRight size={19}/></Link>:null;})}</div></section>
  <section className="wrap home-section"><div className="section-heading"><h2>Наши подборки</h2></div><Tabs value={category} onValueChange={setCategory}><TabsList variant="line" className="home-tabs">{Object.entries(labels).map(([k,v])=><TabsTrigger value={k} key={k}>{v}</TabsTrigger>)}</TabsList>{Object.keys(labels).map(k=><TabsContent value={k} key={k}><ProductRail products={selections[k]||[]} label={labels[k]}/></TabsContent>)}</Tabs><ViewMore href={'/catalog/'+category}/></section>

@@ -1,0 +1,1321 @@
+{
+  "verifiedAt": "2026-09-13",
+  "sourceCommit": "66b5267877dcdb50c95a4e3d1d33682ce4666633",
+  "sourceCommitCount": 7,
+  "originalFileCount": 168,
+  "originalFilesAllMatch": false,
+  "catalog": {
+    "cards": 4526,
+    "uniqueIds": 4526,
+    "variants": 6089,
+    "uniqueVariantIds": 6089,
+    "multiVariantCards": 521,
+    "sourceSkus": 5269,
+    "brands": 350,
+    "rootCategories": [
+      "Макияж",
+      "Уход за лицом",
+      "Парфюмерия",
+      "Волосы",
+      "Тело",
+      "Аксессуары"
+    ],
+    "uncategorizedCards": 49,
+    "unknownPaths": [],
+    "cardsWithImage": 3,
+    "imageReferences": [
+      "/images/anua-cleansing-oil-200ml.jpg",
+      "/images/rare-beauty-lip-oil-hope-3ml.jpg",
+      "/images/tom-ford-tobacco-vanille-50ml.png"
+    ],
+    "missingLocalProductImages": [],
+    "nonNullPrices": 5029,
+    "availabilityValues": [
+      "unknown"
+    ]
+  },
+  "materials": [
+    {
+      "path": "materials/Grace_1C_КАТЕГОРИИ_БРЕНДЫ_FINAL_v2(1).xlsx",
+      "bytes": 794634,
+      "sha256": "c118ca32af26f1609a351d387a90c135d2d57117e6444c38c43920e91bc98f3d",
+      "zipIntegrity": true
+    }
+  ],
+  "publicFiles": [
+    {
+      "path": "public/favicon.svg",
+      "bytes": 227,
+      "sha256": "42d56df61e0bb4d39e876f9cbd23150aa7fe3ab6d59d905d9c26243e9cfdd073"
+    },
+    {
+      "path": "public/images/anua-cleansing-oil-200ml.jpg",
+      "bytes": 40454,
+      "sha256": "27435f8f739df71468f3925a4dfcd3652ebbf2f0f2bcf621645d4209c2476415"
+    },
+    {
+      "path": "public/images/autumn-editorial/barrier.png",
+      "bytes": 2266089,
+      "sha256": "724e2a61d93bba271bd257476c7f0384dd17940bf6e17c1b06b79894b463b6e4"
+    },
+    {
+      "path": "public/images/autumn-editorial/cleansing.png",
+      "bytes": 2225679,
+      "sha256": "3f7f504258a6e06f6d35e361b18238a76e9e7aa679e5a3203096bb222b81e068"
+    },
+    {
+      "path": "public/images/autumn-editorial/cover.png",
+      "bytes": 2565034,
+      "sha256": "86d4ef7367b56912a7999797ce1580cdaa37741aa7e0802c41b2aa32e22d1f7a"
+    },
+    {
+      "path": "public/images/autumn-editorial/hydration.png",
+      "bytes": 2279502,
+      "sha256": "c73008a94e9c820d109e455c8ff94234a0cf27dfbff3a4fdb1bb01bb1edfe1ba"
+    },
+    {
+      "path": "public/images/autumn-editorial/renewal.png",
+      "bytes": 2292359,
+      "sha256": "c1afbf2791bd114adb9fa993da1ebf28ab406a6d283ff6b81270cfd0c924f313"
+    },
+    {
+      "path": "public/images/autumn-editorial/ritual.png",
+      "bytes": 2367373,
+      "sha256": "cee6a46f1cdbde8397ec34672b703b09e314972945b41aeec0e0c05dc7f3a848"
+    },
+    {
+      "path": "public/images/autumn-editorial/spf.png",
+      "bytes": 2311806,
+      "sha256": "70e9637a6a2cbe7348ab412a04be2111bc1c253b6ac3cb20d3f4df32aca4c0a1"
+    },
+    {
+      "path": "public/images/brand-focus/anua.png",
+      "bytes": 2311710,
+      "sha256": "1fa1a946f694cf35f2807f020d06b2c52a923cf884f32c19ba00738849af0dba"
+    },
+    {
+      "path": "public/images/brand-focus/celimax.png",
+      "bytes": 2408843,
+      "sha256": "74990181aceef6fdd33534bc61ee238e03797cd4e4e78f479148bd23c5608a60"
+    },
+    {
+      "path": "public/images/brand-focus/charlotte-tilbury.png",
+      "bytes": 2405313,
+      "sha256": "b6129dbf929eff0e3e804e2ea18da51ed2f01dbc36c66a4ca739bda212244400"
+    },
+    {
+      "path": "public/images/brand-focus/dior.jpg",
+      "bytes": 326056,
+      "sha256": "6b7e056fe4d67b706732c8fd2f57733487684ccc06d60c884b07be156d67f117"
+    },
+    {
+      "path": "public/images/hero-autumn-skincare.png",
+      "bytes": 2124431,
+      "sha256": "b5ab9ef8044bf15aa85a2c06de0bf1f6fef2c98b606d57210397f64629344322"
+    },
+    {
+      "path": "public/images/hero-k-beauty.png",
+      "bytes": 1895593,
+      "sha256": "8cd3b65eee65dff3b4b7d971dec8a235d6d2901e704b7f25586986404a0df8a3"
+    },
+    {
+      "path": "public/images/hero-luxury-makeup.png",
+      "bytes": 2039163,
+      "sha256": "c0fc6bd9cf7ae15fc77f3af4e7aefb9a870048b5a4a2769681efa4e35de8d4a8"
+    },
+    {
+      "path": "public/images/rare-beauty-lip-oil-hope-3ml.jpg",
+      "bytes": 48210,
+      "sha256": "c1c60a85c68573c24bc5c86ba59c940b0a372617ec3f0b68ae7465beb40a622c"
+    },
+    {
+      "path": "public/images/tom-ford-tobacco-vanille-50ml.png",
+      "bytes": 1455297,
+      "sha256": "0e9249f660ca2b374aeccc7daa5bb904ad51796556872c5d214e4e3d1a140431"
+    }
+  ],
+  "sourceFiles": [
+    {
+      "path": ".gitignore",
+      "sourceBlob": "a8f3962aae3656ada9524c398c6216e60e52edfb",
+      "localBlob": "a8f3962aae3656ada9524c398c6216e60e52edfb",
+      "matchesSource": true,
+      "bytes": 644
+    },
+    {
+      "path": ".npmrc",
+      "sourceBlob": "9f274d6425b9792ae0a70cb0b96a29fd98ec6ed6",
+      "localBlob": "9f274d6425b9792ae0a70cb0b96a29fd98ec6ed6",
+      "matchesSource": true,
+      "bytes": 48
+    },
+    {
+      "path": ".openai/hosting.json",
+      "sourceBlob": "cbe24fe81c6d3aa8cb81622f2a2cd4f5e4e4651c",
+      "localBlob": "cbe24fe81c6d3aa8cb81622f2a2cd4f5e4e4651c",
+      "matchesSource": true,
+      "bytes": 96
+    },
+    {
+      "path": "README.md",
+      "sourceBlob": "2f50b7dab2d6f0c814add7b26ab8a67422b09892",
+      "localBlob": "b3cac113ddec550d9e971e2187bb7a018d1ff7e5",
+      "matchesSource": false,
+      "bytes": 14825
+    },
+    {
+      "path": "app/api/catalog/route.ts",
+      "sourceBlob": "e463725a028e5ef9586a7313508159dfc753c8b9",
+      "localBlob": "e463725a028e5ef9586a7313508159dfc753c8b9",
+      "matchesSource": true,
+      "bytes": 413
+    },
+    {
+      "path": "app/bag/page.tsx",
+      "sourceBlob": "ab7c88f811a67ffb8bf6182925943ac2faab1efd",
+      "localBlob": "ab7c88f811a67ffb8bf6182925943ac2faab1efd",
+      "matchesSource": true,
+      "bytes": 147
+    },
+    {
+      "path": "app/blog/autumn-skincare/page.tsx",
+      "sourceBlob": "c5e2e15d1e2bec204af22cb617b7d5915c85c306",
+      "localBlob": "c5e2e15d1e2bec204af22cb617b7d5915c85c306",
+      "matchesSource": true,
+      "bytes": 5827
+    },
+    {
+      "path": "app/brands/[slug]/page.tsx",
+      "sourceBlob": "46c8390f7c5e47d6dd947f4e6164c4401969c588",
+      "localBlob": "46c8390f7c5e47d6dd947f4e6164c4401969c588",
+      "matchesSource": true,
+      "bytes": 740
+    },
+    {
+      "path": "app/brands/page.tsx",
+      "sourceBlob": "6357cbe66e1fef42cb304637debd4bb33b6c490a",
+      "localBlob": "6357cbe66e1fef42cb304637debd4bb33b6c490a",
+      "matchesSource": true,
+      "bytes": 497
+    },
+    {
+      "path": "app/catalog/[...path]/page.tsx",
+      "sourceBlob": "90697f3aecb3c1f6ecd9c121c8763597579768bd",
+      "localBlob": "90697f3aecb3c1f6ecd9c121c8763597579768bd",
+      "matchesSource": true,
+      "bytes": 776
+    },
+    {
+      "path": "app/catalog/page.tsx",
+      "sourceBlob": "2b1757c0a1f4809bebefcb19c5e24c1dffbaf643",
+      "localBlob": "2b1757c0a1f4809bebefcb19c5e24c1dffbaf643",
+      "matchesSource": true,
+      "bytes": 422
+    },
+    {
+      "path": "app/chatgpt-auth.ts",
+      "sourceBlob": "a0ae2ed9a9771b5fc36a06af554a05c18b2a13b3",
+      "localBlob": "a0ae2ed9a9771b5fc36a06af554a05c18b2a13b3",
+      "matchesSource": true,
+      "bytes": 2640
+    },
+    {
+      "path": "app/collections/[slug]/page.tsx",
+      "sourceBlob": "b5a212870cd4efa66c4436912da4f38bb5dedf02",
+      "localBlob": "b5a212870cd4efa66c4436912da4f38bb5dedf02",
+      "matchesSource": true,
+      "bytes": 1573
+    },
+    {
+      "path": "app/favorites/page.tsx",
+      "sourceBlob": "a6c22ed7d774ebba2b5f1d056b8d8a62f193a13d",
+      "localBlob": "a6c22ed7d774ebba2b5f1d056b8d8a62f193a13d",
+      "matchesSource": true,
+      "bytes": 163
+    },
+    {
+      "path": "app/globals.css",
+      "sourceBlob": "ea4b42665a7df3c9f1d521c1620a0c94747bbf38",
+      "localBlob": "ea4b42665a7df3c9f1d521c1620a0c94747bbf38",
+      "matchesSource": true,
+      "bytes": 42686
+    },
+    {
+      "path": "app/layout.tsx",
+      "sourceBlob": "2516f2df4e2e48fd094d0228b6df8e6d1a19d355",
+      "localBlob": "2516f2df4e2e48fd094d0228b6df8e6d1a19d355",
+      "matchesSource": true,
+      "bytes": 778
+    },
+    {
+      "path": "app/loading.tsx",
+      "sourceBlob": "ebc284bc80fa3ab63611406e5952e78744ed9a18",
+      "localBlob": "ebc284bc80fa3ab63611406e5952e78744ed9a18",
+      "matchesSource": true,
+      "bytes": 396
+    },
+    {
+      "path": "app/not-found.tsx",
+      "sourceBlob": "bd7d1e8ef31a6058c85dce980fa0380eb10c6351",
+      "localBlob": "bd7d1e8ef31a6058c85dce980fa0380eb10c6351",
+      "matchesSource": true,
+      "bytes": 413
+    },
+    {
+      "path": "app/page.tsx",
+      "sourceBlob": "166164bcef82d18c7d91318426247bd8c92351a1",
+      "localBlob": "166164bcef82d18c7d91318426247bd8c92351a1",
+      "matchesSource": true,
+      "bytes": 744
+    },
+    {
+      "path": "app/product/[id]/page.tsx",
+      "sourceBlob": "e812ed0457327ade871cae378bc37448649073b3",
+      "localBlob": "e812ed0457327ade871cae378bc37448649073b3",
+      "matchesSource": true,
+      "bytes": 971
+    },
+    {
+      "path": "app/search/page.tsx",
+      "sourceBlob": "00177459d66a535049c09ce41ee82fd43ea58dae",
+      "localBlob": "00177459d66a535049c09ce41ee82fd43ea58dae",
+      "matchesSource": true,
+      "bytes": 445
+    },
+    {
+      "path": "build/sites-vite-plugin.LICENSE",
+      "sourceBlob": "4243cb4a9aaa50f954498e54c850773e9ba13eea",
+      "localBlob": "4243cb4a9aaa50f954498e54c850773e9ba13eea",
+      "matchesSource": true,
+      "bytes": 1084
+    },
+    {
+      "path": "build/sites-vite-plugin.ts",
+      "sourceBlob": "2ece1b96530b40a7ea4981e6341b52771a07813e",
+      "localBlob": "2ece1b96530b40a7ea4981e6341b52771a07813e",
+      "matchesSource": true,
+      "bytes": 7415
+    },
+    {
+      "path": "cloudflare-env.d.ts",
+      "sourceBlob": "856e090c902917b4e1cebee0e08ea1d398fd01c3",
+      "localBlob": "856e090c902917b4e1cebee0e08ea1d398fd01c3",
+      "matchesSource": true,
+      "bytes": 105
+    },
+    {
+      "path": "components.json",
+      "sourceBlob": "c8f5bb16f79ed774f67415a8dc2b4a38243e3e90",
+      "localBlob": "c8f5bb16f79ed774f67415a8dc2b4a38243e3e90",
+      "matchesSource": true,
+      "bytes": 441
+    },
+    {
+      "path": "components/autumn-editorial-promo.tsx",
+      "sourceBlob": "f435feebc161be6772c5c6238e212a47bcd27795",
+      "localBlob": "f435feebc161be6772c5c6238e212a47bcd27795",
+      "matchesSource": true,
+      "bytes": 929
+    },
+    {
+      "path": "components/autumn-editorial.module.css",
+      "sourceBlob": "ce0a7ac8ffef8dc9e3d936a594d16eefc37c86ec",
+      "localBlob": "ce0a7ac8ffef8dc9e3d936a594d16eefc37c86ec",
+      "matchesSource": true,
+      "bytes": 7307
+    },
+    {
+      "path": "components/brand-focus.module.css",
+      "sourceBlob": "87808ce0fee3e2e9d35b8b49b2ac7297e94beb24",
+      "localBlob": "87808ce0fee3e2e9d35b8b49b2ac7297e94beb24",
+      "matchesSource": true,
+      "bytes": 2758
+    },
+    {
+      "path": "components/brand-focus.tsx",
+      "sourceBlob": "c09a3cb1a93c71450b37b4ac00a064b07a103716",
+      "localBlob": "c09a3cb1a93c71450b37b4ac00a064b07a103716",
+      "matchesSource": true,
+      "bytes": 3174
+    },
+    {
+      "path": "components/brands-view.tsx",
+      "sourceBlob": "e40c81c3d8b28e246e2fdf4387d2c64ecbb1f279",
+      "localBlob": "e40c81c3d8b28e246e2fdf4387d2c64ecbb1f279",
+      "matchesSource": true,
+      "bytes": 2383
+    },
+    {
+      "path": "components/catalog-view.tsx",
+      "sourceBlob": "52ef98a31ec27c3485d62cacf1b453e44c04ed82",
+      "localBlob": "52ef98a31ec27c3485d62cacf1b453e44c04ed82",
+      "matchesSource": true,
+      "bytes": 8345
+    },
+    {
+      "path": "components/category-icon.tsx",
+      "sourceBlob": "f30aa5206855432509f15002c0dba2ef82e69e5f",
+      "localBlob": "f30aa5206855432509f15002c0dba2ef82e69e5f",
+      "matchesSource": true,
+      "bytes": 426
+    },
+    {
+      "path": "components/hero.module.css",
+      "sourceBlob": "1bd8bb87a2a57a36934c3fbdfa6ec5bd3b5a93fc",
+      "localBlob": "1bd8bb87a2a57a36934c3fbdfa6ec5bd3b5a93fc",
+      "matchesSource": true,
+      "bytes": 4757
+    },
+    {
+      "path": "components/hero.tsx",
+      "sourceBlob": "ca66af3978e3d8e8caa87761b11da3a936ce1317",
+      "localBlob": "ca66af3978e3d8e8caa87761b11da3a936ce1317",
+      "matchesSource": true,
+      "bytes": 6792
+    },
+    {
+      "path": "components/personal-pages.tsx",
+      "sourceBlob": "cc3f5bd9cdf47c827aad93bc6f96ebddc652798e",
+      "localBlob": "cc3f5bd9cdf47c827aad93bc6f96ebddc652798e",
+      "matchesSource": true,
+      "bytes": 7509
+    },
+    {
+      "path": "components/product-card.tsx",
+      "sourceBlob": "d8645ac50c8c80ba3ec1da1f3e9ed03731d4e4f2",
+      "localBlob": "d8645ac50c8c80ba3ec1da1f3e9ed03731d4e4f2",
+      "matchesSource": true,
+      "bytes": 2133
+    },
+    {
+      "path": "components/product-detail.tsx",
+      "sourceBlob": "6f6d81943ecfa181499b83bc64dd90857c9ceea3",
+      "localBlob": "6f6d81943ecfa181499b83bc64dd90857c9ceea3",
+      "matchesSource": true,
+      "bytes": 5672
+    },
+    {
+      "path": "components/product-rail.tsx",
+      "sourceBlob": "dccd5119a371479c87c8df48557374e8a49f50da",
+      "localBlob": "dccd5119a371479c87c8df48557374e8a49f50da",
+      "matchesSource": true,
+      "bytes": 954
+    },
+    {
+      "path": "components/showcase-product-card.module.css",
+      "sourceBlob": "496f10e84aea2c77a0647c5657752bf069b1d6e8",
+      "localBlob": "496f10e84aea2c77a0647c5657752bf069b1d6e8",
+      "matchesSource": true,
+      "bytes": 3412
+    },
+    {
+      "path": "components/showcase-product-card.tsx",
+      "sourceBlob": "12aa62b465feec344ce0094ea1fa2c7134178e89",
+      "localBlob": "12aa62b465feec344ce0094ea1fa2c7134178e89",
+      "matchesSource": true,
+      "bytes": 3249
+    },
+    {
+      "path": "components/site-link.tsx",
+      "sourceBlob": "232a4027d3ff160bd73e1c0b971aaf68ceb75442",
+      "localBlob": "232a4027d3ff160bd73e1c0b971aaf68ceb75442",
+      "matchesSource": true,
+      "bytes": 259
+    },
+    {
+      "path": "components/store-shell.tsx",
+      "sourceBlob": "7687fea3204d7ab0e70b76d36357c3159701d799",
+      "localBlob": "7687fea3204d7ab0e70b76d36357c3159701d799",
+      "matchesSource": true,
+      "bytes": 12196
+    },
+    {
+      "path": "components/storefront.tsx",
+      "sourceBlob": "7f0d308505e9b35bf89b051d190df73112682ed5",
+      "localBlob": "7f0d308505e9b35bf89b051d190df73112682ed5",
+      "matchesSource": true,
+      "bytes": 5184
+    },
+    {
+      "path": "components/ui/accordion.tsx",
+      "sourceBlob": "91e3a250ce6ee0797b0258454d774800650adcc8",
+      "localBlob": "91e3a250ce6ee0797b0258454d774800650adcc8",
+      "matchesSource": true,
+      "bytes": 2114
+    },
+    {
+      "path": "components/ui/alert-dialog.tsx",
+      "sourceBlob": "dad327341382f200b84d5f833eb1b7a74b0e7469",
+      "localBlob": "dad327341382f200b84d5f833eb1b7a74b0e7469",
+      "matchesSource": true,
+      "bytes": 5635
+    },
+    {
+      "path": "components/ui/alert.tsx",
+      "sourceBlob": "f99164ed4b320790482f514342dab5e72f284aca",
+      "localBlob": "f99164ed4b320790482f514342dab5e72f284aca",
+      "matchesSource": true,
+      "bytes": 1680
+    },
+    {
+      "path": "components/ui/aspect-ratio.tsx",
+      "sourceBlob": "57e38fa96f9c0cb767d7b8de0d6dbc171d1b921a",
+      "localBlob": "57e38fa96f9c0cb767d7b8de0d6dbc171d1b921a",
+      "matchesSource": true,
+      "bytes": 285
+    },
+    {
+      "path": "components/ui/attachment.tsx",
+      "sourceBlob": "5bdd1ce7db5800eb55198cd0291a1e47dc67fb0d",
+      "localBlob": "5bdd1ce7db5800eb55198cd0291a1e47dc67fb0d",
+      "matchesSource": true,
+      "bytes": 6206
+    },
+    {
+      "path": "components/ui/avatar.tsx",
+      "sourceBlob": "ea658505703a577fe93341e5e1a0b478c27245f7",
+      "localBlob": "ea658505703a577fe93341e5e1a0b478c27245f7",
+      "matchesSource": true,
+      "bytes": 3025
+    },
+    {
+      "path": "components/ui/badge.tsx",
+      "sourceBlob": "6eb2a057aae0e23a74368cc4daf9657210e9a740",
+      "localBlob": "6eb2a057aae0e23a74368cc4daf9657210e9a740",
+      "matchesSource": true,
+      "bytes": 1824
+    },
+    {
+      "path": "components/ui/breadcrumb.tsx",
+      "sourceBlob": "004bb63a4c92229e612b6126d79fb7b078aa7565",
+      "localBlob": "004bb63a4c92229e612b6126d79fb7b078aa7565",
+      "matchesSource": true,
+      "bytes": 2459
+    },
+    {
+      "path": "components/ui/bubble.tsx",
+      "sourceBlob": "792146e61d80ef595d032d5d09a3d572d50f1374",
+      "localBlob": "792146e61d80ef595d032d5d09a3d572d50f1374",
+      "matchesSource": true,
+      "bytes": 4824
+    },
+    {
+      "path": "components/ui/button-group.tsx",
+      "sourceBlob": "cd550d7afca6562548afe3f595b352406f7f3951",
+      "localBlob": "cd550d7afca6562548afe3f595b352406f7f3951",
+      "matchesSource": true,
+      "bytes": 2285
+    },
+    {
+      "path": "components/ui/button.tsx",
+      "sourceBlob": "4d38506cee5430d95a59ec6a2a0cef2b79217e7a",
+      "localBlob": "4d38506cee5430d95a59ec6a2a0cef2b79217e7a",
+      "matchesSource": true,
+      "bytes": 2456
+    },
+    {
+      "path": "components/ui/calendar.tsx",
+      "sourceBlob": "5d31419b130a18c52320f5a21546a9236123b6bf",
+      "localBlob": "5d31419b130a18c52320f5a21546a9236123b6bf",
+      "matchesSource": true,
+      "bytes": 8052
+    },
+    {
+      "path": "components/ui/card.tsx",
+      "sourceBlob": "acf57dc5a534792273b8fb86227e92e001f3dc53",
+      "localBlob": "acf57dc5a534792273b8fb86227e92e001f3dc53",
+      "matchesSource": true,
+      "bytes": 2079
+    },
+    {
+      "path": "components/ui/carousel.tsx",
+      "sourceBlob": "0e05a77ea155fde6af5d9a4848b1d3953df6ea5a",
+      "localBlob": "0e05a77ea155fde6af5d9a4848b1d3953df6ea5a",
+      "matchesSource": true,
+      "bytes": 5797
+    },
+    {
+      "path": "components/ui/chart.tsx",
+      "sourceBlob": "9813c584e125847d88e9e7e7f9edff7e9ba45a97",
+      "localBlob": "9813c584e125847d88e9e7e7f9edff7e9ba45a97",
+      "matchesSource": true,
+      "bytes": 10991
+    },
+    {
+      "path": "components/ui/checkbox.tsx",
+      "sourceBlob": "f5a7e433f3795b82a00c5c06a1fc6decf116a84a",
+      "localBlob": "f5a7e433f3795b82a00c5c06a1fc6decf116a84a",
+      "matchesSource": true,
+      "bytes": 1246
+    },
+    {
+      "path": "components/ui/collapsible.tsx",
+      "sourceBlob": "2f7a4e7fc64a8874373c1584646a63f28cd63c47",
+      "localBlob": "2f7a4e7fc64a8874373c1584646a63f28cd63c47",
+      "matchesSource": true,
+      "bytes": 828
+    },
+    {
+      "path": "components/ui/combobox.tsx",
+      "sourceBlob": "2415bd801031a16bbcee8343058825feecfaea69",
+      "localBlob": "2415bd801031a16bbcee8343058825feecfaea69",
+      "matchesSource": true,
+      "bytes": 9468
+    },
+    {
+      "path": "components/ui/command.tsx",
+      "sourceBlob": "8fe3ccb406be52d28961b0c0220e87ecd19596ca",
+      "localBlob": "8fe3ccb406be52d28961b0c0220e87ecd19596ca",
+      "matchesSource": true,
+      "bytes": 5002
+    },
+    {
+      "path": "components/ui/context-menu.tsx",
+      "sourceBlob": "5aaca76552cf0468b1def03c9e2c42f1f0b60734",
+      "localBlob": "5aaca76552cf0468b1def03c9e2c42f1f0b60734",
+      "matchesSource": true,
+      "bytes": 8520
+    },
+    {
+      "path": "components/ui/dialog.tsx",
+      "sourceBlob": "84bdef4bb307087da1bfaf3cadf7be5dbda73f24",
+      "localBlob": "84bdef4bb307087da1bfaf3cadf7be5dbda73f24",
+      "matchesSource": true,
+      "bytes": 4461
+    },
+    {
+      "path": "components/ui/direction.tsx",
+      "sourceBlob": "22e165774bd595fbf41d0c45efef1cf996897983",
+      "localBlob": "22e165774bd595fbf41d0c45efef1cf996897983",
+      "matchesSource": true,
+      "bytes": 528
+    },
+    {
+      "path": "components/ui/drawer.tsx",
+      "sourceBlob": "ad08671442203fe345093f364696bdf43528e0b7",
+      "localBlob": "ad08671442203fe345093f364696bdf43528e0b7",
+      "matchesSource": true,
+      "bytes": 4390
+    },
+    {
+      "path": "components/ui/dropdown-menu.tsx",
+      "sourceBlob": "ae1fcf62f1e3b648554789b8fe02943d92bf00fc",
+      "localBlob": "ae1fcf62f1e3b648554789b8fe02943d92bf00fc",
+      "matchesSource": true,
+      "bytes": 8675
+    },
+    {
+      "path": "components/ui/empty.tsx",
+      "sourceBlob": "ce4b0095f6d19d2eae2e465060e9060b0c210856",
+      "localBlob": "ce4b0095f6d19d2eae2e465060e9060b0c210856",
+      "matchesSource": true,
+      "bytes": 2500
+    },
+    {
+      "path": "components/ui/field.tsx",
+      "sourceBlob": "ec849dae4d3dd06a973ba22e4b2248a25cf18148",
+      "localBlob": "ec849dae4d3dd06a973ba22e4b2248a25cf18148",
+      "matchesSource": true,
+      "bytes": 6407
+    },
+    {
+      "path": "components/ui/form.tsx",
+      "sourceBlob": "f371fea1bc35380d28678c6cf53df8f65deb2776",
+      "localBlob": "f371fea1bc35380d28678c6cf53df8f65deb2776",
+      "matchesSource": true,
+      "bytes": 3924
+    },
+    {
+      "path": "components/ui/hover-card.tsx",
+      "sourceBlob": "91e869c0d3091cbeddf5cb0266e82ddf56f829a6",
+      "localBlob": "91e869c0d3091cbeddf5cb0266e82ddf56f829a6",
+      "matchesSource": true,
+      "bytes": 1570
+    },
+    {
+      "path": "components/ui/input-group.tsx",
+      "sourceBlob": "a7652d936fffd9c5bca4b88e6b9715bf559e667d",
+      "localBlob": "a7652d936fffd9c5bca4b88e6b9715bf559e667d",
+      "matchesSource": true,
+      "bytes": 5235
+    },
+    {
+      "path": "components/ui/input-otp.tsx",
+      "sourceBlob": "6a556afacd71996bf0e385ff2b04869fb2ee4523",
+      "localBlob": "6a556afacd71996bf0e385ff2b04869fb2ee4523",
+      "matchesSource": true,
+      "bytes": 2331
+    },
+    {
+      "path": "components/ui/input.tsx",
+      "sourceBlob": "f1124aea14eee062fc2f4c55dad5f0d9de0ccc1a",
+      "localBlob": "f1124aea14eee062fc2f4c55dad5f0d9de0ccc1a",
+      "matchesSource": true,
+      "bytes": 983
+    },
+    {
+      "path": "components/ui/item.tsx",
+      "sourceBlob": "d5dbb1a9c2e70456e45a39887a4b7cc56d484a45",
+      "localBlob": "d5dbb1a9c2e70456e45a39887a4b7cc56d484a45",
+      "matchesSource": true,
+      "bytes": 4679
+    },
+    {
+      "path": "components/ui/kbd.tsx",
+      "sourceBlob": "2459224fbc531f6306b73aaeb22e9022d9985332",
+      "localBlob": "2459224fbc531f6306b73aaeb22e9022d9985332",
+      "matchesSource": true,
+      "bytes": 890
+    },
+    {
+      "path": "components/ui/label.tsx",
+      "sourceBlob": "1ac80f701ebfe9dc02d632c08cafade732e46625",
+      "localBlob": "1ac80f701ebfe9dc02d632c08cafade732e46625",
+      "matchesSource": true,
+      "bytes": 630
+    },
+    {
+      "path": "components/ui/marker.tsx",
+      "sourceBlob": "cfa76c6c014ab342befcbf7571eb932917406522",
+      "localBlob": "cfa76c6c014ab342befcbf7571eb932917406522",
+      "matchesSource": true,
+      "bytes": 1933
+    },
+    {
+      "path": "components/ui/menubar.tsx",
+      "sourceBlob": "4af16a428377f81cbb3f66adfe518308e0b690d8",
+      "localBlob": "4af16a428377f81cbb3f66adfe518308e0b690d8",
+      "matchesSource": true,
+      "bytes": 8665
+    },
+    {
+      "path": "components/ui/message-scroller.tsx",
+      "sourceBlob": "0b05011259c026a357380c3834bce0ead8565d22",
+      "localBlob": "0b05011259c026a357380c3834bce0ead8565d22",
+      "matchesSource": true,
+      "bytes": 4122
+    },
+    {
+      "path": "components/ui/message.tsx",
+      "sourceBlob": "53437e8db2b0fad1da06a7499e54ddaf116295c2",
+      "localBlob": "53437e8db2b0fad1da06a7499e54ddaf116295c2",
+      "matchesSource": true,
+      "bytes": 2324
+    },
+    {
+      "path": "components/ui/native-select.tsx",
+      "sourceBlob": "3058398399ad6c029ad527052475b360b114715b",
+      "localBlob": "3058398399ad6c029ad527052475b360b114715b",
+      "matchesSource": true,
+      "bytes": 2057
+    },
+    {
+      "path": "components/ui/navigation-menu.tsx",
+      "sourceBlob": "0a673f513c97fbeaae0872403b7582ab2ba7e3c3",
+      "localBlob": "0a673f513c97fbeaae0872403b7582ab2ba7e3c3",
+      "matchesSource": true,
+      "bytes": 6826
+    },
+    {
+      "path": "components/ui/pagination.tsx",
+      "sourceBlob": "1dcfb0cc050c5f2bdd930522d627313d03d3690c",
+      "localBlob": "1dcfb0cc050c5f2bdd930522d627313d03d3690c",
+      "matchesSource": true,
+      "bytes": 2844
+    },
+    {
+      "path": "components/ui/popover.tsx",
+      "sourceBlob": "30058c4ec284ca9cad1ed1162d084ce3cd94e2b0",
+      "localBlob": "30058c4ec284ca9cad1ed1162d084ce3cd94e2b0",
+      "matchesSource": true,
+      "bytes": 2446
+    },
+    {
+      "path": "components/ui/progress.tsx",
+      "sourceBlob": "b3ae25089ad549b7f13125e482f99b43dd895bd2",
+      "localBlob": "b3ae25089ad549b7f13125e482f99b43dd895bd2",
+      "matchesSource": true,
+      "bytes": 787
+    },
+    {
+      "path": "components/ui/radio-group.tsx",
+      "sourceBlob": "fe514536ed771f7adef0a6b9e4d1aeadc2c95481",
+      "localBlob": "fe514536ed771f7adef0a6b9e4d1aeadc2c95481",
+      "matchesSource": true,
+      "bytes": 1505
+    },
+    {
+      "path": "components/ui/resizable.tsx",
+      "sourceBlob": "a76832a10b4c5c2a137e25c16478567ba86daf0d",
+      "localBlob": "a76832a10b4c5c2a137e25c16478567ba86daf0d",
+      "matchesSource": true,
+      "bytes": 1868
+    },
+    {
+      "path": "components/ui/scroll-area.tsx",
+      "sourceBlob": "73c4eb1cdcd4a699b150a9ddc3e87bfb90b63d09",
+      "localBlob": "73c4eb1cdcd4a699b150a9ddc3e87bfb90b63d09",
+      "matchesSource": true,
+      "bytes": 1697
+    },
+    {
+      "path": "components/ui/select.tsx",
+      "sourceBlob": "c0dc7120b4f78008ae5efc6d1c8b7ec8205c35d5",
+      "localBlob": "c0dc7120b4f78008ae5efc6d1c8b7ec8205c35d5",
+      "matchesSource": true,
+      "bytes": 6543
+    },
+    {
+      "path": "components/ui/separator.tsx",
+      "sourceBlob": "cd873e3631b571060f166897b7b62e033e87c18f",
+      "localBlob": "cd873e3631b571060f166897b7b62e033e87c18f",
+      "matchesSource": true,
+      "bytes": 722
+    },
+    {
+      "path": "components/ui/sheet.tsx",
+      "sourceBlob": "cb53bb28b6850745c9519e8e7462e05f85a50c93",
+      "localBlob": "cb53bb28b6850745c9519e8e7462e05f85a50c93",
+      "matchesSource": true,
+      "bytes": 4331
+    },
+    {
+      "path": "components/ui/sidebar.tsx",
+      "sourceBlob": "f5f6c5aefc88ffa2e999e284b299472215c05161",
+      "localBlob": "f5f6c5aefc88ffa2e999e284b299472215c05161",
+      "matchesSource": true,
+      "bytes": 22249
+    },
+    {
+      "path": "components/ui/skeleton.tsx",
+      "sourceBlob": "3ec6be770b846170b8e7f8916e5f165e2d1730df",
+      "localBlob": "3ec6be770b846170b8e7f8916e5f165e2d1730df",
+      "matchesSource": true,
+      "bytes": 289
+    },
+    {
+      "path": "components/ui/slider.tsx",
+      "sourceBlob": "46ebc4b4df1e9baf1f3997a4b6c08ef80c84a9c9",
+      "localBlob": "46ebc4b4df1e9baf1f3997a4b6c08ef80c84a9c9",
+      "matchesSource": true,
+      "bytes": 2054
+    },
+    {
+      "path": "components/ui/sonner.tsx",
+      "sourceBlob": "9b20afe2e10fd9b94d1abc1ae732054b2fb9821c",
+      "localBlob": "9b20afe2e10fd9b94d1abc1ae732054b2fb9821c",
+      "matchesSource": true,
+      "bytes": 1074
+    },
+    {
+      "path": "components/ui/spinner.tsx",
+      "sourceBlob": "a70e713c5b4ecb2af186efe3fadea51805f26ba5",
+      "localBlob": "a70e713c5b4ecb2af186efe3fadea51805f26ba5",
+      "matchesSource": true,
+      "bytes": 347
+    },
+    {
+      "path": "components/ui/switch.tsx",
+      "sourceBlob": "8baa844fdb17d668b3ce07cfbd6a7ef52e2eb5eb",
+      "localBlob": "8baa844fdb17d668b3ce07cfbd6a7ef52e2eb5eb",
+      "matchesSource": true,
+      "bytes": 1443
+    },
+    {
+      "path": "components/ui/table.tsx",
+      "sourceBlob": "7add5f1a22db954ac6cb3446f1bf8c8a9fc5c335",
+      "localBlob": "7add5f1a22db954ac6cb3446f1bf8c8a9fc5c335",
+      "matchesSource": true,
+      "bytes": 2594
+    },
+    {
+      "path": "components/ui/tabs.tsx",
+      "sourceBlob": "b463afd170637df477e36184aa27d2ad1bd3c3e0",
+      "localBlob": "b463afd170637df477e36184aa27d2ad1bd3c3e0",
+      "matchesSource": true,
+      "bytes": 3873
+    },
+    {
+      "path": "components/ui/textarea.tsx",
+      "sourceBlob": "e67d8fefe50c41dfa2deed9a5096d5be7691581a",
+      "localBlob": "e67d8fefe50c41dfa2deed9a5096d5be7691581a",
+      "matchesSource": true,
+      "bytes": 777
+    },
+    {
+      "path": "components/ui/toggle-group.tsx",
+      "sourceBlob": "9894607b212ff7182bf2024f4262da03df0a8973",
+      "localBlob": "9894607b212ff7182bf2024f4262da03df0a8973",
+      "matchesSource": true,
+      "bytes": 2391
+    },
+    {
+      "path": "components/ui/toggle.tsx",
+      "sourceBlob": "5250c98ff7f11f531af38c227230a76b7d25bf19",
+      "localBlob": "5250c98ff7f11f531af38c227230a76b7d25bf19",
+      "matchesSource": true,
+      "bytes": 1612
+    },
+    {
+      "path": "components/ui/tooltip.tsx",
+      "sourceBlob": "ec65c1e4255f050d9555c6cdade90a5f8a6c0c29",
+      "localBlob": "ec65c1e4255f050d9555c6cdade90a5f8a6c0c29",
+      "matchesSource": true,
+      "bytes": 1887
+    },
+    {
+      "path": "data/brands.json",
+      "sourceBlob": "529d000472a3a99f459dde5a6c805f7df55a0f07",
+      "localBlob": "529d000472a3a99f459dde5a6c805f7df55a0f07",
+      "matchesSource": true,
+      "bytes": 17677
+    },
+    {
+      "path": "data/navigation.json",
+      "sourceBlob": "d7ecdd879b7cbc10fdcf164a352400ebbea1c326",
+      "localBlob": "d7ecdd879b7cbc10fdcf164a352400ebbea1c326",
+      "matchesSource": true,
+      "bytes": 18281
+    },
+    {
+      "path": "data/product-images.json",
+      "sourceBlob": "112d2b5ce26820834c10d9554ca3060f5fdaa6e8",
+      "localBlob": "112d2b5ce26820834c10d9554ca3060f5fdaa6e8",
+      "matchesSource": true,
+      "bytes": 180
+    },
+    {
+      "path": "data/products.json",
+      "sourceBlob": "5ffca9b080b7ab62623c4d77d195e503598f6a3f",
+      "localBlob": "5ffca9b080b7ab62623c4d77d195e503598f6a3f",
+      "matchesSource": true,
+      "bytes": 1793098
+    },
+    {
+      "path": "data/summary.json",
+      "sourceBlob": "97bc377c797d1924ded369da7af3dc467b4bbe45",
+      "localBlob": "97bc377c797d1924ded369da7af3dc467b4bbe45",
+      "matchesSource": true,
+      "bytes": 419
+    },
+    {
+      "path": "data/taxonomy.json",
+      "sourceBlob": "9d0ade8610cc6bbbd8a1d28807c5aea7c45fd507",
+      "localBlob": "9d0ade8610cc6bbbd8a1d28807c5aea7c45fd507",
+      "matchesSource": true,
+      "bytes": 3733
+    },
+    {
+      "path": "db/index.ts",
+      "sourceBlob": "19b379900d94124b674f07ffe2dbba8f70bd8d6d",
+      "localBlob": "19b379900d94124b674f07ffe2dbba8f70bd8d6d",
+      "matchesSource": true,
+      "bytes": 436
+    },
+    {
+      "path": "db/schema.ts",
+      "sourceBlob": "d2dd83cd250ecaa6ac022559fc9640271f2b2dd5",
+      "localBlob": "d2dd83cd250ecaa6ac022559fc9640271f2b2dd5",
+      "matchesSource": true,
+      "bytes": 173
+    },
+    {
+      "path": "docs/IMPLEMENTATION.md",
+      "sourceBlob": "db4d73206908a1888caf0535e42b0d41dc38a08e",
+      "localBlob": "db4d73206908a1888caf0535e42b0d41dc38a08e",
+      "matchesSource": true,
+      "bytes": 11032
+    },
+    {
+      "path": "docs/brand-focus-assets.json",
+      "sourceBlob": "f73252d4f8152cc0c612c13ca4278d5a2c948244",
+      "localBlob": "f73252d4f8152cc0c612c13ca4278d5a2c948244",
+      "matchesSource": true,
+      "bytes": 7266
+    },
+    {
+      "path": "docs/hero-campaigns.md",
+      "sourceBlob": "0c56e0b436897d9840bf583045115740fa850f8d",
+      "localBlob": "0c56e0b436897d9840bf583045115740fa850f8d",
+      "matchesSource": true,
+      "bytes": 1952
+    },
+    {
+      "path": "docs/import-audit.json",
+      "sourceBlob": "a2a4ee54b28b98686136ef85228ad4e994c24c4b",
+      "localBlob": "a2a4ee54b28b98686136ef85228ad4e994c24c4b",
+      "matchesSource": true,
+      "bytes": 28179
+    },
+    {
+      "path": "docs/product-image-sources.json",
+      "sourceBlob": "e974c000ca53fad9e5706314f5b646d2f873e730",
+      "localBlob": "e974c000ca53fad9e5706314f5b646d2f873e730",
+      "matchesSource": true,
+      "bytes": 3379
+    },
+    {
+      "path": "drizzle.config.ts",
+      "sourceBlob": "c2b2f34376984744343453838ce66658ad9d9b6a",
+      "localBlob": "c2b2f34376984744343453838ce66658ad9d9b6a",
+      "matchesSource": true,
+      "bytes": 155
+    },
+    {
+      "path": "drizzle/meta/_journal.json",
+      "sourceBlob": "4377507400414768c5915808bf080a1403cf6cb3",
+      "localBlob": "4377507400414768c5915808bf080a1403cf6cb3",
+      "matchesSource": true,
+      "bytes": 66
+    },
+    {
+      "path": "eslint.config.mjs",
+      "sourceBlob": "1c56c0144ce558825265a2d79d06b1ce6150d24f",
+      "localBlob": "1c56c0144ce558825265a2d79d06b1ce6150d24f",
+      "matchesSource": true,
+      "bytes": 874
+    },
+    {
+      "path": "examples/d1/app/api/notes/route.ts",
+      "sourceBlob": "07f8318c3c290d68163e95aa3e170ad92a235f27",
+      "localBlob": "07f8318c3c290d68163e95aa3e170ad92a235f27",
+      "matchesSource": true,
+      "bytes": 1758
+    },
+    {
+      "path": "examples/d1/db/schema.ts",
+      "sourceBlob": "7bb0c157110799b9b53c767517e0d192b7201f2e",
+      "localBlob": "7bb0c157110799b9b53c767517e0d192b7201f2e",
+      "matchesSource": true,
+      "bytes": 379
+    },
+    {
+      "path": "hooks/use-mobile.ts",
+      "sourceBlob": "2b0fe1dfef3b17850bbac040665f514a8ffd0f15",
+      "localBlob": "2b0fe1dfef3b17850bbac040665f514a8ffd0f15",
+      "matchesSource": true,
+      "bytes": 584
+    },
+    {
+      "path": "lib/autumn-editorial.ts",
+      "sourceBlob": "8d0d91732202776028b4fcfc07be2e8bd9d7d03a",
+      "localBlob": "8d0d91732202776028b4fcfc07be2e8bd9d7d03a",
+      "matchesSource": true,
+      "bytes": 6023
+    },
+    {
+      "path": "lib/catalog-page.ts",
+      "sourceBlob": "4b6947036459b289d1a3e0446987cb89616b9f80",
+      "localBlob": "4b6947036459b289d1a3e0446987cb89616b9f80",
+      "matchesSource": true,
+      "bytes": 376
+    },
+    {
+      "path": "lib/catalog-types.ts",
+      "sourceBlob": "5ed5b1734269c84b21a6d9a57d1f322d59fcc7f1",
+      "localBlob": "5ed5b1734269c84b21a6d9a57d1f322d59fcc7f1",
+      "matchesSource": true,
+      "bytes": 662
+    },
+    {
+      "path": "lib/catalog.ts",
+      "sourceBlob": "26ca6e3055ae62dde2193efd60a8adcc41a69725",
+      "localBlob": "26ca6e3055ae62dde2193efd60a8adcc41a69725",
+      "matchesSource": true,
+      "bytes": 2957
+    },
+    {
+      "path": "lib/collection-meta.ts",
+      "sourceBlob": "95638816163fd31289cb93c4829be90e3dd71b26",
+      "localBlob": "95638816163fd31289cb93c4829be90e3dd71b26",
+      "matchesSource": true,
+      "bytes": 1540
+    },
+    {
+      "path": "lib/collection-selection.ts",
+      "sourceBlob": "db41e4e756240224b4205a8a775de0796384bf64",
+      "localBlob": "db41e4e756240224b4205a8a775de0796384bf64",
+      "matchesSource": true,
+      "bytes": 5919
+    },
+    {
+      "path": "lib/collections.ts",
+      "sourceBlob": "4f8a8a3eefc24883e5d8b7017c4c0ae3eb1dcd54",
+      "localBlob": "4f8a8a3eefc24883e5d8b7017c4c0ae3eb1dcd54",
+      "matchesSource": true,
+      "bytes": 500
+    },
+    {
+      "path": "lib/pricing.ts",
+      "sourceBlob": "efb952643e6996399067a56921ee0e0f1534309a",
+      "localBlob": "efb952643e6996399067a56921ee0e0f1534309a",
+      "matchesSource": true,
+      "bytes": 779
+    },
+    {
+      "path": "lib/showcase-product.ts",
+      "sourceBlob": "0a798bc2b32ca1a8db6a59ea87219b386e4b27d8",
+      "localBlob": "0a798bc2b32ca1a8db6a59ea87219b386e4b27d8",
+      "matchesSource": true,
+      "bytes": 4417
+    },
+    {
+      "path": "lib/utils.ts",
+      "sourceBlob": "b500fb167fdaa78785feb0ff03b51f8a182a44ae",
+      "localBlob": "b500fb167fdaa78785feb0ff03b51f8a182a44ae",
+      "matchesSource": true,
+      "bytes": 183
+    },
+    {
+      "path": "next.config.ts",
+      "sourceBlob": "e9ffa3083ad279ecf95fd8eae59cb253e9a539c4",
+      "localBlob": "e9ffa3083ad279ecf95fd8eae59cb253e9a539c4",
+      "matchesSource": true,
+      "bytes": 140
+    },
+    {
+      "path": "package-lock.json",
+      "sourceBlob": "9fa69a4d2435fad36e8361b76850ee37359994ca",
+      "localBlob": "9fa69a4d2435fad36e8361b76850ee37359994ca",
+      "matchesSource": true,
+      "bytes": 512041
+    },
+    {
+      "path": "package.json",
+      "sourceBlob": "36ae83be3a29d4ba5706e9c16a9b9e2a243589fc",
+      "localBlob": "36ae83be3a29d4ba5706e9c16a9b9e2a243589fc",
+      "matchesSource": true,
+      "bytes": 2040
+    },
+    {
+      "path": "postcss.config.mjs",
+      "sourceBlob": "61e36849cf7cfa9f1f71b4a3964a4953e3e243d3",
+      "localBlob": "61e36849cf7cfa9f1f71b4a3964a4953e3e243d3",
+      "matchesSource": true,
+      "bytes": 101
+    },
+    {
+      "path": "public/favicon.svg",
+      "sourceBlob": "351779f99a31ea204c5dea39de30ae96b5afbdee",
+      "localBlob": "351779f99a31ea204c5dea39de30ae96b5afbdee",
+      "matchesSource": true,
+      "bytes": 227
+    },
+    {
+      "path": "public/images/anua-cleansing-oil-200ml.jpg",
+      "sourceBlob": "3df077dfac968d427d54a098a6587e3e2a4d8511",
+      "localBlob": "3df077dfac968d427d54a098a6587e3e2a4d8511",
+      "matchesSource": true,
+      "bytes": 40454
+    },
+    {
+      "path": "public/images/autumn-editorial/barrier.png",
+      "sourceBlob": "58a4d09196db8380ce89bea029f79e349695e654",
+      "localBlob": "58a4d09196db8380ce89bea029f79e349695e654",
+      "matchesSource": true,
+      "bytes": 2266089
+    },
+    {
+      "path": "public/images/autumn-editorial/cleansing.png",
+      "sourceBlob": "cd568c16b441a215bb81e9764aebe569f3732ef9",
+      "localBlob": "cd568c16b441a215bb81e9764aebe569f3732ef9",
+      "matchesSource": true,
+      "bytes": 2225679
+    },
+    {
+      "path": "public/images/autumn-editorial/cover.png",
+      "sourceBlob": "e342467102b167d28c761d80a12b8ccc566613eb",
+      "localBlob": "e342467102b167d28c761d80a12b8ccc566613eb",
+      "matchesSource": true,
+      "bytes": 2565034
+    },
+    {
+      "path": "public/images/autumn-editorial/hydration.png",
+      "sourceBlob": "f506d21115f3793daa9b287bd613ecff13c2494f",
+      "localBlob": "f506d21115f3793daa9b287bd613ecff13c2494f",
+      "matchesSource": true,
+      "bytes": 2279502
+    },
+    {
+      "path": "public/images/autumn-editorial/renewal.png",
+      "sourceBlob": "b2234f3fd9589e97959aef417939100859c86622",
+      "localBlob": "b2234f3fd9589e97959aef417939100859c86622",
+      "matchesSource": true,
+      "bytes": 2292359
+    },
+    {
+      "path": "public/images/autumn-editorial/ritual.png",
+      "sourceBlob": "563855ec684ace5a4174200a40d33c1af8aaa86b",
+      "localBlob": "563855ec684ace5a4174200a40d33c1af8aaa86b",
+      "matchesSource": true,
+      "bytes": 2367373
+    },
+    {
+      "path": "public/images/autumn-editorial/spf.png",
+      "sourceBlob": "231ede50ae655fcede8f8ce0be008ff22c1ef3c1",
+      "localBlob": "231ede50ae655fcede8f8ce0be008ff22c1ef3c1",
+      "matchesSource": true,
+      "bytes": 2311806
+    },
+    {
+      "path": "public/images/brand-focus/anua.png",
+      "sourceBlob": "bcb32cf559e238015c834ae1b30d9237de6645d5",
+      "localBlob": "bcb32cf559e238015c834ae1b30d9237de6645d5",
+      "matchesSource": true,
+      "bytes": 2311710
+    },
+    {
+      "path": "public/images/brand-focus/celimax.png",
+      "sourceBlob": "130f2e89100424274ef4a6c49928c910772a116d",
+      "localBlob": "130f2e89100424274ef4a6c49928c910772a116d",
+      "matchesSource": true,
+      "bytes": 2408843
+    },
+    {
+      "path": "public/images/brand-focus/charlotte-tilbury.png",
+      "sourceBlob": "66851514c1e00e52dcfe9397133aa6883b9e859f",
+      "localBlob": "66851514c1e00e52dcfe9397133aa6883b9e859f",
+      "matchesSource": true,
+      "bytes": 2405313
+    },
+    {
+      "path": "public/images/brand-focus/dior.jpg",
+      "sourceBlob": "9086df10d1fa036c4370ba6721fa8e1d4ebe42e7",
+      "localBlob": "9086df10d1fa036c4370ba6721fa8e1d4ebe42e7",
+      "matchesSource": true,
+      "bytes": 326056
+    },
+    {
+      "path": "public/images/hero-autumn-skincare.png",
+      "sourceBlob": "64d93b6b49feda007449c84bce002737ce9b3f7d",
+      "localBlob": "64d93b6b49feda007449c84bce002737ce9b3f7d",
+      "matchesSource": true,
+      "bytes": 2124431
+    },
+    {
+      "path": "public/images/hero-k-beauty.png",
+      "sourceBlob": "8d1f320955c6fa58e210824e7fb9ad7879905b2b",
+      "localBlob": "8d1f320955c6fa58e210824e7fb9ad7879905b2b",
+      "matchesSource": true,
+      "bytes": 1895593
+    },
+    {
+      "path": "public/images/hero-luxury-makeup.png",
+      "sourceBlob": "f41da0ac54c335aff83f1c9e840d71c989ea10d5",
+      "localBlob": "f41da0ac54c335aff83f1c9e840d71c989ea10d5",
+      "matchesSource": true,
+      "bytes": 2039163
+    },
+    {
+      "path": "public/images/rare-beauty-lip-oil-hope-3ml.jpg",
+      "sourceBlob": "deffa0d9ce5cf392916f28b531e49a75c5a6d200",
+      "localBlob": "deffa0d9ce5cf392916f28b531e49a75c5a6d200",
+      "matchesSource": true,
+      "bytes": 48210
+    },
+    {
+      "path": "public/images/tom-ford-tobacco-vanille-50ml.png",
+      "sourceBlob": "a3c24bd7d8e83058e4d4c154d05167d757540c08",
+      "localBlob": "a3c24bd7d8e83058e4d4c154d05167d757540c08",
+      "matchesSource": true,
+      "bytes": 1455297
+    },
+    {
+      "path": "scripts/build-verified.sh",
+      "sourceBlob": "6c69cf3ad6855c25c312b67f02fd1afffb97b63d",
+      "localBlob": "6c69cf3ad6855c25c312b67f02fd1afffb97b63d",
+      "matchesSource": true,
+      "bytes": 687
+    },
+    {
+      "path": "scripts/execution-profile.mjs",
+      "sourceBlob": "f27aec211320d9a5fd0dbbb07f5c508222b2b8d4",
+      "localBlob": "f27aec211320d9a5fd0dbbb07f5c508222b2b8d4",
+      "matchesSource": true,
+      "bytes": 640
+    },
+    {
+      "path": "scripts/import-catalog.py",
+      "sourceBlob": "6573d9a27934f48ae1c7ccc7a211ceebce249726",
+      "localBlob": "6573d9a27934f48ae1c7ccc7a211ceebce249726",
+      "matchesSource": true,
+      "bytes": 7520
+    },
+    {
+      "path": "scripts/install-ci.mjs",
+      "sourceBlob": "624f8d98fb3aa14b80e87b11ebd25c158860e079",
+      "localBlob": "624f8d98fb3aa14b80e87b11ebd25c158860e079",
+      "matchesSource": true,
+      "bytes": 1667
+    },
+    {
+      "path": "scripts/install-ci.sh",
+      "sourceBlob": "f29b0f1dddfbc1bd5d3097eb65d62d712eb3ca2f",
+      "localBlob": "f29b0f1dddfbc1bd5d3097eb65d62d712eb3ca2f",
+      "matchesSource": true,
+      "bytes": 7682
+    },
+    {
+      "path": "scripts/run-framework.mjs",
+      "sourceBlob": "166b0c2487819135ddfb30c9267e790ebb8c498f",
+      "localBlob": "166b0c2487819135ddfb30c9267e790ebb8c498f",
+      "matchesSource": true,
+      "bytes": 1016
+    },
+    {
+      "path": "scripts/sites-env.mjs",
+      "sourceBlob": "1eeedb5e13e4b9af70d89446d981dfd4cd92a3fd",
+      "localBlob": "1eeedb5e13e4b9af70d89446d981dfd4cd92a3fd",
+      "matchesSource": true,
+      "bytes": 928
+    },
+    {
+      "path": "scripts/sites-env.sh",
+      "sourceBlob": "728416424d5d2f4c9a746d53621668225645356c",
+      "localBlob": "728416424d5d2f4c9a746d53621668225645356c",
+      "matchesSource": true,
+      "bytes": 1582
+    },
+    {
+      "path": "tsconfig.json",
+      "sourceBlob": "be170f57ec372cc118f2d343092a53b85fc189a4",
+      "localBlob": "be170f57ec372cc118f2d343092a53b85fc189a4",
+      "matchesSource": true,
+      "bytes": 847
+    },
+    {
+      "path": "tsconfig.tsbuildinfo",
+      "sourceBlob": "b3fe5f55c8cc9ae58bf00c2b71ed9d4cba52cc6a",
+      "localBlob": "b3fe5f55c8cc9ae58bf00c2b71ed9d4cba52cc6a",
+      "matchesSource": true,
+      "bytes": 402013
+    },
+    {
+      "path": "vendor/shadcn-tailwind-4.13.0.LICENSE.md",
+      "sourceBlob": "fad4d887a681dd49233e5ed01ee2c7a1513089a0",
+      "localBlob": "fad4d887a681dd49233e5ed01ee2c7a1513089a0",
+      "matchesSource": true,
+      "bytes": 1084
+    },
+    {
+      "path": "vendor/shadcn-tailwind-4.13.0.css",
+      "sourceBlob": "7807c58eb94de8b764b9b6b7b5d8cde6d012b17f",
+      "localBlob": "7807c58eb94de8b764b9b6b7b5d8cde6d012b17f",
+      "matchesSource": true,
+      "bytes": 16670
+    },
+    {
+      "path": "vite.config.ts",
+      "sourceBlob": "e98afea633a7aa88ee0bab21773219a66563f9ac",
+      "localBlob": "e98afea633a7aa88ee0bab21773219a66563f9ac",
+      "matchesSource": true,
+      "bytes": 2308
+    }
+  ],
+  "comparisonNote": "167 of the 168 original tracked files are unchanged; README.md has intentional local migration instructions. New handoff documents and launch script are additions. Git blob comparison accounts for checkout line-ending normalization.",
+  "originalApplicationFilesAllMatch": true,
+  "changedOriginalFiles": [
+    "README.md"
+  ],
+  "finalizedAt": "2026-09-13T16:39:57.941Z"
+}

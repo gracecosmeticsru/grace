@@ -1,0 +1,317 @@
+{
+  "checkedAt": "2026-09-13T16:38:12.682Z",
+  "baseUrl": "http://127.0.0.1:5173",
+  "mode": "HTTP integration checks; no browser interaction or visual QA",
+  "build": "passed",
+  "typescript": "passed",
+  "checks": [
+    {
+      "name": "page /",
+      "passed": true,
+      "status": 200,
+      "bytes": 294927
+    },
+    {
+      "name": "page /catalog",
+      "passed": true,
+      "status": 200,
+      "bytes": 456424
+    },
+    {
+      "name": "page /catalog?page=2",
+      "passed": true,
+      "status": 200,
+      "bytes": 457276
+    },
+    {
+      "name": "page /brands",
+      "passed": true,
+      "status": 200,
+      "bytes": 112399
+    },
+    {
+      "name": "page /search?q=Anua",
+      "passed": true,
+      "status": 200,
+      "bytes": 139873
+    },
+    {
+      "name": "page /bag",
+      "passed": true,
+      "status": 200,
+      "bytes": 65797
+    },
+    {
+      "name": "page /favorites",
+      "passed": true,
+      "status": 200,
+      "bytes": 65768
+    },
+    {
+      "name": "page /blog/autumn-skincare",
+      "passed": true,
+      "status": 200,
+      "bytes": 207766
+    },
+    {
+      "name": "page /catalog/makeup",
+      "passed": true,
+      "status": 200,
+      "bytes": 259942
+    },
+    {
+      "name": "page /catalog/skincare",
+      "passed": true,
+      "status": 200,
+      "bytes": 281404
+    },
+    {
+      "name": "page /catalog/fragrance",
+      "passed": true,
+      "status": 200,
+      "bytes": 225528
+    },
+    {
+      "name": "page /catalog/hair",
+      "passed": true,
+      "status": 200,
+      "bytes": 180883
+    },
+    {
+      "name": "page /catalog/body",
+      "passed": true,
+      "status": 200,
+      "bytes": 207728
+    },
+    {
+      "name": "page /catalog/accessories",
+      "passed": true,
+      "status": 200,
+      "bytes": 177904
+    },
+    {
+      "name": "page /collections/k-beauty",
+      "passed": true,
+      "status": 200,
+      "bytes": 110418
+    },
+    {
+      "name": "page /collections/luxury",
+      "passed": true,
+      "status": 200,
+      "bytes": 109680
+    },
+    {
+      "name": "page /collections/gifts",
+      "passed": true,
+      "status": 200,
+      "bytes": 108920
+    },
+    {
+      "name": "page /collections/miniatures",
+      "passed": true,
+      "status": 200,
+      "bytes": 108784
+    },
+    {
+      "name": "page /collections/reels",
+      "passed": true,
+      "status": 200,
+      "bytes": 108651
+    },
+    {
+      "name": "page /collections/sale",
+      "passed": true,
+      "status": 200,
+      "bytes": 111458
+    },
+    {
+      "name": "page /brands/celimax",
+      "passed": true,
+      "status": 200,
+      "bytes": 460034
+    },
+    {
+      "name": "page /brands/dior",
+      "passed": true,
+      "status": 200,
+      "bytes": 465625
+    },
+    {
+      "name": "page /brands/anua",
+      "passed": true,
+      "status": 200,
+      "bytes": 460052
+    },
+    {
+      "name": "page /brands/charlotte-tilbury",
+      "passed": true,
+      "status": 200,
+      "bytes": 462863
+    },
+    {
+      "name": "page /product/parent-0001",
+      "passed": true,
+      "status": 200,
+      "bytes": 96903
+    },
+    {
+      "name": "page /product/gc002705",
+      "passed": true,
+      "status": 200,
+      "bytes": 93101
+    },
+    {
+      "name": "page /product/perf-0139",
+      "passed": true,
+      "status": 200,
+      "bytes": 102346
+    },
+    {
+      "name": "not found /product/does-not-exist",
+      "passed": true,
+      "status": 404
+    },
+    {
+      "name": "not found /brands/does-not-exist",
+      "passed": true,
+      "status": 404
+    },
+    {
+      "name": "not found /catalog/does-not-exist",
+      "passed": true,
+      "status": 404
+    },
+    {
+      "name": "not found /collections/does-not-exist",
+      "passed": true,
+      "status": 404
+    },
+    {
+      "name": "all catalog pages",
+      "passed": true,
+      "pages": 189,
+      "uniqueProducts": 4526
+    },
+    {
+      "name": "search Anua",
+      "passed": true,
+      "total": 28
+    },
+    {
+      "name": "product variants",
+      "passed": true,
+      "product": "parent-0001",
+      "variants": 5
+    },
+    {
+      "name": "asset public/favicon.svg",
+      "passed": true,
+      "status": 200,
+      "bytes": 227
+    },
+    {
+      "name": "asset public/images/anua-cleansing-oil-200ml.jpg",
+      "passed": true,
+      "status": 200,
+      "bytes": 40454
+    },
+    {
+      "name": "asset public/images/autumn-editorial/barrier.png",
+      "passed": true,
+      "status": 200,
+      "bytes": 2266089
+    },
+    {
+      "name": "asset public/images/autumn-editorial/cleansing.png",
+      "passed": true,
+      "status": 200,
+      "bytes": 2225679
+    },
+    {
+      "name": "asset public/images/autumn-editorial/cover.png",
+      "passed": true,
+      "status": 200,
+      "bytes": 2565034
+    },
+    {
+      "name": "asset public/images/autumn-editorial/hydration.png",
+      "passed": true,
+      "status": 200,
+      "bytes": 2279502
+    },
+    {
+      "name": "asset public/images/autumn-editorial/renewal.png",
+      "passed": true,
+      "status": 200,
+      "bytes": 2292359
+    },
+    {
+      "name": "asset public/images/autumn-editorial/ritual.png",
+      "passed": true,
+      "status": 200,
+      "bytes": 2367373
+    },
+    {
+      "name": "asset public/images/autumn-editorial/spf.png",
+      "passed": true,
+      "status": 200,
+      "bytes": 2311806
+    },
+    {
+      "name": "asset public/images/brand-focus/anua.png",
+      "passed": true,
+      "status": 200,
+      "bytes": 2311710
+    },
+    {
+      "name": "asset public/images/brand-focus/celimax.png",
+      "passed": true,
+      "status": 200,
+      "bytes": 2408843
+    },
+    {
+      "name": "asset public/images/brand-focus/charlotte-tilbury.png",
+      "passed": true,
+      "status": 200,
+      "bytes": 2405313
+    },
+    {
+      "name": "asset public/images/brand-focus/dior.jpg",
+      "passed": true,
+      "status": 200,
+      "bytes": 326056
+    },
+    {
+      "name": "asset public/images/hero-autumn-skincare.png",
+      "passed": true,
+      "status": 200,
+      "bytes": 2124431
+    },
+    {
+      "name": "asset public/images/hero-k-beauty.png",
+      "passed": true,
+      "status": 200,
+      "bytes": 1895593
+    },
+    {
+      "name": "asset public/images/hero-luxury-makeup.png",
+      "passed": true,
+      "status": 200,
+      "bytes": 2039163
+    },
+    {
+      "name": "asset public/images/rare-beauty-lip-oil-hope-3ml.jpg",
+      "passed": true,
+      "status": 200,
+      "bytes": 48210
+    },
+    {
+      "name": "asset public/images/tom-ford-tobacco-vanille-50ml.png",
+      "passed": true,
+      "status": 200,
+      "bytes": 1455297
+    }
+  ],
+  "passed": true
+}

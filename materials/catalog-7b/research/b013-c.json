@@ -1,0 +1,419 @@
+[
+  {
+    "productId": "gc002502",
+    "variantId": "gc002502",
+    "productName": "Бронзер для лица лимитка 01 Gucci",
+    "brand": "Gucci",
+    "variant": "Стандарт",
+    "sku": "GC002502",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/8"
+    ],
+    "index": 640,
+    "batch": 13,
+    "status": "skipped",
+    "sourcePage": "https://www.adanione.com/csmia-mumbai-airport/duty-free/p/gucci-poudre-de-beaute-eclat-soleil-bronzing-powder-limited-edition-01-12g/06d15575",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Located LimitedEditionHoliday2023 and standard01 photos. Catalog only says limited edition, without year or packaging identifier; exact edition not established, regular01 not substituted.",
+    "searches": [
+      {
+        "query": "Gucci bronzer01 limited edition",
+        "url": "https://www.adanione.com/csmia-mumbai-airport/duty-free/p/gucci-poudre-de-beaute-eclat-soleil-bronzing-powder-limited-edition-01-12g/06d15575",
+        "note": "Located LimitedEditionHoliday2023 and standard01 photos. Catalog only says limited edition, without year or packaging identifier; exact edition not established, regular01 not substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0099",
+    "variantId": "gc002503",
+    "productName": "Бронзер для лица Yves Saint Laurent All Hours Hyper Bronze",
+    "brand": "Yves Saint Laurent",
+    "variant": "01",
+    "sku": "GC002503",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/8"
+    ],
+    "index": 641,
+    "batch": 13,
+    "status": "skipped",
+    "sourcePage": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/all-hours-hyper-bronzer/WW-51165YSL.html?dwvar_WW-51165YSL_color=1+-+Light+Sepia",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official AllHoursHyperBronzer family found in focused01/02/03 search. Direct family source request failed expiredTLS certificate validation; no retained exact original for catalog shade01.",
+    "searches": [
+      {
+        "query": "YSL All Hours Hyper Bronzer01 02 03",
+        "url": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/all-hours-hyper-bronzer/WW-51165YSL.html?dwvar_WW-51165YSL_color=1+-+Light+Sepia",
+        "note": "Exact official AllHoursHyperBronzer family found in focused01/02/03 search. Direct family source request failed expiredTLS certificate validation; no retained exact original for catalog shade01."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0099",
+    "variantId": "gc002504",
+    "productName": "Бронзер для лица Yves Saint Laurent All Hours Hyper Bronze",
+    "brand": "Yves Saint Laurent",
+    "variant": "02",
+    "sku": "GC002504",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/8"
+    ],
+    "index": 642,
+    "batch": 13,
+    "status": "skipped",
+    "sourcePage": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/all-hours-hyper-bronzer/WW-51165YSL.html?dwvar_WW-51165YSL_color=1+-+Light+Sepia",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official AllHoursHyperBronzer family found in focused01/02/03 search. Direct family source request failed expiredTLS certificate validation; no retained exact original for catalog shade02.",
+    "searches": [
+      {
+        "query": "YSL All Hours Hyper Bronzer01 02 03",
+        "url": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/all-hours-hyper-bronzer/WW-51165YSL.html?dwvar_WW-51165YSL_color=1+-+Light+Sepia",
+        "note": "Exact official AllHoursHyperBronzer family found in focused01/02/03 search. Direct family source request failed expiredTLS certificate validation; no retained exact original for catalog shade02."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0099",
+    "variantId": "gc002505",
+    "productName": "Бронзер для лица Yves Saint Laurent All Hours Hyper Bronze",
+    "brand": "Yves Saint Laurent",
+    "variant": "03",
+    "sku": "GC002505",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/8"
+    ],
+    "index": 643,
+    "batch": 13,
+    "status": "skipped",
+    "sourcePage": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/all-hours-hyper-bronzer/WW-51165YSL.html?dwvar_WW-51165YSL_color=1+-+Light+Sepia",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official AllHoursHyperBronzer family found in focused01/02/03 search. Direct family source request failed expiredTLS certificate validation; no retained exact original for catalog shade03.",
+    "searches": [
+      {
+        "query": "YSL All Hours Hyper Bronzer01 02 03",
+        "url": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/all-hours-hyper-bronzer/WW-51165YSL.html?dwvar_WW-51165YSL_color=1+-+Light+Sepia",
+        "note": "Exact official AllHoursHyperBronzer family found in focused01/02/03 search. Direct family source request failed expiredTLS certificate validation; no retained exact original for catalog shade03."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc002506",
+    "variantId": "gc002506",
+    "productName": "Бронзер кремовый в стике Dior Forever Skin Bronze 01 LIGHT FAIR",
+    "brand": "Dior",
+    "variant": "Стандарт",
+    "sku": "GC002506",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/8"
+    ],
+    "index": 644,
+    "batch": 13,
+    "status": "skipped",
+    "sourcePage": "https://tr.dior.com/en/products/dior-forever-skin-bronze",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Dior family confirms all three named shades. Direct official Turkish product JSON request failed expiredTLS certificate validation. No exact original retained; alternative shades and bronzing powder excluded.",
+    "searches": [
+      {
+        "query": "Dior Forever Skin Bronze01LightFair02SoftFair03LightMedium",
+        "url": "https://tr.dior.com/en/products/dior-forever-skin-bronze",
+        "note": "Official Dior family confirms all three named shades. Direct official Turkish product JSON request failed expiredTLS certificate validation. No exact original retained; alternative shades and bronzing powder excluded."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc002507",
+    "variantId": "gc002507",
+    "productName": "Бронзер кремовый в стике Dior Forever Skin Bronzer 02 Soft Fair",
+    "brand": "Dior",
+    "variant": "Стандарт",
+    "sku": "GC002507",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/8"
+    ],
+    "index": 645,
+    "batch": 13,
+    "status": "skipped",
+    "sourcePage": "https://tr.dior.com/en/products/dior-forever-skin-bronze",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Dior family confirms all three named shades. Direct official Turkish product JSON request failed expiredTLS certificate validation. No exact original retained; alternative shades and bronzing powder excluded.",
+    "searches": [
+      {
+        "query": "Dior Forever Skin Bronze01LightFair02SoftFair03LightMedium",
+        "url": "https://tr.dior.com/en/products/dior-forever-skin-bronze",
+        "note": "Official Dior family confirms all three named shades. Direct official Turkish product JSON request failed expiredTLS certificate validation. No exact original retained; alternative shades and bronzing powder excluded."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc002508",
+    "variantId": "gc002508",
+    "productName": "Бронзер кремовый в стике Dior Forever Skin Bronzer 03 Light Medium",
+    "brand": "Dior",
+    "variant": "Стандарт",
+    "sku": "GC002508",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/8"
+    ],
+    "index": 646,
+    "batch": 13,
+    "status": "skipped",
+    "sourcePage": "https://tr.dior.com/en/products/dior-forever-skin-bronze",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Dior family confirms all three named shades. Direct official Turkish product JSON request failed expiredTLS certificate validation. No exact original retained; alternative shades and bronzing powder excluded.",
+    "searches": [
+      {
+        "query": "Dior Forever Skin Bronze01LightFair02SoftFair03LightMedium",
+        "url": "https://tr.dior.com/en/products/dior-forever-skin-bronze",
+        "note": "Official Dior family confirms all three named shades. Direct official Turkish product JSON request failed expiredTLS certificate validation. No exact original retained; alternative shades and bronzing powder excluded."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc000033",
+    "variantId": "gc000033",
+    "productName": "Дуэт кремового контуринга и пудрового бронзера PATRICK TA She's Statuesque 6.8 9 г",
+    "brand": "PATRICK TA",
+    "variant": "Стандарт",
+    "sku": "GC000033",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/8"
+    ],
+    "index": 647,
+    "batch": 13,
+    "status": "skipped",
+    "sourcePage": "https://patrickta.com/products/creme-contour-powder-bronzer-duo",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official named contour and powder duo located. Product JSON request failed expiredTLS certificate validation, exact packaging and6.8g+9g size not verified from a retained source; no original photo accepted.",
+    "searches": [
+      {
+        "query": "Patrick Ta Major Sculpt She's Statuesque6.8g9g",
+        "url": "https://patrickta.com/products/creme-contour-powder-bronzer-duo",
+        "note": "Official named contour and powder duo located. Product JSON request failed expiredTLS certificate validation, exact packaging and6.8g+9g size not verified from a retained source; no original photo accepted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc003222",
+    "variantId": "gc003222",
+    "productName": "Кремовый бронзер Catrice Melted Sun Cream Bronzer, 020 Beach Babe",
+    "brand": "Catrice",
+    "variant": "Стандарт",
+    "sku": "GC003222",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/8"
+    ],
+    "index": 648,
+    "batch": 13,
+    "status": "verified",
+    "sourcePage": "https://www.catrice.eu/en-ie/p/941924/melted-sun-cream-bronzer",
+    "sourceImage": "https://i8.amplience.net/i/Cosnova/9364775",
+    "localFile": "materials/catalog-7b/originals/b013-c/Кремовый бронзер Catrice Melted Sun Cream Bronzer, 020 Beach Babe Стандарт--gc003222.png",
+    "verification": {
+      "identity": "Official JSON-LD941924, GTIN4059729419248, shade020BeachBabe9g maps to image9364775.",
+      "volumeAndVariant": "Exact020 BeachBabe full9g compact, not another MeltedSun variant.",
+      "visualReview": "Whole round compact, matching020powder, alpha background. Full-fit white-padded inspection confirms intact perimeter. Opaque alpha>240 bounding box(2,2)-(1997,1998) stays inside canvas; only faint antialias alpha23/50/77/0 reaches top/bottom/left/right edge. Initial apparent cropping in enlarged raw view was a false impression.",
+      "reviewMethod": "Full original and fit-contain preview with white margin, alpha bounds and actual perimeter reviewed.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Catrice Melted Sun Cream Bronzer020 Beach Babe",
+        "url": "https://www.catrice.eu/en-ie/p/941924/melted-sun-cream-bronzer",
+        "note": "Official JSON-LD941924, GTIN4059729419248, shade020BeachBabe9g maps to image9364775."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 2000,
+    "height": 2000,
+    "bytes": 3556601,
+    "sha256": "72aee8ec470e10510a2c041f34bd03dde034c49ea93e23dd73209166ab7365ec"
+  },
+  {
+    "productId": "parent-0100",
+    "variantId": "gc003223",
+    "productName": "Кремовый бронзер Pixi",
+    "brand": "Pixi",
+    "variant": "BeachGlow",
+    "sku": "GC003223",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/8"
+    ],
+    "index": 649,
+    "batch": 13,
+    "status": "skipped",
+    "sourcePage": "https://www.pixibeauty.com/products/on-the-glow-bronze",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official family lists both exact shades. Product JSON retrieval failed expiredTLS certificate validation; no separate shade original retained in quick pass.",
+    "searches": [
+      {
+        "query": "Pixi On The Glow Bronze BeachGlow SoftGlow",
+        "url": "https://www.pixibeauty.com/products/on-the-glow-bronze",
+        "note": "Official family lists both exact shades. Product JSON retrieval failed expiredTLS certificate validation; no separate shade original retained in quick pass."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0100",
+    "variantId": "gc003224",
+    "productName": "Кремовый бронзер Pixi",
+    "brand": "Pixi",
+    "variant": "SoftGlow",
+    "sku": "GC003224",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/8"
+    ],
+    "index": 650,
+    "batch": 13,
+    "status": "skipped",
+    "sourcePage": "https://www.pixibeauty.com/products/on-the-glow-bronze",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official family lists both exact shades. Product JSON retrieval failed expiredTLS certificate validation; no separate shade original retained in quick pass.",
+    "searches": [
+      {
+        "query": "Pixi On The Glow Bronze BeachGlow SoftGlow",
+        "url": "https://www.pixibeauty.com/products/on-the-glow-bronze",
+        "note": "Official family lists both exact shades. Product JSON retrieval failed expiredTLS certificate validation; no separate shade original retained in quick pass."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  }
+]

@@ -1,0 +1,793 @@
+[
+  {
+    "productId": "parent-0133",
+    "variantId": "gc001966",
+    "productName": "Помада кремовая для губ с витамином Е Topface",
+    "brand": "Topface",
+    "variant": "008",
+    "sku": "GC001966",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 970,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://topface.ua/pomada-dlya-gub-topface-instyle-creamy-008-ladies-dream-temno-rozhevij-pt156-4-g-id-99612",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Generic catalogue creamy lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted.",
+    "searches": [
+      {
+        "query": "Topface помада кремовая витамин Е 008 010 011",
+        "url": "https://topface.ua/pomada-dlya-gub-topface-instyle-creamy-008-ladies-dream-temno-rozhevij-pt156-4-g-id-99612",
+        "note": "Generic catalogue creamy lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0133",
+    "variantId": "gc001967",
+    "productName": "Помада кремовая для губ с витамином Е Topface",
+    "brand": "Topface",
+    "variant": "010",
+    "sku": "GC001967",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 971,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://topface.ua/pomada-dlya-gub-topface-instyle-creamy-008-ladies-dream-temno-rozhevij-pt156-4-g-id-99612",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Generic catalogue creamy lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted.",
+    "searches": [
+      {
+        "query": "Topface помада кремовая витамин Е 008 010 011",
+        "url": "https://topface.ua/pomada-dlya-gub-topface-instyle-creamy-008-ladies-dream-temno-rozhevij-pt156-4-g-id-99612",
+        "note": "Generic catalogue creamy lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0133",
+    "variantId": "gc001968",
+    "productName": "Помада кремовая для губ с витамином Е Topface",
+    "brand": "Topface",
+    "variant": "011",
+    "sku": "GC001968",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 972,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://topface.ua/pomada-dlya-gub-topface-instyle-creamy-008-ladies-dream-temno-rozhevij-pt156-4-g-id-99612",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Generic catalogue creamy lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted.",
+    "searches": [
+      {
+        "query": "Topface помада кремовая витамин Е 008 010 011",
+        "url": "https://topface.ua/pomada-dlya-gub-topface-instyle-creamy-008-ladies-dream-temno-rozhevij-pt156-4-g-id-99612",
+        "note": "Generic catalogue creamy lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0134",
+    "variantId": "gc001969",
+    "productName": "Помада матовая для губ с витамином Е Topface",
+    "brand": "Topface",
+    "variant": "002",
+    "sku": "GC001969",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 973,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://makeup.com.ua/ua/product/663515/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Generic catalogue matte lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted.",
+    "searches": [
+      {
+        "query": "Topface помада матовая витамин Е 002 003 008",
+        "url": "https://makeup.com.ua/ua/product/663515/",
+        "note": "Generic catalogue matte lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0134",
+    "variantId": "gc001970",
+    "productName": "Помада матовая для губ с витамином Е Topface",
+    "brand": "Topface",
+    "variant": "003",
+    "sku": "GC001970",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 974,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://makeup.com.ua/ua/product/663515/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Generic catalogue matte lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted.",
+    "searches": [
+      {
+        "query": "Topface помада матовая витамин Е 002 003 008",
+        "url": "https://makeup.com.ua/ua/product/663515/",
+        "note": "Generic catalogue matte lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0134",
+    "variantId": "gc001971",
+    "productName": "Помада матовая для губ с витамином Е Topface",
+    "brand": "Topface",
+    "variant": "004",
+    "sku": "GC001971",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 975,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://makeup.com.ua/ua/product/663515/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Generic catalogue matte lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted.",
+    "searches": [
+      {
+        "query": "Topface помада матовая витамин Е 002 003 008",
+        "url": "https://makeup.com.ua/ua/product/663515/",
+        "note": "Generic catalogue matte lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0134",
+    "variantId": "gc001972",
+    "productName": "Помада матовая для губ с витамином Е Topface",
+    "brand": "Topface",
+    "variant": "005",
+    "sku": "GC001972",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 976,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://makeup.com.ua/ua/product/663515/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Generic catalogue matte lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted.",
+    "searches": [
+      {
+        "query": "Topface помада матовая витамин Е 002 003 008",
+        "url": "https://makeup.com.ua/ua/product/663515/",
+        "note": "Generic catalogue matte lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0134",
+    "variantId": "gc001973",
+    "productName": "Помада матовая для губ с витамином Е Topface",
+    "brand": "Topface",
+    "variant": "006",
+    "sku": "GC001973",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 977,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://makeup.com.ua/ua/product/663515/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Generic catalogue matte lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted.",
+    "searches": [
+      {
+        "query": "Topface помада матовая витамин Е 002 003 008",
+        "url": "https://makeup.com.ua/ua/product/663515/",
+        "note": "Generic catalogue matte lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0134",
+    "variantId": "gc001974",
+    "productName": "Помада матовая для губ с витамином Е Topface",
+    "brand": "Topface",
+    "variant": "008",
+    "sku": "GC001974",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 978,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://makeup.com.ua/ua/product/663515/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Generic catalogue matte lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted.",
+    "searches": [
+      {
+        "query": "Topface помада матовая витамин Е 002 003 008",
+        "url": "https://makeup.com.ua/ua/product/663515/",
+        "note": "Generic catalogue matte lipstick with vitaminE does not specify exact Topface line or PT code. Family search finds InstyleCreamyPT156 with moringa, InstyleMattePT155, ProHDSoftMattePT158 and RichMattePT159 with vitaminE; shade number alone cannot identify packaging/formula. Same identity ambiguity independently confirmed by adjacent leaf researcher. No default family substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc002398",
+    "variantId": "gc002398",
+    "productName": "Бальзам-помада для губ 06 Clinique",
+    "brand": "Clinique",
+    "variant": "Стандарт",
+    "sku": "GC002398",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 979,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://rozetka.com.ua/ua/clinique-20714004507/p419773797/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused search identifies Clinique AlmostLipstick06BlackHoney candidate, retailer UPC20714004507. Selected page fetch returned403; no original image recovered during quick pass. Catalogue generic balm-lipstick06 lacks explicit size, no guessed image or mini/full substitution.",
+    "searches": [
+      {
+        "query": "Clinique бальзам помада06",
+        "url": "https://rozetka.com.ua/ua/clinique-20714004507/p419773797/",
+        "note": "Focused search identifies Clinique AlmostLipstick06BlackHoney candidate, retailer UPC20714004507. Selected page fetch returned403; no original image recovered during quick pass. Catalogue generic balm-lipstick06 lacks explicit size, no guessed image or mini/full substitution."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0135",
+    "variantId": "gc002726",
+    "productName": "Глянцевая помада-стик Dior Addict Glass Lipstick",
+    "brand": "Dior",
+    "variant": "306 Rose Charms",
+    "sku": "GC002726",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 980,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://www.dior.com/en_us/beauty/products/dior-addict-glass-lipstick-Y0000164.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Dior GlassLipstick2.7g family confirms assigned shade 306 Rose Charms (full official names306RoseCharms309MyDior405RosyDior504DiorSweet842RoseSauvage906TalkMyDior939DeepSaddle). Native official page fetch403. Web-readable page exposes only currently selected306 product images plus shade swatches; original306 image also403. No exact full original recovered; other shades not inferred from306 or swatch URLs.",
+    "searches": [
+      {
+        "query": "Dior Addict Glass Lipstick306 Rose Charms309 My405 Rosy",
+        "url": "https://www.dior.com/en_us/beauty/products/dior-addict-glass-lipstick-Y0000164.html",
+        "note": "Official Dior GlassLipstick2.7g family confirms assigned shade 306 Rose Charms (full official names306RoseCharms309MyDior405RosyDior504DiorSweet842RoseSauvage906TalkMyDior939DeepSaddle). Native official page fetch403. Web-readable page exposes only currently selected306 product images plus shade swatches; original306 image also403. No exact full original recovered; other shades not inferred from306 or swatch URLs."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "attemptedSourceImage": "https://www.dior.com/dw/image/v2/BGXS_PRD/on/demandware.static/-/Sites-master_dior/default/dwdcc3eba1/Y0000164/Y0000164_E000001655_E01_RHC.jpg"
+  },
+  {
+    "productId": "parent-0135",
+    "variantId": "gc002727",
+    "productName": "Глянцевая помада-стик Dior Addict Glass Lipstick",
+    "brand": "Dior",
+    "variant": "309 My",
+    "sku": "GC002727",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 981,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://www.dior.com/en_us/beauty/products/dior-addict-glass-lipstick-Y0000164.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Dior GlassLipstick2.7g family confirms assigned shade 309 My (full official names306RoseCharms309MyDior405RosyDior504DiorSweet842RoseSauvage906TalkMyDior939DeepSaddle). Native official page fetch403. Web-readable page exposes only currently selected306 product images plus shade swatches; original306 image also403. No exact full original recovered; other shades not inferred from306 or swatch URLs.",
+    "searches": [
+      {
+        "query": "Dior Addict Glass Lipstick306 Rose Charms309 My405 Rosy",
+        "url": "https://www.dior.com/en_us/beauty/products/dior-addict-glass-lipstick-Y0000164.html",
+        "note": "Official Dior GlassLipstick2.7g family confirms assigned shade 309 My (full official names306RoseCharms309MyDior405RosyDior504DiorSweet842RoseSauvage906TalkMyDior939DeepSaddle). Native official page fetch403. Web-readable page exposes only currently selected306 product images plus shade swatches; original306 image also403. No exact full original recovered; other shades not inferred from306 or swatch URLs."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0135",
+    "variantId": "gc002728",
+    "productName": "Глянцевая помада-стик Dior Addict Glass Lipstick",
+    "brand": "Dior",
+    "variant": "405 Rosy",
+    "sku": "GC002728",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 982,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://www.dior.com/en_us/beauty/products/dior-addict-glass-lipstick-Y0000164.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Dior GlassLipstick2.7g family confirms assigned shade 405 Rosy (full official names306RoseCharms309MyDior405RosyDior504DiorSweet842RoseSauvage906TalkMyDior939DeepSaddle). Native official page fetch403. Web-readable page exposes only currently selected306 product images plus shade swatches; original306 image also403. No exact full original recovered; other shades not inferred from306 or swatch URLs.",
+    "searches": [
+      {
+        "query": "Dior Addict Glass Lipstick306 Rose Charms309 My405 Rosy",
+        "url": "https://www.dior.com/en_us/beauty/products/dior-addict-glass-lipstick-Y0000164.html",
+        "note": "Official Dior GlassLipstick2.7g family confirms assigned shade 405 Rosy (full official names306RoseCharms309MyDior405RosyDior504DiorSweet842RoseSauvage906TalkMyDior939DeepSaddle). Native official page fetch403. Web-readable page exposes only currently selected306 product images plus shade swatches; original306 image also403. No exact full original recovered; other shades not inferred from306 or swatch URLs."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0135",
+    "variantId": "gc002729",
+    "productName": "Глянцевая помада-стик Dior Addict Glass Lipstick",
+    "brand": "Dior",
+    "variant": "504 Sweet",
+    "sku": "GC002729",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 983,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://www.dior.com/en_us/beauty/products/dior-addict-glass-lipstick-Y0000164.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Dior GlassLipstick2.7g family confirms assigned shade 504 Sweet (full official names306RoseCharms309MyDior405RosyDior504DiorSweet842RoseSauvage906TalkMyDior939DeepSaddle). Native official page fetch403. Web-readable page exposes only currently selected306 product images plus shade swatches; original306 image also403. No exact full original recovered; other shades not inferred from306 or swatch URLs.",
+    "searches": [
+      {
+        "query": "Dior Addict Glass Lipstick306 Rose Charms309 My405 Rosy",
+        "url": "https://www.dior.com/en_us/beauty/products/dior-addict-glass-lipstick-Y0000164.html",
+        "note": "Official Dior GlassLipstick2.7g family confirms assigned shade 504 Sweet (full official names306RoseCharms309MyDior405RosyDior504DiorSweet842RoseSauvage906TalkMyDior939DeepSaddle). Native official page fetch403. Web-readable page exposes only currently selected306 product images plus shade swatches; original306 image also403. No exact full original recovered; other shades not inferred from306 or swatch URLs."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0135",
+    "variantId": "gc002730",
+    "productName": "Глянцевая помада-стик Dior Addict Glass Lipstick",
+    "brand": "Dior",
+    "variant": "842 Rose Sauvage",
+    "sku": "GC002730",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 984,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://www.dior.com/en_us/beauty/products/dior-addict-glass-lipstick-Y0000164.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Dior GlassLipstick2.7g family confirms assigned shade 842 Rose Sauvage (full official names306RoseCharms309MyDior405RosyDior504DiorSweet842RoseSauvage906TalkMyDior939DeepSaddle). Native official page fetch403. Web-readable page exposes only currently selected306 product images plus shade swatches; original306 image also403. No exact full original recovered; other shades not inferred from306 or swatch URLs.",
+    "searches": [
+      {
+        "query": "Dior Addict Glass Lipstick306 Rose Charms309 My405 Rosy",
+        "url": "https://www.dior.com/en_us/beauty/products/dior-addict-glass-lipstick-Y0000164.html",
+        "note": "Official Dior GlassLipstick2.7g family confirms assigned shade 842 Rose Sauvage (full official names306RoseCharms309MyDior405RosyDior504DiorSweet842RoseSauvage906TalkMyDior939DeepSaddle). Native official page fetch403. Web-readable page exposes only currently selected306 product images plus shade swatches; original306 image also403. No exact full original recovered; other shades not inferred from306 or swatch URLs."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0135",
+    "variantId": "gc002731",
+    "productName": "Глянцевая помада-стик Dior Addict Glass Lipstick",
+    "brand": "Dior",
+    "variant": "906 Talk my",
+    "sku": "GC002731",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 985,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://www.dior.com/en_us/beauty/products/dior-addict-glass-lipstick-Y0000164.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Dior GlassLipstick2.7g family confirms assigned shade 906 Talk my (full official names306RoseCharms309MyDior405RosyDior504DiorSweet842RoseSauvage906TalkMyDior939DeepSaddle). Native official page fetch403. Web-readable page exposes only currently selected306 product images plus shade swatches; original306 image also403. No exact full original recovered; other shades not inferred from306 or swatch URLs.",
+    "searches": [
+      {
+        "query": "Dior Addict Glass Lipstick306 Rose Charms309 My405 Rosy",
+        "url": "https://www.dior.com/en_us/beauty/products/dior-addict-glass-lipstick-Y0000164.html",
+        "note": "Official Dior GlassLipstick2.7g family confirms assigned shade 906 Talk my (full official names306RoseCharms309MyDior405RosyDior504DiorSweet842RoseSauvage906TalkMyDior939DeepSaddle). Native official page fetch403. Web-readable page exposes only currently selected306 product images plus shade swatches; original306 image also403. No exact full original recovered; other shades not inferred from306 or swatch URLs."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0135",
+    "variantId": "gc002732",
+    "productName": "Глянцевая помада-стик Dior Addict Glass Lipstick",
+    "brand": "Dior",
+    "variant": "939 Deep Saddle",
+    "sku": "GC002732",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 986,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://www.dior.com/en_us/beauty/products/dior-addict-glass-lipstick-Y0000164.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Dior GlassLipstick2.7g family confirms assigned shade 939 Deep Saddle (full official names306RoseCharms309MyDior405RosyDior504DiorSweet842RoseSauvage906TalkMyDior939DeepSaddle). Native official page fetch403. Web-readable page exposes only currently selected306 product images plus shade swatches; original306 image also403. No exact full original recovered; other shades not inferred from306 or swatch URLs.",
+    "searches": [
+      {
+        "query": "Dior Addict Glass Lipstick306 Rose Charms309 My405 Rosy",
+        "url": "https://www.dior.com/en_us/beauty/products/dior-addict-glass-lipstick-Y0000164.html",
+        "note": "Official Dior GlassLipstick2.7g family confirms assigned shade 939 Deep Saddle (full official names306RoseCharms309MyDior405RosyDior504DiorSweet842RoseSauvage906TalkMyDior939DeepSaddle). Native official page fetch403. Web-readable page exposes only currently selected306 product images plus shade swatches; original306 image also403. No exact full original recovered; other shades not inferred from306 or swatch URLs."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0136",
+    "variantId": "gc002737",
+    "productName": "Губная помада Charlotte Tilbury K.I.S.S.I.N.G Lipstick",
+    "brand": "Charlotte Tilbury",
+    "variant": "Pillow Talk Fair",
+    "sku": "GC002737",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 987,
+    "batch": 20,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/k-i-s-s-i-n-g-pillow-talk-fair",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/1IEHQ3QpofIyMBVD8HNmKb/02499d79b45dec826800dbf26196d612/KISSING_-_PT_Fair.png",
+    "localFile": "materials/catalog-7b/originals/b020-b/Губная помада Charlotte Tilbury K.I.S.S.I.N.G Lipstick Pillow Talk Fair--gc002737.png",
+    "verification": {
+      "identity": "Exact structured source variant {\"shade\": \"PILLOW TALK FAIR\", \"sku\": \"LSTK35D30R\", \"alt\": \"K.I.S.S.I.N.G - Pillow Talk Fair\", \"title\": \"K.I.S.S.I.N.G\"}",
+      "volumeAndVariant": "Exact Губная помада Charlotte Tilbury K.I.S.S.I.N.G Lipstick Pillow Talk Fair own linked variant photo, no default shade substitution.",
+      "visualReview": "Exact full KISSING lipstick and lid on true-alpha1000square original. Physical alpha250 extent781px; alpha0bounds886 include soft shadow. Cannot count shadow toward800px; blocked despite otherwise clean white flatten.",
+      "reviewMethod": "All retained originals white-alpha-composited contain sheet, full GoldenRose01 and CT PillowTalkFair plus native alpha/physical bounds inspected; no accepted output generated",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury KISSING Pillow Talk Fair Rose to Fame",
+        "url": "https://www.charlottetilbury.com/us/product/k-i-s-s-i-n-g-pillow-talk-fair",
+        "note": "Exact structured source variant {\"shade\": \"PILLOW TALK FAIR\", \"sku\": \"LSTK35D30R\", \"alt\": \"K.I.S.S.I.N.G - Pillow Talk Fair\", \"title\": \"K.I.S.S.I.N.G\"} Official sibling exact shade/SKU/image metadata saved."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 290730,
+    "sha256": "226dacfecc480bd4f0ca5782fe080c2e36f4a938591c8d5bd8782a1550e86d44"
+  },
+  {
+    "productId": "parent-0136",
+    "variantId": "gc002738",
+    "productName": "Губная помада Charlotte Tilbury K.I.S.S.I.N.G Lipstick",
+    "brand": "Charlotte Tilbury",
+    "variant": "Rose To Fame",
+    "sku": "GC002738",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 988,
+    "batch": 20,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/hollywood-beauty-icons-rose-to-fame",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/QbbkO5YT0Bi4maxVZKrwn/627a3cae6cb4a621919c9cfc1682b34f/ROSE-TO-FAME-PACKSHOT.png",
+    "localFile": "materials/catalog-7b/originals/b020-b/Губная помада Charlotte Tilbury K.I.S.S.I.N.G Lipstick Rose To Fame--gc002738.png",
+    "verification": {
+      "identity": "Exact structured source variant {\"shade\": \"ROSE TO FAME\", \"sku\": \"LSTK35D29R\", \"alt\": \" \", \"title\": \"K.I.S.S.I.N.G\"}",
+      "volumeAndVariant": "Exact Губная помада Charlotte Tilbury K.I.S.S.I.N.G Lipstick Rose To Fame own linked variant photo, no default shade substitution.",
+      "visualReview": "Exact full KISSING lipstick and lid on true-alpha1000square original. Physical alpha250 extent784px; alpha0bounds890 include soft shadow. Cannot count shadow toward800px; blocked despite otherwise clean white flatten.",
+      "reviewMethod": "All retained originals white-alpha-composited contain sheet, full GoldenRose01 and CT PillowTalkFair plus native alpha/physical bounds inspected; no accepted output generated",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury KISSING Pillow Talk Fair Rose to Fame",
+        "url": "https://www.charlottetilbury.com/us/product/hollywood-beauty-icons-rose-to-fame",
+        "note": "Exact structured source variant {\"shade\": \"ROSE TO FAME\", \"sku\": \"LSTK35D29R\", \"alt\": \" \", \"title\": \"K.I.S.S.I.N.G\"} Official sibling exact shade/SKU/image metadata saved."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 262776,
+    "sha256": "a91afa73bf2fcd8b56ac35aa66d5849e210307da0fe13da9c3dad640d11bed87"
+  },
+  {
+    "productId": "parent-0137",
+    "variantId": "gc002739",
+    "productName": "Губная помада Golden Rose Longstay Liquid Matte",
+    "brand": "Golden Rose",
+    "variant": "01",
+    "sku": "GC002739",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 989,
+    "batch": 20,
+    "status": "verified",
+    "sourcePage": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/products/91.jpg?v=1623016385",
+    "localFile": "materials/catalog-7b/originals/b020-b/Губная помада Golden Rose Longstay Liquid Matte 01--gc002739.jpg",
+    "verification": {
+      "identity": "Exact structured source variant {\"title\": \"Flüssiger Lippenstift Matt Longstay GR\", \"shade\": \"01\", \"variantId\": 40302194360509, \"sku\": \"\"}",
+      "volumeAndVariant": "Exact Губная помада Golden Rose Longstay Liquid Matte 01 own linked variant photo, no default shade substitution.",
+      "visualReview": "Full correct01 flacon on white,900square original. Physical contour about782px high; even grey mask<240 including some reflection only788px. Below800 native object minimum. Source was shared from root sibling-family research; Shopify evidence copied into this leaf.",
+      "reviewMethod": "All retained originals white-alpha-composited contain sheet, full GoldenRose01 and CT PillowTalkFair plus native alpha/physical bounds inspected; no accepted output generated",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Golden Rose Longstay Liquid Matte official Germany",
+        "url": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick",
+        "note": "Exact structured source variant {\"title\": \"Flüssiger Lippenstift Matt Longstay GR\", \"shade\": \"01\", \"variantId\": 40302194360509, \"sku\": \"\"} Shared completed family research by parent; exact Shopify variant40302194360509 independently read and source visually checked."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 900,
+    "height": 900,
+    "bytes": 19938,
+    "sha256": "0fbd9ff6f535c36bf7d35b3bbf3f1627b7b08c860a8cb172c5949b1acaace59a"
+  }
+]

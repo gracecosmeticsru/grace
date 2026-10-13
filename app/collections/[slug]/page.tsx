@@ -2,12 +2,13 @@ import { notFound } from 'next/navigation';
 import { ChevronRight } from 'lucide-react';
 import Link from '@/components/site-link';
 import ShowcaseProductCard from '@/components/showcase-product-card';
-import { getCollection } from '@/lib/collections';
-import { collectionMeta } from '@/lib/collection-meta';
+import VariantProductCard from '@/components/variant-product-card';
+import { collections, getCollection } from '@/lib/collections';
+import { resolveProductVariant } from '@/lib/variant-product';
 
 type Props = { params: Promise<{ slug: string }> };
 export function generateStaticParams() {
-  return collectionMeta.map(({ slug }) => ({ slug }));
+  return collections.map(({ slug }) => ({ slug }));
 }
 export async function generateMetadata({ params }: Props) {
   const collection = getCollection((await params).slug);
@@ -22,6 +23,8 @@ export default async function CollectionPage({ params }: Props) {
       <div><span className="curated-kicker">{collection.line}</span><h1>{collection.title}</h1><p>{collection.description}</p></div>
       <span className="curated-count">{collection.products.length} находок Grace</span>
     </div>
-    <div className="curated-grid">{collection.products.map(product => <ShowcaseProductCard key={product.id} product={product} promotion={collection.slug==='sale'?'Промо-выбор':undefined}/>)}</div>
+    <div className="curated-grid">{collection.products.map(product => collection.variantIds
+      ? <VariantProductCard key={product.id} product={product} variant={resolveProductVariant(product,collection.variantIds[product.id])}/>
+      : <ShowcaseProductCard key={product.id} product={product} promotion={collection.slug==='sale'?'Промо-выбор':undefined}/>)}</div>
   </main>;
 }

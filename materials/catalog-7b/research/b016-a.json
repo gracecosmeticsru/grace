@@ -1,0 +1,834 @@
+[
+  {
+    "productId": "gc005014",
+    "variantId": "gc005014",
+    "productName": "Тушь для ресниц Суперобъем и разделение Черная Relouis Touché 9 г",
+    "brand": "Relouis",
+    "variant": "9 г",
+    "sku": "GC005014",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 751,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/product/tush-dlya-resnits-touche-superobem-i-razdelenie/",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2021/02/Tush-dlya-resnits-Touche-superobem-i-razdelenie-1.jpg",
+    "localFile": "materials/catalog-7b/originals/b016-a/Тушь для ресниц Суперобъем и разделение Черная Relouis Touché 9 г 9 г--gc005014.jpg",
+    "verification": {
+      "identity": "Official Relouis Touche supervolume and separation black9g, SKU РБ482-20. Actual product-gallery photo, not Instagram cover or different Thermo Tubing variant.",
+      "volumeAndVariant": "Exact black9g; catalogue matches official page.",
+      "visualReview": "Complete red mascara tube and native matching applicator on plain white; red silicone bristles are part of official photo, black formula confirmed by source.1080square original; physical tube about816px high, excludes blank margins.",
+      "reviewMethod": "Originals contain contact sheet, full GoldenRose15 and Relouis Touche originals, full Tarte/ready outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Relouis Touche mascara black9g",
+        "url": "https://relouis.by/product/tush-dlya-resnits-touche-superobem-i-razdelenie/",
+        "note": "Official Relouis Touche supervolume and separation black9g, SKU РБ482-20. Actual product-gallery photo, not Instagram cover or different Thermo Tubing variant. Source page/JSON saved in artifacts/step-7b/b016-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1080,
+    "bytes": 74538,
+    "sha256": "876ca3cbcbbd83a6213e11b2b3478eed882fea0f3c3d059ea729ffb675b4a762"
+  },
+  {
+    "productId": "parent-0109",
+    "variantId": "gc005015",
+    "productName": "Тушь для ресниц Tarte lette Tubing 8 мл",
+    "brand": "Tarte",
+    "variant": "Brown",
+    "sku": "GC005015",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 752,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://tartecosmetics.com/products/tartelette-tubing-mascara",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0898/4972/4950/files/unique__197689017563__tubing-mascara-brown__01.jpg?v=1762804926",
+    "localFile": "materials/catalog-7b/originals/b016-a/Тушь для ресниц Tarte lette Tubing 8 мл Brown--gc005015.jpg",
+    "verification": {
+      "identity": "Official Tarte Shopify brown variant52789626175510 linked own original image, shade in filename and source option.",
+      "volumeAndVariant": "Exact full-size8ml original tartelette tubing, not XL or travel.",
+      "visualReview": "Complete lavender tube and extracted wand on white, brown/black brush corresponds to source variant.2000x2667, clear object well above800px. Brown image alt is erroneous foreign-brand text; actual photograph and structured variant/filename identify Tarte, visually confirmed.",
+      "reviewMethod": "Originals contain contact sheet, full GoldenRose15 and Relouis Touche originals, full Tarte/ready outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Tarte tartelette tubing mascara brown black8ml",
+        "url": "https://tartecosmetics.com/products/tartelette-tubing-mascara",
+        "note": "Official Tarte Shopify brown variant52789626175510 linked own original image, shade in filename and source option. Source page/JSON saved in artifacts/step-7b/b016-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2667,
+    "bytes": 96544,
+    "sha256": "fff12590ad86b75a1810bc12e4d3046517f5aa279e03ec37eca8c40a85bc24ea"
+  },
+  {
+    "productId": "parent-0109",
+    "variantId": "gc005016",
+    "productName": "Тушь для ресниц Tarte lette Tubing 8 мл",
+    "brand": "Tarte",
+    "variant": "Black",
+    "sku": "GC005016",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 753,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://tartecosmetics.com/products/tartelette-tubing-mascara",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0898/4972/4950/files/unique__846733082957__tubing-mascara-black__01.jpg?v=1762804926",
+    "localFile": "materials/catalog-7b/originals/b016-a/Тушь для ресниц Tarte lette Tubing 8 мл Black--gc005016.jpg",
+    "verification": {
+      "identity": "Official Tarte Shopify black variant52789626142742 linked own original image, shade in filename and source option.",
+      "volumeAndVariant": "Exact full-size8ml original tartelette tubing, not XL or travel.",
+      "visualReview": "Complete lavender tube and extracted wand on white, brown/black brush corresponds to source variant.2000x2667, clear object well above800px. Brown image alt is erroneous foreign-brand text; actual photograph and structured variant/filename identify Tarte, visually confirmed.",
+      "reviewMethod": "Originals contain contact sheet, full GoldenRose15 and Relouis Touche originals, full Tarte/ready outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Tarte tartelette tubing mascara brown black8ml",
+        "url": "https://tartecosmetics.com/products/tartelette-tubing-mascara",
+        "note": "Official Tarte Shopify black variant52789626142742 linked own original image, shade in filename and source option. Source page/JSON saved in artifacts/step-7b/b016-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2667,
+    "bytes": 93970,
+    "sha256": "195f08d78e3325bc8129993facf53dc25223ddf744476aff5e05b5dda26a4f23"
+  },
+  {
+    "productId": "gc005017",
+    "variantId": "gc005017",
+    "productName": "Тушь для ресниц влагостойкая Vivienne Sabo Cabaret Latex 01 9 мл",
+    "brand": "Vivienne Sabo",
+    "variant": "9 мл",
+    "sku": "GC005017",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 754,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://viviennesabo.ru/catalog/tush_dlya_resnits/cabaret-latex/",
+    "sourceImage": "https://viviennesabo.ru/upload/dev2fun.imagecompress/webp/iblock/c45/jebv3qbwdyronbyeb9drz3jzwijlqor7.webp",
+    "localFile": "materials/catalog-7b/originals/b016-a/Тушь для ресниц влагостойкая Vivienne Sabo Cabaret Latex 01 9 мл 9 мл--gc005017.webp",
+    "verification": {
+      "identity": "Official VivienneSabo Russia exact product detail gallery and matching title, first actual gallery image (navigation banner excluded).",
+      "volumeAndVariant": "Exact CabaretLatex01 black9ml water-resistant; not CabaretPremiere.",
+      "visualReview": "Complete single tube on opaque grey/lilac studio scene with shadow,1200square. No true alpha. Unsuitable backdrop without retouching.",
+      "reviewMethod": "Originals contain contact sheet, full GoldenRose15 and Relouis Touche originals, full Tarte/ready outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Vivienne Sabo Cabaret Latex01 9ml",
+        "url": "https://viviennesabo.ru/catalog/tush_dlya_resnits/cabaret-latex/",
+        "note": "Official VivienneSabo Russia exact product detail gallery and matching title, first actual gallery image (navigation banner excluded). Source page/JSON saved in artifacts/step-7b/b016-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1200,
+    "bytes": 21780,
+    "sha256": "30de1500e36d8017752155c66d44cf85fa3afdd180b45c38e4490b8f1072a980"
+  },
+  {
+    "productId": "gc005018",
+    "variantId": "gc005018",
+    "productName": "Тушь для ресниц со сценическим эффектом 01 Vivienne Sabo Cabaret Premiere by Aida 9 мл",
+    "brand": "Vivienne Sabo",
+    "variant": "9 мл",
+    "sku": "GC005018",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 755,
+    "batch": 16,
+    "status": "skipped",
+    "sourcePage": "https://visagehall.ru/catalog/makiyazh/glaza/tush-dlya-resnits-so-stsenicheskim-effektom-superobem-cabaret-premiere.00231977/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact Aida01 black9ml dark-blue limited packaging confirmed by retailer search. Focused selected product page returned404; no suitable exact original recovered in quick pass. Standard gold Premiere not substituted.",
+    "searches": [
+      {
+        "query": "Vivienne Sabo Cabaret Premiere by Aida01 9ml",
+        "url": "https://visagehall.ru/catalog/makiyazh/glaza/tush-dlya-resnits-so-stsenicheskim-effektom-superobem-cabaret-premiere.00231977/",
+        "note": "Exact Aida01 black9ml dark-blue limited packaging confirmed by retailer search. Focused selected product page returned404; no suitable exact original recovered in quick pass. Standard gold Premiere not substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc005019",
+    "variantId": "gc005019",
+    "productName": "Тушь для ресниц коричневый Vivienne Sabo Cabaret Premiere",
+    "brand": "Vivienne Sabo",
+    "variant": "Стандарт",
+    "sku": "GC005019",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 756,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://viviennesaboparis.com/products/cabaret-premiere",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0705/5196/1778/files/D215223205_01_packing.jpg?v=1788859659",
+    "localFile": "materials/catalog-7b/originals/b016-a/Тушь для ресниц коричневый Vivienne Sabo Cabaret Premiere Стандарт--gc005019.jpg",
+    "verification": {
+      "identity": "Official VivienneSaboParis Shopify Cabaret Première Mascara Brown variant45385692119218 has own full-size image.",
+      "volumeAndVariant": "Exact Premiere Brown059ml; printed box/bottle confirms model, no shade substitution.",
+      "visualReview": "Product on white with a large decorative mascara smear behind it and box. Overlapping smear is not the physical product; cannot isolate full clean product by empty-margin crop. No retouching.",
+      "reviewMethod": "Originals contain contact sheet, full GoldenRose15 and Relouis Touche originals, full Tarte/ready outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Vivienne Sabo Cabaret Premiere brown mascara",
+        "url": "https://viviennesaboparis.com/products/cabaret-premiere",
+        "note": "Official VivienneSaboParis Shopify Cabaret Première Mascara Brown variant45385692119218 has own full-size image. Source page/JSON saved in artifacts/step-7b/b016-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 3000,
+    "height": 3000,
+    "bytes": 623887,
+    "sha256": "4e000f19cda103fe667ae7cd1ab7a52c214d376d2fc392397980cc5dab2f6db9"
+  },
+  {
+    "productId": "gc005020",
+    "variantId": "gc005020",
+    "productName": "Тушь для ресниц с эффектом невероятного объема Vivienne Sabo Lashextase 01",
+    "brand": "Vivienne Sabo",
+    "variant": "Стандарт",
+    "sku": "GC005020",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 757,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://viviennesabo.ru/catalog/tush_dlya_resnits/lashextase/",
+    "sourceImage": "https://viviennesabo.ru/upload/dev2fun.imagecompress/webp/iblock/525/3hfscvnvhisrok3aphf1pqclzowbuclw.webp",
+    "localFile": "materials/catalog-7b/originals/b016-a/Тушь для ресниц с эффектом невероятного объема Vivienne Sabo Lashextase 01 Стандарт--gc005020.webp",
+    "verification": {
+      "identity": "Official VivienneSabo Russia exact product detail gallery and matching title, first actual gallery image (navigation banner excluded).",
+      "volumeAndVariant": "Exact Lashextase01 black incredible-volume mascara; not CabaretPremiere.",
+      "visualReview": "Complete single tube on opaque grey/lilac studio scene with shadow,1200square. No true alpha. Unsuitable backdrop without retouching.",
+      "reviewMethod": "Originals contain contact sheet, full GoldenRose15 and Relouis Touche originals, full Tarte/ready outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Vivienne Sabo Lashextase01 mascara",
+        "url": "https://viviennesabo.ru/catalog/tush_dlya_resnits/lashextase/",
+        "note": "Official VivienneSabo Russia exact product detail gallery and matching title, first actual gallery image (navigation banner excluded). Source page/JSON saved in artifacts/step-7b/b016-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1200,
+    "bytes": 10704,
+    "sha256": "27adebb3cb77c2eaba2fd995fbe2af54240aa1ea1c4f85c2661d8ddde10d86ec"
+  },
+  {
+    "productId": "gc005021",
+    "variantId": "gc005021",
+    "productName": "Тушь для ресниц супер-объем Vivienne Sabo Cabaret Artistic Volume Mascara 01 9 9 мл",
+    "brand": "Vivienne Sabo",
+    "variant": "9 мл",
+    "sku": "GC005021",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 758,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://viviennesaboparis.com/products/cabaret",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0705/5196/1778/files/D215223101_01_1.jpg?v=1785332761",
+    "localFile": "materials/catalog-7b/originals/b016-a/Тушь для ресниц супер-объем Vivienne Sabo Cabaret Artistic Volume Mascara 01 9 9 мл 9--gc005021.jpg",
+    "verification": {
+      "identity": "Official VivienneSaboParis Shopify Cabaret Mascara Black variant45385692217522 has own full-size image.",
+      "volumeAndVariant": "Exact original Cabaret Black019ml; printed box/bottle confirms model, no shade substitution.",
+      "visualReview": "Product on white with a large decorative mascara smear behind it. Overlapping smear is not the physical product; cannot isolate full clean product by empty-margin crop. No retouching.",
+      "reviewMethod": "Originals contain contact sheet, full GoldenRose15 and Relouis Touche originals, full Tarte/ready outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Vivienne Sabo Cabaret ArtisticVolume01 mascara9ml",
+        "url": "https://viviennesaboparis.com/products/cabaret",
+        "note": "Official VivienneSaboParis Shopify Cabaret Mascara Black variant45385692217522 has own full-size image. Source page/JSON saved in artifacts/step-7b/b016-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 3000,
+    "height": 3000,
+    "bytes": 376460,
+    "sha256": "4a35d9b27f8a04d9bac9356c7d276c11f848975cd2825f04464a45ed2381c5fc"
+  },
+  {
+    "productId": "gc005022",
+    "variantId": "gc005022",
+    "productName": "Тушь для ресниц Vivienne Sabo супер-объем Cabaret Premiere",
+    "brand": "Vivienne Sabo",
+    "variant": "Стандарт",
+    "sku": "GC005022",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 759,
+    "batch": 16,
+    "status": "skipped",
+    "sourcePage": "https://viviennesaboparis.com/products/cabaret-premiere",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official family contains black, brown, green, blue and purple, plus separate waterproof model. Catalogue generic Premiere super-volume row omits colour and size. Cannot select default black or copy nearby brown.",
+    "searches": [
+      {
+        "query": "Vivienne Sabo Cabaret Premiere mascara official",
+        "url": "https://viviennesaboparis.com/products/cabaret-premiere",
+        "note": "Official family contains black, brown, green, blue and purple, plus separate waterproof model. Catalogue generic Premiere super-volume row omits colour and size. Cannot select default black or copy nearby brown."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc005023",
+    "variantId": "gc005023",
+    "productName": "Тушь для ресниц Yves Saint Laurent Lash Latex «1 Sculpted Black»",
+    "brand": "Yves Saint Laurent",
+    "variant": "Стандарт",
+    "sku": "GC005023",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 760,
+    "batch": 16,
+    "status": "skipped",
+    "sourcePage": "https://www.yslbeauty.com/int/makeup/eye/lash-latex-lengthening-and-lift-sculpting-mascara/WW-51509YSL.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official search confirms Lash Latex lengthening/sculpting mascara, single black shade with silver packaging. Focused official page fetch returned403; no usable exact source original retained in quick pass.",
+    "searches": [
+      {
+        "query": "YSL Lash Latex mascara SculptedBlack official",
+        "url": "https://www.yslbeauty.com/int/makeup/eye/lash-latex-lengthening-and-lift-sculpting-mascara/WW-51509YSL.html",
+        "note": "Official search confirms Lash Latex lengthening/sculpting mascara, single black shade with silver packaging. Focused official page fetch returned403; no usable exact source original retained in quick pass."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc005024",
+    "variantId": "gc005024",
+    "productName": "Тушь для ресниц мини Charlotte Tilbury «Super Black»",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC005024",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 761,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/pillow-talk-push-up-lashes-mini-mascara",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/103SNbaes7mQsAfJlidLeh/d4d845f2d47b3d71c69c4e7fb9bdba52/PILLOW_TALK_MINI_MASCARA_OPEN.png",
+    "localFile": "materials/catalog-7b/originals/b016-a/Тушь для ресниц мини Charlotte Tilbury «Super Black» Стандарт--gc005024.png",
+    "verification": {
+      "identity": "Official PillowTalkPushUpLashes SuperBlack4ml travel sibling SKU EPTMXX4X1R; distinct from ExaggerBlack mini and full-size10ml.",
+      "volumeAndVariant": "Explicit SuperBlack and mini catalogue attributes match official4ml travel option.",
+      "visualReview": "True alpha PNG includes complete open pink tube and wand. Physical alpha250 bounds570px high, even all shadow bounds679px. Below800px, no exemption.",
+      "reviewMethod": "Originals contain contact sheet, full GoldenRose15 and Relouis Touche originals, full Tarte/ready outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury mini mascara SuperBlack",
+        "url": "https://www.charlottetilbury.com/us/product/pillow-talk-push-up-lashes-mini-mascara",
+        "note": "Official PillowTalkPushUpLashes SuperBlack4ml travel sibling SKU EPTMXX4X1R; distinct from ExaggerBlack mini and full-size10ml. Source page/JSON saved in artifacts/step-7b/b016-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 191569,
+    "sha256": "29e45a9255ffbb1b8658a2f36148bab1a09b3cf8255de49d014f1b07e4793eb4"
+  },
+  {
+    "productId": "gc000893",
+    "variantId": "gc000893",
+    "productName": "Тени для век из палетки теней серии Eveline Cosmetics Mystic Galaxy 12 г",
+    "brand": "Eveline Cosmetics",
+    "variant": "Стандарт",
+    "sku": "GC000893",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 762,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://lyko.com/pl/eveline-cosmetics/eveline-cosmetics-eyeshadow-palette-12-colors-mystic-galaxy-",
+    "sourceImage": "https://lyko.com/globalassets/product-images/eveline-cosmetics-eyeshadow-palette-12-colors-mystic-galaxy-3229-206-0012_1.jpg?ref=139B240DCF",
+    "localFile": "materials/catalog-7b/originals/b016-a/Тени для век из палетки теней серии Eveline Cosmetics Mystic Galaxy 12 г Стандарт--gc000893.jpg",
+    "verification": {
+      "identity": "Lyko exact MysticGalaxy12-colour12g palette, SKU3229-206-0012; Rossmann confirms12g. Original image URL observed in HTML, no request-side enlargement.",
+      "volumeAndVariant": "Exact full12g MysticGalaxy palette; no alternate colour palette.",
+      "visualReview": "Full purple palette and all12pans on white, but actual source500x252. Below800px native object quality.",
+      "reviewMethod": "Originals contain contact sheet, full GoldenRose15 and Relouis Touche originals, full Tarte/ready outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Eveline MysticGalaxy eyeshadow palette12g",
+        "url": "https://lyko.com/pl/eveline-cosmetics/eveline-cosmetics-eyeshadow-palette-12-colors-mystic-galaxy-",
+        "note": "Lyko exact MysticGalaxy12-colour12g palette, SKU3229-206-0012; Rossmann confirms12g. Original image URL observed in HTML, no request-side enlargement. Source page/JSON saved in artifacts/step-7b/b016-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 500,
+    "height": 252,
+    "bytes": 29979,
+    "sha256": "ba5de64ea9bc7cae47dc0f12c0a412dbac6ecdd56915463aee1ae0935449b086"
+  },
+  {
+    "productId": "parent-0110",
+    "variantId": "gc001015",
+    "productName": "Тени д век тени для век Golden Rose Soft Color MATTE Mono",
+    "brand": "Golden Rose",
+    "variant": "15",
+    "sku": "GC001015",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 763,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://goldenrose-germany.de/products/soft-color-mono-eyeshadow-matte",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/15.jpg?v=1756474481",
+    "localFile": "materials/catalog-7b/originals/b016-a/Тени д век тени для век Golden Rose Soft Color MATTE Mono 15--gc001015.jpg",
+    "verification": {
+      "identity": "GoldenRose Germany Shopify exact Matte Mono shade15, variant54450837717260 and individual image; official Turkish15 product independently confirms matte2.3g line.",
+      "volumeAndVariant": "Exact matte15 single compact; not Pearl/Shimmer family.",
+      "visualReview": "Whole clear round open compact and matte powder, white background, no foreign mark or swatch.800x1200 original; physical height about910px.",
+      "reviewMethod": "Originals contain contact sheet, full GoldenRose15 and Relouis Touche originals, full Tarte/ready outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Golden Rose Soft Color Matte Mono15 17",
+        "url": "https://goldenrose-germany.de/products/soft-color-mono-eyeshadow-matte",
+        "note": "GoldenRose Germany Shopify exact Matte Mono shade15, variant54450837717260 and individual image; official Turkish15 product independently confirms matte2.3g line. Source page/JSON saved in artifacts/step-7b/b016-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 800,
+    "height": 1200,
+    "bytes": 41201,
+    "sha256": "5fe7ad47cee60d0a7e2bb538f6d215e64f8f1e00efbb4263aaea5d6e52a5f86f"
+  },
+  {
+    "productId": "parent-0110",
+    "variantId": "gc001016",
+    "productName": "Тени д век тени для век Golden Rose Soft Color MATTE Mono",
+    "brand": "Golden Rose",
+    "variant": "17",
+    "sku": "GC001016",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 764,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://goldenrose-germany.de/products/soft-color-mono-eyeshadow-matte",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/17.jpg?v=1756474481",
+    "localFile": "materials/catalog-7b/originals/b016-a/Тени д век тени для век Golden Rose Soft Color MATTE Mono 17--gc001016.jpg",
+    "verification": {
+      "identity": "GoldenRose Germany Shopify exact Matte Mono shade17, variant54450837782796 and individual image; official Turkish15 product independently confirms matte2.3g line.",
+      "volumeAndVariant": "Exact matte17 single compact; not Pearl/Shimmer family.",
+      "visualReview": "Whole clear round open compact and matte powder, white background, no foreign mark or swatch.800x1200 original; physical height about910px.",
+      "reviewMethod": "Originals contain contact sheet, full GoldenRose15 and Relouis Touche originals, full Tarte/ready outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Golden Rose Soft Color Matte Mono15 17",
+        "url": "https://goldenrose-germany.de/products/soft-color-mono-eyeshadow-matte",
+        "note": "GoldenRose Germany Shopify exact Matte Mono shade17, variant54450837782796 and individual image; official Turkish15 product independently confirms matte2.3g line. Source page/JSON saved in artifacts/step-7b/b016-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 800,
+    "height": 1200,
+    "bytes": 44350,
+    "sha256": "21991e37fa1d522c33477bada04c3d794517b18ca337c0c2529990ea1b432400"
+  },
+  {
+    "productId": "parent-0111",
+    "variantId": "gc001461",
+    "productName": "Тени для век жидкие тени для век Luxvisage Lux Vizage",
+    "brand": "Luxvisage",
+    "variant": "01",
+    "sku": "GC001461",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 765,
+    "batch": 16,
+    "status": "skipped",
+    "sourcePage": "https://www.flip.kz/catalog/zhidkie-teni-luxvisage",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Generic liquid-eyeshadow catalogue row lacks line, finish, volume and shade name. Search finds Metal Hype numbered01–05 plus other distinct liquid lines (Matt Tint, Satin Nude, Glitter Rock); number alone does not establish exact package. No inference from nearby catalogue entries; Metal Hype is a candidate, not confirmed.",
+    "searches": [
+      {
+        "query": "Luxvisage жидкие тени01 02 03 04 05",
+        "url": "https://www.flip.kz/catalog/zhidkie-teni-luxvisage",
+        "note": "Generic liquid-eyeshadow catalogue row lacks line, finish, volume and shade name. Search finds Metal Hype numbered01–05 plus other distinct liquid lines (Matt Tint, Satin Nude, Glitter Rock); number alone does not establish exact package. No inference from nearby catalogue entries; Metal Hype is a candidate, not confirmed."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0111",
+    "variantId": "gc001462",
+    "productName": "Тени для век жидкие тени для век Luxvisage Lux Vizage",
+    "brand": "Luxvisage",
+    "variant": "02",
+    "sku": "GC001462",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 766,
+    "batch": 16,
+    "status": "skipped",
+    "sourcePage": "https://www.flip.kz/catalog/zhidkie-teni-luxvisage",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Generic liquid-eyeshadow catalogue row lacks line, finish, volume and shade name. Search finds Metal Hype numbered01–05 plus other distinct liquid lines (Matt Tint, Satin Nude, Glitter Rock); number alone does not establish exact package. No inference from nearby catalogue entries; Metal Hype is a candidate, not confirmed.",
+    "searches": [
+      {
+        "query": "Luxvisage жидкие тени01 02 03 04 05",
+        "url": "https://www.flip.kz/catalog/zhidkie-teni-luxvisage",
+        "note": "Generic liquid-eyeshadow catalogue row lacks line, finish, volume and shade name. Search finds Metal Hype numbered01–05 plus other distinct liquid lines (Matt Tint, Satin Nude, Glitter Rock); number alone does not establish exact package. No inference from nearby catalogue entries; Metal Hype is a candidate, not confirmed."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0111",
+    "variantId": "gc001463",
+    "productName": "Тени для век жидкие тени для век Luxvisage Lux Vizage",
+    "brand": "Luxvisage",
+    "variant": "03",
+    "sku": "GC001463",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 767,
+    "batch": 16,
+    "status": "skipped",
+    "sourcePage": "https://www.flip.kz/catalog/zhidkie-teni-luxvisage",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Generic liquid-eyeshadow catalogue row lacks line, finish, volume and shade name. Search finds Metal Hype numbered01–05 plus other distinct liquid lines (Matt Tint, Satin Nude, Glitter Rock); number alone does not establish exact package. No inference from nearby catalogue entries; Metal Hype is a candidate, not confirmed.",
+    "searches": [
+      {
+        "query": "Luxvisage жидкие тени01 02 03 04 05",
+        "url": "https://www.flip.kz/catalog/zhidkie-teni-luxvisage",
+        "note": "Generic liquid-eyeshadow catalogue row lacks line, finish, volume and shade name. Search finds Metal Hype numbered01–05 plus other distinct liquid lines (Matt Tint, Satin Nude, Glitter Rock); number alone does not establish exact package. No inference from nearby catalogue entries; Metal Hype is a candidate, not confirmed."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0111",
+    "variantId": "gc001464",
+    "productName": "Тени для век жидкие тени для век Luxvisage Lux Vizage",
+    "brand": "Luxvisage",
+    "variant": "04",
+    "sku": "GC001464",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 768,
+    "batch": 16,
+    "status": "skipped",
+    "sourcePage": "https://www.flip.kz/catalog/zhidkie-teni-luxvisage",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Generic liquid-eyeshadow catalogue row lacks line, finish, volume and shade name. Search finds Metal Hype numbered01–05 plus other distinct liquid lines (Matt Tint, Satin Nude, Glitter Rock); number alone does not establish exact package. No inference from nearby catalogue entries; Metal Hype is a candidate, not confirmed.",
+    "searches": [
+      {
+        "query": "Luxvisage жидкие тени01 02 03 04 05",
+        "url": "https://www.flip.kz/catalog/zhidkie-teni-luxvisage",
+        "note": "Generic liquid-eyeshadow catalogue row lacks line, finish, volume and shade name. Search finds Metal Hype numbered01–05 plus other distinct liquid lines (Matt Tint, Satin Nude, Glitter Rock); number alone does not establish exact package. No inference from nearby catalogue entries; Metal Hype is a candidate, not confirmed."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0111",
+    "variantId": "gc001465",
+    "productName": "Тени для век жидкие тени для век Luxvisage Lux Vizage",
+    "brand": "Luxvisage",
+    "variant": "05",
+    "sku": "GC001465",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 769,
+    "batch": 16,
+    "status": "skipped",
+    "sourcePage": "https://www.flip.kz/catalog/zhidkie-teni-luxvisage",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Generic liquid-eyeshadow catalogue row lacks line, finish, volume and shade name. Search finds Metal Hype numbered01–05 plus other distinct liquid lines (Matt Tint, Satin Nude, Glitter Rock); number alone does not establish exact package. No inference from nearby catalogue entries; Metal Hype is a candidate, not confirmed.",
+    "searches": [
+      {
+        "query": "Luxvisage жидкие тени01 02 03 04 05",
+        "url": "https://www.flip.kz/catalog/zhidkie-teni-luxvisage",
+        "note": "Generic liquid-eyeshadow catalogue row lacks line, finish, volume and shade name. Search finds Metal Hype numbered01–05 plus other distinct liquid lines (Matt Tint, Satin Nude, Glitter Rock); number alone does not establish exact package. No inference from nearby catalogue entries; Metal Hype is a candidate, not confirmed."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  }
+]

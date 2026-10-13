@@ -1,0 +1,882 @@
+[
+  {
+    "productId": "gc004527",
+    "variantId": "gc004527",
+    "productName": "Румяна Hourglass Incandescent Electra",
+    "brand": "Hourglass",
+    "variant": "Стандарт",
+    "sku": "GC004527",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 520,
+    "batch": 11,
+    "status": "skipped",
+    "sourcePage": "https://www.sephora.com/contentimages/pdf/032417/PDF_Hourglass_Strobe_032417.pdf",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Historical manufacturer chart at Sephora confirms IncandescentElectra standalone Strobe blush. Current official AmbientLightingBlush Shopify variants do not include it; quick search yielded historical chart and review images rather than a usable exact clean original. No different shade substituted.",
+    "searches": [
+      {
+        "query": "Hourglass Ambient Lighting blush Incandescent Electra official",
+        "url": "https://www.sephora.com/contentimages/pdf/032417/PDF_Hourglass_Strobe_032417.pdf",
+        "note": "Historical manufacturer chart at Sephora confirms IncandescentElectra standalone Strobe blush. Current official AmbientLightingBlush Shopify variants do not include it; quick search yielded historical chart and review images rather than a usable exact clean original. No different shade substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc004528",
+    "variantId": "gc004528",
+    "productName": "Румяна Hourglass Luminous Flush",
+    "brand": "Hourglass",
+    "variant": "Стандарт",
+    "sku": "GC004528",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 521,
+    "batch": 11,
+    "status": "verified",
+    "sourcePage": "https://www.hourglasscosmetics.com/products/ambient-lighting-blush?variant=29474686500982",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0081/1660/0950/files/AmbientLightingBlush_LuminousFlush_d2035879-94e4-4c67-9c12-ec4d49eaa6b1.png?v=1723590393",
+    "localFile": "materials/catalog-7b/originals/b011-b/Румяна Hourglass Luminous Flush Стандарт--gc004528.png",
+    "verification": {
+      "identity": "Official Hourglass AmbientLightingBlush Shopify full-size variant29474686500982 LuminousFlush maps its own PNG; travel variant explicitly excluded.",
+      "volumeAndVariant": "Full-size4.2g LuminousFlush ChampagneRose; catalogue no size.",
+      "visualReview": "Complete gold compact and marbled pink powder, genuine RGBA transparency; white flatten allowed. No watermark, cropping or unrelated object.",
+      "reviewMethod": "view_image original contact sheet plus full Luxvisage02/PradaDahlia/Nars original and all prepared previews",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Hourglass Ambient Lighting blush Incandescent Electra Luminous Flush official",
+        "url": "https://www.hourglasscosmetics.com/products/ambient-lighting-blush?variant=29474686500982",
+        "note": "Official Hourglass AmbientLightingBlush Shopify full-size variant29474686500982 LuminousFlush maps its own PNG; travel variant explicitly excluded. Source JSON/HTML saved under artifacts/step-7b/b011-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 1837027,
+    "sha256": "0f62383408c144f15a40e4d2d4f2a3c35b7a7c30eb556132acebab74b433dccf"
+  },
+  {
+    "productId": "parent-0076",
+    "variantId": "gc004529",
+    "productName": "Румяна Luxvisage Lux Vizage Silk Derm",
+    "brand": "Luxvisage",
+    "variant": "1",
+    "sku": "GC004529",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 522,
+    "batch": 11,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1347079",
+    "sourceImage": "https://s.f.kz/prod/1348/1347079_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b011-b/Румяна Luxvisage Lux Vizage Silk Derm 1--gc004529.jpg",
+    "verification": {
+      "identity": "Flip exact SilkDream blush shade01 product1347079 gallery original. Catalogue spelling SilkDerm appears abbreviated/mistyped; matching brand, six exact numeric shades and product family retained without changing catalogue.",
+      "volumeAndVariant": "Exact01,5g; catalogue no size.",
+      "visualReview": "White background and open black compact with reflection. Physical compact only about710-725px high, below800px;854px canvas includes reflected duplicate. Top lid contour also touches source edge. Reject; reflection does not count as product resolution.",
+      "reviewMethod": "view_image original contact sheet plus full Luxvisage02/PradaDahlia/Nars original and all prepared previews",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Luxvisage Silk Dream румяна 1 2 3 4 5 6",
+        "url": "https://www.flip.kz/catalog?prod=1347079",
+        "note": "Flip exact SilkDream blush shade01 product1347079 gallery original. Catalogue spelling SilkDerm appears abbreviated/mistyped; matching brand, six exact numeric shades and product family retained without changing catalogue. Source JSON/HTML saved under artifacts/step-7b/b011-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 660,
+    "height": 835,
+    "bytes": 118563,
+    "sha256": "474cd92c486f4f19e0bf1695bd6f759b12df56baf5d5e8fb583e1ef27ba5b5dc"
+  },
+  {
+    "productId": "parent-0076",
+    "variantId": "gc004530",
+    "productName": "Румяна Luxvisage Lux Vizage Silk Derm",
+    "brand": "Luxvisage",
+    "variant": "2",
+    "sku": "GC004530",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 523,
+    "batch": 11,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1347087",
+    "sourceImage": "https://s.f.kz/prod/1348/1347087_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b011-b/Румяна Luxvisage Lux Vizage Silk Derm 2--gc004530.jpg",
+    "verification": {
+      "identity": "Flip exact SilkDream blush shade02 product1347087 gallery original. Catalogue spelling SilkDerm appears abbreviated/mistyped; matching brand, six exact numeric shades and product family retained without changing catalogue.",
+      "volumeAndVariant": "Exact02,5g; catalogue no size.",
+      "visualReview": "White background and open black compact with reflection. Physical compact only about710-725px high, below800px;854px canvas includes reflected duplicate. Top lid contour also touches source edge. Reject; reflection does not count as product resolution.",
+      "reviewMethod": "view_image original contact sheet plus full Luxvisage02/PradaDahlia/Nars original and all prepared previews",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Luxvisage Silk Dream румяна 1 2 3 4 5 6",
+        "url": "https://www.flip.kz/catalog?prod=1347087",
+        "note": "Flip exact SilkDream blush shade02 product1347087 gallery original. Catalogue spelling SilkDerm appears abbreviated/mistyped; matching brand, six exact numeric shades and product family retained without changing catalogue. Source JSON/HTML saved under artifacts/step-7b/b011-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 660,
+    "height": 854,
+    "bytes": 124864,
+    "sha256": "eb2857c3833d35a6e23f0433989ebbad85d4521a5be22c116c3eb692ab01188c"
+  },
+  {
+    "productId": "parent-0076",
+    "variantId": "gc004531",
+    "productName": "Румяна Luxvisage Lux Vizage Silk Derm",
+    "brand": "Luxvisage",
+    "variant": "3",
+    "sku": "GC004531",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 524,
+    "batch": 11,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1347090",
+    "sourceImage": "https://s.f.kz/prod/1348/1347090_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b011-b/Румяна Luxvisage Lux Vizage Silk Derm 3--gc004531.jpg",
+    "verification": {
+      "identity": "Flip exact SilkDream blush shade03 product1347090 gallery original. Catalogue spelling SilkDerm appears abbreviated/mistyped; matching brand, six exact numeric shades and product family retained without changing catalogue.",
+      "volumeAndVariant": "Exact03,5g; catalogue no size.",
+      "visualReview": "White background and open black compact with reflection. Physical compact only about710-725px high, below800px;854px canvas includes reflected duplicate. Top lid contour also touches source edge. Reject; reflection does not count as product resolution.",
+      "reviewMethod": "view_image original contact sheet plus full Luxvisage02/PradaDahlia/Nars original and all prepared previews",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Luxvisage Silk Dream румяна 1 2 3 4 5 6",
+        "url": "https://www.flip.kz/catalog?prod=1347090",
+        "note": "Flip exact SilkDream blush shade03 product1347090 gallery original. Catalogue spelling SilkDerm appears abbreviated/mistyped; matching brand, six exact numeric shades and product family retained without changing catalogue. Source JSON/HTML saved under artifacts/step-7b/b011-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 660,
+    "height": 839,
+    "bytes": 120356,
+    "sha256": "05033ecb833660b35001903c19b2993df6a8ec6ace70be660ee2ed9aba775a20"
+  },
+  {
+    "productId": "parent-0076",
+    "variantId": "gc004532",
+    "productName": "Румяна Luxvisage Lux Vizage Silk Derm",
+    "brand": "Luxvisage",
+    "variant": "4",
+    "sku": "GC004532",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 525,
+    "batch": 11,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1347099",
+    "sourceImage": "https://s.f.kz/prod/1348/1347099_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b011-b/Румяна Luxvisage Lux Vizage Silk Derm 4--gc004532.jpg",
+    "verification": {
+      "identity": "Flip exact SilkDream blush shade04 product1347099 gallery original. Catalogue spelling SilkDerm appears abbreviated/mistyped; matching brand, six exact numeric shades and product family retained without changing catalogue.",
+      "volumeAndVariant": "Exact04,5g; catalogue no size.",
+      "visualReview": "White background and open black compact with reflection. Physical compact only about710-725px high, below800px;854px canvas includes reflected duplicate. Top lid contour also touches source edge. Reject; reflection does not count as product resolution.",
+      "reviewMethod": "view_image original contact sheet plus full Luxvisage02/PradaDahlia/Nars original and all prepared previews",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Luxvisage Silk Dream румяна 1 2 3 4 5 6",
+        "url": "https://www.flip.kz/catalog?prod=1347099",
+        "note": "Flip exact SilkDream blush shade04 product1347099 gallery original. Catalogue spelling SilkDerm appears abbreviated/mistyped; matching brand, six exact numeric shades and product family retained without changing catalogue. Source JSON/HTML saved under artifacts/step-7b/b011-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 660,
+    "height": 839,
+    "bytes": 127127,
+    "sha256": "05349fba1909e3d9efe5fa4d730252b8027cce6e809e9a67c5474b1b75863ab9"
+  },
+  {
+    "productId": "parent-0076",
+    "variantId": "gc004533",
+    "productName": "Румяна Luxvisage Lux Vizage Silk Derm",
+    "brand": "Luxvisage",
+    "variant": "5",
+    "sku": "GC004533",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 526,
+    "batch": 11,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1347100",
+    "sourceImage": "https://s.f.kz/prod/1348/1347100_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b011-b/Румяна Luxvisage Lux Vizage Silk Derm 5--gc004533.jpg",
+    "verification": {
+      "identity": "Flip exact SilkDream blush shade05 product1347100 gallery original. Catalogue spelling SilkDerm appears abbreviated/mistyped; matching brand, six exact numeric shades and product family retained without changing catalogue.",
+      "volumeAndVariant": "Exact05,5g; catalogue no size.",
+      "visualReview": "White background and open black compact with reflection. Physical compact only about710-725px high, below800px;854px canvas includes reflected duplicate. Top lid contour also touches source edge. Reject; reflection does not count as product resolution.",
+      "reviewMethod": "view_image original contact sheet plus full Luxvisage02/PradaDahlia/Nars original and all prepared previews",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Luxvisage Silk Dream румяна 1 2 3 4 5 6",
+        "url": "https://www.flip.kz/catalog?prod=1347100",
+        "note": "Flip exact SilkDream blush shade05 product1347100 gallery original. Catalogue spelling SilkDerm appears abbreviated/mistyped; matching brand, six exact numeric shades and product family retained without changing catalogue. Source JSON/HTML saved under artifacts/step-7b/b011-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 660,
+    "height": 836,
+    "bytes": 125258,
+    "sha256": "a8421e29009c4abe44c6ad76fc96ecd33a07d8e91bdbeb9dcc8f44bbaad07b70"
+  },
+  {
+    "productId": "parent-0076",
+    "variantId": "gc004534",
+    "productName": "Румяна Luxvisage Lux Vizage Silk Derm",
+    "brand": "Luxvisage",
+    "variant": "6",
+    "sku": "GC004534",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 527,
+    "batch": 11,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1347103",
+    "sourceImage": "https://s.f.kz/prod/1348/1347103_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b011-b/Румяна Luxvisage Lux Vizage Silk Derm 6--gc004534.jpg",
+    "verification": {
+      "identity": "Flip exact SilkDream blush shade06 product1347103 gallery original. Catalogue spelling SilkDerm appears abbreviated/mistyped; matching brand, six exact numeric shades and product family retained without changing catalogue.",
+      "volumeAndVariant": "Exact06,5g; catalogue no size.",
+      "visualReview": "White background and open black compact with reflection. Physical compact only about710-725px high, below800px;854px canvas includes reflected duplicate. Top lid contour also touches source edge. Reject; reflection does not count as product resolution.",
+      "reviewMethod": "view_image original contact sheet plus full Luxvisage02/PradaDahlia/Nars original and all prepared previews",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Luxvisage Silk Dream румяна 1 2 3 4 5 6",
+        "url": "https://www.flip.kz/catalog?prod=1347103",
+        "note": "Flip exact SilkDream blush shade06 product1347103 gallery original. Catalogue spelling SilkDerm appears abbreviated/mistyped; matching brand, six exact numeric shades and product family retained without changing catalogue. Source JSON/HTML saved under artifacts/step-7b/b011-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 662,
+    "height": 836,
+    "bytes": 121004,
+    "sha256": "3e86a0394bec095492073a3aff810bf78f1f62bee962669f35ed654b32747b52"
+  },
+  {
+    "productId": "gc004535",
+    "variantId": "gc004535",
+    "productName": "Румяна NARS «Sex Fantasy»",
+    "brand": "NARS",
+    "variant": "Стандарт",
+    "sku": "GC004535",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 528,
+    "batch": 11,
+    "status": "verified",
+    "sourcePage": "https://www.narscosmetics.com/USA/powder-blush/0194251171647.html",
+    "sourceImage": "https://www.narscosmetics.com/dw/image/v2/BBSK_PRD/on/demandware.static/-/Sites-itemmaster_NARS/default/dw66940da1/2025/December/Blush/Soldiers/NARS_SP26_DeeplyBloomingCollection_PDPCrop_Blush_SoldierSwatch_SexFantasy_GLBL.jpg",
+    "localFile": "materials/catalog-7b/originals/b011-b/Румяна NARS «Sex Fantasy» Стандарт--gc004535.jpg",
+    "verification": {
+      "identity": "Official NARS PowderBlush page0194251171647 is selected905SexFantasy and links its named SoldierSwatch product original.",
+      "volumeAndVariant": "Exact905SexFantasy powder blush; catalogue does not specify generation/size. Full compact, not a sample.",
+      "visualReview": "Full black compact with pale pink powder plus matching powder swatch behind on white. No external watermark. Swatch is part of source composition, retained intact for parent review; not generated or added. Preview inspected: decorative swatch controls85% bounding box, compact itself only about62% canvas. Reject source composition without altering swatch.",
+      "reviewMethod": "view_image original contact sheet plus full Luxvisage02/PradaDahlia/Nars original and all prepared previews",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Nars Sex Fantasy blush product",
+        "url": "https://www.narscosmetics.com/USA/powder-blush/0194251171647.html",
+        "note": "Official NARS PowderBlush page0194251171647 is selected905SexFantasy and links its named SoldierSwatch product original. Source JSON/HTML saved under artifacts/step-7b/b011-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 268619,
+    "sha256": "efbd12491ed030db880f2cfcf5ea7d3855321647e0c4bd98e9ffcff50fe52d41"
+  },
+  {
+    "productId": "gc004536",
+    "variantId": "gc004536",
+    "productName": "Румяна PAT McGRATH LABS PAT McGRATH Divine Blush",
+    "brand": "PAT McGRATH LABS",
+    "variant": "Стандарт",
+    "sku": "GC004536",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 529,
+    "batch": 11,
+    "status": "skipped",
+    "sourcePage": "https://www.patmcgrath.com/products/skin-fetish-divine-blush",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalogue does not specify shade. Official DivineBlush lists Cherish,DesertOrchid,DivineRose and other distinct colours; cannot select an exact one.",
+    "searches": [
+      {
+        "query": "Pat McGrath Divine Blush official shades",
+        "url": "https://www.patmcgrath.com/products/skin-fetish-divine-blush",
+        "note": "Catalogue does not specify shade. Official DivineBlush lists Cherish,DesertOrchid,DivineRose and other distinct colours; cannot select an exact one."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0077",
+    "variantId": "gc004537",
+    "productName": "Румяна PATRICK TA 5 г",
+    "brand": "PATRICK TA",
+    "variant": "Not Too Much",
+    "sku": "GC004537",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 530,
+    "batch": 11,
+    "status": "skipped",
+    "sourcePage": "https://patrickta.com/products/creme-powder-blush-duos",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact named shade exists in official duo family, but catalogue explicitly specifies5g. Source identifies a creme+powder duo; retailer specifies5g+5g and brand Q&A has6g+4g. No complete5g product established. Do not silently interpret5g as one pan or substitute10g duo.",
+    "searches": [
+      {
+        "query": "Patrick Ta blush Not Too Much She goes to the gym She seductive Soft Launch Thank me later 5g",
+        "url": "https://patrickta.com/products/creme-powder-blush-duos",
+        "note": "Exact named shade exists in official duo family, but catalogue explicitly specifies5g. Source identifies a creme+powder duo; retailer specifies5g+5g and brand Q&A has6g+4g. No complete5g product established. Do not silently interpret5g as one pan or substitute10g duo."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0077",
+    "variantId": "gc000061",
+    "productName": "Румяна PATRICK TA 5 г",
+    "brand": "PATRICK TA",
+    "variant": "She goes to the gym",
+    "sku": "GC000061",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 531,
+    "batch": 11,
+    "status": "skipped",
+    "sourcePage": "https://patrickta.com/products/creme-powder-blush-duos",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact named shade exists in official duo family, but catalogue explicitly specifies5g. Source identifies a creme+powder duo; retailer specifies5g+5g and brand Q&A has6g+4g. No complete5g product established. Do not silently interpret5g as one pan or substitute10g duo.",
+    "searches": [
+      {
+        "query": "Patrick Ta blush Not Too Much She goes to the gym She seductive Soft Launch Thank me later 5g",
+        "url": "https://patrickta.com/products/creme-powder-blush-duos",
+        "note": "Exact named shade exists in official duo family, but catalogue explicitly specifies5g. Source identifies a creme+powder duo; retailer specifies5g+5g and brand Q&A has6g+4g. No complete5g product established. Do not silently interpret5g as one pan or substitute10g duo."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0077",
+    "variantId": "gc004538",
+    "productName": "Румяна PATRICK TA 5 г",
+    "brand": "PATRICK TA",
+    "variant": "She Seductive",
+    "sku": "GC004538",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 532,
+    "batch": 11,
+    "status": "skipped",
+    "sourcePage": "https://patrickta.com/products/creme-powder-blush-duos",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact named shade exists in official duo family, but catalogue explicitly specifies5g. Source identifies a creme+powder duo; retailer specifies5g+5g and brand Q&A has6g+4g. No complete5g product established. Do not silently interpret5g as one pan or substitute10g duo.",
+    "searches": [
+      {
+        "query": "Patrick Ta blush Not Too Much She goes to the gym She seductive Soft Launch Thank me later 5g",
+        "url": "https://patrickta.com/products/creme-powder-blush-duos",
+        "note": "Exact named shade exists in official duo family, but catalogue explicitly specifies5g. Source identifies a creme+powder duo; retailer specifies5g+5g and brand Q&A has6g+4g. No complete5g product established. Do not silently interpret5g as one pan or substitute10g duo."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0077",
+    "variantId": "gc004540",
+    "productName": "Румяна PATRICK TA 5 г",
+    "brand": "PATRICK TA",
+    "variant": "Soft Launch",
+    "sku": "GC004540",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 533,
+    "batch": 11,
+    "status": "skipped",
+    "sourcePage": "https://patrickta.com/products/creme-powder-blush-duos",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact named shade exists in official duo family, but catalogue explicitly specifies5g. Source identifies a creme+powder duo; retailer specifies5g+5g and brand Q&A has6g+4g. No complete5g product established. Do not silently interpret5g as one pan or substitute10g duo.",
+    "searches": [
+      {
+        "query": "Patrick Ta blush Not Too Much She goes to the gym She seductive Soft Launch Thank me later 5g",
+        "url": "https://patrickta.com/products/creme-powder-blush-duos",
+        "note": "Exact named shade exists in official duo family, but catalogue explicitly specifies5g. Source identifies a creme+powder duo; retailer specifies5g+5g and brand Q&A has6g+4g. No complete5g product established. Do not silently interpret5g as one pan or substitute10g duo."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0077",
+    "variantId": "gc004541",
+    "productName": "Румяна PATRICK TA 5 г",
+    "brand": "PATRICK TA",
+    "variant": "Thank me later",
+    "sku": "GC004541",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 534,
+    "batch": 11,
+    "status": "skipped",
+    "sourcePage": "https://patrickta.com/products/creme-powder-blush-duos",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact named shade exists in official duo family, but catalogue explicitly specifies5g. Source identifies a creme+powder duo; retailer specifies5g+5g and brand Q&A has6g+4g. No complete5g product established. Do not silently interpret5g as one pan or substitute10g duo.",
+    "searches": [
+      {
+        "query": "Patrick Ta blush Not Too Much She goes to the gym She seductive Soft Launch Thank me later 5g",
+        "url": "https://patrickta.com/products/creme-powder-blush-duos",
+        "note": "Exact named shade exists in official duo family, but catalogue explicitly specifies5g. Source identifies a creme+powder duo; retailer specifies5g+5g and brand Q&A has6g+4g. No complete5g product established. Do not silently interpret5g as one pan or substitute10g duo."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc004539",
+    "variantId": "gc004539",
+    "productName": "Румяна PATRICK TA She's Flushed",
+    "brand": "PATRICK TA",
+    "variant": "Стандарт",
+    "sku": "GC004539",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 535,
+    "batch": 11,
+    "status": "verified",
+    "sourcePage": "https://patrickta.com/products/creme-powder-blush-duos?variant=40371180372049",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0099/0602/8608/files/Major-Headlines-Double-Take-Creme-_-Powder-Blush-Duo-Shes-Flushed.jpg?v=1787340246",
+    "localFile": "materials/catalog-7b/originals/b011-b/Румяна PATRICK TA She's Flushed Стандарт--gc004539.jpg",
+    "verification": {
+      "identity": "Official PatrickTa MajorHeadlinesDoubleTakeCremePowderBlushDuo exact variant40371180372049 SheIsFlushed SoftPeachyPink unique featured_image.",
+      "volumeAndVariant": "Catalogue SheIsFlushed has no5g specification; full-size duo matched. Other5g rows remain skipped due size conflict.",
+      "visualReview": "Whole rose-gold duo on opaque grey studio field with cast shadow. Standard preparation preview required; reject if grey remnants remain. Preview inspected: broad hard grey halo remains, rejected.",
+      "reviewMethod": "view_image original contact sheet plus full Luxvisage02/PradaDahlia/Nars original and all prepared previews",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Patrick Ta blush She Flushed official",
+        "url": "https://patrickta.com/products/creme-powder-blush-duos?variant=40371180372049",
+        "note": "Official PatrickTa MajorHeadlinesDoubleTakeCremePowderBlushDuo exact variant40371180372049 SheIsFlushed SoftPeachyPink unique featured_image. Source JSON/HTML saved under artifacts/step-7b/b011-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 151786,
+    "sha256": "2138ac85de9b1e830d311382ce58ab201084432b3d2f5b4939b026734f4d6577"
+  },
+  {
+    "productId": "parent-0078",
+    "variantId": "gc004542",
+    "productName": "Румяна Prada Touch Blush",
+    "brand": "Prada",
+    "variant": "P71 Bow",
+    "sku": "GC004542",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 536,
+    "batch": 11,
+    "status": "verified",
+    "sourcePage": "https://www.lookfantastic.com/p/prada-touch-blush-3.5g-various-shades/17706829/?variation=17706862",
+    "sourceImage": "https://static.thcdn.com/productimg/original/17706862-1725346420858012.jpg",
+    "localFile": "materials/catalog-7b/originals/b011-b/Румяна Prada Touch Blush P71 Bow--gc004542.jpg",
+    "verification": {
+      "identity": "Lookfantastic ProductGroup structured data exact Bow sku17706862 links unique original photo. Official Prada discovery page confirms P71Bow/P72Dahlia/P75Tulip names; official direct fetch403, retailer source retained.",
+      "volumeAndVariant": "Exact P71 Bow,3.5g standard triangular compact; catalogue no size.",
+      "visualReview": "Complete pale-pink triangular compact showing correct shade, uniform almost-white backdrop RGB250/249/247. No watermark/extra badge/cropped edge. Standard border flood preparation checked for intact edges. Final uniform-background border flood uses existing helper threshold3, removes JPEG near-background specks, keeps identical product bbox and intact contour; full preview checked.",
+      "reviewMethod": "view_image original contact sheet plus full Luxvisage02/PradaDahlia/Nars original and all prepared previews",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Prada Touch Blush P71 Bow P72 Dahlia P75 Tulip",
+        "url": "https://www.lookfantastic.com/p/prada-touch-blush-3.5g-various-shades/17706829/?variation=17706862",
+        "note": "Lookfantastic ProductGroup structured data exact Bow sku17706862 links unique original photo. Official Prada discovery page confirms P71Bow/P72Dahlia/P75Tulip names; official direct fetch403, retailer source retained. Source JSON/HTML saved under artifacts/step-7b/b011-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1500,
+    "height": 2000,
+    "bytes": 131407,
+    "sha256": "7b972a370297a0ec75c46e2dea44cc9ba18dd43bde9459aef6d21856fec84bed"
+  },
+  {
+    "productId": "parent-0078",
+    "variantId": "gc004543",
+    "productName": "Румяна Prada Touch Blush",
+    "brand": "Prada",
+    "variant": "P72 Dahlia",
+    "sku": "GC004543",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 537,
+    "batch": 11,
+    "status": "verified",
+    "sourcePage": "https://www.lookfantastic.com/p/prada-touch-blush-3.5g-various-shades/17706829/?variation=17706886",
+    "sourceImage": "https://static.thcdn.com/productimg/original/17706886-2065346421352478.jpg",
+    "localFile": "materials/catalog-7b/originals/b011-b/Румяна Prada Touch Blush P72 Dahlia--gc004543.jpg",
+    "verification": {
+      "identity": "Lookfantastic ProductGroup structured data exact Dahlia sku17706886 links unique original photo. Official Prada discovery page confirms P71Bow/P72Dahlia/P75Tulip names; official direct fetch403, retailer source retained.",
+      "volumeAndVariant": "Exact P72 Dahlia,3.5g standard triangular compact; catalogue no size.",
+      "visualReview": "Complete pale-pink triangular compact showing correct shade, uniform almost-white backdrop RGB250/249/247. No watermark/extra badge/cropped edge. Standard border flood preparation checked for intact edges. Final uniform-background border flood uses existing helper threshold3, removes JPEG near-background specks, keeps identical product bbox and intact contour; full preview checked.",
+      "reviewMethod": "view_image original contact sheet plus full Luxvisage02/PradaDahlia/Nars original and all prepared previews",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Prada Touch Blush P71 Bow P72 Dahlia P75 Tulip",
+        "url": "https://www.lookfantastic.com/p/prada-touch-blush-3.5g-various-shades/17706829/?variation=17706886",
+        "note": "Lookfantastic ProductGroup structured data exact Dahlia sku17706886 links unique original photo. Official Prada discovery page confirms P71Bow/P72Dahlia/P75Tulip names; official direct fetch403, retailer source retained. Source JSON/HTML saved under artifacts/step-7b/b011-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1500,
+    "height": 2000,
+    "bytes": 131220,
+    "sha256": "820faadc041b79ca33bae45d97bb1f6cfe2a4c2322af6df2c0dfd799a342f423"
+  },
+  {
+    "productId": "parent-0078",
+    "variantId": "gc004544",
+    "productName": "Румяна Prada Touch Blush",
+    "brand": "Prada",
+    "variant": "P75 Tulip",
+    "sku": "GC004544",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 538,
+    "batch": 11,
+    "status": "verified",
+    "sourcePage": "https://www.lookfantastic.com/p/prada-touch-blush-3.5g-various-shades/17706829/?variation=17706867",
+    "sourceImage": "https://static.thcdn.com/productimg/original/17706867-4275346420667332.jpg",
+    "localFile": "materials/catalog-7b/originals/b011-b/Румяна Prada Touch Blush P75 Tulip--gc004544.jpg",
+    "verification": {
+      "identity": "Lookfantastic ProductGroup structured data exact Tulip sku17706867 links unique original photo. Official Prada discovery page confirms P71Bow/P72Dahlia/P75Tulip names; official direct fetch403, retailer source retained.",
+      "volumeAndVariant": "Exact P75 Tulip,3.5g standard triangular compact; catalogue no size.",
+      "visualReview": "Complete pale-pink triangular compact showing correct shade, uniform almost-white backdrop RGB250/249/247. No watermark/extra badge/cropped edge. Standard border flood preparation checked for intact edges. Final uniform-background border flood uses existing helper threshold3, removes JPEG near-background specks, keeps identical product bbox and intact contour; full preview checked.",
+      "reviewMethod": "view_image original contact sheet plus full Luxvisage02/PradaDahlia/Nars original and all prepared previews",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Prada Touch Blush P71 Bow P72 Dahlia P75 Tulip",
+        "url": "https://www.lookfantastic.com/p/prada-touch-blush-3.5g-various-shades/17706829/?variation=17706867",
+        "note": "Lookfantastic ProductGroup structured data exact Tulip sku17706867 links unique original photo. Official Prada discovery page confirms P71Bow/P72Dahlia/P75Tulip names; official direct fetch403, retailer source retained. Source JSON/HTML saved under artifacts/step-7b/b011-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1500,
+    "height": 2000,
+    "bytes": 131301,
+    "sha256": "6c65dc414351753f7b8e70e7622cec24e0b29670988d3cf6e5d958447d5cd240"
+  },
+  {
+    "productId": "gc004545",
+    "variantId": "gc004545",
+    "productName": "Румяна Seven Cool",
+    "brand": "Seven Cool",
+    "variant": "Стандарт",
+    "sku": "GC004545",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 539,
+    "batch": 11,
+    "status": "skipped",
+    "sourcePage": "https://coswin.pk/products/seven-cool-rosie-blush",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Generic catalogue name lacks line, shade, size or model. Search returns single compact,6-colour and8-colour palettes,7-in-1Rosie palette. No exact product established.",
+    "searches": [
+      {
+        "query": "Seven Cool blush",
+        "url": "https://coswin.pk/products/seven-cool-rosie-blush",
+        "note": "Generic catalogue name lacks line, shade, size or model. Search returns single compact,6-colour and8-colour palettes,7-in-1Rosie palette. No exact product established."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  }
+]

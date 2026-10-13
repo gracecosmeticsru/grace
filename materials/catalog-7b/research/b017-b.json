@@ -1,0 +1,927 @@
+[
+  {
+    "productId": "parent-0116",
+    "variantId": "gc001703",
+    "productName": "Карандаш контурный для глаз с витамином Е Relouis",
+    "brand": "Relouis",
+    "variant": "03",
+    "sku": "GC001703",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 820,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/product/karandash-dlya-glaz-s-vitaminom-e-relouis/",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2023/04/Karandashy-1200_G-03.jpg",
+    "localFile": "materials/catalog-7b/originals/b017-b/Карандаш контурный для глаз с витамином Е Relouis 03--gc001703.jpg",
+    "verification": {
+      "identity": "Official vitamin E eye pencil shade 03 exact own gallery linked to shade selection, 1.1g; official HTML product-images group and visible shade number on barrel agree.",
+      "volumeAndVariant": "Exact Карандаш контурный для глаз с витамином Е Relouis shade03. Shade-specific product photo, not swatch gallery or advertising poster.",
+      "visualReview": "Complete closed and open presentations of same exact pencil on white with subtle native shadow.1200square originals, actual physical height about960–1007px excluding shadow. No added text, watermark or cropped contour.",
+      "reviewMethod": "Originals alpha-flattened contain contact sheet and full Relouis03/Color04 and SHIKBergamo; prepared overview and full representatives reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.relouis.by \"карандаш\" \"витамином Е\"",
+        "url": "https://relouis.by/product/karandash-dlya-glaz-s-vitaminom-e-relouis/",
+        "note": "Official vitamin E eye pencil shade 03 exact own gallery linked to shade selection, 1.1g; official HTML product-images group and visible shade number on barrel agree. Source HTML and exact variant metadata saved in artifacts/step-7b/b017-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1200,
+    "bytes": 109999,
+    "sha256": "dd4f1ab2ae6109818fcc4f6fafead974ae55ad205446421650f5bd11b7312666"
+  },
+  {
+    "productId": "parent-0116",
+    "variantId": "gc001704",
+    "productName": "Карандаш контурный для глаз с витамином Е Relouis",
+    "brand": "Relouis",
+    "variant": "04",
+    "sku": "GC001704",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 821,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/product/karandash-dlya-glaz-s-vitaminom-e-relouis/",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2023/04/Karandashy-1200_G-04.jpg",
+    "localFile": "materials/catalog-7b/originals/b017-b/Карандаш контурный для глаз с витамином Е Relouis 04--gc001704.jpg",
+    "verification": {
+      "identity": "Official vitamin E eye pencil shade 04 exact own gallery linked to shade selection, 1.1g; official HTML product-images group and visible shade number on barrel agree.",
+      "volumeAndVariant": "Exact Карандаш контурный для глаз с витамином Е Relouis shade04. Shade-specific product photo, not swatch gallery or advertising poster.",
+      "visualReview": "Complete closed and open presentations of same exact pencil on white with subtle native shadow.1200square originals, actual physical height about960–1007px excluding shadow. No added text, watermark or cropped contour.",
+      "reviewMethod": "Originals alpha-flattened contain contact sheet and full Relouis03/Color04 and SHIKBergamo; prepared overview and full representatives reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.relouis.by \"карандаш\" \"витамином Е\"",
+        "url": "https://relouis.by/product/karandash-dlya-glaz-s-vitaminom-e-relouis/",
+        "note": "Official vitamin E eye pencil shade 04 exact own gallery linked to shade selection, 1.1g; official HTML product-images group and visible shade number on barrel agree. Source HTML and exact variant metadata saved in artifacts/step-7b/b017-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1200,
+    "bytes": 110110,
+    "sha256": "eba925ebc021f9cc50f8ee39f3c63bd018cd42798269fe247e780c1b132fb0eb"
+  },
+  {
+    "productId": "parent-0116",
+    "variantId": "gc001705",
+    "productName": "Карандаш контурный для глаз с витамином Е Relouis",
+    "brand": "Relouis",
+    "variant": "05",
+    "sku": "GC001705",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 822,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/product/karandash-dlya-glaz-s-vitaminom-e-relouis/",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2023/04/Karandashy-1200_G-05.jpg",
+    "localFile": "materials/catalog-7b/originals/b017-b/Карандаш контурный для глаз с витамином Е Relouis 05--gc001705.jpg",
+    "verification": {
+      "identity": "Official vitamin E eye pencil shade 05 exact own gallery linked to shade selection, 1.1g; official HTML product-images group and visible shade number on barrel agree.",
+      "volumeAndVariant": "Exact Карандаш контурный для глаз с витамином Е Relouis shade05. Shade-specific product photo, not swatch gallery or advertising poster.",
+      "visualReview": "Complete closed and open presentations of same exact pencil on white with subtle native shadow.1200square originals, actual physical height about960–1007px excluding shadow. No added text, watermark or cropped contour.",
+      "reviewMethod": "Originals alpha-flattened contain contact sheet and full Relouis03/Color04 and SHIKBergamo; prepared overview and full representatives reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.relouis.by \"карандаш\" \"витамином Е\"",
+        "url": "https://relouis.by/product/karandash-dlya-glaz-s-vitaminom-e-relouis/",
+        "note": "Official vitamin E eye pencil shade 05 exact own gallery linked to shade selection, 1.1g; official HTML product-images group and visible shade number on barrel agree. Source HTML and exact variant metadata saved in artifacts/step-7b/b017-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1200,
+    "bytes": 109070,
+    "sha256": "12abac560f1bd17190d05a66e6b310197244c90e2f86276fd24d829b22fab159"
+  },
+  {
+    "productId": "parent-0116",
+    "variantId": "gc001706",
+    "productName": "Карандаш контурный для глаз с витамином Е Relouis",
+    "brand": "Relouis",
+    "variant": "07",
+    "sku": "GC001706",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 823,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/product/karandash-dlya-glaz-s-vitaminom-e-relouis/",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2023/04/Karandashy-1200_G-07.jpg",
+    "localFile": "materials/catalog-7b/originals/b017-b/Карандаш контурный для глаз с витамином Е Relouis 07--gc001706.jpg",
+    "verification": {
+      "identity": "Official vitamin E eye pencil shade 07 exact own gallery linked to shade selection, 1.1g; official HTML product-images group and visible shade number on barrel agree.",
+      "volumeAndVariant": "Exact Карандаш контурный для глаз с витамином Е Relouis shade07. Shade-specific product photo, not swatch gallery or advertising poster.",
+      "visualReview": "Complete closed and open presentations of same exact pencil on white with subtle native shadow.1200square originals, actual physical height about960–1007px excluding shadow. No added text, watermark or cropped contour.",
+      "reviewMethod": "Originals alpha-flattened contain contact sheet and full Relouis03/Color04 and SHIKBergamo; prepared overview and full representatives reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.relouis.by \"карандаш\" \"витамином Е\"",
+        "url": "https://relouis.by/product/karandash-dlya-glaz-s-vitaminom-e-relouis/",
+        "note": "Official vitamin E eye pencil shade 07 exact own gallery linked to shade selection, 1.1g; official HTML product-images group and visible shade number on barrel agree. Source HTML and exact variant metadata saved in artifacts/step-7b/b017-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1200,
+    "bytes": 109383,
+    "sha256": "985af23ff6219163881d8b71de2507bc7653e5c8c787491f91e179893deb1a96"
+  },
+  {
+    "productId": "parent-0117",
+    "variantId": "gc001707",
+    "productName": "Карандаш механический для глаз Relouis Artistic Color Kajal Contour",
+    "brand": "Relouis",
+    "variant": "01",
+    "sku": "GC001707",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 824,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official current Artistic Color Kajal gallery contains only04 Ultraviolet,05 OliveKhaki,08 Gunpowder. Historical official2021 catalogue confirms assigned shade01 exists, but provides only family illustration, not an isolated exact shade original. No substitution with current04/05/08 or guessed image URL. Fast family search found no suitable original for this shade.",
+    "searches": [
+      {
+        "query": "site.relouis.by \"Artistic Color Kajal Contour\"",
+        "url": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+        "note": "Official current Artistic Color Kajal gallery contains only04 Ultraviolet,05 OliveKhaki,08 Gunpowder. Historical official2021 catalogue confirms assigned shade01 exists, but provides only family illustration, not an isolated exact shade original. No substitution with current04/05/08 or guessed image URL. Fast family search found no suitable original for this shade."
+      },
+      {
+        "query": "site.relouis.by \"Artistic Color Kajal Contour\"",
+        "url": "https://relouis.by/wp-content/uploads/2021/07/KATALOG-2021-sajt-poln.pdf",
+        "note": "Official historical catalogue search excerpt confirms01 champagne02 indigoBlue03 goldSunset04 ultraviolet05 oliveKhaki06 bronze07 turquoise08 gunpowder09 twilightSky10 marsala. No separate exact original photo recovered."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0117",
+    "variantId": "gc001708",
+    "productName": "Карандаш механический для глаз Relouis Artistic Color Kajal Contour",
+    "brand": "Relouis",
+    "variant": "02",
+    "sku": "GC001708",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 825,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official current Artistic Color Kajal gallery contains only04 Ultraviolet,05 OliveKhaki,08 Gunpowder. Historical official2021 catalogue confirms assigned shade02 exists, but provides only family illustration, not an isolated exact shade original. No substitution with current04/05/08 or guessed image URL. Fast family search found no suitable original for this shade.",
+    "searches": [
+      {
+        "query": "site.relouis.by \"Artistic Color Kajal Contour\"",
+        "url": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+        "note": "Official current Artistic Color Kajal gallery contains only04 Ultraviolet,05 OliveKhaki,08 Gunpowder. Historical official2021 catalogue confirms assigned shade02 exists, but provides only family illustration, not an isolated exact shade original. No substitution with current04/05/08 or guessed image URL. Fast family search found no suitable original for this shade."
+      },
+      {
+        "query": "site.relouis.by \"Artistic Color Kajal Contour\"",
+        "url": "https://relouis.by/wp-content/uploads/2021/07/KATALOG-2021-sajt-poln.pdf",
+        "note": "Official historical catalogue search excerpt confirms01 champagne02 indigoBlue03 goldSunset04 ultraviolet05 oliveKhaki06 bronze07 turquoise08 gunpowder09 twilightSky10 marsala. No separate exact original photo recovered."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0117",
+    "variantId": "gc001709",
+    "productName": "Карандаш механический для глаз Relouis Artistic Color Kajal Contour",
+    "brand": "Relouis",
+    "variant": "03",
+    "sku": "GC001709",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 826,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official current Artistic Color Kajal gallery contains only04 Ultraviolet,05 OliveKhaki,08 Gunpowder. Historical official2021 catalogue confirms assigned shade03 exists, but provides only family illustration, not an isolated exact shade original. No substitution with current04/05/08 or guessed image URL. Fast family search found no suitable original for this shade.",
+    "searches": [
+      {
+        "query": "site.relouis.by \"Artistic Color Kajal Contour\"",
+        "url": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+        "note": "Official current Artistic Color Kajal gallery contains only04 Ultraviolet,05 OliveKhaki,08 Gunpowder. Historical official2021 catalogue confirms assigned shade03 exists, but provides only family illustration, not an isolated exact shade original. No substitution with current04/05/08 or guessed image URL. Fast family search found no suitable original for this shade."
+      },
+      {
+        "query": "site.relouis.by \"Artistic Color Kajal Contour\"",
+        "url": "https://relouis.by/wp-content/uploads/2021/07/KATALOG-2021-sajt-poln.pdf",
+        "note": "Official historical catalogue search excerpt confirms01 champagne02 indigoBlue03 goldSunset04 ultraviolet05 oliveKhaki06 bronze07 turquoise08 gunpowder09 twilightSky10 marsala. No separate exact original photo recovered."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0117",
+    "variantId": "gc001710",
+    "productName": "Карандаш механический для глаз Relouis Artistic Color Kajal Contour",
+    "brand": "Relouis",
+    "variant": "04",
+    "sku": "GC001710",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 827,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2025/01/Karandash-mehanicheskij-dlya-glaz-Artistic-Color-Kajal-Contour-04-ultraviolet.jpg",
+    "localFile": "materials/catalog-7b/originals/b017-b/Карандаш механический для глаз Relouis Artistic Color Kajal Contour 04--gc001710.jpg",
+    "verification": {
+      "identity": "Official Artistic Color Kajal Contour exact shade 04-ultraviolet own gallery; official HTML product-images group and visible shade number on barrel agree.",
+      "volumeAndVariant": "Exact Карандаш механический для глаз Relouis Artistic Color Kajal Contour shade04. Shade-specific product photo, not swatch gallery or advertising poster.",
+      "visualReview": "Complete closed and open presentations of same exact pencil on white with subtle native shadow.1200square originals, actual physical height about960–1007px excluding shadow. No added text, watermark or cropped contour.",
+      "reviewMethod": "Originals alpha-flattened contain contact sheet and full Relouis03/Color04 and SHIKBergamo; prepared overview and full representatives reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.relouis.by \"Artistic Color Kajal Contour\"",
+        "url": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+        "note": "Official Artistic Color Kajal Contour exact shade 04-ultraviolet own gallery; official HTML product-images group and visible shade number on barrel agree. Source HTML and exact variant metadata saved in artifacts/step-7b/b017-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1200,
+    "bytes": 208318,
+    "sha256": "6140cf8427f3eb92fd73878d3ca7018e273688890be176b151a343ad8c118c63"
+  },
+  {
+    "productId": "parent-0117",
+    "variantId": "gc001711",
+    "productName": "Карандаш механический для глаз Relouis Artistic Color Kajal Contour",
+    "brand": "Relouis",
+    "variant": "05",
+    "sku": "GC001711",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 828,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2025/01/Karandash-mehanicheskij-dlya-glaz-Artistic-Color-Kajal-Contour-05.jpg",
+    "localFile": "materials/catalog-7b/originals/b017-b/Карандаш механический для глаз Relouis Artistic Color Kajal Contour 05--gc001711.jpg",
+    "verification": {
+      "identity": "Official Artistic Color Kajal Contour exact shade 05 own gallery; official HTML product-images group and visible shade number on barrel agree.",
+      "volumeAndVariant": "Exact Карандаш механический для глаз Relouis Artistic Color Kajal Contour shade05. Shade-specific product photo, not swatch gallery or advertising poster.",
+      "visualReview": "Complete closed and open presentations of same exact pencil on white with subtle native shadow.1200square originals, actual physical height about960–1007px excluding shadow. No added text, watermark or cropped contour.",
+      "reviewMethod": "Originals alpha-flattened contain contact sheet and full Relouis03/Color04 and SHIKBergamo; prepared overview and full representatives reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.relouis.by \"Artistic Color Kajal Contour\"",
+        "url": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+        "note": "Official Artistic Color Kajal Contour exact shade 05 own gallery; official HTML product-images group and visible shade number on barrel agree. Source HTML and exact variant metadata saved in artifacts/step-7b/b017-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1200,
+    "bytes": 194155,
+    "sha256": "d1184ba48f6ac7c58423d64969affe7288f6713893bd92beded0d1f809cfb792"
+  },
+  {
+    "productId": "parent-0117",
+    "variantId": "gc001712",
+    "productName": "Карандаш механический для глаз Relouis Artistic Color Kajal Contour",
+    "brand": "Relouis",
+    "variant": "06",
+    "sku": "GC001712",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 829,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official current Artistic Color Kajal gallery contains only04 Ultraviolet,05 OliveKhaki,08 Gunpowder. Historical official2021 catalogue confirms assigned shade06 exists, but provides only family illustration, not an isolated exact shade original. No substitution with current04/05/08 or guessed image URL. Fast family search found no suitable original for this shade.",
+    "searches": [
+      {
+        "query": "site.relouis.by \"Artistic Color Kajal Contour\"",
+        "url": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+        "note": "Official current Artistic Color Kajal gallery contains only04 Ultraviolet,05 OliveKhaki,08 Gunpowder. Historical official2021 catalogue confirms assigned shade06 exists, but provides only family illustration, not an isolated exact shade original. No substitution with current04/05/08 or guessed image URL. Fast family search found no suitable original for this shade."
+      },
+      {
+        "query": "site.relouis.by \"Artistic Color Kajal Contour\"",
+        "url": "https://relouis.by/wp-content/uploads/2021/07/KATALOG-2021-sajt-poln.pdf",
+        "note": "Official historical catalogue search excerpt confirms01 champagne02 indigoBlue03 goldSunset04 ultraviolet05 oliveKhaki06 bronze07 turquoise08 gunpowder09 twilightSky10 marsala. No separate exact original photo recovered."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0117",
+    "variantId": "gc001713",
+    "productName": "Карандаш механический для глаз Relouis Artistic Color Kajal Contour",
+    "brand": "Relouis",
+    "variant": "07",
+    "sku": "GC001713",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 830,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official current Artistic Color Kajal gallery contains only04 Ultraviolet,05 OliveKhaki,08 Gunpowder. Historical official2021 catalogue confirms assigned shade07 exists, but provides only family illustration, not an isolated exact shade original. No substitution with current04/05/08 or guessed image URL. Fast family search found no suitable original for this shade.",
+    "searches": [
+      {
+        "query": "site.relouis.by \"Artistic Color Kajal Contour\"",
+        "url": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+        "note": "Official current Artistic Color Kajal gallery contains only04 Ultraviolet,05 OliveKhaki,08 Gunpowder. Historical official2021 catalogue confirms assigned shade07 exists, but provides only family illustration, not an isolated exact shade original. No substitution with current04/05/08 or guessed image URL. Fast family search found no suitable original for this shade."
+      },
+      {
+        "query": "site.relouis.by \"Artistic Color Kajal Contour\"",
+        "url": "https://relouis.by/wp-content/uploads/2021/07/KATALOG-2021-sajt-poln.pdf",
+        "note": "Official historical catalogue search excerpt confirms01 champagne02 indigoBlue03 goldSunset04 ultraviolet05 oliveKhaki06 bronze07 turquoise08 gunpowder09 twilightSky10 marsala. No separate exact original photo recovered."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0117",
+    "variantId": "gc001714",
+    "productName": "Карандаш механический для глаз Relouis Artistic Color Kajal Contour",
+    "brand": "Relouis",
+    "variant": "08",
+    "sku": "GC001714",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 831,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2025/01/Karandash-mehanicheskij-dlya-glaz-Artistic-Color-Kajal-Contour-08.jpg",
+    "localFile": "materials/catalog-7b/originals/b017-b/Карандаш механический для глаз Relouis Artistic Color Kajal Contour 08--gc001714.jpg",
+    "verification": {
+      "identity": "Official Artistic Color Kajal Contour exact shade 08 own gallery; official HTML product-images group and visible shade number on barrel agree.",
+      "volumeAndVariant": "Exact Карандаш механический для глаз Relouis Artistic Color Kajal Contour shade08. Shade-specific product photo, not swatch gallery or advertising poster.",
+      "visualReview": "Complete closed and open presentations of same exact pencil on white with subtle native shadow.1200square originals, actual physical height about960–1007px excluding shadow. No added text, watermark or cropped contour.",
+      "reviewMethod": "Originals alpha-flattened contain contact sheet and full Relouis03/Color04 and SHIKBergamo; prepared overview and full representatives reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.relouis.by \"Artistic Color Kajal Contour\"",
+        "url": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+        "note": "Official Artistic Color Kajal Contour exact shade 08 own gallery; official HTML product-images group and visible shade number on barrel agree. Source HTML and exact variant metadata saved in artifacts/step-7b/b017-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1200,
+    "bytes": 192557,
+    "sha256": "d4710bd9dd7f964f9c8f26e86bc33ab0422327a585e15912212fd97c89c552d9"
+  },
+  {
+    "productId": "parent-0117",
+    "variantId": "gc001715",
+    "productName": "Карандаш механический для глаз Relouis Artistic Color Kajal Contour",
+    "brand": "Relouis",
+    "variant": "09",
+    "sku": "GC001715",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 832,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official current Artistic Color Kajal gallery contains only04 Ultraviolet,05 OliveKhaki,08 Gunpowder. Historical official2021 catalogue confirms assigned shade09 exists, but provides only family illustration, not an isolated exact shade original. No substitution with current04/05/08 or guessed image URL. Fast family search found no suitable original for this shade.",
+    "searches": [
+      {
+        "query": "site.relouis.by \"Artistic Color Kajal Contour\"",
+        "url": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+        "note": "Official current Artistic Color Kajal gallery contains only04 Ultraviolet,05 OliveKhaki,08 Gunpowder. Historical official2021 catalogue confirms assigned shade09 exists, but provides only family illustration, not an isolated exact shade original. No substitution with current04/05/08 or guessed image URL. Fast family search found no suitable original for this shade."
+      },
+      {
+        "query": "site.relouis.by \"Artistic Color Kajal Contour\"",
+        "url": "https://relouis.by/wp-content/uploads/2021/07/KATALOG-2021-sajt-poln.pdf",
+        "note": "Official historical catalogue search excerpt confirms01 champagne02 indigoBlue03 goldSunset04 ultraviolet05 oliveKhaki06 bronze07 turquoise08 gunpowder09 twilightSky10 marsala. No separate exact original photo recovered."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0117",
+    "variantId": "gc001716",
+    "productName": "Карандаш механический для глаз Relouis Artistic Color Kajal Contour",
+    "brand": "Relouis",
+    "variant": "10",
+    "sku": "GC001716",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 833,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official current Artistic Color Kajal gallery contains only04 Ultraviolet,05 OliveKhaki,08 Gunpowder. Historical official2021 catalogue confirms assigned shade10 exists, but provides only family illustration, not an isolated exact shade original. No substitution with current04/05/08 or guessed image URL. Fast family search found no suitable original for this shade.",
+    "searches": [
+      {
+        "query": "site.relouis.by \"Artistic Color Kajal Contour\"",
+        "url": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-color-kajal-contour/",
+        "note": "Official current Artistic Color Kajal gallery contains only04 Ultraviolet,05 OliveKhaki,08 Gunpowder. Historical official2021 catalogue confirms assigned shade10 exists, but provides only family illustration, not an isolated exact shade original. No substitution with current04/05/08 or guessed image URL. Fast family search found no suitable original for this shade."
+      },
+      {
+        "query": "site.relouis.by \"Artistic Color Kajal Contour\"",
+        "url": "https://relouis.by/wp-content/uploads/2021/07/KATALOG-2021-sajt-poln.pdf",
+        "note": "Official historical catalogue search excerpt confirms01 champagne02 indigoBlue03 goldSunset04 ultraviolet05 oliveKhaki06 bronze07 turquoise08 gunpowder09 twilightSky10 marsala. No separate exact original photo recovered."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0118",
+    "variantId": "gc001717",
+    "productName": "Карандаш механический для глаз Relouis Artistic Velvet Kajal Contour",
+    "brand": "Relouis",
+    "variant": "01",
+    "sku": "GC001717",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 834,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-velvet-kajal-contour/",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2023/10/Velvet-Kajal-1200_01-2.jpg",
+    "localFile": "materials/catalog-7b/originals/b017-b/Карандаш механический для глаз Relouis Artistic Velvet Kajal Contour 01--gc001717.jpg",
+    "verification": {
+      "identity": "Official Artistic Velvet Kajal Contour exact shade 01 own gallery; official HTML product-images group and visible shade number on barrel agree.",
+      "volumeAndVariant": "Exact Карандаш механический для глаз Relouis Artistic Velvet Kajal Contour shade01. Shade-specific product photo, not swatch gallery or advertising poster.",
+      "visualReview": "Complete closed and open presentations of same exact pencil on white with subtle native shadow.1200square originals, actual physical height about960–1007px excluding shadow. No added text, watermark or cropped contour.",
+      "reviewMethod": "Originals alpha-flattened contain contact sheet and full Relouis03/Color04 and SHIKBergamo; prepared overview and full representatives reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.relouis.by \"Artistic Velvet Kajal Contour\"",
+        "url": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-velvet-kajal-contour/",
+        "note": "Official Artistic Velvet Kajal Contour exact shade 01 own gallery; official HTML product-images group and visible shade number on barrel agree. Source HTML and exact variant metadata saved in artifacts/step-7b/b017-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1200,
+    "bytes": 96675,
+    "sha256": "7e8cf292e6e19bebf3997dd8a364e04a13fb94bc90e7dfd6f6793166679b6823"
+  },
+  {
+    "productId": "parent-0118",
+    "variantId": "gc001718",
+    "productName": "Карандаш механический для глаз Relouis Artistic Velvet Kajal Contour",
+    "brand": "Relouis",
+    "variant": "02",
+    "sku": "GC001718",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 835,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-velvet-kajal-contour/",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2023/10/Velvet-Kajal-1200_02-2.jpg",
+    "localFile": "materials/catalog-7b/originals/b017-b/Карандаш механический для глаз Relouis Artistic Velvet Kajal Contour 02--gc001718.jpg",
+    "verification": {
+      "identity": "Official Artistic Velvet Kajal Contour exact shade 02 own gallery; official HTML product-images group and visible shade number on barrel agree.",
+      "volumeAndVariant": "Exact Карандаш механический для глаз Relouis Artistic Velvet Kajal Contour shade02. Shade-specific product photo, not swatch gallery or advertising poster.",
+      "visualReview": "Complete closed and open presentations of same exact pencil on white with subtle native shadow.1200square originals, actual physical height about960–1007px excluding shadow. No added text, watermark or cropped contour.",
+      "reviewMethod": "Originals alpha-flattened contain contact sheet and full Relouis03/Color04 and SHIKBergamo; prepared overview and full representatives reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.relouis.by \"Artistic Velvet Kajal Contour\"",
+        "url": "https://relouis.by/product/karandash-mehanicheskij-dlya-glaz-artistic-velvet-kajal-contour/",
+        "note": "Official Artistic Velvet Kajal Contour exact shade 02 own gallery; official HTML product-images group and visible shade number on barrel agree. Source HTML and exact variant metadata saved in artifacts/step-7b/b017-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1200,
+    "bytes": 112884,
+    "sha256": "d08ebc437f31e0ec3d92bbd64b461a7c7b71f646a902493527bfe7d6b77c0720"
+  },
+  {
+    "productId": "gc001804",
+    "variantId": "gc001804",
+    "productName": "Карандаш для глаз SHIK Eye Pencil, BERGAMO",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001804",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 836,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://shikstore.kz/product/karandas-dla-glaz-bergamo-shikstudio?color=BERGAMO",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/5151/variations/1733371862675127d65d0b01.74796041_1080_1520_inset.webp",
+    "localFile": "materials/catalog-7b/originals/b017-b/Карандаш для глаз SHIK Eye Pencil, BERGAMO Стандарт--gc001804.webp",
+    "verification": {
+      "identity": "Official SHIK productVariations {\"id\": \"5151-481\", \"name\": \"EYE PENCIL, BERGAMO, 4650375901608\", \"price\": 4105.5, \"brand\": \"SHIK studio\", \"variant\": \"BERGAMO\", \"category\": \"Глаза\", \"quantity\": 1} linked exact own productPhoto variation ID. No default cross-shade image.",
+      "volumeAndVariant": "Exact named BERGAMO and Карандаш для глаз SHIK Eye Pencil, BERGAMO. Official2024/2025 light packaging, not a different family.",
+      "visualReview": "Whole pencil on opaque two-tone grey/pink scene with hard cast shadow. Source has alpha only at margins; white flatten still leaves opaque grey scene, confirmed in white-composited contact sheet. Not eligible for plain background cleanup.",
+      "reviewMethod": "Originals alpha-flattened contain contact sheet and full Relouis03/Color04 and SHIKBergamo; prepared overview and full representatives reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK Eye Pencil BERGAMO PALERMO официальный",
+        "url": "https://shikstore.kz/product/karandas-dla-glaz-bergamo-shikstudio?color=BERGAMO",
+        "note": "Official SHIK productVariations {\"id\": \"5151-481\", \"name\": \"EYE PENCIL, BERGAMO, 4650375901608\", \"price\": 4105.5, \"brand\": \"SHIK studio\", \"variant\": \"BERGAMO\", \"category\": \"Глаза\", \"quantity\": 1} linked exact own productPhoto variation ID. No default cross-shade image. Source HTML and exact variant metadata saved in artifacts/step-7b/b017-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1520,
+    "bytes": 4956,
+    "sha256": "fd1052582592f94f4c79fdadc7f941b82f14d716953279001b17512548833346"
+  },
+  {
+    "productId": "gc001805",
+    "variantId": "gc001805",
+    "productName": "Карандаш для глаз SHIK Eye Pencil, PALERMO",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001805",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 837,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://shikstore.kz/product/karandas-dla-glaz-bergamo-shikstudio?color=PALERMO",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/5151/variations/173337200767512867da6079.07450767_1080_1520_inset.webp",
+    "localFile": "materials/catalog-7b/originals/b017-b/Карандаш для глаз SHIK Eye Pencil, PALERMO Стандарт--gc001805.webp",
+    "verification": {
+      "identity": "Official SHIK productVariations {\"id\": \"5151-483\", \"name\": \"EYE PENCIL, PALERMO, 4650375901370\", \"price\": 4105.5, \"brand\": \"SHIK studio\", \"variant\": \"PALERMO\", \"category\": \"Глаза\", \"quantity\": 1} linked exact own productPhoto variation ID. No default cross-shade image.",
+      "volumeAndVariant": "Exact named PALERMO and Карандаш для глаз SHIK Eye Pencil, PALERMO. Official2024/2025 light packaging, not a different family.",
+      "visualReview": "Whole pencil on opaque two-tone grey/pink scene with hard cast shadow. Source has alpha only at margins; white flatten still leaves opaque grey scene, confirmed in white-composited contact sheet. Not eligible for plain background cleanup.",
+      "reviewMethod": "Originals alpha-flattened contain contact sheet and full Relouis03/Color04 and SHIKBergamo; prepared overview and full representatives reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK Eye Pencil BERGAMO PALERMO официальный",
+        "url": "https://shikstore.kz/product/karandas-dla-glaz-bergamo-shikstudio?color=PALERMO",
+        "note": "Official SHIK productVariations {\"id\": \"5151-483\", \"name\": \"EYE PENCIL, PALERMO, 4650375901370\", \"price\": 4105.5, \"brand\": \"SHIK studio\", \"variant\": \"PALERMO\", \"category\": \"Глаза\", \"quantity\": 1} linked exact own productPhoto variation ID. No default cross-shade image. Source HTML and exact variant metadata saved in artifacts/step-7b/b017-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1520,
+    "bytes": 5110,
+    "sha256": "b5f7d00c2741ddb6a742ab9fe32b4067f74da10d4658bea314833bdf54c19279"
+  },
+  {
+    "productId": "gc001812",
+    "variantId": "gc001812",
+    "productName": "Карандаш для макияжа 4 в SHIK 1 Mekeup pencil, SIENA",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001812",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup"
+    ],
+    "index": 838,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/en/product/karandas-dla-makiaza-siena-shikstudio",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/5160/variations/1733371542675126968c01f7.67468161_1080_1520_inset.webp",
+    "localFile": "materials/catalog-7b/originals/b017-b/Карандаш для макияжа 4 в SHIK 1 Mekeup pencil, SIENA Стандарт--gc001812.webp",
+    "verification": {
+      "identity": "Official SHIK productVariations {\"id\": \"5160-516\", \"name\": \"MAKEUP PENCIL SIENA, SIENA, 4650375901325\", \"price\": 1150, \"brand\": \"SHIK studio\", \"variant\": \"SIENA\", \"category\": \"Eyebrows / Lips / Eyes\", \"quantity\": 1} linked exact own productPhoto variation ID. No default cross-shade image.",
+      "volumeAndVariant": "Exact named SIENA and Карандаш для макияжа 4 в SHIK 1 Mekeup pencil, SIENA. Official2024/2025 light packaging, not a different family.",
+      "visualReview": "Close-up of Siena pencil, lower physical body clipped by frame; opaque light grey/pink staged background.",
+      "reviewMethod": "Originals alpha-flattened contain contact sheet and full Relouis03/Color04 and SHIKBergamo; prepared overview and full representatives reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK SIENA 4 in 1 makeup pencil shikstore",
+        "url": "https://shikstore.ru/en/product/karandas-dla-makiaza-siena-shikstudio",
+        "note": "Official SHIK productVariations {\"id\": \"5160-516\", \"name\": \"MAKEUP PENCIL SIENA, SIENA, 4650375901325\", \"price\": 1150, \"brand\": \"SHIK studio\", \"variant\": \"SIENA\", \"category\": \"Eyebrows / Lips / Eyes\", \"quantity\": 1} linked exact own productPhoto variation ID. No default cross-shade image. Source HTML and exact variant metadata saved in artifacts/step-7b/b017-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1520,
+    "bytes": 5470,
+    "sha256": "f9922acc61745ec6775de963cf52925095697efe70117882bc2119e962f5d4d1"
+  },
+  {
+    "productId": "gc001847",
+    "variantId": "gc001847",
+    "productName": "Стойкий каял для глаз карандаш для глаз SHIK 01 Passion",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001847",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 839,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/en/product/kajal-dla-glaz-01-passion-shikstudio",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/5099/variations/1737353651678de9b3eab406.78866049_1080_1520_inset.webp",
+    "localFile": "materials/catalog-7b/originals/b017-b/Стойкий каял для глаз карандаш для глаз SHIK 01 Passion Стандарт--gc001847.webp",
+    "verification": {
+      "identity": "Official SHIK productVariations {\"id\": \"5099-517\", \"name\": \"KAJAL LINER, 01 PASSION, 4650375901035\", \"price\": 1190, \"brand\": \"SHIK studio\", \"variant\": \"01 PASSION\", \"category\": \"Глаза\", \"quantity\": 1} linked exact own productPhoto variation ID. No default cross-shade image.",
+      "volumeAndVariant": "Exact named 01 PASSION and Стойкий каял для глаз карандаш для глаз SHIK 01 Passion. Official2024/2025 light packaging, not a different family.",
+      "visualReview": "Whole pencil on opaque two-tone grey/pink scene with hard cast shadow. Source has alpha only at margins; white flatten still leaves opaque grey scene, confirmed in white-composited contact sheet. Not eligible for plain background cleanup.",
+      "reviewMethod": "Originals alpha-flattened contain contact sheet and full Relouis03/Color04 and SHIKBergamo; prepared overview and full representatives reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.shikstore.ru/product \"KAJAL LINER\" \"Passion\"",
+        "url": "https://shikstore.ru/en/product/kajal-dla-glaz-01-passion-shikstudio",
+        "note": "Official SHIK productVariations {\"id\": \"5099-517\", \"name\": \"KAJAL LINER, 01 PASSION, 4650375901035\", \"price\": 1190, \"brand\": \"SHIK studio\", \"variant\": \"01 PASSION\", \"category\": \"Глаза\", \"quantity\": 1} linked exact own productPhoto variation ID. No default cross-shade image. Source HTML and exact variant metadata saved in artifacts/step-7b/b017-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1520,
+    "bytes": 6070,
+    "sha256": "d2b43cffc128e9aed2744eddda4ac2a0bbff4789cc658a2d302ae8bfd1e84c77"
+  }
+]

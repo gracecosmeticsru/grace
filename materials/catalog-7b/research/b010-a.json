@@ -1,0 +1,544 @@
+[
+  {
+    "index": 451,
+    "productId": "parent-0059",
+    "variantId": "gc002089",
+    "productName": "Румяна пудровые Yves Saint Laurent",
+    "variant": "87",
+    "sourcePage": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/make-me-blush-24h-buildable-blurring-powder-blush/3614274727609.html?gclsrc=aw.ds&geo=false",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed powder-blush page confirms87 Pink Voltage and93 Restless Rose, but returned default10 gallery does not establish exact selected shade packshot. Prior same-family b009-c original retrieval had an automatic policy rejection; no blocked request retried. Quick pass skips without assigning default shade image.",
+    "searches": [
+      {
+        "query": "site:yslbeautyus.com blush \"87\" \"93\"",
+        "url": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/make-me-blush-24h-buildable-blurring-powder-blush/3614274727609.html?gclsrc=aw.ds&geo=false",
+        "note": "Official indexed powder-blush page confirms87 Pink Voltage and93 Restless Rose, but returned default10 gallery does not establish exact selected shade packshot. Prior same-family b009-c original retrieval had an automatic policy rejection; no blocked request retried. Quick pass skips without assigning default shade image."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 452,
+    "productId": "gc002090",
+    "variantId": "gc002090",
+    "productName": "Румяна пудровые Yves Saint Laurent 93 Restless Rose",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/make-me-blush-24h-buildable-blurring-powder-blush/3614274727609.html?gclsrc=aw.ds&geo=false",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed powder-blush page confirms87 Pink Voltage and93 Restless Rose, but returned default10 gallery does not establish exact selected shade packshot. Prior same-family b009-c original retrieval had an automatic policy rejection; no blocked request retried. Quick pass skips without assigning default shade image.",
+    "searches": [
+      {
+        "query": "site:yslbeautyus.com blush \"87\" \"93\"",
+        "url": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/make-me-blush-24h-buildable-blurring-powder-blush/3614274727609.html?gclsrc=aw.ds&geo=false",
+        "note": "Official indexed powder-blush page confirms87 Pink Voltage and93 Restless Rose, but returned default10 gallery does not establish exact selected shade packshot. Prior same-family b009-c original retrieval had an automatic policy rejection; no blocked request retried. Quick pass skips without assigning default shade image."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 453,
+    "productId": "parent-0060",
+    "variantId": "gc002392",
+    "productName": "Бальзам тинт для губ Charlotte Tilbury",
+    "variant": "BLUSHED Rose",
+    "sourcePage": "https://www.charlottetilbury.com/eu/product/pillow-talk-blush-balm-lip-tint-blushed-rose",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/4CJfHqavRZ5va4JZDG6WWi/a423b9b990f24c00d7b82c43d46e3ae9/PT_Blush_Balm_-_Blushed_Rose_-_Open.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b010-a/Бальзам тинт для губ Charlotte Tilbury BLUSHED Rose--gc002392.png",
+    "verification": {
+      "identity": "Official Charlotte Tilbury Pillow Talk Blush Balm Lip Tint; exact named shade Blushed Rose. Exact shade page links and title inspected; its own og:image retained.",
+      "volumeAndVariant": "Catalog specifies the balm tint and exact shade, no weight. Official standard presentation for this named shade; not a different Pillow Talk lipstick or lip oil.",
+      "visualReview": "Original and prepared output visually inspected: whole rose-gold tube with separate cap, exact visible bullet shade, clean white background and natural soft source shadow. No badge, watermark, clipping or substituted shade. Visible source object 832px; prepared object1020px on1200square.",
+      "reviewMethod": "Official exact shade page or variant image mapping; retained original and full-fit contact sheet inspected; prepared outputs reviewed when ready.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:charlottetilbury.com \"Blushed Rose\" \"90s Kiss\"",
+        "url": "https://www.charlottetilbury.com/eu/product/pillow-talk-blush-balm-lip-tint-blushed-rose",
+        "note": "Official Charlotte Tilbury Pillow Talk Blush Balm Lip Tint; exact named shade Blushed Rose. Exact shade page links and title inspected; its own og:image retained."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 239911,
+    "sha256": "bff08f0e1d1d19d7d04468fb796a305d904b186b16e2fe46475336508ea00a8c"
+  },
+  {
+    "index": 454,
+    "productId": "parent-0060",
+    "variantId": "gc002390",
+    "productName": "Бальзам тинт для губ Charlotte Tilbury",
+    "variant": "pillow talk",
+    "sourcePage": "https://www.charlottetilbury.com/eu/product/pillow-talk-blush-balm-lip-tint-pillow-talk",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/1bBBG2CbTFT5Bs23lRHE9h/70230b8eb57d1ec8592185b26bae92a4/PT_Blush_Balm_-_PT_-_Open.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b010-a/Бальзам тинт для губ Charlotte Tilbury pillow talk--gc002390.png",
+    "verification": {
+      "identity": "Official Charlotte Tilbury Pillow Talk Blush Balm Lip Tint; exact named shade Pillow Talk. Exact shade page links and title inspected; its own og:image retained.",
+      "volumeAndVariant": "Catalog specifies the balm tint and exact shade, no weight. Official standard presentation for this named shade; not a different Pillow Talk lipstick or lip oil.",
+      "visualReview": "Original and prepared output visually inspected: whole rose-gold tube with separate cap, exact visible bullet shade, clean white background and natural soft source shadow. No badge, watermark, clipping or substituted shade. Visible source object 832px; prepared object1020px on1200square.",
+      "reviewMethod": "Official exact shade page or variant image mapping; retained original and full-fit contact sheet inspected; prepared outputs reviewed when ready.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:charlottetilbury.com \"Blushed Rose\" \"90s Kiss\"",
+        "url": "https://www.charlottetilbury.com/eu/product/pillow-talk-blush-balm-lip-tint-pillow-talk",
+        "note": "Official Charlotte Tilbury Pillow Talk Blush Balm Lip Tint; exact named shade Pillow Talk. Exact shade page links and title inspected; its own og:image retained."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 241474,
+    "sha256": "4035fae788e80cdd58c20156005975d3eba512cede64e2c077ceb47edb06c888"
+  },
+  {
+    "index": 455,
+    "productId": "parent-0060",
+    "variantId": "gc002393",
+    "productName": "Бальзам тинт для губ Charlotte Tilbury",
+    "variant": "90S KISS",
+    "sourcePage": "https://www.charlottetilbury.com/eu/product/pillow-talk-blush-balm-lip-tint-90s-kiss",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/68GC0eToWLsvMkE0UPK5jc/e4f052643939e945f72601fb416bc261/PT_Blush_Balm_-_90s_Kiss_-_Open.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b010-a/Бальзам тинт для губ Charlotte Tilbury 90S KISS--gc002393.png",
+    "verification": {
+      "identity": "Official Charlotte Tilbury Pillow Talk Blush Balm Lip Tint; exact named shade 90s Kiss. Exact shade page links and title inspected; its own og:image retained.",
+      "volumeAndVariant": "Catalog specifies the balm tint and exact shade, no weight. Official standard presentation for this named shade; not a different Pillow Talk lipstick or lip oil.",
+      "visualReview": "Original and prepared output visually inspected: whole rose-gold tube with separate cap, exact visible bullet shade, clean white background and natural soft source shadow. No badge, watermark, clipping or substituted shade. Visible source object 832px; prepared object1020px on1200square.",
+      "reviewMethod": "Official exact shade page or variant image mapping; retained original and full-fit contact sheet inspected; prepared outputs reviewed when ready.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:charlottetilbury.com \"Blushed Rose\" \"90s Kiss\"",
+        "url": "https://www.charlottetilbury.com/eu/product/pillow-talk-blush-balm-lip-tint-90s-kiss",
+        "note": "Official Charlotte Tilbury Pillow Talk Blush Balm Lip Tint; exact named shade 90s Kiss. Exact shade page links and title inspected; its own og:image retained."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 242034,
+    "sha256": "3c710e6ba79eeffa84e0d79fe637d42d01b06bb67d979e077883024a5504234b"
+  },
+  {
+    "index": 456,
+    "productId": "parent-0060",
+    "variantId": "gc002394",
+    "productName": "Бальзам тинт для губ Charlotte Tilbury",
+    "variant": "CHERRY TALK",
+    "sourcePage": "https://www.charlottetilbury.com/eu/product/pillow-talk-blush-balm-lip-tint-cherry-talk",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/1Z9abcUTRKEBl6TcFlxCom/ff40f74e631c078c68dd39aa2532281b/PT_Blush_Balm_-_Cherry_Talk_-_Open.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b010-a/Бальзам тинт для губ Charlotte Tilbury CHERRY TALK--gc002394.png",
+    "verification": {
+      "identity": "Official Charlotte Tilbury Pillow Talk Blush Balm Lip Tint; exact named shade Cherry Talk. Exact shade page links and title inspected; its own og:image retained.",
+      "volumeAndVariant": "Catalog specifies the balm tint and exact shade, no weight. Official standard presentation for this named shade; not a different Pillow Talk lipstick or lip oil.",
+      "visualReview": "Original and prepared output visually inspected: whole rose-gold tube with separate cap, exact visible bullet shade, clean white background and natural soft source shadow. No badge, watermark, clipping or substituted shade. Visible source object 832px; prepared object1020px on1200square.",
+      "reviewMethod": "Official exact shade page or variant image mapping; retained original and full-fit contact sheet inspected; prepared outputs reviewed when ready.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:charlottetilbury.com \"Blushed Rose\" \"90s Kiss\"",
+        "url": "https://www.charlottetilbury.com/eu/product/pillow-talk-blush-balm-lip-tint-cherry-talk",
+        "note": "Official Charlotte Tilbury Pillow Talk Blush Balm Lip Tint; exact named shade Cherry Talk. Exact shade page links and title inspected; its own og:image retained."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 239415,
+    "sha256": "e6d684d88188427d0aa78a342de7f878f6fb915a6ed4b6aca782f8bee34a65b2"
+  },
+  {
+    "index": 457,
+    "productId": "parent-0060",
+    "variantId": "gc002395",
+    "productName": "Бальзам тинт для губ Charlotte Tilbury",
+    "variant": "pillow talk medium",
+    "sourcePage": "https://www.charlottetilbury.com/eu/product/pillow-talk-blush-balm-lip-tint-pillow-talk-medium",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/6F2Cq5XYOBeWE0CT3KJKfC/40cabfab3b0a2457950e60a7bee69e19/PT_Blush_Balm_-_PT_Medium_-_Open.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b010-a/Бальзам тинт для губ Charlotte Tilbury pillow talk medium--gc002395.png",
+    "verification": {
+      "identity": "Official Charlotte Tilbury Pillow Talk Blush Balm Lip Tint; exact named shade Pillow Talk Medium. Exact shade page links and title inspected; its own og:image retained.",
+      "volumeAndVariant": "Catalog specifies the balm tint and exact shade, no weight. Official standard presentation for this named shade; not a different Pillow Talk lipstick or lip oil.",
+      "visualReview": "Original and prepared output visually inspected: whole rose-gold tube with separate cap, exact visible bullet shade, clean white background and natural soft source shadow. No badge, watermark, clipping or substituted shade. Visible source object 832px; prepared object1020px on1200square.",
+      "reviewMethod": "Official exact shade page or variant image mapping; retained original and full-fit contact sheet inspected; prepared outputs reviewed when ready.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:charlottetilbury.com \"Blushed Rose\" \"90s Kiss\"",
+        "url": "https://www.charlottetilbury.com/eu/product/pillow-talk-blush-balm-lip-tint-pillow-talk-medium",
+        "note": "Official Charlotte Tilbury Pillow Talk Blush Balm Lip Tint; exact named shade Pillow Talk Medium. Exact shade page links and title inspected; its own og:image retained."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 238824,
+    "sha256": "9252ab052861a62afe74ad14c2fc4916b76bd6ee62fccdb9685540ee7e5c0baf"
+  },
+  {
+    "index": 458,
+    "productId": "gc002484",
+    "variantId": "gc002484",
+    "productName": "Блеск стойкий для губ Haus Labs «Sheer Blush»",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.hauslabs.com/products/atomic-shake-lip-lacquer.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_AtomicShake_Silo_Closed_Sheer_Blush_RGB300_1_7e52bf86-6417-499e-a4c0-1436f84936ec.png?v=1789658414",
+    "localFile": "materials/catalog-7b/originals/b010-a/Блеск стойкий для губ Haus Labs «Sheer Blush» Стандарт--gc002484.png",
+    "verification": {
+      "identity": "Official Haus Labs Atomic Shake Lip Lacquer Sheer Blush. Exact Shopify variant 44003226615896 maps featured_image 45926934773848 to the retained original.",
+      "volumeAndVariant": "Catalog durable lip gloss Sheer Blush matches official lacquer shade. Sephora exact shade page sku2977874 confirms standard4ml; catalog does not specify size.",
+      "visualReview": "Full-fit original visually inspected: correct closed tube, but red Allure award badge in upper-right. Source retained as verified identity; preparation blocked, no badge removal or cropping.",
+      "reviewMethod": "Official exact shade page or variant image mapping; retained original and full-fit contact sheet inspected; prepared outputs reviewed when ready.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:hauslabs.com \"Sheer Blush\"; \"Haus Labs\" \"Sheer Blush\" gloss",
+        "url": "https://www.hauslabs.com/products/atomic-shake-lip-lacquer.js",
+        "note": "Official Haus Labs Atomic Shake Lip Lacquer Sheer Blush. Exact Shopify variant 44003226615896 maps featured_image 45926934773848 to the retained original."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1400,
+    "height": 1400,
+    "format": "PNG",
+    "bytes": 224480,
+    "sha256": "d99d43d7f103a419e2c61db2c40b727dcba4a7e5e5a87538397237d71062eb01"
+  },
+  {
+    "index": 459,
+    "productId": "parent-0061",
+    "variantId": "gc002788",
+    "productName": "Жидкая матовая помада PATRICK TA",
+    "variant": "Blushing",
+    "sourcePage": "https://patrickta.com/collections/powder-blush",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog calls product liquid matte lipstick, while actual family search yields She's Blushing / She's Flushed as powder/creme blush duos on official powder-blush collection. No matching lipstick identity established; blush photo must not be assigned to a lipstick.",
+    "searches": [
+      {
+        "query": "site:patrickta.com \"Blushing\" \"Flushed\"; \"Patrick Ta\" \"Blushing\" \"Flushed\"",
+        "url": "https://patrickta.com/collections/powder-blush",
+        "note": "Catalog calls product liquid matte lipstick, while actual family search yields She's Blushing / She's Flushed as powder/creme blush duos on official powder-blush collection. No matching lipstick identity established; blush photo must not be assigned to a lipstick."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 460,
+    "productId": "parent-0061",
+    "variantId": "gc002789",
+    "productName": "Жидкая матовая помада PATRICK TA",
+    "variant": "Flushed",
+    "sourcePage": "https://patrickta.com/collections/powder-blush",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog calls product liquid matte lipstick, while actual family search yields She's Blushing / She's Flushed as powder/creme blush duos on official powder-blush collection. No matching lipstick identity established; blush photo must not be assigned to a lipstick.",
+    "searches": [
+      {
+        "query": "site:patrickta.com \"Blushing\" \"Flushed\"; \"Patrick Ta\" \"Blushing\" \"Flushed\"",
+        "url": "https://patrickta.com/collections/powder-blush",
+        "note": "Catalog calls product liquid matte lipstick, while actual family search yields She's Blushing / She's Flushed as powder/creme blush duos on official powder-blush collection. No matching lipstick identity established; blush photo must not be assigned to a lipstick."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 461,
+    "productId": "parent-0062",
+    "variantId": "gc002793",
+    "productName": "Жидкие румяна Rare Beauty",
+    "variant": "Adore",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-SP-LIQUID-BLUSH-DEWY-ADORE.jpg?v=1764180906",
+    "localFile": "materials/catalog-7b/originals/b010-a/Жидкие румяна Rare Beauty Adore--gc002793.jpg",
+    "verification": {
+      "identity": "Official Rare Beauty Soft Pinch Liquid Blush Adore. Exact Shopify variant 43734829891719 maps featured_image 36112360702087 to this retained original.",
+      "volumeAndVariant": "Exact named shade in standard Soft Pinch Liquid Blush product, dewy finish. Catalog does not specify volume; no invented catalog weight or miniature substitution.",
+      "visualReview": "Full-fit original visually inspected: correct shade bottle, but opaque beige studio scene with horizon and long cast shadow. Preparation blocked; no scene recoloring or shadow clipping.",
+      "reviewMethod": "Official exact shade page or variant image mapping; retained original and full-fit contact sheet inspected; prepared outputs reviewed when ready.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com \"Soft Pinch Liquid Blush\" \"Adore\"",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush.js",
+        "note": "Official Rare Beauty Soft Pinch Liquid Blush Adore. Exact Shopify variant 43734829891719 maps featured_image 36112360702087 to this retained original."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 45936,
+    "sha256": "54e0b3a71fa5090e906423d7773f62f0c49ac3ab438f1c9c18d1b7aaa297a882"
+  },
+  {
+    "index": 462,
+    "productId": "parent-0062",
+    "variantId": "gc002794",
+    "productName": "Жидкие румяна Rare Beauty",
+    "variant": "Believe",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-SP-LIQUID-BLUSH-DEWY-BELIEVE.jpg?v=1764122517",
+    "localFile": "materials/catalog-7b/originals/b010-a/Жидкие румяна Rare Beauty Believe--gc002794.jpg",
+    "verification": {
+      "identity": "Official Rare Beauty Soft Pinch Liquid Blush Believe. Exact Shopify variant 43734829760647 maps featured_image 32675184279687 to this retained original.",
+      "volumeAndVariant": "Exact named shade in standard Soft Pinch Liquid Blush product, dewy finish. Catalog does not specify volume; no invented catalog weight or miniature substitution.",
+      "visualReview": "Full-fit original visually inspected: correct shade bottle, but opaque beige studio scene with horizon and long cast shadow. Preparation blocked; no scene recoloring or shadow clipping.",
+      "reviewMethod": "Official exact shade page or variant image mapping; retained original and full-fit contact sheet inspected; prepared outputs reviewed when ready.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com \"Soft Pinch Liquid Blush\" \"Adore\"",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush.js",
+        "note": "Official Rare Beauty Soft Pinch Liquid Blush Believe. Exact Shopify variant 43734829760647 maps featured_image 32675184279687 to this retained original."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 44861,
+    "sha256": "1cee587be764c1d10bf86e626b849f098aad97dbe5ded74a4a1d7de768e3ff1c"
+  },
+  {
+    "index": 463,
+    "productId": "parent-0062",
+    "variantId": "gc002795",
+    "productName": "Жидкие румяна Rare Beauty",
+    "variant": "Happy",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-SP-LIQUID-BLUSH-DEWY-HAPPY.jpg?v=1764122517",
+    "localFile": "materials/catalog-7b/originals/b010-a/Жидкие румяна Rare Beauty Happy--gc002795.jpg",
+    "verification": {
+      "identity": "Official Rare Beauty Soft Pinch Liquid Blush Happy. Exact Shopify variant 43734829465735 maps featured_image 32675193749639 to this retained original.",
+      "volumeAndVariant": "Exact named shade in standard Soft Pinch Liquid Blush product, dewy finish. Catalog does not specify volume; no invented catalog weight or miniature substitution.",
+      "visualReview": "Full-fit original visually inspected: correct shade bottle, but opaque beige studio scene with horizon and long cast shadow. Preparation blocked; no scene recoloring or shadow clipping.",
+      "reviewMethod": "Official exact shade page or variant image mapping; retained original and full-fit contact sheet inspected; prepared outputs reviewed when ready.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com \"Soft Pinch Liquid Blush\" \"Adore\"",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush.js",
+        "note": "Official Rare Beauty Soft Pinch Liquid Blush Happy. Exact Shopify variant 43734829465735 maps featured_image 32675193749639 to this retained original."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 44420,
+    "sha256": "c46993e44e6f3b143f79eef5a1f0253f8feed8c6a982ace55e703a96d312ec6d"
+  },
+  {
+    "index": 464,
+    "productId": "parent-0062",
+    "variantId": "gc002796",
+    "productName": "Жидкие румяна Rare Beauty",
+    "variant": "Hope",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-SP-LIQUID-BLUSH-DEWY-HOPE.jpg?v=1762200490",
+    "localFile": "materials/catalog-7b/originals/b010-a/Жидкие румяна Rare Beauty Hope--gc002796.jpg",
+    "verification": {
+      "identity": "Official Rare Beauty Soft Pinch Liquid Blush Hope. Exact Shopify variant 43734829695111 maps featured_image 32675129852039 to this retained original.",
+      "volumeAndVariant": "Exact named shade in standard Soft Pinch Liquid Blush product, dewy finish. Catalog does not specify volume; no invented catalog weight or miniature substitution.",
+      "visualReview": "Full-fit original visually inspected: correct shade bottle, but opaque beige studio scene with horizon and long cast shadow. Preparation blocked; no scene recoloring or shadow clipping.",
+      "reviewMethod": "Official exact shade page or variant image mapping; retained original and full-fit contact sheet inspected; prepared outputs reviewed when ready.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com \"Soft Pinch Liquid Blush\" \"Adore\"",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush.js",
+        "note": "Official Rare Beauty Soft Pinch Liquid Blush Hope. Exact Shopify variant 43734829695111 maps featured_image 32675129852039 to this retained original."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 43988,
+    "sha256": "a008d29dde7e6fd35485716a5d2ddb3a23375f2a55588002063c3d6d99cd361a"
+  },
+  {
+    "index": 465,
+    "productId": "parent-0062",
+    "variantId": "gc002797",
+    "productName": "Жидкие румяна Rare Beauty",
+    "variant": "Worth",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-SP-LIQUID-BLUSH-DEWY-WORTH.jpg?v=1764122517",
+    "localFile": "materials/catalog-7b/originals/b010-a/Жидкие румяна Rare Beauty Worth--gc002797.jpg",
+    "verification": {
+      "identity": "Official Rare Beauty Soft Pinch Liquid Blush Worth. Exact Shopify variant 43734829826183 maps featured_image 32675168780423 to this retained original.",
+      "volumeAndVariant": "Exact named shade in standard Soft Pinch Liquid Blush product, dewy finish. Catalog does not specify volume; no invented catalog weight or miniature substitution.",
+      "visualReview": "Full-fit original visually inspected: correct shade bottle, but opaque beige studio scene with horizon and long cast shadow. Preparation blocked; no scene recoloring or shadow clipping.",
+      "reviewMethod": "Official exact shade page or variant image mapping; retained original and full-fit contact sheet inspected; prepared outputs reviewed when ready.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com \"Soft Pinch Liquid Blush\" \"Adore\"",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush.js",
+        "note": "Official Rare Beauty Soft Pinch Liquid Blush Worth. Exact Shopify variant 43734829826183 maps featured_image 32675168780423 to this retained original."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 44259,
+    "sha256": "2d81457d5d413ef5c8491c25f32ee9e6aaaa357e67fe7b15027b3f02a2198f3c"
+  },
+  {
+    "index": 466,
+    "productId": "parent-0062",
+    "variantId": "gc002791",
+    "productName": "Жидкие румяна Rare Beauty",
+    "variant": "Bliss",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-SP-LIQUID-BLUSH-MATTE-BLISS.jpg?v=1727895258",
+    "localFile": "materials/catalog-7b/originals/b010-a/Жидкие румяна Rare Beauty Bliss--gc002791.jpg",
+    "verification": {
+      "identity": "Official Rare Beauty Soft Pinch Liquid Blush Bliss. Exact Shopify variant 43734829564039 maps featured_image 32675129917575 to this retained original.",
+      "volumeAndVariant": "Exact named shade in standard Soft Pinch Liquid Blush product, matte finish. Catalog does not specify volume; no invented catalog weight or miniature substitution.",
+      "visualReview": "Full-fit original visually inspected: correct shade bottle, but opaque beige studio scene with horizon and long cast shadow. Preparation blocked; no scene recoloring or shadow clipping.",
+      "reviewMethod": "Official exact shade page or variant image mapping; retained original and full-fit contact sheet inspected; prepared outputs reviewed when ready.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com \"Soft Pinch Liquid Blush\" \"Adore\"",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush.js",
+        "note": "Official Rare Beauty Soft Pinch Liquid Blush Bliss. Exact Shopify variant 43734829564039 maps featured_image 32675129917575 to this retained original."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 43910,
+    "sha256": "eed21d356f1dffe53b7e69f2a447c8449e3e05fd8c7445f08da53206bd3d4216"
+  },
+  {
+    "index": 467,
+    "productId": "parent-0062",
+    "variantId": "gc002792",
+    "productName": "Жидкие румяна Rare Beauty",
+    "variant": "Encourage",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-SP-LIQUID-BLUSH-DEWY-ENCOURAGE.jpg?v=1764122517",
+    "localFile": "materials/catalog-7b/originals/b010-a/Жидкие румяна Rare Beauty Encourage--gc002792.jpg",
+    "verification": {
+      "identity": "Official Rare Beauty Soft Pinch Liquid Blush Encourage. Exact Shopify variant 43734829727879 maps featured_image 32675184246919 to this retained original.",
+      "volumeAndVariant": "Exact named shade in standard Soft Pinch Liquid Blush product, dewy finish. Catalog does not specify volume; no invented catalog weight or miniature substitution.",
+      "visualReview": "Full-fit original visually inspected: correct shade bottle, but opaque beige studio scene with horizon and long cast shadow. Preparation blocked; no scene recoloring or shadow clipping.",
+      "reviewMethod": "Official exact shade page or variant image mapping; retained original and full-fit contact sheet inspected; prepared outputs reviewed when ready.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com \"Soft Pinch Liquid Blush\" \"Adore\"",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush.js",
+        "note": "Official Rare Beauty Soft Pinch Liquid Blush Encourage. Exact Shopify variant 43734829727879 maps featured_image 32675184246919 to this retained original."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 44230,
+    "sha256": "e42b1b9e43e309403b392169fe5bc5f3274ef1231661c8ceeffd10ccf7f89183"
+  },
+  {
+    "index": 468,
+    "productId": "parent-0063",
+    "variantId": "gc002799",
+    "productName": "Жидкие румяна Yves Saint Laurent",
+    "variant": "44",
+    "sourcePage": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/make-me-blush-blurring-liquid-blush/WW-51286YSL.html?dwvar_WW-51286YSL_color=44+-+NUDE+LAVALLIERE+%28blush%29",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Indexed official Make Me Blush Liquid page confirms44 Nude Lavalliere and80 Fig Fantasy, distinct from powder blush. Selected official page direct retrieval returnedHTTP403; no exact selected-shade original obtained. Quick family pass stopped without using default or powder-blush photos.",
+    "searches": [
+      {
+        "query": "Yves Saint Laurent liquid blush44 80",
+        "url": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/make-me-blush-blurring-liquid-blush/WW-51286YSL.html?dwvar_WW-51286YSL_color=44+-+NUDE+LAVALLIERE+%28blush%29",
+        "note": "Indexed official Make Me Blush Liquid page confirms44 Nude Lavalliere and80 Fig Fantasy, distinct from powder blush. Selected official page direct retrieval returnedHTTP403; no exact selected-shade original obtained. Quick family pass stopped without using default or powder-blush photos."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 469,
+    "productId": "parent-0063",
+    "variantId": "gc002798",
+    "productName": "Жидкие румяна Yves Saint Laurent",
+    "variant": "80",
+    "sourcePage": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/make-me-blush-blurring-liquid-blush/WW-51286YSL.html?dwvar_WW-51286YSL_color=44+-+NUDE+LAVALLIERE+%28blush%29",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Indexed official Make Me Blush Liquid page confirms44 Nude Lavalliere and80 Fig Fantasy, distinct from powder blush. Selected official page direct retrieval returnedHTTP403; no exact selected-shade original obtained. Quick family pass stopped without using default or powder-blush photos.",
+    "searches": [
+      {
+        "query": "Yves Saint Laurent liquid blush44 80",
+        "url": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/make-me-blush-blurring-liquid-blush/WW-51286YSL.html?dwvar_WW-51286YSL_color=44+-+NUDE+LAVALLIERE+%28blush%29",
+        "note": "Indexed official Make Me Blush Liquid page confirms44 Nude Lavalliere and80 Fig Fantasy, distinct from powder blush. Selected official page direct retrieval returnedHTTP403; no exact selected-shade original obtained. Quick family pass stopped without using default or powder-blush photos."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  }
+]

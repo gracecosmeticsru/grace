@@ -1,0 +1,429 @@
+[
+  {
+    "productId": "gc005003",
+    "variantId": "gc005003",
+    "productName": "Тушь для ресниц черный Charlotte Tilbury Exagger Eyes Volume Full Sz Mascara 4 мл",
+    "brand": "Charlotte Tilbury",
+    "variant": "4 мл",
+    "sku": "GC005003",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 740,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/exagger-eyes-volume-mini-mascara",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official4ml is explicitlyTravelMini, while catalogue title includesFullSz as well as4ml. Preserve mismatch for clarification rather than choosing full-size picture. Group page fetch was also rejected before execution by automatic approval review.",
+    "searches": [
+      {
+        "query": "Тушь для ресниц черный Charlotte Tilbury Exagger Eyes Volume Full Sz Mascara 4 мл",
+        "url": "https://www.charlottetilbury.com/us/product/exagger-eyes-volume-mini-mascara",
+        "note": "Official4ml is explicitlyTravelMini, while catalogue title includesFullSz as well as4ml. Preserve mismatch for clarification rather than choosing full-size picture. Group page fetch was also rejected before execution by automatic approval review."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc005004",
+    "variantId": "gc005004",
+    "productName": "Тушь для ресниц Dior show Overvolume 090",
+    "brand": "Dior",
+    "variant": "Стандарт",
+    "sku": "GC005004",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 741,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://www.dior.com/en_us/beauty/products/diorshow-overvolume-Y0000002.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused search located Dior Diorshow Overvolume090Overblack; waterproof model excluded. Automatic approval review rejected the grouped page-download command before execution with blocked by policy and no further reason. Individual requests did not run and were not retried; no exact source original retained.",
+    "searches": [
+      {
+        "query": "Тушь для ресниц Dior show Overvolume 090",
+        "url": "https://www.dior.com/en_us/beauty/products/diorshow-overvolume-Y0000002.html",
+        "note": "Focused search located Dior Diorshow Overvolume090Overblack; waterproof model excluded. Automatic approval review rejected the grouped page-download command before execution with blocked by policy and no further reason. Individual requests did not run and were not retried; no exact source original retained."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc005005",
+    "variantId": "gc005005",
+    "productName": "Тушь для ресниц Объем и Удлинение Черная Estrade Oh, my doll",
+    "brand": "Estrade",
+    "variant": "Стандарт",
+    "sku": "GC005005",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 742,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://estrademakeup.ru/products/eyes/Oh-my-doll",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused search located Estrade OhMyDoll ordinary black mascara; waterproof sibling excluded. Automatic approval review rejected the grouped page-download command before execution with blocked by policy and no further reason. Individual requests did not run and were not retried; no exact source original retained.",
+    "searches": [
+      {
+        "query": "Тушь для ресниц Объем и Удлинение Черная Estrade Oh, my doll",
+        "url": "https://estrademakeup.ru/products/eyes/Oh-my-doll",
+        "note": "Focused search located Estrade OhMyDoll ordinary black mascara; waterproof sibling excluded. Automatic approval review rejected the grouped page-download command before execution with blocked by policy and no further reason. Individual requests did not run and were not retried; no exact source original retained."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc005006",
+    "variantId": "gc005006",
+    "productName": "Тушь для ресниц длина подкручивание объем черный Eveline Cosmetics Volumix fiberlast",
+    "brand": "Eveline Cosmetics",
+    "variant": "Стандарт",
+    "sku": "GC005006",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 743,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://evelinecosmetics.com/products/lenght-curl-up-mascara",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0725/7659/8242/files/6782499ee7df65.88806205.jpg?v=1739961663",
+    "localFile": "materials/catalog-7b/originals/b015-c/Тушь для ресниц длина подкручивание объем черный Eveline Cosmetics Volumix fiberlast--gc005006.jpg",
+    "verification": {
+      "identity": "Official VolumixFiberlast Length&CurlUp single variant product, silver tube and curved silicone wand; catalogue length/curl/volume model matches. Source10ml, catalogue has no numeric volume.",
+      "volumeAndVariant": "Official VolumixFiberlast Length&CurlUp single variant product, silver tube and curved silicone wand; catalogue length/curl/volume model matches. Source10ml, catalogue has no numeric volume.",
+      "visualReview": "Whole tube and wand side by side on clean white background; printed branding only, no scene/watermark/cut edges. Physical object contrast bounds measured apart from surrounding white.",
+      "reviewMethod": "Both originals viewed in full-fit sources-overview.png; white-contrast bounds measured separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тушь для ресниц длина подкручивание объем черный Eveline Cosmetics Volumix fiberlast",
+        "url": "https://evelinecosmetics.com/products/lenght-curl-up-mascara",
+        "note": "Official VolumixFiberlast Length&CurlUp single variant product, silver tube and curved silicone wand; catalogue length/curl/volume model matches. Source10ml, catalogue has no numeric volume."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1000,
+    "height": 1000,
+    "bytes": 34023,
+    "sha256": "db73c22b73c5688cc2f4233e8d6707f73f320376587b7187741e3af189e308ca"
+  },
+  {
+    "productId": "gc005007",
+    "variantId": "gc005007",
+    "productName": "Тушь для ресниц в зол. футляре увелич. объем с силик. кисточкой Eveline Cosmetics VOLUMIX FIBERLAST 9 мл",
+    "brand": "Eveline Cosmetics",
+    "variant": "9 мл",
+    "sku": "GC005007",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 744,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://evelinecosmetics.com/de-de/products/verdichtende-liftende-und-trennende-mascara",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official current goldVolumixFiberlastFullVolumeLiftUpSeparation is10ml; catalogue specifically9ml. Exact older9ml packaging not established in focused search, no10ml substitute.",
+    "searches": [
+      {
+        "query": "Тушь для ресниц в зол. футляре увелич. объем с силик. кисточкой Eveline Cosmetics VOLUMIX FIBERLAST 9 мл",
+        "url": "https://evelinecosmetics.com/de-de/products/verdichtende-liftende-und-trennende-mascara",
+        "note": "Official current goldVolumixFiberlastFullVolumeLiftUpSeparation is10ml; catalogue specifically9ml. Exact older9ml packaging not established in focused search, no10ml substitute."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc005008",
+    "variantId": "gc005008",
+    "productName": "Тушь для ресниц Gucci Mascara L'obscur Black",
+    "brand": "Gucci",
+    "variant": "Стандарт",
+    "sku": "GC005008",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 745,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://www.gucci.com/ca/en/pr/beauty/beauty-makeup/mascara-lobscur-black-p-8448349PMA41000",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official blackLObscur page opened, first product gallery image request failed in web reader. No standalone source retained; quick pass stopped after image failure.",
+    "searches": [
+      {
+        "query": "Тушь для ресниц Gucci Mascara L'obscur Black",
+        "url": "https://www.gucci.com/ca/en/pr/beauty/beauty-makeup/mascara-lobscur-black-p-8448349PMA41000",
+        "note": "Exact official blackLObscur page opened, first product gallery image request failed in web reader. No standalone source retained; quick pass stopped after image failure."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc005009",
+    "variantId": "gc005009",
+    "productName": "Тушь для ресниц Gucci Mascara Le Magnetisme «eve black»",
+    "brand": "Gucci",
+    "variant": "Стандарт",
+    "sku": "GC005009",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 746,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://www.gucci.com/us/en/pr/beauty/beauty-makeup/mascara-le-magnetisme-black-p-7619149PMA61000",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused search located Gucci LeMagnetisme EveBlack. Automatic approval review rejected the grouped page-download command before execution with blocked by policy and no further reason. Individual requests did not run and were not retried; no exact source original retained.",
+    "searches": [
+      {
+        "query": "Тушь для ресниц Gucci Mascara Le Magnetisme «eve black»",
+        "url": "https://www.gucci.com/us/en/pr/beauty/beauty-makeup/mascara-le-magnetisme-black-p-7619149PMA61000",
+        "note": "Focused search located Gucci LeMagnetisme EveBlack. Automatic approval review rejected the grouped page-download command before execution with blocked by policy and no further reason. Individual requests did not run and were not retried; no exact source original retained."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc005010",
+    "variantId": "gc005010",
+    "productName": "Тушь для ресниц супер-объем Essence I Love Extreme crazy volume",
+    "brand": "Essence",
+    "variant": "Стандарт",
+    "sku": "GC005010",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 747,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://www.essence.eu/en-gb/p/773908/i-love-extreme-crazy-volume-mascara",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused search located Essence I Love Extreme Crazy Volume. Automatic approval review rejected the grouped page-download command before execution with blocked by policy and no further reason. Individual requests did not run and were not retried; no exact source original retained.",
+    "searches": [
+      {
+        "query": "Тушь для ресниц супер-объем Essence I Love Extreme crazy volume",
+        "url": "https://www.essence.eu/en-gb/p/773908/i-love-extreme-crazy-volume-mascara",
+        "note": "Focused search located Essence I Love Extreme Crazy Volume. Automatic approval review rejected the grouped page-download command before execution with blocked by policy and no further reason. Individual requests did not run and were not retried; no exact source original retained."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc005011",
+    "variantId": "gc005011",
+    "productName": "Тушь для ресниц чёрная PATRICK TA Major Volume 9 г",
+    "brand": "PATRICK TA",
+    "variant": "Стандарт",
+    "sku": "GC005011",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 748,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://www.cultbeauty.com/p/patrick-ta-major-volume-mascara/13312704/",
+    "sourceImage": "https://static.thcdn.com/productimg/original/13312704-5945136160430679.jpg",
+    "localFile": "materials/catalog-7b/originals/b015-c/Тушь для ресниц чёрная PATRICK TA Major Volume 9 г Стандарт--gc005011.jpg",
+    "verification": {
+      "identity": "Retailer exact PatrickTaMajorVolumeMascara9g, original og:image; Sephora SKU2489367 independently confirms9g. Full rose gold tube and black mascara brush.",
+      "volumeAndVariant": "Retailer exact PatrickTaMajorVolumeMascara9g, original og:image; Sephora SKU2489367 independently confirms9g. Full rose gold tube and black mascara brush.",
+      "visualReview": "Whole tube and wand side by side on clean white background; printed branding only, no scene/watermark/cut edges. Physical object contrast bounds measured apart from surrounding white.",
+      "reviewMethod": "Both originals viewed in full-fit sources-overview.png; white-contrast bounds measured separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тушь для ресниц чёрная PATRICK TA Major Volume 9 г",
+        "url": "https://www.cultbeauty.com/p/patrick-ta-major-volume-mascara/13312704/",
+        "note": "Retailer exact PatrickTaMajorVolumeMascara9g, original og:image; Sephora SKU2489367 independently confirms9g. Full rose gold tube and black mascara brush."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 2000,
+    "height": 2000,
+    "bytes": 91993,
+    "sha256": "b02136ce05a86f379c5d15abf40a42b8074cce347ead2afa89b3bbdda372df14"
+  },
+  {
+    "productId": "gc005012",
+    "variantId": "gc005012",
+    "productName": "Тушь для ресниц черный Prada scope 01 NERO 8,5 мл",
+    "brand": "Prada",
+    "variant": "8,5мл",
+    "sku": "GC005012",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 749,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://www.prada-beauty.com/makeup/pradascope-lash-extending-mascara/3614274182002.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused search located PradaScope01Nero8.5ml. Automatic approval review rejected the grouped page-download command before execution with blocked by policy and no further reason. Individual requests did not run and were not retried; no exact source original retained.",
+    "searches": [
+      {
+        "query": "Тушь для ресниц черный Prada scope 01 NERO 8,5 мл",
+        "url": "https://www.prada-beauty.com/makeup/pradascope-lash-extending-mascara/3614274182002.html",
+        "note": "Focused search located PradaScope01Nero8.5ml. Automatic approval review rejected the grouped page-download command before execution with blocked by policy and no further reason. Individual requests did not run and were not retried; no exact source original retained."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc005013",
+    "variantId": "gc005013",
+    "productName": "Тушь для ресниц Rare Beauty Perfect Strokes Universal Volumizing Black 13,5 мл",
+    "brand": "Rare Beauty",
+    "variant": "13.5 мл",
+    "sku": "GC005013",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 750,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://www.rarebeauty.com/collections/bestsellers/products/perfect-strokes-universal-volumizing-mascara",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused search located RarePerfectStrokes black13.5ml. Automatic approval review rejected the grouped page-download command before execution with blocked by policy and no further reason. Individual requests did not run and were not retried; no exact source original retained.",
+    "searches": [
+      {
+        "query": "Тушь для ресниц Rare Beauty Perfect Strokes Universal Volumizing Black 13,5 мл",
+        "url": "https://www.rarebeauty.com/collections/bestsellers/products/perfect-strokes-universal-volumizing-mascara",
+        "note": "Focused search located RarePerfectStrokes black13.5ml. Automatic approval review rejected the grouped page-download command before execution with blocked by policy and no further reason. Individual requests did not run and were not retried; no exact source original retained."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  }
+]

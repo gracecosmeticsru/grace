@@ -1,0 +1,21 @@
+{
+  "source_root": "D:\\grace",
+  "site_files_unchanged": 142,
+  "semantic_documents": 41,
+  "corpus_files": 186,
+  "corpus_words": 126800,
+  "nodes": 996,
+  "edges": 2055,
+  "communities": 59,
+  "stage4_frozen": true,
+  "warnings": {
+    "dangling_endpoint_edges": 25,
+    "missing_endpoint_edges": 0,
+    "self_loop_edges": 1,
+    "undirected_same_endpoint_collapsed_edges": 15
+  },
+  "token_usage": "unavailable",
+  "query_smoke": "BFS found exact VariantProductCard, ProductRail, Variant and documented sources; bounded 1000 token output",
+  "html_generated": true,
+  "path_smoke": "Shortest path (3 hops):\n  VariantProductCard() <--imports [EXTRACTED]-- product-card.tsx <--imports_from [EXTRACTED]-- product-rail.tsx --contains [EXTRACTED]--> ProductRail()"
+}

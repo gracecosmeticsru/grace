@@ -1,0 +1,881 @@
+[
+  {
+    "productId": "gc004376",
+    "variantId": "gc004376",
+    "productName": "Праймер Catrice One Step Skin Perfector 30 мл",
+    "brand": "Catrice",
+    "variant": "30 мл",
+    "sku": "GC004376",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/1"
+    ],
+    "index": 18,
+    "batch": 1,
+    "status": "verified",
+    "sourcePage": "https://www.centrepointstores.com/ae/en/buy-catrice-one-step-skin-perfector-30-ml/p/164152484",
+    "sourceImage": "https://media.centrepointstores.com/i/centrepoint/164152484-4059729312532-LS18230322_01-2100.jpg",
+    "localFile": "materials/catalog-7b/originals/b001-b/Catrice One Step Skin Perfector 30 ml Centrepoint--gc004376.jpg",
+    "verification": {
+      "identity": "The retailer identifies the exact 30 ml product; EAN 4059729312532.",
+      "volumeAndVariant": "The retailer identifies the exact 30 ml product; EAN 4059729312532.",
+      "visualReview": "Inspected through view_image. Whole coral/black tube; One Step Skin Perfector label and 30 ml visible, clean white background, no watermark.",
+      "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+      "qualityCaveat": null
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Catrice One Step Skin Perfector 30 ml",
+        "url": "https://www.centrepointstores.com/ae/en/buy-catrice-one-step-skin-perfector-30-ml/p/164152484",
+        "note": "The retailer identifies the exact 30 ml product; EAN 4059729312532."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 85761,
+    "sha256": "f095cd2edf04c4d18562048fccf19958ebe6f6ff4b6f46472a360f9dfe744d03"
+  },
+  {
+    "productId": "gc004377",
+    "variantId": "gc004377",
+    "productName": "Праймер Rare Beauty Always An Optimist Pore Diffusing 28 мл",
+    "brand": "Rare Beauty",
+    "variant": "28 мл",
+    "sku": "GC004377",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/1"
+    ],
+    "index": 19,
+    "batch": 1,
+    "status": "verified",
+    "sourcePage": "https://sephora.in/product/rare-beauty-always-an-optimist-pore-diffusing-primer-v-28ml",
+    "sourceImage": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/original/artist-easer/7024569/0/hxiGfEESMH-1_Product_840122902550-Rare-Beauty-Always-An-Optimist-Pore-Diffusing-Primer-28ml_4000c2291694395dcfd7ad96888ddd8fb2e5935e_1631874970.png",
+    "localFile": "materials/catalog-7b/originals/b001-b/Rare Beauty Always An Optimist Pore Diffusing Primer 28 ml Sephora India--gc004377.png",
+    "verification": {
+      "identity": "Sephora India page explicitly identifies 28 ml and Net Volume 28 ml. Official Rare Beauty page independently confirms 0.94 oz / 28 ml.",
+      "volumeAndVariant": "Sephora India page explicitly identifies 28 ml and Net Volume 28 ml. Official Rare Beauty page independently confirms 0.94 oz / 28 ml.",
+      "visualReview": "Inspected through view_image. Whole pale-pink bottle with ivory cap, centered on white, no watermark; exact 28 ml source gallery.",
+      "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+      "qualityCaveat": null
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Rare Beauty Always An Optimist Pore Diffusing Primer 28ml",
+        "url": "https://sephora.in/product/rare-beauty-always-an-optimist-pore-diffusing-primer-v-28ml",
+        "note": "Sephora India page explicitly identifies 28 ml and Net Volume 28 ml. Official Rare Beauty page independently confirms 0.94 oz / 28 ml."
+      },
+      {
+        "query": "Rare Beauty Always An Optimist Pore Diffusing Primer 28ml",
+        "url": "https://www.rarebeauty.com/products/always-an-optimist-pore-diffusing-primer",
+        "note": "Official exact product and size confirmed. Its lifestyle image with plinth was replaced by the clean Sephora original."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 51517,
+    "sha256": "579f4eca33bfa5e7135775cf7dbe15e5cb39410885c1353569d3d4cbdb39e4ed"
+  },
+  {
+    "productId": "gc004378",
+    "variantId": "gc004378",
+    "productName": "Матирующий праймер для лица Golden Rose Mattifying & Pore Minimising 30 мл",
+    "brand": "Golden Rose",
+    "variant": "30 мл",
+    "sku": "GC004378",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/1"
+    ],
+    "index": 20,
+    "batch": 1,
+    "status": "verified",
+    "sourcePage": "https://shop.goldenrose.com.tr/make-up-primer-mattifying-pore-minimising",
+    "sourceImage": "https://shop.goldenrose.com.tr/make-up-primer-mattifying-pore-minimising-baz-ve-makyaj-sabitleyici-golden-rose-make-up-primer-25875-21-B.jpg",
+    "localFile": "materials/catalog-7b/originals/b001-b/Golden Rose Mattifying Pore Minimising Primer 30 ml Original--gc004378.jpg",
+    "verification": {
+      "identity": "Official Golden Rose product page states 30 ml, SKU P-GMP-MPM, EAN 8691190070533.",
+      "volumeAndVariant": "Official Golden Rose product page states 30 ml, SKU P-GMP-MPM, EAN 8691190070533.",
+      "visualReview": "Inspected through view_image. Whole white bottle and black cap, exact Mattifying & Pore Minimising label, white background, no watermark.",
+      "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+      "qualityCaveat": null
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Golden Rose Mattifying Pore Minimising Primer 30 ml",
+        "url": "https://shop.goldenrose.com.tr/make-up-primer-mattifying-pore-minimising",
+        "note": "Official Golden Rose product page states 30 ml, SKU P-GMP-MPM, EAN 8691190070533."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24",
+    "width": 800,
+    "height": 1200,
+    "bytes": 26361,
+    "sha256": "e86d83bd7b719702b0d303b15aef455937163d4e79cd7fbe4c19867bf9854de4"
+  },
+  {
+    "productId": "gc004379",
+    "variantId": "gc004379",
+    "productName": "Праймер с эффектом сияния Charlotte Tilbury Wonderglow",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC004379",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/1"
+    ],
+    "index": 21,
+    "batch": 1,
+    "status": "skipped",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/wonderglow",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog says Standard with no size. Official Wonderglow exists as 15 ml and 40 ml; cannot choose the exact packaging without inferring catalog volume.",
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Wonderglow sizes 15ml 40ml",
+        "url": "https://www.charlottetilbury.com/us/product/wonderglow",
+        "note": "Official full-size product is 40 ml."
+      },
+      {
+        "query": "Charlotte Tilbury Wonderglow 15ml",
+        "url": "https://www.charlottetilbury.com/us/product/travel-sized-wonderglow-face-primer",
+        "note": "Official travel-size product is 15 ml. Catalog does not disambiguate."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24",
+    "width": null,
+    "height": null,
+    "bytes": null,
+    "sha256": null
+  },
+  {
+    "productId": "gc004636",
+    "variantId": "gc004636",
+    "productName": "Сияющая база под макияж Dior Forever Glow Veil 30 мл",
+    "brand": "Dior",
+    "variant": "30мл",
+    "sku": "GC004636",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/1"
+    ],
+    "index": 22,
+    "batch": 1,
+    "status": "verified",
+    "sourcePage": "https://tr.dior.com/products/dior-forever-glow-veil",
+    "sourceImage": "https://tr.dior.com/cdn/shop/products/Y0997071_C099700184_E01_GHC_2.jpg?v=1680155688",
+    "localFile": "materials/catalog-7b/originals/b001-b/Dior Forever Glow Veil 30 ml--gc004636.jpg",
+    "verification": {
+      "identity": "Regional official Dior source and global Dior page both identify the 30 ml product.",
+      "volumeAndVariant": "Regional official Dior source and global Dior page both identify the 30 ml product.",
+      "visualReview": "Inspected through view_image. Whole Dior Forever Glow Veil bottle with ivory cap and legible label, pale neutral background, no watermark.",
+      "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+      "qualityCaveat": null
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Dior Forever Glow Veil 30 ml",
+        "url": "https://tr.dior.com/products/dior-forever-glow-veil",
+        "note": "Regional official Dior source and global Dior page both identify the 30 ml product."
+      },
+      {
+        "query": "Dior Forever Glow Veil 30 ml",
+        "url": "https://www.dior.com/en_int/beauty/products/dior-forever-glow-veil-Y0997071.html",
+        "note": "Global official page confirms 30 ml; global image download unavailable; original fetched from official Turkish Dior store."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24",
+    "width": 1850,
+    "height": 2000,
+    "bytes": 55236,
+    "sha256": "ab01045f75f26509151cfab147a8aa2c5962726c9a4d2265c51409a336145bef"
+  },
+  {
+    "productId": "gc004820",
+    "variantId": "gc004820",
+    "productName": "Тени для век и праймер Ruby Rose Adorable",
+    "brand": "Ruby Rose",
+    "variant": "Стандарт",
+    "sku": "GC004820",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 23,
+    "batch": 1,
+    "status": "skipped",
+    "sourcePage": "https://eva.ua/pr92061/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact Adorable HB9909 retail pages were found, but a clean downloadable product original could not be verified: EVA retrieval failed and the former wholesale URL is now a generic listing. No blogger or sibling-palette image substituted.",
+    "searches": [
+      {
+        "query": "Ruby Rose Adorable HB9909 palette",
+        "url": "https://eva.ua/pr92061/",
+        "note": "Indexed and opened exact 17.5 g HB9909 product; local retrieval failed with HTTP error."
+      },
+      {
+        "query": "Ruby Rose Adorable palette buy",
+        "url": "https://www.revendadecosmeticos.com.br/paleta-de-sombras-primer-ruby-rose-adorable-hb-9909.html",
+        "note": "Former product URL resolves as generic wholesale listing; no verifiable exact original obtained."
+      },
+      {
+        "query": "Ruby Rose Adorable HB9909 palette",
+        "url": "https://rozetka.com.ua/ua/374279244/p374279244/",
+        "note": "Exact product listing found; local Rozetka image delivery did not resolve during this research."
+      },
+      {
+        "query": "Ruby Rose Adorable paleta farmacia",
+        "url": "https://blogvinteprimaveras.blogspot.com/2017/11/resenha-de-quarta-paleta-adorable-ruby.html",
+        "note": "Review corroborates 12-color Adorable, but user review photography is not accepted as the required clean retail original."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24",
+    "width": null,
+    "height": null,
+    "bytes": null,
+    "sha256": null
+  },
+  {
+    "productId": "gc004821",
+    "variantId": "gc004821",
+    "productName": "Тени для век и праймер Ruby Rose Be gorgeous",
+    "brand": "Ruby Rose",
+    "variant": "Стандарт",
+    "sku": "GC004821",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 24,
+    "batch": 1,
+    "status": "verified",
+    "sourcePage": "https://supreva.com/en/eye-shadow-and-primer-ruby-rose-hb9916-be-gorgeous-18-shades/pd/59S5/",
+    "sourceImage": "https://supreva.com/images/detailed/361/10619171_PRODUCT.jpg",
+    "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose Be Gorgeous Standard Supreva--gc004821.jpg",
+    "verification": {
+      "identity": "Exact named Be Gorgeous palette, 18 shades, HB9916. Standard variant retained; no catalog weight inferred.",
+      "volumeAndVariant": "Exact named Be Gorgeous palette, 18 shades, HB9916. Standard variant retained; no catalog weight inferred.",
+      "visualReview": "Inspected through view_image. Whole black palette on white; Be GORGEOUS label and 18-pan layout match. Native 550 px image; retain with limited-resolution warning for later preparation.",
+      "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+      "qualityCaveat": "Limited native/source detail: inspect at intended product-page size before integration; do not upscale or invent detail."
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Ruby Rose Be Gorgeous HB9916",
+        "url": "https://supreva.com/en/eye-shadow-and-primer-ruby-rose-hb9916-be-gorgeous-18-shades/pd/59S5/",
+        "note": "Exact named Be Gorgeous palette, 18 shades, HB9916. Standard variant retained; no catalog weight inferred."
+      },
+      {
+        "query": "Ruby Rose Be Gorgeous palette",
+        "url": "https://www.rubyrose.mn/product-page/be-gorgeous-palette-%D0%BD%D2%AF%D0%B4%D0%BD%D0%B8%D0%B9-%D1%82%D0%B5%D0%BD%D1%8C",
+        "note": "Larger candidate rejected after visual inspection: composite packaging/open palette with a partial UI symbol."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24",
+    "width": 550,
+    "height": 550,
+    "bytes": 25872,
+    "sha256": "55121467cf5f62efcbe138afbf762af7e72fa7f66f75485c85946b817f460914"
+  },
+  {
+    "productId": "gc004822",
+    "variantId": "gc004822",
+    "productName": "Тени для век и праймер Ruby Rose Be iconic",
+    "brand": "Ruby Rose",
+    "variant": "Стандарт",
+    "sku": "GC004822",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 25,
+    "batch": 1,
+    "status": "verified",
+    "sourcePage": "https://www.epocacosmeticos.com.br/paleta-de-sombra-ruby-rose-be-iconic/p",
+    "sourceImage": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/357476/6295125012555.jpg?v=637054666523830000",
+    "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose Be Iconic Standard--gc004822.jpg",
+    "verification": {
+      "identity": "Exact named Be Iconic 18-color palette. Catalog Standard retained; no weight added.",
+      "volumeAndVariant": "Exact named Be Iconic 18-color palette. Catalog Standard retained; no weight added.",
+      "visualReview": "Inspected through view_image. Whole gold window palette, Be ICONIC lettering and 18 pans visible, white background, no watermark.",
+      "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+      "qualityCaveat": null
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Ruby Rose Be Iconic palette",
+        "url": "https://www.epocacosmeticos.com.br/paleta-de-sombra-ruby-rose-be-iconic/p",
+        "note": "Exact named Be Iconic 18-color palette. Catalog Standard retained; no weight added."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 73430,
+    "sha256": "39728b41c205e14b185e2e54abbd4e99ab7998e409721bba06b61af564554f3a"
+  },
+  {
+    "productId": "gc004823",
+    "variantId": "gc004823",
+    "productName": "Тени для век и праймер Ruby Rose Be natural 1",
+    "brand": "Ruby Rose",
+    "variant": "Стандарт",
+    "sku": "GC004823",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 26,
+    "batch": 1,
+    "status": "skipped",
+    "sourcePage": "https://www.epocacosmeticos.com.br/paleta-de-sombra-ruby-rose-be-natural/p",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog name explicitly includes Be Natural1. Research found Be Natural / HB9930 and listings with 1 Un (one unit), but none established that the catalog suffix 1 denotes that exact model rather than another version. No identity guessed.",
+    "searches": [
+      {
+        "query": "Ruby Rose Be Natural 1",
+        "url": "https://www.epocacosmeticos.com.br/paleta-de-sombra-ruby-rose-be-natural/p",
+        "note": "Retail title Be Natural 1 Un denotes one unit of an 18-color palette, not evidence of a model named Be Natural1."
+      },
+      {
+        "query": "Ruby Rose Be Natural1",
+        "url": "https://rozetka.com.ua/ruby_rose_6295125021106/p38898200/",
+        "note": "Found Be Natural HB9930, not an independently verified Be Natural1 variant. Exact spelling searches did not disambiguate."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24",
+    "width": null,
+    "height": null,
+    "bytes": null,
+    "sha256": null
+  },
+  {
+    "productId": "gc004824",
+    "variantId": "gc004824",
+    "productName": "Тени для век и праймер Ruby Rose Be smoky",
+    "brand": "Ruby Rose",
+    "variant": "Стандарт",
+    "sku": "GC004824",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 27,
+    "batch": 1,
+    "status": "verified",
+    "sourcePage": "https://www.epocacosmeticos.com.br/paleta-de-sombras-ruby-rose-besmoky/p",
+    "sourceImage": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/358935/be-smoky-ruby-rose-1.jpg?v=637063053823370000",
+    "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose Be Smoky Standard--gc004824.jpg",
+    "verification": {
+      "identity": "Exact Be Smoky 18-color palette; distinguished from separate Smokey 12-color product. Catalog Standard retained.",
+      "volumeAndVariant": "Exact Be Smoky 18-color palette; distinguished from separate Smokey 12-color product. Catalog Standard retained.",
+      "visualReview": "Inspected through view_image. Whole black Be SMOKY palette with 18 pans, white background, no watermark.",
+      "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+      "qualityCaveat": null
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Ruby Rose Be Smoky palette",
+        "url": "https://www.epocacosmeticos.com.br/paleta-de-sombras-ruby-rose-besmoky/p",
+        "note": "Exact Be Smoky 18-color palette; distinguished from separate Smokey 12-color product. Catalog Standard retained."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 83010,
+    "sha256": "8e9b90699d2dad16452db2cfffbf81e7301f7a7a3672a7189c58e0e6f4968911"
+  },
+  {
+    "productId": "gc004825",
+    "variantId": "gc004825",
+    "productName": "Тени для век и праймер Ruby Rose Be sweet",
+    "brand": "Ruby Rose",
+    "variant": "Стандарт",
+    "sku": "GC004825",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 28,
+    "batch": 1,
+    "status": "verified",
+    "sourcePage": "https://www.okazii.ro/trusa-de-farduri-ruby-rose-be-sweet-a208060717",
+    "sourceImage": "https://images.okr.ro/serve/product/4d44cc312ad99cc38808063845aeee70-208032",
+    "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose Be Sweet Standard--gc004825.jpg",
+    "verification": {
+      "identity": "Exact named Be Sweet archive listing specifies 18 colors. Beleza na Web independently identifies the same Be Sweet product. Standard retained, no inferred weight.",
+      "volumeAndVariant": "Exact named Be Sweet archive listing specifies 18 colors. Beleza na Web independently identifies the same Be Sweet product. Standard retained, no inferred weight.",
+      "visualReview": "Inspected through view_image. Whole open orange palette with 18 pans, primer and brush; on white, no watermark or interface elements.",
+      "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+      "qualityCaveat": null
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Ruby Rose Be Sweet palette",
+        "url": "https://www.okazii.ro/trusa-de-farduri-ruby-rose-be-sweet-a208060717",
+        "note": "Exact named Be Sweet archive listing specifies 18 colors. Beleza na Web independently identifies the same Be Sweet product. Standard retained, no inferred weight."
+      },
+      {
+        "query": "Ruby Rose Be Sweet paleta loja",
+        "url": "https://www.belezanaweb.com.br/ruby-rose-be-sweet-paleta-de-sombras-16g/",
+        "note": "Exact product page found; direct retrieval blocked 403. Used accessible original image linked from Okazii archive."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 70160,
+    "sha256": "6c89cfe70ebc4a8b43d83d20da74756841e536c57b5f7e3726f764472f70bf2c"
+  },
+  {
+    "productId": "gc004826",
+    "variantId": "gc004826",
+    "productName": "Тени для век и праймер Ruby Rose Be velvet",
+    "brand": "Ruby Rose",
+    "variant": "Стандарт",
+    "sku": "GC004826",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 29,
+    "batch": 1,
+    "status": "verified",
+    "sourcePage": "https://www.drogaleste.com.br/paleta-de-sombra-ruby-rose-be-velvet-ref-hb-9915-20268/p",
+    "sourceImage": "https://drogaleste.vtexassets.com/arquivos/ids/261810",
+    "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose Be Velvet Standard Drogaleste--gc004826.png",
+    "verification": {
+      "identity": "Exact named Be Velvet palette, source reference HB9915. Standard retained, no inferred weight.",
+      "volumeAndVariant": "Exact named Be Velvet palette, source reference HB9915. Standard retained, no inferred weight.",
+      "visualReview": "Inspected through view_image. Whole gold Be VELVET 18-pan palette on white, no watermark. Original 1000 px PNG has somewhat soft source detail; no local enlargement performed.",
+      "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+      "qualityCaveat": "Limited native/source detail: inspect at intended product-page size before integration; do not upscale or invent detail."
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Ruby Rose Be Velvet HB9915",
+        "url": "https://www.drogaleste.com.br/paleta-de-sombra-ruby-rose-be-velvet-ref-hb-9915-20268/p",
+        "note": "Exact named Be Velvet palette, source reference HB9915. Standard retained, no inferred weight."
+      },
+      {
+        "query": "Ruby Rose Be Velvet palette",
+        "url": "https://consultaremedios.com.br/paleta-de-sombras-ruby-rose-be-velvet/p",
+        "note": "Earlier 498x500 original was replaced by 1000x1000 original from Drogaleste."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 167723,
+    "sha256": "f041042356b8e22fc550f71fac23556f56322603c634c365cf2fb4ca4671a5d8"
+  },
+  {
+    "productId": "gc004827",
+    "variantId": "gc004827",
+    "productName": "Тени для век и праймер Ruby Rose Be wonderful",
+    "brand": "Ruby Rose",
+    "variant": "Стандарт",
+    "sku": "GC004827",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 30,
+    "batch": 1,
+    "status": "verified",
+    "sourcePage": "https://www.epocacosmeticos.com.br/paleta-de-sombra-ruby-rose-be-wonderful/p",
+    "sourceImage": "https://epocacosmeticos.vtexassets.com/arquivos/ids/357470/6295125015716.jpg?v=637054665288800000",
+    "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose Be Wonderful Standard--gc004827.jpg",
+    "verification": {
+      "identity": "Exact named Be Wonderful 18-color palette. Standard retained, no inferred weight.",
+      "volumeAndVariant": "Exact named Be Wonderful 18-color palette. Standard retained, no inferred weight.",
+      "visualReview": "Inspected through view_image. Whole cream Be WONDERFUL window palette with 18 pans on white, no watermark.",
+      "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+      "qualityCaveat": null
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Ruby Rose Be Wonderful palette",
+        "url": "https://www.epocacosmeticos.com.br/paleta-de-sombra-ruby-rose-be-wonderful/p",
+        "note": "Exact named Be Wonderful 18-color palette. Standard retained, no inferred weight."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 92962,
+    "sha256": "491b2a33413af19e60bc8f79ace2145d3a35073ac519d45e2e8d2df792a8f377"
+  },
+  {
+    "productId": "gc004828",
+    "variantId": "gc004828",
+    "productName": "Тени для век и праймер Ruby Rose Glamour",
+    "brand": "Ruby Rose",
+    "variant": "Стандарт",
+    "sku": "GC004828",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 31,
+    "batch": 1,
+    "status": "verified",
+    "sourcePage": "https://www.drogaleste.com.br/paleta-de-sombra-ruby-rose-glamour-matte-r-hb-9907-20281/p",
+    "sourceImage": "https://drogaleste.vtexassets.com/arquivos/ids/261836",
+    "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose Glamour HB9907 Standard--gc004828.png",
+    "verification": {
+      "identity": "Exact named Glamour palette, reference HB9907; corroborated by Magazine Luiza 12 colors and primer. Standard retained.",
+      "volumeAndVariant": "Exact named Glamour palette, reference HB9907; corroborated by Magazine Luiza 12 colors and primer. Standard retained.",
+      "visualReview": "Inspected through view_image. Whole transparent black Glamour palette, 12 shades and name visible, white background. Native 500 px original; limited detail must be considered during preparation.",
+      "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+      "qualityCaveat": "Limited native/source detail: inspect at intended product-page size before integration; do not upscale or invent detail."
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Ruby Rose Glamour HB9907",
+        "url": "https://www.drogaleste.com.br/paleta-de-sombra-ruby-rose-glamour-matte-r-hb-9907-20281/p",
+        "note": "Exact named Glamour palette, reference HB9907; corroborated by Magazine Luiza 12 colors and primer. Standard retained."
+      },
+      {
+        "query": "Ruby Rose Glamour HB-9907",
+        "url": "https://www.magazineluiza.com.br/paleta-de-sombras-primer-ruby-rose-glamour-hb-9907/p/635269400/pf/eepm/",
+        "note": "Corroborates Glamour HB9907, 12 colors, primer and brush. Seller warns color positioning may vary by production batch; no individual shade is inferred."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24",
+    "width": 500,
+    "height": 500,
+    "bytes": 53355,
+    "sha256": "0430bbe85e4118431ddbdcfb05fd05eee59356e2aa840aaa731d095f766ec2b6"
+  },
+  {
+    "productId": "gc004830",
+    "variantId": "gc004830",
+    "productName": "Тени для век и праймер Ruby Rose Sex bomb",
+    "brand": "Ruby Rose",
+    "variant": "Стандарт",
+    "sku": "GC004830",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 32,
+    "batch": 1,
+    "status": "verified",
+    "sourcePage": "https://consultaremedios.com.br/paleta-de-sombras-ruby-rose-sex-bomb/p",
+    "sourceImage": "https://uploads.consultaremedios.com.br/product_variation_images/full/410e57c05e25fa0ed4af621f4c3e6a75a23a6f57.jpg",
+    "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose Sex Bomb HB9912 Standard--gc004830.jpg",
+    "verification": {
+      "identity": "Exact named Sex Bomb palette, source HB9912, 12 colors and primer. Standard retained, no inferred weight.",
+      "volumeAndVariant": "Exact named Sex Bomb palette, source HB9912, 12 colors and primer. Standard retained, no inferred weight.",
+      "visualReview": "Inspected through view_image. Whole black/burgundy Sex Bomb window palette on white. Native 500 px image with small product area; identifiable name, but retain limited-resolution warning.",
+      "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+      "qualityCaveat": "Limited native/source detail: inspect at intended product-page size before integration; do not upscale or invent detail."
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Ruby Rose Sex Bomb HB9912",
+        "url": "https://consultaremedios.com.br/paleta-de-sombras-ruby-rose-sex-bomb/p",
+        "note": "Exact named Sex Bomb palette, source HB9912, 12 colors and primer. Standard retained, no inferred weight."
+      },
+      {
+        "query": "Ruby Rose Sex Bomb HB9912",
+        "url": "https://eva.ua/pr92064/",
+        "note": "Exact product source found but local CDN retrieval failed. Accessible Consulta Remedios original used instead."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24",
+    "width": 500,
+    "height": 500,
+    "bytes": 16478,
+    "sha256": "8f198a85441cf951d154d7dcf3d29d1804a15410961b3370983cd15451b0b2f8"
+  },
+  {
+    "productId": "gc004829",
+    "variantId": "gc004829",
+    "productName": "Тени для век и праймер Ruby Rose Smokey",
+    "brand": "Ruby Rose",
+    "variant": "Стандарт",
+    "sku": "GC004829",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 33,
+    "batch": 1,
+    "status": "skipped",
+    "sourcePage": "https://www.magazineluiza.com.br/paleta-de-sombras-smokey-hb9910-ruby-rose/p/gggfc4d5k3/pf/eepm/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact Smokey HB9910 original from a seller contains red carousel-arrow graphics baked into the photo and was rejected visually. Other exact-source retrievals failed; Be Smoky 18-color photo is a different product and was not substituted.",
+    "searches": [
+      {
+        "query": "Ruby Rose Smokey HB9910 palette",
+        "url": "https://www.magazineluiza.com.br/paleta-de-sombras-smokey-hb9910-ruby-rose/p/gggfc4d5k3/pf/eepm/",
+        "note": "Exact 12-color Smokey HB9910 confirmed. Downloaded 1080x652 source has embedded red left/right interface arrows; rejected."
+      },
+      {
+        "query": "Ruby Rose Smokey HB9910 palette",
+        "url": "https://shopping.inter.co/Paleta-de-Sombras-Smokey-Ruby/p/7697223",
+        "note": "Exact listing found; direct source retrieval 403."
+      },
+      {
+        "query": "Ruby Rose Smokey 12 palette",
+        "url": "https://www.ciceksepeti.com/ruby-rose-smokey-12li-goz-fari-paleti-kc618246",
+        "note": "Exact 12-color Smokey listing; source retrieval denied/HTTP error, no usable original verified."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24",
+    "width": null,
+    "height": null,
+    "bytes": null,
+    "sha256": null
+  },
+  {
+    "productId": "gc004831",
+    "variantId": "gc004831",
+    "productName": "Тени для век и праймер НВ Ruby Rose 9932 Be lovely",
+    "brand": "Ruby Rose",
+    "variant": "Стандарт",
+    "sku": "GC004831",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 34,
+    "batch": 1,
+    "status": "verified",
+    "sourcePage": "https://supreva.com/en/eye-shadow-ruby-rose-hb9932-be-lovely-16-g-18-shades/pd/59SP/",
+    "sourceImage": "https://supreva.com/images/detailed/361/10619177_PRODUCT.jpg",
+    "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose HB9932 Be Lovely Standard--gc004831.jpg",
+    "verification": {
+      "identity": "Exact HB9932 and Be Lovely name, 18 shades. Catalog Standard preserved without adding source weight.",
+      "volumeAndVariant": "Exact HB9932 and Be Lovely name, 18 shades. Catalog Standard preserved without adding source weight.",
+      "visualReview": "Inspected through view_image. Whole pink Be LOVELY palette with 18 pans, clean white background, no watermark. Native 550 px original; limited-resolution warning for preparation.",
+      "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+      "qualityCaveat": "Limited native/source detail: inspect at intended product-page size before integration; do not upscale or invent detail."
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Ruby Rose HB9932 Be Lovely palette",
+        "url": "https://supreva.com/en/eye-shadow-ruby-rose-hb9932-be-lovely-16-g-18-shades/pd/59SP/",
+        "note": "Exact HB9932 and Be Lovely name, 18 shades. Catalog Standard preserved without adding source weight."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24",
+    "width": 550,
+    "height": 550,
+    "bytes": 19111,
+    "sha256": "893946c7825b4041eddf0ff4e9c4b6d223d1accdc87a2f7c1ac9c4b3059297d0"
+  }
+]

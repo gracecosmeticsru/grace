@@ -1,0 +1,434 @@
+[
+  {
+    "index": 101,
+    "productId": "gc004268",
+    "variantId": "gc004268",
+    "productName": "Матирующий тональный крем Lumene Matte Oil-control SPF20 00 ultra light 30 мл",
+    "variant": "30 мл",
+    "localFile": "materials/catalog-7b/originals/b003-a/Матирующий тональный крем Lumene Matte Oil-control SPF20 00 ultra light 30 мл 30 мл--gc004268.jpg",
+    "width": 500,
+    "height": 1569,
+    "format": "JPEG",
+    "bytes": 93659,
+    "sha256": "af8877dcc8f9fcb9dee4e497bb2a5da531e94cd8b1a790403886b56ad9b1a4e2",
+    "status": "verified",
+    "sourceImage": "https://lyko.com/globalassets/product-images/lumene-matte-oil-control-foundation-spf20-00-ultra-light-30-ml-1188-753-0001_1.jpg?ref=780D41E192",
+    "skipReason": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://lyko.com/sv/lumene/lumene-matte-oil-control-foundation-spf20-00-ultra-light-30-ml",
+    "verification": {
+      "identity": "Lumene Matte Oil-Control Foundation SPF20. Lyko variant record explicitly maps 00 Ultra Light to this front packshot; the front tube label visibly confirms the shade.",
+      "volumeAndVariant": "Exact 30 ml and 00 Ultra Light from retailer variant data and product name.",
+      "visualReview": "Viewed untouched source: full narrow upright beige tube, complete crimp and turquoise cap, exact shade label, white background, no watermark or clipped object.",
+      "reviewMethod": "view_image of unchanged downloaded original, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "Lumene Matte Oil Control SPF20 00 ultra light 1 classic beige lyko",
+        "url": "https://lyko.com/sv/lumene/lumene-matte-oil-control-foundation-spf20-00-ultra-light-30-ml",
+        "note": "Saved page lumene.txt contains exact variant productName, 30ml, color, image URL and native dimensions. Packshot label independently read."
+      }
+    ]
+  },
+  {
+    "index": 102,
+    "productId": "gc004269",
+    "variantId": "gc004269",
+    "productName": "Матирующий тональный крем Lumene Matte Oil-control SPF20 1 classic beige 30 мл",
+    "variant": "30 мл",
+    "localFile": "materials/catalog-7b/originals/b003-a/Матирующий тональный крем Lumene Matte Oil-control SPF20 1 classic beige 30 мл 30 мл--gc004269.jpg",
+    "width": 500,
+    "height": 1572,
+    "format": "JPEG",
+    "bytes": 92571,
+    "sha256": "c8c052a754e6389d608707ca51635d821ed2d21fa22e2a9ab0c7c9e3cde3dbe4",
+    "status": "verified",
+    "sourceImage": "https://lyko.com/globalassets/product-images/lumene-matte-oil-control-foundation-spf20-1-classic-beige-30-ml-1188-753-0004_1.jpg?ref=8D623B808C",
+    "skipReason": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://lyko.com/sv/lumene/lumene-matte-oil-control-foundation-spf20-1-classic-beige-30-ml",
+    "verification": {
+      "identity": "Lumene Matte Oil-Control Foundation SPF20. Lyko variant record explicitly maps 1 Classic Beige to this front packshot; the front tube label visibly confirms the shade.",
+      "volumeAndVariant": "Exact 30 ml and 1 Classic Beige from retailer variant data and product name.",
+      "visualReview": "Viewed untouched source: full narrow upright beige tube, complete crimp and turquoise cap, exact shade label, white background, no watermark or clipped object.",
+      "reviewMethod": "view_image of unchanged downloaded original, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "Lumene Matte Oil Control SPF20 00 ultra light 1 classic beige lyko",
+        "url": "https://lyko.com/sv/lumene/lumene-matte-oil-control-foundation-spf20-1-classic-beige-30-ml",
+        "note": "Saved page lumene.txt contains exact variant productName, 30ml, color, image URL and native dimensions. Packshot label independently read."
+      }
+    ]
+  },
+  {
+    "index": 103,
+    "productId": "parent-0008",
+    "variantId": "gc004736",
+    "productName": "Стойкий тональный флюид тональное средство Chanel Healthy Glow Foundation Hydration And Longwear",
+    "variant": "B10",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.chanel.com/us/makeup/p/184722/les-beiges-healthy-glow-foundation-hydration-and-longwear/",
+    "skipReason": "Official indexed page confirms the named foundation and selected B10, but direct product retrieval returned HTTP403. Cached available image link is a shade swatch, not a bottle. Official Indonesian shop product JSON also returned403. No confirmed exact packshot retained in the bounded lookup.",
+    "searches": [
+      {
+        "query": "site.chanel.com les beiges healthy glow foundation hydration longwear B10 B20",
+        "url": "https://www.chanel.com/us/makeup/p/184722/les-beiges-healthy-glow-foundation-hydration-and-longwear/",
+        "note": "Official indexed page confirms the named foundation and selected B10, but direct product retrieval returned HTTP403. Cached available image link is a shade swatch, not a bottle. Official Indonesian shop product JSON also returned403. No confirmed exact packshot retained in the bounded lookup."
+      }
+    ]
+  },
+  {
+    "index": 104,
+    "productId": "parent-0008",
+    "variantId": "gc004737",
+    "productName": "Стойкий тональный флюид тональное средство Chanel Healthy Glow Foundation Hydration And Longwear",
+    "variant": "B20",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.chanel.com/us/makeup/p/184724/les-beiges-healthy-glow-foundation-hydration-and-longwear/",
+    "skipReason": "Official indexed page confirms the named foundation and selected B20, but direct product retrieval returned HTTP403. Cached available image link is a shade swatch, not a bottle. Official Indonesian shop product JSON also returned403. No confirmed exact packshot retained in the bounded lookup.",
+    "searches": [
+      {
+        "query": "site.chanel.com les beiges healthy glow foundation hydration longwear B10 B20",
+        "url": "https://www.chanel.com/us/makeup/p/184724/les-beiges-healthy-glow-foundation-hydration-and-longwear/",
+        "note": "Official indexed page confirms the named foundation and selected B20, but direct product retrieval returned HTTP403. Cached available image link is a shade swatch, not a bottle. Official Indonesian shop product JSON also returned403. No confirmed exact packshot retained in the bounded lookup."
+      }
+    ]
+  },
+  {
+    "index": 105,
+    "productId": "parent-0009",
+    "variantId": "gc004844",
+    "productName": "Тинт тональный тональное средство Chanel Les Beiges Touche De Teint",
+    "variant": "B10",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.chanel.com/ca-fr/maquillage/p/184570/les-beiges-touche-de-teint-unifie-illumine-hydrate/",
+    "skipReason": "Official indexed Touche de Teint page lists B10, but direct page and official Indonesian product JSON returned HTTP403. Cached image links are shade swatches rather than complete product packshots. Bounded lookup ended without an attributable exact bottle image.",
+    "searches": [
+      {
+        "query": "site.chanel.com les beiges touche de teint B10 B20 B30",
+        "url": "https://www.chanel.com/ca-fr/maquillage/p/184570/les-beiges-touche-de-teint-unifie-illumine-hydrate/",
+        "note": "Official indexed Touche de Teint page lists B10, but direct page and official Indonesian product JSON returned HTTP403. Cached image links are shade swatches rather than complete product packshots. Bounded lookup ended without an attributable exact bottle image."
+      }
+    ]
+  },
+  {
+    "index": 106,
+    "productId": "parent-0009",
+    "variantId": "gc004845",
+    "productName": "Тинт тональный тональное средство Chanel Les Beiges Touche De Teint",
+    "variant": "B20",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.chanel.com/ca-fr/maquillage/p/184570/les-beiges-touche-de-teint-unifie-illumine-hydrate/",
+    "skipReason": "Official indexed Touche de Teint page lists B20, but direct page and official Indonesian product JSON returned HTTP403. Cached image links are shade swatches rather than complete product packshots. Bounded lookup ended without an attributable exact bottle image.",
+    "searches": [
+      {
+        "query": "site.chanel.com les beiges touche de teint B10 B20 B30",
+        "url": "https://www.chanel.com/ca-fr/maquillage/p/184570/les-beiges-touche-de-teint-unifie-illumine-hydrate/",
+        "note": "Official indexed Touche de Teint page lists B20, but direct page and official Indonesian product JSON returned HTTP403. Cached image links are shade swatches rather than complete product packshots. Bounded lookup ended without an attributable exact bottle image."
+      }
+    ]
+  },
+  {
+    "index": 107,
+    "productId": "parent-0009",
+    "variantId": "gc004846",
+    "productName": "Тинт тональный тональное средство Chanel Les Beiges Touche De Teint",
+    "variant": "B30",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.chanel.com/ca-fr/maquillage/p/184570/les-beiges-touche-de-teint-unifie-illumine-hydrate/",
+    "skipReason": "Official indexed Touche de Teint page lists B30, but direct page and official Indonesian product JSON returned HTTP403. Cached image links are shade swatches rather than complete product packshots. Bounded lookup ended without an attributable exact bottle image.",
+    "searches": [
+      {
+        "query": "site.chanel.com les beiges touche de teint B10 B20 B30",
+        "url": "https://www.chanel.com/ca-fr/maquillage/p/184570/les-beiges-touche-de-teint-unifie-illumine-hydrate/",
+        "note": "Official indexed Touche de Teint page lists B30, but direct page and official Indonesian product JSON returned HTTP403. Cached image links are shade swatches rather than complete product packshots. Bounded lookup ended without an attributable exact bottle image."
+      }
+    ]
+  },
+  {
+    "index": 108,
+    "productId": "parent-0010",
+    "variantId": "gc004893",
+    "productName": "Тональная основа Dior Forever Skin Glow",
+    "variant": "0.5N",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.dior.com/en_vn/beauty/products/dior-forever-skin-glow-C023600005.html",
+    "skipReason": "Quick family search finds both older and new2026 Skin Glow presentations. The best exact-family official page returned HTTP403 for source retrieval, preventing reliable 0.5N-to-packshot attribution. Catalog does not specify generation. No different shade or generation substituted; skipped after bounded lookup.",
+    "searches": [
+      {
+        "query": "Dior Forever Skin Glow 0.5N 00N 0N 1.5N 1N 2N foundation official",
+        "url": "https://www.dior.com/en_vn/beauty/products/dior-forever-skin-glow-C023600005.html",
+        "note": "Quick family search finds both older and new2026 Skin Glow presentations. The best exact-family official page returned HTTP403 for source retrieval, preventing reliable 0.5N-to-packshot attribution. Catalog does not specify generation. No different shade or generation substituted; skipped after bounded lookup."
+      }
+    ]
+  },
+  {
+    "index": 109,
+    "productId": "parent-0010",
+    "variantId": "gc004894",
+    "productName": "Тональная основа Dior Forever Skin Glow",
+    "variant": "00N",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.dior.com/en_vn/beauty/products/dior-forever-skin-glow-C023600005.html",
+    "skipReason": "Quick family search finds both older and new2026 Skin Glow presentations. The best exact-family official page returned HTTP403 for source retrieval, preventing reliable 00N-to-packshot attribution. Catalog does not specify generation. No different shade or generation substituted; skipped after bounded lookup.",
+    "searches": [
+      {
+        "query": "Dior Forever Skin Glow 0.5N 00N 0N 1.5N 1N 2N foundation official",
+        "url": "https://www.dior.com/en_vn/beauty/products/dior-forever-skin-glow-C023600005.html",
+        "note": "Quick family search finds both older and new2026 Skin Glow presentations. The best exact-family official page returned HTTP403 for source retrieval, preventing reliable 00N-to-packshot attribution. Catalog does not specify generation. No different shade or generation substituted; skipped after bounded lookup."
+      }
+    ]
+  },
+  {
+    "index": 110,
+    "productId": "parent-0010",
+    "variantId": "gc004895",
+    "productName": "Тональная основа Dior Forever Skin Glow",
+    "variant": "0N",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.dior.com/en_vn/beauty/products/dior-forever-skin-glow-C023600005.html",
+    "skipReason": "Quick family search finds both older and new2026 Skin Glow presentations. The best exact-family official page returned HTTP403 for source retrieval, preventing reliable 0N-to-packshot attribution. Catalog does not specify generation. No different shade or generation substituted; skipped after bounded lookup.",
+    "searches": [
+      {
+        "query": "Dior Forever Skin Glow 0.5N 00N 0N 1.5N 1N 2N foundation official",
+        "url": "https://www.dior.com/en_vn/beauty/products/dior-forever-skin-glow-C023600005.html",
+        "note": "Quick family search finds both older and new2026 Skin Glow presentations. The best exact-family official page returned HTTP403 for source retrieval, preventing reliable 0N-to-packshot attribution. Catalog does not specify generation. No different shade or generation substituted; skipped after bounded lookup."
+      }
+    ]
+  },
+  {
+    "index": 111,
+    "productId": "parent-0010",
+    "variantId": "gc004896",
+    "productName": "Тональная основа Dior Forever Skin Glow",
+    "variant": "1.5N",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.dior.com/en_vn/beauty/products/dior-forever-skin-glow-C023600005.html",
+    "skipReason": "Quick family search finds both older and new2026 Skin Glow presentations. The best exact-family official page returned HTTP403 for source retrieval, preventing reliable 1.5N-to-packshot attribution. Catalog does not specify generation. No different shade or generation substituted; skipped after bounded lookup.",
+    "searches": [
+      {
+        "query": "Dior Forever Skin Glow 0.5N 00N 0N 1.5N 1N 2N foundation official",
+        "url": "https://www.dior.com/en_vn/beauty/products/dior-forever-skin-glow-C023600005.html",
+        "note": "Quick family search finds both older and new2026 Skin Glow presentations. The best exact-family official page returned HTTP403 for source retrieval, preventing reliable 1.5N-to-packshot attribution. Catalog does not specify generation. No different shade or generation substituted; skipped after bounded lookup."
+      }
+    ]
+  },
+  {
+    "index": 112,
+    "productId": "parent-0010",
+    "variantId": "gc004897",
+    "productName": "Тональная основа Dior Forever Skin Glow",
+    "variant": "1N",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.dior.com/en_vn/beauty/products/dior-forever-skin-glow-C023600005.html",
+    "skipReason": "Quick family search finds both older and new2026 Skin Glow presentations. The best exact-family official page returned HTTP403 for source retrieval, preventing reliable 1N-to-packshot attribution. Catalog does not specify generation. No different shade or generation substituted; skipped after bounded lookup.",
+    "searches": [
+      {
+        "query": "Dior Forever Skin Glow 0.5N 00N 0N 1.5N 1N 2N foundation official",
+        "url": "https://www.dior.com/en_vn/beauty/products/dior-forever-skin-glow-C023600005.html",
+        "note": "Quick family search finds both older and new2026 Skin Glow presentations. The best exact-family official page returned HTTP403 for source retrieval, preventing reliable 1N-to-packshot attribution. Catalog does not specify generation. No different shade or generation substituted; skipped after bounded lookup."
+      }
+    ]
+  },
+  {
+    "index": 113,
+    "productId": "parent-0010",
+    "variantId": "gc004898",
+    "productName": "Тональная основа Dior Forever Skin Glow",
+    "variant": "2N",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.dior.com/en_vn/beauty/products/dior-forever-skin-glow-C023600005.html",
+    "skipReason": "Quick family search finds both older and new2026 Skin Glow presentations. The best exact-family official page returned HTTP403 for source retrieval, preventing reliable 2N-to-packshot attribution. Catalog does not specify generation. No different shade or generation substituted; skipped after bounded lookup.",
+    "searches": [
+      {
+        "query": "Dior Forever Skin Glow 0.5N 00N 0N 1.5N 1N 2N foundation official",
+        "url": "https://www.dior.com/en_vn/beauty/products/dior-forever-skin-glow-C023600005.html",
+        "note": "Quick family search finds both older and new2026 Skin Glow presentations. The best exact-family official page returned HTTP403 for source retrieval, preventing reliable 2N-to-packshot attribution. Catalog does not specify generation. No different shade or generation substituted; skipped after bounded lookup."
+      }
+    ]
+  },
+  {
+    "index": 114,
+    "productId": "gc004899",
+    "variantId": "gc004899",
+    "productName": "Тональная основа Dior Forever Skin Wear 00N",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.dior.com/en_us/beauty/products/dior-forever-C023550022.html",
+    "skipReason": "Official Skin Wear page lists00Neutral, but current selected default is2Neutral and direct page retrieval returned HTTP403. No source image reliably tied to00N obtained in the bounded lookup; default2N photo not substituted.",
+    "searches": [
+      {
+        "query": "Dior Forever Skin Wear 00N foundation official",
+        "url": "https://www.dior.com/en_us/beauty/products/dior-forever-C023550022.html",
+        "note": "Official Skin Wear page lists00Neutral, but current selected default is2Neutral and direct page retrieval returned HTTP403. No source image reliably tied to00N obtained in the bounded lookup; default2N photo not substituted."
+      }
+    ]
+  },
+  {
+    "index": 115,
+    "productId": "gc004900",
+    "variantId": "gc004900",
+    "productName": "Тональная основа Estée Lauder Futurist SPF20 1W1",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.esteelauder.fr/product/futurist-serum-de-teint-spf-20-aux-extraits-dhuiles-vegetales",
+    "skipReason": "Official Futurist SkinTint serum foundation SPF20 page lists1W1Bone, but direct retrieval returned HTTP403 and no exact1W1 packshot URL was available from the indexed text. Skipped without borrowing another shade or Futurist SPF45 packaging.",
+    "searches": [
+      {
+        "query": "Estée Lauder Futurist SPF20 1W1 foundation",
+        "url": "https://www.esteelauder.fr/product/futurist-serum-de-teint-spf-20-aux-extraits-dhuiles-vegetales",
+        "note": "Official Futurist SkinTint serum foundation SPF20 page lists1W1Bone, but direct retrieval returned HTTP403 and no exact1W1 packshot URL was available from the indexed text. Skipped without borrowing another shade or Futurist SPF45 packaging."
+      }
+    ]
+  },
+  {
+    "index": 116,
+    "productId": "parent-0011",
+    "variantId": "gc004901",
+    "productName": "Тональная основа Makeup by Mario",
+    "variant": "0.5N",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.makeupbymario.com/en-tt/products/surrealskin-natural-finish-foundation",
+    "skipReason": "Official lookup provides SurrealSkin Natural Finish Foundation and exact shade 0.5N (saved mario.txt variant JSON), but catalog only names Makeup by Mario foundation without formula/line. Search result does not establish whether this catalog item is Natural Finish or the distinct earlier SurrealSkin formula. Skipped rather than assign a potentially different foundation presentation.",
+    "searches": [
+      {
+        "query": "Makeup by Mario foundation 0.5N 1C 2N official",
+        "url": "https://www.makeupbymario.com/en-tt/products/surrealskin-natural-finish-foundation",
+        "note": "Official lookup provides SurrealSkin Natural Finish Foundation and exact shade 0.5N (saved mario.txt variant JSON), but catalog only names Makeup by Mario foundation without formula/line. Search result does not establish whether this catalog item is Natural Finish or the distinct earlier SurrealSkin formula. Skipped rather than assign a potentially different foundation presentation."
+      }
+    ]
+  },
+  {
+    "index": 117,
+    "productId": "parent-0011",
+    "variantId": "gc004902",
+    "productName": "Тональная основа Makeup by Mario",
+    "variant": "1C",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.makeupbymario.com/en-tt/products/surrealskin-natural-finish-foundation",
+    "skipReason": "Official lookup provides SurrealSkin Natural Finish Foundation and exact shade 1C (saved mario.txt variant JSON), but catalog only names Makeup by Mario foundation without formula/line. Search result does not establish whether this catalog item is Natural Finish or the distinct earlier SurrealSkin formula. Skipped rather than assign a potentially different foundation presentation.",
+    "searches": [
+      {
+        "query": "Makeup by Mario foundation 0.5N 1C 2N official",
+        "url": "https://www.makeupbymario.com/en-tt/products/surrealskin-natural-finish-foundation",
+        "note": "Official lookup provides SurrealSkin Natural Finish Foundation and exact shade 1C (saved mario.txt variant JSON), but catalog only names Makeup by Mario foundation without formula/line. Search result does not establish whether this catalog item is Natural Finish or the distinct earlier SurrealSkin formula. Skipped rather than assign a potentially different foundation presentation."
+      }
+    ]
+  },
+  {
+    "index": 118,
+    "productId": "parent-0011",
+    "variantId": "gc004903",
+    "productName": "Тональная основа Makeup by Mario",
+    "variant": "2N",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.makeupbymario.com/en-tt/products/surrealskin-natural-finish-foundation",
+    "skipReason": "Official lookup provides SurrealSkin Natural Finish Foundation and exact shade 2N (saved mario.txt variant JSON), but catalog only names Makeup by Mario foundation without formula/line. Search result does not establish whether this catalog item is Natural Finish or the distinct earlier SurrealSkin formula. Skipped rather than assign a potentially different foundation presentation.",
+    "searches": [
+      {
+        "query": "Makeup by Mario foundation 0.5N 1C 2N official",
+        "url": "https://www.makeupbymario.com/en-tt/products/surrealskin-natural-finish-foundation",
+        "note": "Official lookup provides SurrealSkin Natural Finish Foundation and exact shade 2N (saved mario.txt variant JSON), but catalog only names Makeup by Mario foundation without formula/line. Search result does not establish whether this catalog item is Natural Finish or the distinct earlier SurrealSkin formula. Skipped rather than assign a potentially different foundation presentation."
+      }
+    ]
+  },
+  {
+    "index": 119,
+    "productId": "parent-0012",
+    "variantId": "gc004892",
+    "productName": "Тональная основа Rare Beauty",
+    "variant": "130N",
+    "localFile": "materials/catalog-7b/originals/b003-a/Тональная основа Rare Beauty 130N--gc004892.jpg",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 34319,
+    "sha256": "1a0f4f894c3e6ae5688a23a726403863cdea8abf45112e859cc3f347a1315c5d",
+    "status": "verified",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/products/Foundation-130N-SKU_e30039e0-a8ca-4f2a-9917-898cfcfe0ffc.jpg?v=1666325564",
+    "skipReason": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.rarebeauty.com/products/liquid-touch-weightless-foundation-1?variant=43735167369351",
+    "verification": {
+      "identity": "Official Liquid Touch Weightless Foundation JSON variant130N 43735167369351 directly maps featured_image29887664095367. Same named catalog parent already verified for110N in stage6.",
+      "volumeAndVariant": "Exact shade130N via official product variant and image alt. Catalog supplies no volume; no volume inferred.",
+      "visualReview": "Viewed untouched source: complete foundation bottle and spherical cap, natural beige studio wall/floor backdrop, long cast shadow to right. No watermark. Background unsuitable for rapid white preparation without significant retouching.",
+      "reviewMethod": "view_image of unchanged downloaded original, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "site:rarebeauty.com liquid touch weightless foundation 130N",
+        "url": "https://www.rarebeauty.com/products/liquid-touch-weightless-foundation-1?variant=43735167369351",
+        "note": "Saved official product JSON rare.txt ties exact130N to photograph. Source retained but preparation blocked for beige scene and long shadow."
+      }
+    ]
+  }
+]

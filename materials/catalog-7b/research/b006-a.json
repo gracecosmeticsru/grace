@@ -1,0 +1,591 @@
+[
+  {
+    "index": 251,
+    "productId": "gc001819",
+    "variantId": "gc001819",
+    "productName": "Консилер SHIK «Perfect concealer» 02",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/perfect-concealer?color=1.5",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/929/variations/171922996966795e11ac8a94.51613713_1080_1520_inset.png",
+    "localFile": "materials/catalog-7b/originals/b006-a/Консилер SHIK «Perfect concealer» 02 Стандарт--gc001819.png",
+    "width": 1080,
+    "height": 1520,
+    "format": "PNG",
+    "bytes": 275388,
+    "sha256": "b2769af1807d37595b2819cf4c8592887bdd5772b6ea657b86e203db642d84fe",
+    "verification": {
+      "identity": "Official SHIK Perfect Concealer; select option value and productPhoto variationId explicitly map the requested shade, rather than the default hero.",
+      "volumeAndVariant": "Exact source option 2; source variant 164. Source family is5ml; page also contains other variation photos, so option-to-photo mapping was used explicitly.",
+      "visualReview": "Each full original inspected: correct product but opaque gray floor and long cast shadow. Alpha clears only upper area, not the floor. Source retained; preparation blocked.",
+      "reviewMethod": "source metadata and actual local original / prepared images",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK Perfect concealer 0.5 1 1.5 02",
+        "url": "https://shikstore.ru/product/perfect-concealer?color=1.5",
+        "note": "Official SHIK Perfect Concealer; select option value and productPhoto variationId explicitly map the requested shade, rather than the default hero. Exact source option 2; source variant 164. Source family is5ml; page also contains other variation photos, so option-to-photo mapping was used explicitly. Explicit featured image id productPhoto mapping; retained without modification."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 252,
+    "productId": "parent-0029",
+    "variantId": "gc001820",
+    "productName": "Консилер для лица консилер SHIK Perfect concealer",
+    "variant": "0.5",
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/perfect-concealer?color=1.5",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/929/variations/17853805846a6abee8b8bb38.70261276_1080_1520_inset.webp",
+    "localFile": "materials/catalog-7b/originals/b006-a/Консилер для лица консилер SHIK Perfect concealer 0.5--gc001820.webp",
+    "width": 1080,
+    "height": 1520,
+    "format": "WEBP",
+    "bytes": 11100,
+    "sha256": "5911a464d199fd92dccd472cbe7815d6b30ec0123b11713009274b3de643c306",
+    "verification": {
+      "identity": "Official SHIK Perfect Concealer; select option value and productPhoto variationId explicitly map the requested shade, rather than the default hero.",
+      "volumeAndVariant": "Exact source option 0.5; source variant 849. Source family is5ml; page also contains other variation photos, so option-to-photo mapping was used explicitly.",
+      "visualReview": "Each full original inspected: correct product but opaque gray floor and long cast shadow. Alpha clears only upper area, not the floor. Source retained; preparation blocked.",
+      "reviewMethod": "source metadata and actual local original / prepared images",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK Perfect concealer 0.5 1 1.5 02",
+        "url": "https://shikstore.ru/product/perfect-concealer?color=1.5",
+        "note": "Official SHIK Perfect Concealer; select option value and productPhoto variationId explicitly map the requested shade, rather than the default hero. Exact source option 0.5; source variant 849. Source family is5ml; page also contains other variation photos, so option-to-photo mapping was used explicitly. Explicit featured image id productPhoto mapping; retained without modification."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 253,
+    "productId": "parent-0029",
+    "variantId": "gc001821",
+    "productName": "Консилер для лица консилер SHIK Perfect concealer",
+    "variant": "1",
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/perfect-concealer?color=1.5",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/929/variations/177313379269afdfe070e548.20795477_1080_1520_inset.png",
+    "localFile": "materials/catalog-7b/originals/b006-a/Консилер для лица консилер SHIK Perfect concealer 1--gc001821.png",
+    "width": 1080,
+    "height": 1520,
+    "format": "PNG",
+    "bytes": 263042,
+    "sha256": "7f472b214aa7ffc2f7a4ef3a94a7e70c5427006d5f8ef86459116402c9da4b1a",
+    "verification": {
+      "identity": "Official SHIK Perfect Concealer; select option value and productPhoto variationId explicitly map the requested shade, rather than the default hero.",
+      "volumeAndVariant": "Exact source option 1; source variant 804. Source family is5ml; page also contains other variation photos, so option-to-photo mapping was used explicitly.",
+      "visualReview": "Each full original inspected: correct product but opaque gray floor and long cast shadow. Alpha clears only upper area, not the floor. Source retained; preparation blocked.",
+      "reviewMethod": "source metadata and actual local original / prepared images",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK Perfect concealer 0.5 1 1.5 02",
+        "url": "https://shikstore.ru/product/perfect-concealer?color=1.5",
+        "note": "Official SHIK Perfect Concealer; select option value and productPhoto variationId explicitly map the requested shade, rather than the default hero. Exact source option 1; source variant 804. Source family is5ml; page also contains other variation photos, so option-to-photo mapping was used explicitly. Explicit featured image id productPhoto mapping; retained without modification."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 254,
+    "productId": "parent-0029",
+    "variantId": "gc001822",
+    "productName": "Консилер для лица консилер SHIK Perfect concealer",
+    "variant": "1.5",
+    "status": "skipped",
+    "sourcePage": "https://shikstore.ru/product/perfect-concealer?color=1.5",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "The fetched official color=1.5 page contains two selected shade1.5 options: variation803 barcode4650375904548 and variation310 barcode4631170449656, with different white/chrome cap presentations. Catalog lacks barcode or packaging version; exact presentation cannot be established. No default image substituted.",
+    "searches": [
+      {
+        "query": "SHIK Perfect concealer 0.5 1 1.5 02",
+        "url": "https://shikstore.ru/product/perfect-concealer?color=1.5",
+        "note": "The fetched official color=1.5 page contains two selected shade1.5 options: variation803 barcode4650375904548 and variation310 barcode4631170449656, with different white/chrome cap presentations. Catalog lacks barcode or packaging version; exact presentation cannot be established. No default image substituted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 255,
+    "productId": "gc001912",
+    "variantId": "gc001912",
+    "productName": "Консилер Tarte Double Duty Beauty Shape Tape Contour Concealer 12n Fair Neutral 10 мл",
+    "variant": "10ML",
+    "status": "verified",
+    "sourcePage": "https://tartecosmetics.com/en-kr/products/shape-tape-concealer?variant=52789613756438",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0898/4972/4950/files/unique__846733017997__shape-tape-contour-concealer-12N-fair-neutral__01.jpg?v=1762804790",
+    "localFile": "materials/catalog-7b/originals/b006-a/Консилер Tarte Double Duty Beauty Shape Tape Contour Concealer 12n Fair Neutral 10 мл--gc001912.jpg",
+    "width": 2000,
+    "height": 2667,
+    "format": "JPEG",
+    "bytes": 175981,
+    "sha256": "c86132ac60f3c0657e7e35d1fcadd04477af749f84de395aecbed605c2c8cf05",
+    "verification": {
+      "identity": "Official Tarte shape tape full-coverage / contour concealer; front label and purple-gold cap agree with catalog line, not Ultra Creamy.",
+      "volumeAndVariant": "Exact source option 12N fair neutral; source variant 52789613756438. Official standard bottle is10ml (0.33fl oz), confirmed on product page; this is not travel size.",
+      "visualReview": "Original family contact sheet and full representative reviewed: complete correct tone bottle and wand, white background, no watermark. Each prepared output inspected.",
+      "reviewMethod": "source metadata and actual local original / prepared images",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:tartecosmetics.com shape tape concealer 12N 16N 20B 20S 22N",
+        "url": "https://tartecosmetics.com/en-kr/products/shape-tape-concealer.js",
+        "note": "Official Tarte shape tape full-coverage / contour concealer; front label and purple-gold cap agree with catalog line, not Ultra Creamy. Exact source option 12N fair neutral; source variant 52789613756438. Official standard bottle is10ml (0.33fl oz), confirmed on product page; this is not travel size. Explicit featured image id 59512028528662; retained without modification."
+      },
+      {
+        "query": "site:tartecosmetics.com \"shape tape\" \"10 mL\" concealer",
+        "url": "https://tartecosmetics.com/products/shape-tape-concealer",
+        "note": "Official product source confirms standard0.33fl oz/10ml, including requested shade family."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 256,
+    "productId": "gc001913",
+    "variantId": "gc001913",
+    "productName": "Консилер Tarte Double Duty Beauty Shape Tape Contour Concealer 16n Fair Light Neutral 10 мл",
+    "variant": "10ML",
+    "status": "verified",
+    "sourcePage": "https://tartecosmetics.com/en-kr/products/shape-tape-concealer?variant=52789613690902",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0898/4972/4950/files/unique__846733030316__shape-tape-contour-concealer-16N-fair-light-neutral__01.jpg?v=1762804790",
+    "localFile": "materials/catalog-7b/originals/b006-a/Консилер Tarte Double Duty Beauty Shape Tape Contour Concealer 16n Fair Light Neutral--gc001913.jpg",
+    "width": 2000,
+    "height": 2667,
+    "format": "JPEG",
+    "bytes": 177688,
+    "sha256": "2d6be17cf547eb8ffbea6bd0af21a3fcdf43254a0149bc8e977240b1f2da5103",
+    "verification": {
+      "identity": "Official Tarte shape tape full-coverage / contour concealer; front label and purple-gold cap agree with catalog line, not Ultra Creamy.",
+      "volumeAndVariant": "Exact source option 16N fair-light neutral; source variant 52789613690902. Official standard bottle is10ml (0.33fl oz), confirmed on product page; this is not travel size.",
+      "visualReview": "Original family contact sheet and full representative reviewed: complete correct tone bottle and wand, white background, no watermark. Each prepared output inspected.",
+      "reviewMethod": "source metadata and actual local original / prepared images",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:tartecosmetics.com shape tape concealer 12N 16N 20B 20S 22N",
+        "url": "https://tartecosmetics.com/en-kr/products/shape-tape-concealer.js",
+        "note": "Official Tarte shape tape full-coverage / contour concealer; front label and purple-gold cap agree with catalog line, not Ultra Creamy. Exact source option 16N fair-light neutral; source variant 52789613690902. Official standard bottle is10ml (0.33fl oz), confirmed on product page; this is not travel size. Explicit featured image id 59512027250710; retained without modification."
+      },
+      {
+        "query": "site:tartecosmetics.com \"shape tape\" \"10 mL\" concealer",
+        "url": "https://tartecosmetics.com/products/shape-tape-concealer",
+        "note": "Official product source confirms standard0.33fl oz/10ml, including requested shade family."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 257,
+    "productId": "gc001914",
+    "variantId": "gc001914",
+    "productName": "Консилер Tarte Double Duty Beauty Shape Tape Contour Concealer 20B Light",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://tartecosmetics.com/en-kr/products/shape-tape-concealer?variant=52789613658134",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0898/4972/4950/files/unique__846733016129__shape-tape-contour-concealer-20B-light__01.jpg?v=1762804790",
+    "localFile": "materials/catalog-7b/originals/b006-a/Консилер Tarte Double Duty Beauty Shape Tape Contour Concealer 20B Light Стандарт--gc001914.jpg",
+    "width": 2000,
+    "height": 2667,
+    "format": "JPEG",
+    "bytes": 178546,
+    "sha256": "381f91baa0a4f48e3c5f65b03cbc17933c786765dda50b62345f2348b13c7c0d",
+    "verification": {
+      "identity": "Official Tarte shape tape full-coverage / contour concealer; front label and purple-gold cap agree with catalog line, not Ultra Creamy.",
+      "volumeAndVariant": "Exact source option 20B light; source variant 52789613658134. Official standard bottle is10ml (0.33fl oz), confirmed on product page; this is not travel size.",
+      "visualReview": "Original family contact sheet and full representative reviewed: complete correct tone bottle and wand, white background, no watermark. Each prepared output inspected.",
+      "reviewMethod": "source metadata and actual local original / prepared images",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:tartecosmetics.com shape tape concealer 12N 16N 20B 20S 22N",
+        "url": "https://tartecosmetics.com/en-kr/products/shape-tape-concealer.js",
+        "note": "Official Tarte shape tape full-coverage / contour concealer; front label and purple-gold cap agree with catalog line, not Ultra Creamy. Exact source option 20B light; source variant 52789613658134. Official standard bottle is10ml (0.33fl oz), confirmed on product page; this is not travel size. Explicit featured image id 59512028200982; retained without modification."
+      },
+      {
+        "query": "site:tartecosmetics.com \"shape tape\" \"10 mL\" concealer",
+        "url": "https://tartecosmetics.com/products/shape-tape-concealer",
+        "note": "Official product source confirms standard0.33fl oz/10ml, including requested shade family."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 258,
+    "productId": "gc001915",
+    "variantId": "gc001915",
+    "productName": "Консилер Tarte Double Duty Beauty Shape Tape Contour Concealer 20S Light-Sand",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://tartecosmetics.com/en-kr/products/shape-tape-concealer?variant=52789613625366",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0898/4972/4950/files/unique__846733018444__shape-tape-contour-concealer-20S-light-sand__01.jpg?v=1762804790",
+    "localFile": "materials/catalog-7b/originals/b006-a/Консилер Tarte Double Duty Beauty Shape Tape Contour Concealer 20S Light-Sand Стандар--gc001915.jpg",
+    "width": 2000,
+    "height": 2667,
+    "format": "JPEG",
+    "bytes": 180628,
+    "sha256": "6116d334d5c6af956f48eb0d102476538154a71aed896b217bab31e667d29623",
+    "verification": {
+      "identity": "Official Tarte shape tape full-coverage / contour concealer; front label and purple-gold cap agree with catalog line, not Ultra Creamy.",
+      "volumeAndVariant": "Exact source option 20S light sand; source variant 52789613625366. Official standard bottle is10ml (0.33fl oz), confirmed on product page; this is not travel size.",
+      "visualReview": "Original family contact sheet and full representative reviewed: complete correct tone bottle and wand, white background, no watermark. Each prepared output inspected.",
+      "reviewMethod": "source metadata and actual local original / prepared images",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:tartecosmetics.com shape tape concealer 12N 16N 20B 20S 22N",
+        "url": "https://tartecosmetics.com/en-kr/products/shape-tape-concealer.js",
+        "note": "Official Tarte shape tape full-coverage / contour concealer; front label and purple-gold cap agree with catalog line, not Ultra Creamy. Exact source option 20S light sand; source variant 52789613625366. Official standard bottle is10ml (0.33fl oz), confirmed on product page; this is not travel size. Explicit featured image id 59512028594198; retained without modification."
+      },
+      {
+        "query": "site:tartecosmetics.com \"shape tape\" \"10 mL\" concealer",
+        "url": "https://tartecosmetics.com/products/shape-tape-concealer",
+        "note": "Official product source confirms standard0.33fl oz/10ml, including requested shade family."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 259,
+    "productId": "gc001916",
+    "variantId": "gc001916",
+    "productName": "Консилер Tarte Double Duty Beauty Shape Tape Contour Concealer 22n Light Neutral 10 мл",
+    "variant": "10ML",
+    "status": "verified",
+    "sourcePage": "https://tartecosmetics.com/en-kr/products/shape-tape-concealer?variant=52789613592598",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0898/4972/4950/files/unique__846733018000__shape-tape-contour-concealer-22N-light-neutral__01.jpg?v=1762804790",
+    "localFile": "materials/catalog-7b/originals/b006-a/Консилер Tarte Double Duty Beauty Shape Tape Contour Concealer 22n Light Neutral 10 м--gc001916.jpg",
+    "width": 2000,
+    "height": 2667,
+    "format": "JPEG",
+    "bytes": 181196,
+    "sha256": "b2867379cf53dd2a6aa52fa7ff33be3d96204f9f769b38f6a3825b61cf37c07e",
+    "verification": {
+      "identity": "Official Tarte shape tape full-coverage / contour concealer; front label and purple-gold cap agree with catalog line, not Ultra Creamy.",
+      "volumeAndVariant": "Exact source option 22N light neutral; source variant 52789613592598. Official standard bottle is10ml (0.33fl oz), confirmed on product page; this is not travel size.",
+      "visualReview": "Original family contact sheet and full representative reviewed: complete correct tone bottle and wand, white background, no watermark. Each prepared output inspected.",
+      "reviewMethod": "source metadata and actual local original / prepared images",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:tartecosmetics.com shape tape concealer 12N 16N 20B 20S 22N",
+        "url": "https://tartecosmetics.com/en-kr/products/shape-tape-concealer.js",
+        "note": "Official Tarte shape tape full-coverage / contour concealer; front label and purple-gold cap agree with catalog line, not Ultra Creamy. Exact source option 22N light neutral; source variant 52789613592598. Official standard bottle is10ml (0.33fl oz), confirmed on product page; this is not travel size. Explicit featured image id 59512028069910; retained without modification."
+      },
+      {
+        "query": "site:tartecosmetics.com \"shape tape\" \"10 mL\" concealer",
+        "url": "https://tartecosmetics.com/products/shape-tape-concealer",
+        "note": "Official product source confirms standard0.33fl oz/10ml, including requested shade family."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 260,
+    "productId": "parent-0030",
+    "variantId": "gc001917",
+    "productName": "Консилер Tarte Shape Tape Ultra Creamy Concealer",
+    "variant": "Fair Beige 22B",
+    "status": "skipped",
+    "sourcePage": "https://tartecosmetics.com/en-sg/products/shape-tape-creamy-concealer",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog label Fair Beige22B conflicts with official variant22B Light Beige. Fair Beige is official12B. Neither code nor label was silently preferred, so no photo assigned.",
+    "searches": [
+      {
+        "query": "site:tartecosmetics.com shape tape ultra creamy concealer 12N 16N 20B 20S 22B 22N",
+        "url": "https://tartecosmetics.com/en-sg/products/shape-tape-creamy-concealer",
+        "note": "Catalog label Fair Beige22B conflicts with official variant22B Light Beige. Fair Beige is official12B. Neither code nor label was silently preferred, so no photo assigned."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 261,
+    "productId": "parent-0030",
+    "variantId": "gc001918",
+    "productName": "Консилер Tarte Shape Tape Ultra Creamy Concealer",
+    "variant": "Fair Beige 22N",
+    "status": "skipped",
+    "sourcePage": "https://tartecosmetics.com/en-sg/products/shape-tape-creamy-concealer",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog label Fair Beige22N conflicts with official variant22N Light Neutral. Fair Beige is official12B. This conflicting row is distinct from the unambiguous Light Neutral22N row; no photo assigned.",
+    "searches": [
+      {
+        "query": "site:tartecosmetics.com shape tape ultra creamy concealer 12N 16N 20B 20S 22B 22N",
+        "url": "https://tartecosmetics.com/en-sg/products/shape-tape-creamy-concealer",
+        "note": "Catalog label Fair Beige22N conflicts with official variant22N Light Neutral. Fair Beige is official12B. This conflicting row is distinct from the unambiguous Light Neutral22N row; no photo assigned."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 262,
+    "productId": "parent-0030",
+    "variantId": "gc001920",
+    "productName": "Консилер Tarte Shape Tape Ultra Creamy Concealer",
+    "variant": "Fair Light Neutral 16N",
+    "status": "verified",
+    "sourcePage": "https://tartecosmetics.com/en-sg/products/shape-tape-creamy-concealer?variant=52789598814230",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0898/4972/4950/files/unique__846733046263__shape-tape-ultra-creamy-concealer-16N-fair-light-neutral__01.jpg?v=1767996026",
+    "localFile": "materials/catalog-7b/originals/b006-a/Консилер Tarte Shape Tape Ultra Creamy Concealer Fair Light Neutral 16N--gc001920.jpg",
+    "width": 2000,
+    "height": 2667,
+    "format": "JPEG",
+    "bytes": 99002,
+    "sha256": "0cf5a4a5b43690d6ab89e39cbb9679bc048cbfc1d6682953b449690c7b3648ba",
+    "verification": {
+      "identity": "Official Tarte creamy product media explicitly show shape tape ultra creamy on packaging and in image filename, distinct from ordinary contour line.",
+      "volumeAndVariant": "Exact source option 16N fair-light neutral; source variant 52789598814230.",
+      "visualReview": "Original family contact sheet and full representative reviewed: complete pale-cap Ultra Creamy bottle and wand, white background, no watermark. Each prepared output inspected.",
+      "reviewMethod": "source metadata and actual local original / prepared images",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:tartecosmetics.com shape tape ultra creamy concealer 12N 16N 20B 20S 22B 22N",
+        "url": "https://tartecosmetics.com/en-sg/products/shape-tape-creamy-concealer.js",
+        "note": "Official Tarte creamy product media explicitly show shape tape ultra creamy on packaging and in image filename, distinct from ordinary contour line. Exact source option 16N fair-light neutral; source variant 52789598814230. Explicit featured image id 59520598081558; retained without modification."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 263,
+    "productId": "parent-0030",
+    "variantId": "gc001919",
+    "productName": "Консилер Tarte Shape Tape Ultra Creamy Concealer",
+    "variant": "Fair Neutral 12N",
+    "status": "verified",
+    "sourcePage": "https://tartecosmetics.com/en-sg/products/shape-tape-creamy-concealer?variant=52789598879766",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0898/4972/4950/files/unique__846733046249__shape-tape-ultra-creamy-concealer-12N-fair-neutral__01.jpg?v=1767996026",
+    "localFile": "materials/catalog-7b/originals/b006-a/Консилер Tarte Shape Tape Ultra Creamy Concealer Fair Neutral 12N--gc001919.jpg",
+    "width": 2000,
+    "height": 2667,
+    "format": "JPEG",
+    "bytes": 99062,
+    "sha256": "089ce73c0019ff9f5a1a3e72dbc3db6c7b2a814a07077c1d18b86a57365990fb",
+    "verification": {
+      "identity": "Official Tarte creamy product media explicitly show shape tape ultra creamy on packaging and in image filename, distinct from ordinary contour line.",
+      "volumeAndVariant": "Exact source option 12N fair neutral; source variant 52789598879766.",
+      "visualReview": "Original family contact sheet and full representative reviewed: complete pale-cap Ultra Creamy bottle and wand, white background, no watermark. Each prepared output inspected.",
+      "reviewMethod": "source metadata and actual local original / prepared images",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:tartecosmetics.com shape tape ultra creamy concealer 12N 16N 20B 20S 22B 22N",
+        "url": "https://tartecosmetics.com/en-sg/products/shape-tape-creamy-concealer.js",
+        "note": "Official Tarte creamy product media explicitly show shape tape ultra creamy on packaging and in image filename, distinct from ordinary contour line. Exact source option 12N fair neutral; source variant 52789598879766. Explicit featured image id 59520599031830; retained without modification."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 264,
+    "productId": "parent-0030",
+    "variantId": "gc001921",
+    "productName": "Консилер Tarte Shape Tape Ultra Creamy Concealer",
+    "variant": "Light Sand 20S",
+    "status": "verified",
+    "sourcePage": "https://tartecosmetics.com/en-sg/products/shape-tape-creamy-concealer?variant=52789598748694",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0898/4972/4950/files/unique__846733046287__shape-tape-ultra-creamy-concealer-20S-light-sand__01.jpg?v=1767996026",
+    "localFile": "materials/catalog-7b/originals/b006-a/Консилер Tarte Shape Tape Ultra Creamy Concealer Light Sand 20S--gc001921.jpg",
+    "width": 2000,
+    "height": 2667,
+    "format": "JPEG",
+    "bytes": 99638,
+    "sha256": "a6df1c41531f9806ee9b1a92dc5a5c67def3bc694d40a3e652684faae36d117e",
+    "verification": {
+      "identity": "Official Tarte creamy product media explicitly show shape tape ultra creamy on packaging and in image filename, distinct from ordinary contour line.",
+      "volumeAndVariant": "Exact source option 20S light sand; source variant 52789598748694.",
+      "visualReview": "Original family contact sheet and full representative reviewed: complete pale-cap Ultra Creamy bottle and wand, white background, no watermark. Each prepared output inspected.",
+      "reviewMethod": "source metadata and actual local original / prepared images",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:tartecosmetics.com shape tape ultra creamy concealer 12N 16N 20B 20S 22B 22N",
+        "url": "https://tartecosmetics.com/en-sg/products/shape-tape-creamy-concealer.js",
+        "note": "Official Tarte creamy product media explicitly show shape tape ultra creamy on packaging and in image filename, distinct from ordinary contour line. Exact source option 20S light sand; source variant 52789598748694. Explicit featured image id 59520598769686; retained without modification."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 265,
+    "productId": "parent-0030",
+    "variantId": "gc001922",
+    "productName": "Консилер Tarte Shape Tape Ultra Creamy Concealer",
+    "variant": "Light 20B",
+    "status": "verified",
+    "sourcePage": "https://tartecosmetics.com/en-sg/products/shape-tape-creamy-concealer?variant=52789598781462",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0898/4972/4950/files/unique__846733046270__shape-tape-ultra-creamy-concealer-20B-light__01.jpg?v=1767996026",
+    "localFile": "materials/catalog-7b/originals/b006-a/Консилер Tarte Shape Tape Ultra Creamy Concealer Light 20B--gc001922.jpg",
+    "width": 2000,
+    "height": 2667,
+    "format": "JPEG",
+    "bytes": 99186,
+    "sha256": "a954af83da430dc7e5825362ee3ce7966690adce0aa158e32263755f42d15bc2",
+    "verification": {
+      "identity": "Official Tarte creamy product media explicitly show shape tape ultra creamy on packaging and in image filename, distinct from ordinary contour line.",
+      "volumeAndVariant": "Exact source option 20B light; source variant 52789598781462.",
+      "visualReview": "Original family contact sheet and full representative reviewed: complete pale-cap Ultra Creamy bottle and wand, white background, no watermark. Each prepared output inspected.",
+      "reviewMethod": "source metadata and actual local original / prepared images",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:tartecosmetics.com shape tape ultra creamy concealer 12N 16N 20B 20S 22B 22N",
+        "url": "https://tartecosmetics.com/en-sg/products/shape-tape-creamy-concealer.js",
+        "note": "Official Tarte creamy product media explicitly show shape tape ultra creamy on packaging and in image filename, distinct from ordinary contour line. Exact source option 20B light; source variant 52789598781462. Explicit featured image id 59520598933526; retained without modification."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 266,
+    "productId": "parent-0030",
+    "variantId": "gc001923",
+    "productName": "Консилер Tarte Shape Tape Ultra Creamy Concealer",
+    "variant": "Light Neutral 22N",
+    "status": "verified",
+    "sourcePage": "https://tartecosmetics.com/en-sg/products/shape-tape-creamy-concealer?variant=52789598715926",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0898/4972/4950/files/unique__846733046294__shape-tape-ultra-creamy-concealer-22N-light-neutral__01.jpg?v=1767996026",
+    "localFile": "materials/catalog-7b/originals/b006-a/Консилер Tarte Shape Tape Ultra Creamy Concealer Light Neutral 22N--gc001923.jpg",
+    "width": 2000,
+    "height": 2667,
+    "format": "JPEG",
+    "bytes": 100801,
+    "sha256": "7b8eb1ee6f652359f77982a41a0ea4d54c8d42a04c93f362cd2a9b6f42194578",
+    "verification": {
+      "identity": "Official Tarte creamy product media explicitly show shape tape ultra creamy on packaging and in image filename, distinct from ordinary contour line.",
+      "volumeAndVariant": "Exact source option 22N light neutral; source variant 52789598715926.",
+      "visualReview": "Original family contact sheet and full representative reviewed: complete pale-cap Ultra Creamy bottle and wand, white background, no watermark. Each prepared output inspected.",
+      "reviewMethod": "source metadata and actual local original / prepared images",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:tartecosmetics.com shape tape ultra creamy concealer 12N 16N 20B 20S 22B 22N",
+        "url": "https://tartecosmetics.com/en-sg/products/shape-tape-creamy-concealer.js",
+        "note": "Official Tarte creamy product media explicitly show shape tape ultra creamy on packaging and in image filename, distinct from ordinary contour line. Exact source option 22N light neutral; source variant 52789598715926. Explicit featured image id 59520598540310; retained without modification."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 267,
+    "productId": "parent-0031",
+    "variantId": "gc001961",
+    "productName": "Консилер Topface Lasting Finish",
+    "variant": "01",
+    "status": "verified",
+    "sourcePage": "https://topfaceegypt.com/products/topface-instyle-lasting-finish-concealer?variant=47894755279096",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0796/2361/8808/files/001_09120ad6-0492-4434-b243-0b90b9d9a8a8.png?v=1788436217",
+    "localFile": "materials/catalog-7b/originals/b006-a/Консилер Topface Lasting Finish 01--gc001961.png",
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 204773,
+    "sha256": "53dd1ea60fa8f44de9ea9f616604b3a63c3249421c0ae58b384b387f5aa10255",
+    "verification": {
+      "identity": "Topface regional brand store Instyle Lasting Finish Concealer PT461; selected shade001 featured image shows the corresponding full tube and wand.",
+      "volumeAndVariant": "Exact source option 001; source variant 47894755279096.",
+      "visualReview": "Full original reviewed: full tube and wand on white, no clipped tip/cap or watermark. Prepared output reviewed and accepted.",
+      "reviewMethod": "source metadata and actual local original / prepared images",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Topface Lasting Finish concealer 01 02",
+        "url": "https://topfaceegypt.com/products/topface-instyle-lasting-finish-concealer.js",
+        "note": "Topface regional brand store Instyle Lasting Finish Concealer PT461; selected shade001 featured image shows the corresponding full tube and wand. Exact source option 001; source variant 47894755279096. Explicit featured image id 52187996193016; retained without modification."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 268,
+    "productId": "parent-0031",
+    "variantId": "gc001962",
+    "productName": "Консилер Topface Lasting Finish",
+    "variant": "02",
+    "status": "skipped",
+    "sourcePage": "https://topfaceegypt.com/products/topface-instyle-lasting-finish-concealer",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0796/2361/8808/files/002s_d64d44b5-d976-4ce5-867b-f0d28636d10b.png?v=1788436234",
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official selected shade002 featured_image is only a cream smear, with no product tube. Downloaded candidate was visually rejected as a product photo; did not reuse shade001 tube for shade002.",
+    "searches": [
+      {
+        "query": "Topface Lasting Finish concealer 01 02",
+        "url": "https://topfaceegypt.com/products/topface-instyle-lasting-finish-concealer",
+        "note": "Official selected shade002 featured_image is only a cream smear, with no product tube. Downloaded candidate was visually rejected as a product photo; did not reuse shade001 tube for shade002."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 269,
+    "productId": "gc002066",
+    "variantId": "gc002066",
+    "productName": "Идеальное Отбеливание сыворотка-корректор для лица интенсивная Vitex 30 мл",
+    "variant": "30мл",
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1511636",
+    "sourceImage": "https://s.f.kz/prod/1512/1511636_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b006-a/Идеальное Отбеливание сыворотка-корректор для лица интенсивная Vitex 30 мл 30мл--gc002066.jpg",
+    "width": 752,
+    "height": 752,
+    "format": "JPEG",
+    "bytes": 91415,
+    "sha256": "019d96bc57d5cf95ffce8aef385af441d84d9c13c4340b60660299f2e1f7bc75",
+    "verification": {
+      "identity": "Flip retailer title and photographed package identify Vitex Ideal Whitening intensive corrector serum30ml.",
+      "volumeAndVariant": "Exact source option Ideal Whitening intensive corrector serum30ml; source variant 1511636. Exact30ml stated by source and matches catalog.",
+      "visualReview": "Full original reviewed: matching30ml tube and carton; source752square/visible748px below800 requirement. Original retained but preparation blocked.",
+      "reviewMethod": "source metadata and actual local original / prepared images",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Витэкс Идеальное Отбеливание сыворотка корректор интенсивная 30мл",
+        "url": "https://www.flip.kz/catalog?prod=1511636",
+        "note": "Flip retailer title and photographed package identify Vitex Ideal Whitening intensive corrector serum30ml. Exact source option Ideal Whitening intensive corrector serum30ml; source variant 1511636. Exact30ml stated by source and matches catalog. Explicit featured image id productPhoto mapping; retained without modification."
+      }
+    ],
+    "sharedImageWith": []
+  }
+]

@@ -1,0 +1,486 @@
+[
+  {
+    "productId": "gc001770",
+    "variantId": "gc001770",
+    "productName": "Кремовые румяна ROSE INC Wistera",
+    "brand": "ROSE INC",
+    "variant": "Стандарт",
+    "sku": "GC001770",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 440,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://www.roseinc.com/products/cream-blush?variant=41910860710076",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0100/9257/6804/products/22_Blush_Wisteria_AP_bddbb2ea-f5a6-4809-934c-88a963bd6372.jpg?v=1759120577",
+    "localFile": "materials/catalog-7b/originals/b009-c/Кремовые румяна ROSE INC Wistera Стандарт--gc001770.jpg",
+    "verification": {
+      "identity": "Official cream blush full refillable compact Wisteria; variant41910860710076 uniquely maps featured_image33820813000892. Catalog Wistera is spelling contraction; no different shade of this name exists in family.",
+      "volumeAndVariant": "Full refillable Wisteria compact, not pan-only refill. Official family distinguishes refill product separately.",
+      "visualReview": "Whole open compact plus coral-pink pan in staged grey gradient room, floor reflection and large opaque grey background. Not a white-background product photo.",
+      "reviewMethod": "All original images visually inspected using fit-contain sources-overview.png; source hashes/dimensions checked by retain helper.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:roseinc.com Wisteria blush divine radiant lip cheek",
+        "url": "https://www.roseinc.com/products/cream-blush?variant=41910860710076",
+        "note": "Official cream blush full refillable compact Wisteria; variant41910860710076 uniquely maps featured_image33820813000892. Catalog Wistera is spelling contraction; no different shade of this name exists in family."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official cream blush full refillable compact Wisteria; variant41910860710076 uniquely maps featured_image33820813000892. Catalog Wistera is spelling contraction; no different shade of this name exists in family.",
+    "width": 2000,
+    "height": 2000,
+    "bytes": 105390,
+    "sha256": "8027e9e9d53a0c7062c0e71181a625a48387f424a5be27832ff206f6ed1b8c86"
+  },
+  {
+    "productId": "gc001825",
+    "variantId": "gc001825",
+    "productName": "Кремовые румяна SHIK Perfect Liquid 01",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001825",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 441,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/rumana-kremovye-02-10-grshik-perfect-liquid-blush-02-10-gr?color=01",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/5079/variations/174045325467bd3586dd2912.32033054_1080_1520_inset.webp",
+    "localFile": "materials/catalog-7b/originals/b009-c/Кремовые румяна SHIK Perfect Liquid 01 Стандарт--gc001825.webp",
+    "verification": {
+      "identity": "Official selected shade 01 maps option value 609 to first productPhoto variationId.",
+      "volumeAndVariant": "Exact Perfect Liquid Blush10g, official numbered option and corresponding productPhoto variation.",
+      "visualReview": "Whole matching coloured tube on opaque pale grey/pink floor/wall with long hard cast shadow to the right. No watermark, but unsuitable background; no extensive retouching.",
+      "reviewMethod": "All original images visually inspected using fit-contain sources-overview.png; source hashes/dimensions checked by retain helper.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:shikstore.ru Perfect Liquid Blush 01 02 04 06",
+        "url": "https://shikstore.ru/product/rumana-kremovye-02-10-grshik-perfect-liquid-blush-02-10-gr?color=01",
+        "note": "Official selected shade 01 maps option value 609 to first productPhoto variationId."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official selected shade 01 maps option value 609 to first productPhoto variationId.",
+    "width": 1080,
+    "height": 1520,
+    "bytes": 11654,
+    "sha256": "5e08ea535dcc8c5635023f05b0d67e6e0182987ecd296ce965eb9fa8c9a96726"
+  },
+  {
+    "productId": "parent-0057",
+    "variantId": "gc001826",
+    "productName": "Кремовые румяна SHIK Perfect Liquid Blush",
+    "brand": "SHIK",
+    "variant": "02",
+    "sku": "GC001826",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 442,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/rumana-kremovye-02-10-grshik-perfect-liquid-blush-02-10-gr?color=02",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/5079/variations/173345457767526af11c2110.18944016_1080_1520_inset.webp",
+    "localFile": "materials/catalog-7b/originals/b009-c/Кремовые румяна SHIK Perfect Liquid Blush 02--gc001826.webp",
+    "verification": {
+      "identity": "Official selected shade 02 maps option value 487 to first productPhoto variationId.",
+      "volumeAndVariant": "Exact Perfect Liquid Blush10g, official numbered option and corresponding productPhoto variation.",
+      "visualReview": "Whole matching coloured tube on opaque pale grey/pink floor/wall with long hard cast shadow to the right. No watermark, but unsuitable background; no extensive retouching.",
+      "reviewMethod": "All original images visually inspected using fit-contain sources-overview.png; source hashes/dimensions checked by retain helper.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:shikstore.ru Perfect Liquid Blush 01 02 04 06",
+        "url": "https://shikstore.ru/product/rumana-kremovye-02-10-grshik-perfect-liquid-blush-02-10-gr?color=02",
+        "note": "Official selected shade 02 maps option value 487 to first productPhoto variationId."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official selected shade 02 maps option value 487 to first productPhoto variationId.",
+    "width": 1080,
+    "height": 1520,
+    "bytes": 10300,
+    "sha256": "c86701b29a1122b7e282f0ec1446d176130e58e174a51c595c67c66fe981c3ec"
+  },
+  {
+    "productId": "parent-0057",
+    "variantId": "gc001827",
+    "productName": "Кремовые румяна SHIK Perfect Liquid Blush",
+    "brand": "SHIK",
+    "variant": "04",
+    "sku": "GC001827",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 443,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/rumana-kremovye-02-10-grshik-perfect-liquid-blush-02-10-gr?color=04",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/5079/variations/173345462767526b23141593.21345104_1080_1520_inset.webp",
+    "localFile": "materials/catalog-7b/originals/b009-c/Кремовые румяна SHIK Perfect Liquid Blush 04--gc001827.webp",
+    "verification": {
+      "identity": "Official selected shade 04 maps option value 489 to first productPhoto variationId.",
+      "volumeAndVariant": "Exact Perfect Liquid Blush10g, official numbered option and corresponding productPhoto variation.",
+      "visualReview": "Whole matching coloured tube on opaque pale grey/pink floor/wall with long hard cast shadow to the right. No watermark, but unsuitable background; no extensive retouching.",
+      "reviewMethod": "All original images visually inspected using fit-contain sources-overview.png; source hashes/dimensions checked by retain helper.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:shikstore.ru Perfect Liquid Blush 01 02 04 06",
+        "url": "https://shikstore.ru/product/rumana-kremovye-02-10-grshik-perfect-liquid-blush-02-10-gr?color=04",
+        "note": "Official selected shade 04 maps option value 489 to first productPhoto variationId."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official selected shade 04 maps option value 489 to first productPhoto variationId.",
+    "width": 1080,
+    "height": 1520,
+    "bytes": 9752,
+    "sha256": "79d152a1bcfffd09d369f3155a1fed63ace9a09b0c90e3f6ed3fa8d141fb1c86"
+  },
+  {
+    "productId": "parent-0057",
+    "variantId": "gc001828",
+    "productName": "Кремовые румяна SHIK Perfect Liquid Blush",
+    "brand": "SHIK",
+    "variant": "06",
+    "sku": "GC001828",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 444,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/rumana-kremovye-02-10-grshik-perfect-liquid-blush-02-10-gr?color=06",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/5079/variations/174064268167c01979e1b805.23864446_1080_1520_inset.webp",
+    "localFile": "materials/catalog-7b/originals/b009-c/Кремовые румяна SHIK Perfect Liquid Blush 06--gc001828.webp",
+    "verification": {
+      "identity": "Official selected shade 06 maps option value 624 to first productPhoto variationId.",
+      "volumeAndVariant": "Exact Perfect Liquid Blush10g, official numbered option and corresponding productPhoto variation.",
+      "visualReview": "Whole matching coloured tube on opaque pale grey/pink floor/wall with long hard cast shadow to the right. No watermark, but unsuitable background; no extensive retouching.",
+      "reviewMethod": "All original images visually inspected using fit-contain sources-overview.png; source hashes/dimensions checked by retain helper.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:shikstore.ru Perfect Liquid Blush 01 02 04 06",
+        "url": "https://shikstore.ru/product/rumana-kremovye-02-10-grshik-perfect-liquid-blush-02-10-gr?color=06",
+        "note": "Official selected shade 06 maps option value 624 to first productPhoto variationId."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official selected shade 06 maps option value 624 to first productPhoto variationId.",
+    "width": 1080,
+    "height": 1520,
+    "bytes": 9356,
+    "sha256": "8ef0937899003a459962e13529add2db8fdabfb64c10543420cd34b087280629"
+  },
+  {
+    "productId": "gc001843",
+    "variantId": "gc001843",
+    "productName": "Румяна запеченные 02 SHIK",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001843",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 445,
+    "batch": 9,
+    "status": "skipped",
+    "sourcePage": "https://shikcosmetics.com.ua/ru/magazyn/blush-melange-rumyana-zapechennye",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Search identifies exact Blush Melange02 and official regional representative, but selected product site returns Website was disabled, no usable source image. Quick pass skipped.",
+    "searches": [
+      {
+        "query": "SHIK Румяна запеченные 02",
+        "url": "https://shikcosmetics.com.ua/ru/magazyn/blush-melange-rumyana-zapechennye",
+        "note": "Search identifies exact Blush Melange02 and official regional representative, but selected product site returns Website was disabled, no usable source image. Quick pass skipped."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0058",
+    "variantId": "gc001782",
+    "productName": "Румяна-суфле SHIK",
+    "brand": "SHIK",
+    "variant": "DELPHINIUM",
+    "sku": "GC001782",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 446,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/rumana-mussovye-1-hbi23062707-rose-hip?color=DELPHINIUM",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/4059/variations/173338316967515401bb8632.81750304_1080_1520_inset.webp",
+    "localFile": "materials/catalog-7b/originals/b009-c/Румяна-суфле SHIK DELPHINIUM--gc001782.webp",
+    "verification": {
+      "identity": "Official selected shade DELPHINIUM maps option value 350 to first productPhoto variationId.",
+      "volumeAndVariant": "Exact named Crimson Blush mousse5g, shade identified by current official option value; no arbitrary unnamed gallery image used.",
+      "visualReview": "Full powder-colour square pan and round lid on opaque tinted grey studio background with cast shadow. Distinct exact shade, no overlay, but unsuitable background for white standard.",
+      "reviewMethod": "All original images visually inspected using fit-contain sources-overview.png; source hashes/dimensions checked by retain helper.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:shikstore.ru румяна-суфле DELPHINIUM LUPINE ROSE HIP",
+        "url": "https://shikstore.ru/product/rumana-mussovye-1-hbi23062707-rose-hip?color=DELPHINIUM",
+        "note": "Official selected shade DELPHINIUM maps option value 350 to first productPhoto variationId."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official selected shade DELPHINIUM maps option value 350 to first productPhoto variationId.",
+    "width": 1080,
+    "height": 1520,
+    "bytes": 10020,
+    "sha256": "4bb61a5259fc1350d78de2770389e55afda0f56fae677a9cedbb495a9033c895"
+  },
+  {
+    "productId": "parent-0058",
+    "variantId": "gc001783",
+    "productName": "Румяна-суфле SHIK",
+    "brand": "SHIK",
+    "variant": "LUPINE",
+    "sku": "GC001783",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 447,
+    "batch": 9,
+    "status": "skipped",
+    "sourcePage": "https://shikstore.ru/product/rumana-mussovye-1-hbi23062707-rose-hip?color=DELPHINIUM",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Search text/news names Lupine, but current actual product HTML options only DAHLIA, ROSE HIP and DELPHINIUM. Old numbered gallery photos lack a verified current Lupine mapping; no guessed colour/variationId used.",
+    "searches": [
+      {
+        "query": "site:shikstore.ru румяна-суфле DELPHINIUM LUPINE",
+        "url": "https://shikstore.ru/product/rumana-mussovye-1-hbi23062707-rose-hip?color=DELPHINIUM",
+        "note": "Search text/news names Lupine, but current actual product HTML options only DAHLIA, ROSE HIP and DELPHINIUM. Old numbered gallery photos lack a verified current Lupine mapping; no guessed colour/variationId used."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0058",
+    "variantId": "gc001784",
+    "productName": "Румяна-суфле SHIK",
+    "brand": "SHIK",
+    "variant": "ROSE HIP",
+    "sku": "GC001784",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 448,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/rumana-mussovye-1-hbi23062707-rose-hip?color=ROSE%20HIP",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/4059/variations/17890385696aa28fe98b8837.04843133_1080_1520_inset.webp",
+    "localFile": "materials/catalog-7b/originals/b009-c/Румяна-суфле SHIK ROSE HIP--gc001784.webp",
+    "verification": {
+      "identity": "Official selected shade ROSE HIP maps option value 852 to first productPhoto variationId.",
+      "volumeAndVariant": "Exact named Crimson Blush mousse5g, shade identified by current official option value; no arbitrary unnamed gallery image used.",
+      "visualReview": "Full powder-colour square pan and round lid on opaque tinted grey studio background with cast shadow. Distinct exact shade, no overlay, but unsuitable background for white standard.",
+      "reviewMethod": "All original images visually inspected using fit-contain sources-overview.png; source hashes/dimensions checked by retain helper.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:shikstore.ru румяна-суфле DELPHINIUM LUPINE ROSE HIP",
+        "url": "https://shikstore.ru/product/rumana-mussovye-1-hbi23062707-rose-hip?color=ROSE%20HIP",
+        "note": "Official selected shade ROSE HIP maps option value 852 to first productPhoto variationId."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official selected shade ROSE HIP maps option value 852 to first productPhoto variationId.",
+    "width": 1080,
+    "height": 1520,
+    "bytes": 18928,
+    "sha256": "da35406160a547b5944a32fdd2b5783baca69bdc219a6ab8f0ea456209d8243b"
+  },
+  {
+    "productId": "parent-0059",
+    "variantId": "gc002087",
+    "productName": "Румяна пудровые Yves Saint Laurent",
+    "brand": "Yves Saint Laurent",
+    "variant": "42",
+    "sku": "GC002087",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 449,
+    "batch": 9,
+    "status": "skipped",
+    "sourcePage": "https://www.yslbeauty.co.uk/makeup/face-makeup/blush/make-me-blush-bold-blurring-blush/WW-51348YSL.html?dwvar_WW-51348YSL_color=42_BABYDOLL_PINK",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official selected pages confirm powder blush shades42/44. Direct product request403; web gallery provides only320px thumbnail URL. Attempt to download original of42 was rejected by automatic tool review with reason blocked by policy. Family quick pass stopped without retrying the blocked download; no retained usable original for this row.",
+    "searches": [
+      {
+        "query": "Yves Saint Laurent Blush 42 44",
+        "url": "https://www.yslbeauty.co.uk/makeup/face-makeup/blush/make-me-blush-bold-blurring-blush/WW-51348YSL.html?dwvar_WW-51348YSL_color=42_BABYDOLL_PINK",
+        "note": "Official selected pages confirm powder blush shades42/44. Direct product request403; web gallery provides only320px thumbnail URL. Attempt to download original of42 was rejected by automatic tool review with reason blocked by policy. Family quick pass stopped without retrying the blocked download; no retained usable original for this row."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0059",
+    "variantId": "gc002088",
+    "productName": "Румяна пудровые Yves Saint Laurent",
+    "brand": "Yves Saint Laurent",
+    "variant": "44",
+    "sku": "GC002088",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 450,
+    "batch": 9,
+    "status": "skipped",
+    "sourcePage": "https://www.yslbeauty.co.uk/makeup/face-makeup/blush/make-me-blush-bold-blurring-blush/WW-51348YSL.html?dwvar_WW-51348YSL_color=44_NUDE_LAVALLIERE",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official selected pages confirm powder blush shades42/44. Direct product request403; web gallery provides only320px thumbnail URL. Attempt to download original of42 was rejected by automatic tool review with reason blocked by policy. Family quick pass stopped without retrying the blocked download; no retained usable original for this row.",
+    "searches": [
+      {
+        "query": "Yves Saint Laurent Blush 42 44",
+        "url": "https://www.yslbeauty.co.uk/makeup/face-makeup/blush/make-me-blush-bold-blurring-blush/WW-51348YSL.html?dwvar_WW-51348YSL_color=44_NUDE_LAVALLIERE",
+        "note": "Official selected pages confirm powder blush shades42/44. Direct product request403; web gallery provides only320px thumbnail URL. Attempt to download original of42 was rejected by automatic tool review with reason blocked by policy. Family quick pass stopped without retrying the blocked download; no retained usable original for this row."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  }
+]

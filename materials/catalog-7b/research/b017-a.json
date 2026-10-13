@@ -1,0 +1,855 @@
+[
+  {
+    "productId": "gc004807",
+    "variantId": "gc004807",
+    "productName": "Тени для век оттенков тени для век Farres Nude Rich, 9",
+    "brand": "Farres",
+    "variant": "Стандарт",
+    "sku": "GC004807",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 801,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://www.cosmetichca.ru/dekorativnaya-kosmetika/teni-dlya-vek/farres-1235-03-teni-dlya-vek-9-cvetov-quotnude-richquot-matovyeperlamutrovye-6288-1235-03/",
+    "sourceImage": "https://www.cosmetichca.ru/image/cache/import_files/be/be601906380111ed8e08b42e99348190_be601919380111ed8e08b42e99348190-720x720.jpg",
+    "localFile": "materials/catalog-7b/originals/b017-a/Тени для век оттенков тени для век Farres Nude Rich, 9 Стандарт--gc004807.jpg",
+    "verification": {
+      "identity": "Exact retailer title Farres product; candidate og:image.",
+      "volumeAndVariant": "Exact assigned shade/standard variant bound by source page; no alternate palette or colour used.",
+      "visualReview": "Full-fit sources-overview.png reviewed; source quality and exact outcome in review.md/results.json.",
+      "reviewMethod": "Exact page/productvariant mapping and visual inspection; retain unchangedbytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тени для век оттенков тени для век Farres Nude Rich, 9 Стандарт",
+        "url": "https://www.cosmetichca.ru/dekorativnaya-kosmetika/teni-dlya-vek/farres-1235-03-teni-dlya-vek-9-cvetov-quotnude-richquot-matovyeperlamutrovye-6288-1235-03/",
+        "note": "Exact retailer title Farres product; candidate og:image. Exact assigned shade/standard variant bound by source page; no alternate palette or colour used."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 720,
+    "height": 720,
+    "bytes": 43120,
+    "sha256": "a786ba98b35964c5e2ff997da842555bc8fdfd41d5ff5532f681f55adf9fc264"
+  },
+  {
+    "productId": "gc004808",
+    "variantId": "gc004808",
+    "productName": "Тени для век оттенков тени для век Farres Pastels Lilac, 9",
+    "brand": "Farres",
+    "variant": "Стандарт",
+    "sku": "GC004808",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 802,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://celebritynail.com.ua/p1739878201-teni-dlya-vek.html",
+    "sourceImage": "https://images.prom.ua/4175446628_tini-dlya-povik.jpg",
+    "localFile": "materials/catalog-7b/originals/b017-a/Тени для век оттенков тени для век Farres Pastels Lilac, 9 Стандарт--gc004808.jpg",
+    "verification": {
+      "identity": "Retailer exact Farres Pastels Lilac9; full imageURL linked in actualHTML.",
+      "volumeAndVariant": "Exact assigned shade/standard variant bound by source page; no alternate palette or colour used.",
+      "visualReview": "Full-fit sources-overview.png reviewed; source quality and exact outcome in review.md/results.json.",
+      "reviewMethod": "Exact page/productvariant mapping and visual inspection; retain unchangedbytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тени для век оттенков тени для век Farres Pastels Lilac, 9 Стандарт",
+        "url": "https://celebritynail.com.ua/p1739878201-teni-dlya-vek.html",
+        "note": "Retailer exact Farres Pastels Lilac9; full imageURL linked in actualHTML. Exact assigned shade/standard variant bound by source page; no alternate palette or colour used."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 660,
+    "height": 660,
+    "bytes": 62155,
+    "sha256": "912b97af5986c7a7a87202dfa5f126420e8d9fa5d196bdde38dd43dbfc1664f9"
+  },
+  {
+    "productId": "gc004809",
+    "variantId": "gc004809",
+    "productName": "Тени для век оттенков тени для век Farres Pastels Mint, 9",
+    "brand": "Farres",
+    "variant": "Стандарт",
+    "sku": "GC004809",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 803,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://rozetka.com.ua/364064175/p364064175/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Indexed exact Farres Pastels Mint9 page found, but retailer request returned403. No exact accessible photo obtained in quick pass; Lilac or Huda imagery not substituted.",
+    "searches": [
+      {
+        "query": "Farres Pastels Mint9",
+        "url": "https://rozetka.com.ua/364064175/p364064175/",
+        "note": "Indexed exact Farres Pastels Mint9 page found, but retailer request returned403. No exact accessible photo obtained in quick pass; Lilac or Huda imagery not substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc004810",
+    "variantId": "gc004810",
+    "productName": "Тени для век оттенков тени для век Farres Pastels Rose, 9",
+    "brand": "Farres",
+    "variant": "Стандарт",
+    "sku": "GC004810",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 804,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://rozetka.com.ua/ua/364064154/p364064154/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Indexed exact Farres Pastels Rose9 page found, but retailer request returned403. No exact accessible photo obtained in quick pass; Lilac or Huda imagery not substituted.",
+    "searches": [
+      {
+        "query": "Farres Pastels Rose9",
+        "url": "https://rozetka.com.ua/ua/364064154/p364064154/",
+        "note": "Indexed exact Farres Pastels Rose9 page found, but retailer request returned403. No exact accessible photo obtained in quick pass; Lilac or Huda imagery not substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc004811",
+    "variantId": "gc004811",
+    "productName": "Тени для век оттенков тени для век Farres Sapphire Obsessions, 9",
+    "brand": "Farres",
+    "variant": "Стандарт",
+    "sku": "GC004811",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 805,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://prom.ua/ua/p1366633234-teni-dlya-vek.html",
+    "sourceImage": "https://images.prom.ua/2963186971_w700_h500_teni-dlya-vek.jpg",
+    "localFile": "materials/catalog-7b/originals/b017-a/Тени для век оттенков тени для век Farres Sapphire Obsessions, 9 Стандарт--gc004811.jpg",
+    "verification": {
+      "identity": "Exact retailer title Farres product; candidate og:image.",
+      "volumeAndVariant": "Exact assigned shade/standard variant bound by source page; no alternate palette or colour used.",
+      "visualReview": "Full-fit sources-overview.png reviewed; source quality and exact outcome in review.md/results.json.",
+      "reviewMethod": "Exact page/productvariant mapping and visual inspection; retain unchangedbytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тени для век оттенков тени для век Farres Sapphire Obsessions, 9 Стандарт",
+        "url": "https://prom.ua/ua/p1366633234-teni-dlya-vek.html",
+        "note": "Exact retailer title Farres product; candidate og:image. Exact assigned shade/standard variant bound by source page; no alternate palette or colour used."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 500,
+    "height": 500,
+    "bytes": 33456,
+    "sha256": "cd5c6298544ebae82b72d3ed670525a11c4db7863f72f4d63e4e894fba7dd2b9"
+  },
+  {
+    "productId": "parent-0114",
+    "variantId": "gc004812",
+    "productName": "Тени для век Golden Rose Metals Metallic Liquid Eyeshadow",
+    "brand": "Golden Rose",
+    "variant": "102",
+    "sku": "GC004812",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 806,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com.pk/products/metals-metallic-liquid-eyeshadow?variant=22254373601361",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0059/2687/9302/products/metals-metallic-liquid-eyeshadow-378659.jpg?v=1787999183",
+    "localFile": "materials/catalog-7b/originals/b017-a/Тени для век Golden Rose Metals Metallic Liquid Eyeshadow 102--gc004812.jpg",
+    "verification": {
+      "identity": "Exact Shopify shade 102 featured_image; no default image used.",
+      "volumeAndVariant": "Exact numeric shade 102 mapped by Shopify variant featured_image/variant_ids; standard Metals Metallic Liquid Eyeshadow.",
+      "visualReview": "Full-fit sources-overview.png reviewed; source quality and exact outcome in review.md/results.json.",
+      "reviewMethod": "Exact page/productvariant mapping and visual inspection; retain unchangedbytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тени для век Golden Rose Metals Metallic Liquid Eyeshadow 102",
+        "url": "https://www.goldenrose.com.pk/products/metals-metallic-liquid-eyeshadow?variant=22254373601361",
+        "note": "Exact Shopify shade 102 featured_image; no default image used. Exact numeric shade 102 mapped by Shopify variant featured_image/variant_ids; standard Metals Metallic Liquid Eyeshadow."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1000,
+    "height": 1000,
+    "bytes": 29788,
+    "sha256": "bed475478ea3d8c455dba9beea096209644a8a0323516dad45ad5a7945cf241d"
+  },
+  {
+    "productId": "parent-0114",
+    "variantId": "gc004813",
+    "productName": "Тени для век Golden Rose Metals Metallic Liquid Eyeshadow",
+    "brand": "Golden Rose",
+    "variant": "105",
+    "sku": "GC004813",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 807,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com.pk/products/metals-metallic-liquid-eyeshadow?variant=22254373666897",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0059/2687/9302/products/metals-metallic-liquid-eyeshadow-913343.jpg?v=1787999184",
+    "localFile": "materials/catalog-7b/originals/b017-a/Тени для век Golden Rose Metals Metallic Liquid Eyeshadow 105--gc004813.jpg",
+    "verification": {
+      "identity": "Exact Shopify shade 105 featured_image; no default image used.",
+      "volumeAndVariant": "Exact numeric shade 105 mapped by Shopify variant featured_image/variant_ids; standard Metals Metallic Liquid Eyeshadow.",
+      "visualReview": "Full-fit sources-overview.png reviewed; source quality and exact outcome in review.md/results.json.",
+      "reviewMethod": "Exact page/productvariant mapping and visual inspection; retain unchangedbytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тени для век Golden Rose Metals Metallic Liquid Eyeshadow 105",
+        "url": "https://www.goldenrose.com.pk/products/metals-metallic-liquid-eyeshadow?variant=22254373666897",
+        "note": "Exact Shopify shade 105 featured_image; no default image used. Exact numeric shade 105 mapped by Shopify variant featured_image/variant_ids; standard Metals Metallic Liquid Eyeshadow."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1000,
+    "height": 1000,
+    "bytes": 29874,
+    "sha256": "8c81fd95bf0b7cf089546cfbbf4f8b01da8cbf40d91a3635bc12d72ae8f53fa1"
+  },
+  {
+    "productId": "parent-0114",
+    "variantId": "gc004814",
+    "productName": "Тени для век Golden Rose Metals Metallic Liquid Eyeshadow",
+    "brand": "Golden Rose",
+    "variant": "106",
+    "sku": "GC004814",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 808,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com.pk/products/metals-metallic-liquid-eyeshadow?variant=22254373699665",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0059/2687/9302/products/metals-metallic-liquid-eyeshadow-636636.jpg?v=1787999185",
+    "localFile": "materials/catalog-7b/originals/b017-a/Тени для век Golden Rose Metals Metallic Liquid Eyeshadow 106--gc004814.jpg",
+    "verification": {
+      "identity": "Exact Shopify shade 106 featured_image; no default image used.",
+      "volumeAndVariant": "Exact numeric shade 106 mapped by Shopify variant featured_image/variant_ids; standard Metals Metallic Liquid Eyeshadow.",
+      "visualReview": "Full-fit sources-overview.png reviewed; source quality and exact outcome in review.md/results.json.",
+      "reviewMethod": "Exact page/productvariant mapping and visual inspection; retain unchangedbytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тени для век Golden Rose Metals Metallic Liquid Eyeshadow 106",
+        "url": "https://www.goldenrose.com.pk/products/metals-metallic-liquid-eyeshadow?variant=22254373699665",
+        "note": "Exact Shopify shade 106 featured_image; no default image used. Exact numeric shade 106 mapped by Shopify variant featured_image/variant_ids; standard Metals Metallic Liquid Eyeshadow."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1000,
+    "height": 1000,
+    "bytes": 29570,
+    "sha256": "23a209cf6315eecd8a622090c167b5ff83f7fdf7d637eb75dc17738c3897ceb3"
+  },
+  {
+    "productId": "parent-0114",
+    "variantId": "gc004815",
+    "productName": "Тени для век Golden Rose Metals Metallic Liquid Eyeshadow",
+    "brand": "Golden Rose",
+    "variant": "107",
+    "sku": "GC004815",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 809,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com.pk/products/metals-metallic-liquid-eyeshadow?variant=22254373732433",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0059/2687/9302/products/metals-metallic-liquid-eyeshadow-432038.jpg?v=1787999185",
+    "localFile": "materials/catalog-7b/originals/b017-a/Тени для век Golden Rose Metals Metallic Liquid Eyeshadow 107--gc004815.jpg",
+    "verification": {
+      "identity": "Exact Shopify shade 107 featured_image; no default image used.",
+      "volumeAndVariant": "Exact numeric shade 107 mapped by Shopify variant featured_image/variant_ids; standard Metals Metallic Liquid Eyeshadow.",
+      "visualReview": "Full-fit sources-overview.png reviewed; source quality and exact outcome in review.md/results.json.",
+      "reviewMethod": "Exact page/productvariant mapping and visual inspection; retain unchangedbytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тени для век Golden Rose Metals Metallic Liquid Eyeshadow 107",
+        "url": "https://www.goldenrose.com.pk/products/metals-metallic-liquid-eyeshadow?variant=22254373732433",
+        "note": "Exact Shopify shade 107 featured_image; no default image used. Exact numeric shade 107 mapped by Shopify variant featured_image/variant_ids; standard Metals Metallic Liquid Eyeshadow."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1000,
+    "height": 1000,
+    "bytes": 31683,
+    "sha256": "65158f777c0fd76d0271be736db9e522074e4a7cde9647432432c30968c76cd5"
+  },
+  {
+    "productId": "parent-0114",
+    "variantId": "gc004816",
+    "productName": "Тени для век Golden Rose Metals Metallic Liquid Eyeshadow",
+    "brand": "Golden Rose",
+    "variant": "108",
+    "sku": "GC004816",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 810,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com.pk/products/metals-metallic-liquid-eyeshadow?variant=22254373765201",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0059/2687/9302/products/metals-metallic-liquid-eyeshadow-961531.jpg?v=1787999185",
+    "localFile": "materials/catalog-7b/originals/b017-a/Тени для век Golden Rose Metals Metallic Liquid Eyeshadow 108--gc004816.jpg",
+    "verification": {
+      "identity": "Exact Shopify shade 108 featured_image; no default image used.",
+      "volumeAndVariant": "Exact numeric shade 108 mapped by Shopify variant featured_image/variant_ids; standard Metals Metallic Liquid Eyeshadow.",
+      "visualReview": "Full-fit sources-overview.png reviewed; source quality and exact outcome in review.md/results.json.",
+      "reviewMethod": "Exact page/productvariant mapping and visual inspection; retain unchangedbytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тени для век Golden Rose Metals Metallic Liquid Eyeshadow 108",
+        "url": "https://www.goldenrose.com.pk/products/metals-metallic-liquid-eyeshadow?variant=22254373765201",
+        "note": "Exact Shopify shade 108 featured_image; no default image used. Exact numeric shade 108 mapped by Shopify variant featured_image/variant_ids; standard Metals Metallic Liquid Eyeshadow."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1000,
+    "height": 1000,
+    "bytes": 33783,
+    "sha256": "eb2e1972b23de5107595107604a28280511517372eb66e0051243a791ed8e5b2"
+  },
+  {
+    "productId": "parent-0114",
+    "variantId": "gc004817",
+    "productName": "Тени для век Golden Rose Metals Metallic Liquid Eyeshadow",
+    "brand": "Golden Rose",
+    "variant": "109",
+    "sku": "GC004817",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 811,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com.pk/products/metals-metallic-liquid-eyeshadow?variant=22254373797969",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0059/2687/9302/products/metals-metallic-liquid-eyeshadow-967499.jpg?v=1787999186",
+    "localFile": "materials/catalog-7b/originals/b017-a/Тени для век Golden Rose Metals Metallic Liquid Eyeshadow 109--gc004817.jpg",
+    "verification": {
+      "identity": "Exact Shopify shade 109 featured_image; no default image used.",
+      "volumeAndVariant": "Exact numeric shade 109 mapped by Shopify variant featured_image/variant_ids; standard Metals Metallic Liquid Eyeshadow.",
+      "visualReview": "Full-fit sources-overview.png reviewed; source quality and exact outcome in review.md/results.json.",
+      "reviewMethod": "Exact page/productvariant mapping and visual inspection; retain unchangedbytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тени для век Golden Rose Metals Metallic Liquid Eyeshadow 109",
+        "url": "https://www.goldenrose.com.pk/products/metals-metallic-liquid-eyeshadow?variant=22254373797969",
+        "note": "Exact Shopify shade 109 featured_image; no default image used. Exact numeric shade 109 mapped by Shopify variant featured_image/variant_ids; standard Metals Metallic Liquid Eyeshadow."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1000,
+    "height": 1000,
+    "bytes": 27576,
+    "sha256": "f221f441d9c67a3f0c06118d15aa4bcbaf9fc87106ee45ff80da7c407ab6177d"
+  },
+  {
+    "productId": "parent-0114",
+    "variantId": "gc004818",
+    "productName": "Тени для век Golden Rose Metals Metallic Liquid Eyeshadow",
+    "brand": "Golden Rose",
+    "variant": "110",
+    "sku": "GC004818",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 812,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com.pk/products/metals-metallic-liquid-eyeshadow?variant=22254373830737",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0059/2687/9302/products/metals-metallic-liquid-eyeshadow-555748.jpg?v=1787999186",
+    "localFile": "materials/catalog-7b/originals/b017-a/Тени для век Golden Rose Metals Metallic Liquid Eyeshadow 110--gc004818.jpg",
+    "verification": {
+      "identity": "Exact Shopify shade 110 featured_image; no default image used.",
+      "volumeAndVariant": "Exact numeric shade 110 mapped by Shopify variant featured_image/variant_ids; standard Metals Metallic Liquid Eyeshadow.",
+      "visualReview": "Full-fit sources-overview.png reviewed; source quality and exact outcome in review.md/results.json.",
+      "reviewMethod": "Exact page/productvariant mapping and visual inspection; retain unchangedbytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тени для век Golden Rose Metals Metallic Liquid Eyeshadow 110",
+        "url": "https://www.goldenrose.com.pk/products/metals-metallic-liquid-eyeshadow?variant=22254373830737",
+        "note": "Exact Shopify shade 110 featured_image; no default image used. Exact numeric shade 110 mapped by Shopify variant featured_image/variant_ids; standard Metals Metallic Liquid Eyeshadow."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1000,
+    "height": 1000,
+    "bytes": 30716,
+    "sha256": "b8643a28ab80c2a0e05cd9b9b3f46403e7084746b4a953881ad5f6d1f48efaae"
+  },
+  {
+    "productId": "parent-0114",
+    "variantId": "gc004819",
+    "productName": "Тени для век Golden Rose Metals Metallic Liquid Eyeshadow",
+    "brand": "Golden Rose",
+    "variant": "111",
+    "sku": "GC004819",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 813,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com.pk/products/metals-metallic-liquid-eyeshadow?variant=22254373863505",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0059/2687/9302/products/metals-metallic-liquid-eyeshadow-236285.jpg?v=1787999186",
+    "localFile": "materials/catalog-7b/originals/b017-a/Тени для век Golden Rose Metals Metallic Liquid Eyeshadow 111--gc004819.jpg",
+    "verification": {
+      "identity": "Exact Shopify shade 111 featured_image; no default image used.",
+      "volumeAndVariant": "Exact numeric shade 111 mapped by Shopify variant featured_image/variant_ids; standard Metals Metallic Liquid Eyeshadow.",
+      "visualReview": "Full-fit sources-overview.png reviewed; source quality and exact outcome in review.md/results.json.",
+      "reviewMethod": "Exact page/productvariant mapping and visual inspection; retain unchangedbytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тени для век Golden Rose Metals Metallic Liquid Eyeshadow 111",
+        "url": "https://www.goldenrose.com.pk/products/metals-metallic-liquid-eyeshadow?variant=22254373863505",
+        "note": "Exact Shopify shade 111 featured_image; no default image used. Exact numeric shade 111 mapped by Shopify variant featured_image/variant_ids; standard Metals Metallic Liquid Eyeshadow."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1000,
+    "height": 1000,
+    "bytes": 25868,
+    "sha256": "cdd395226c5d2958b422eca6123d5013cead22df9d96c61e05a574c3171bbee2"
+  },
+  {
+    "productId": "gc004832",
+    "variantId": "gc004832",
+    "productName": "Тени для век с эффектом тени для век DoDo Girl Diamond",
+    "brand": "DoDo Girl",
+    "variant": "Стандарт",
+    "sku": "GC004832",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 814,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://rozetka.com.ua/teni-dlya-vek/c4658492/producer%3Ddodo-girl/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Quick family lookup found Diamond multiple formats:10shadeD3069 and4shade,9shade,15shade3D,20shade alternatives. Catalogue omits palette code, count and colourway. Exact Diamond package cannot be assigned.",
+    "searches": [
+      {
+        "query": "DoDo Girl Diamond тени для век",
+        "url": "https://rozetka.com.ua/teni-dlya-vek/c4658492/producer%3Ddodo-girl/",
+        "note": "Quick family lookup found Diamond multiple formats:10shadeD3069 and4shade,9shade,15shade3D,20shade alternatives. Catalogue omits palette code, count and colourway. Exact Diamond package cannot be assigned."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc001011",
+    "variantId": "gc001011",
+    "productName": "Косметический карандаш-405 Golden Rose",
+    "brand": "Golden Rose",
+    "variant": "Стандарт",
+    "sku": "GC001011",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 815,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://goldenrose-germany.de/products/dream-eyes-eyeliner?variant=39960369725629",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/405-480667.jpg?v=1756415489",
+    "localFile": "materials/catalog-7b/originals/b017-a/Косметический карандаш-405 Golden Rose Стандарт--gc001011.jpg",
+    "verification": {
+      "identity": "Exact shade405 mapping, Dream Eyes.",
+      "volumeAndVariant": "Catalogue numeric405 matched Dream Eyes405 selectedvariant; no other colour used. Small source retained only for blocked result.",
+      "visualReview": "Full-fit sources-overview.png reviewed; source quality and exact outcome in review.md/results.json.",
+      "reviewMethod": "Exact page/productvariant mapping and visual inspection; retain unchangedbytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Косметический карандаш-405 Golden Rose Стандарт",
+        "url": "https://goldenrose-germany.de/products/dream-eyes-eyeliner?variant=39960369725629",
+        "note": "Exact shade405 mapping, Dream Eyes. Catalogue numeric405 matched Dream Eyes405 selectedvariant; no other colour used. Small source retained only for blocked result."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 370,
+    "height": 370,
+    "bytes": 3861,
+    "sha256": "9ba2e0bd95bcbbf04cc1172f391e1170b85c26f6ec8368e8b971a407de7e87f0"
+  },
+  {
+    "productId": "parent-0115",
+    "variantId": "gc001683",
+    "productName": "Карандаш для глаз стойкий гелевый Relouis PRO",
+    "brand": "Relouis",
+    "variant": "01",
+    "sku": "GC001683",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 816,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/product/karandash-dlya-glaz-stojkij-gelevyj-relouis-pro/#0",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2024/09/PRO-Karandash-1200_01.jpg",
+    "localFile": "materials/catalog-7b/originals/b017-a/Карандаш для глаз стойкий гелевый Relouis PRO 01--gc001683.jpg",
+    "verification": {
+      "identity": "Official product-images-0 correlates with color datatype0 01 black",
+      "volumeAndVariant": "Exact assigned shade/standard variant bound by source page; no alternate palette or colour used.",
+      "visualReview": "Full-fit sources-overview.png reviewed; source quality and exact outcome in review.md/results.json.",
+      "reviewMethod": "Exact page/productvariant mapping and visual inspection; retain unchangedbytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для глаз стойкий гелевый Relouis PRO 01",
+        "url": "https://relouis.by/product/karandash-dlya-glaz-stojkij-gelevyj-relouis-pro/#0",
+        "note": "Official product-images-0 correlates with color datatype0 01 black Exact assigned shade/standard variant bound by source page; no alternate palette or colour used."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1200,
+    "height": 1200,
+    "bytes": 79978,
+    "sha256": "9fa1458dd39ccafd12ee94462a3036d4591c67321111b83311a984d0652bd23b"
+  },
+  {
+    "productId": "parent-0115",
+    "variantId": "gc001684",
+    "productName": "Карандаш для глаз стойкий гелевый Relouis PRO",
+    "brand": "Relouis",
+    "variant": "02",
+    "sku": "GC001684",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 817,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/product/karandash-dlya-glaz-stojkij-gelevyj-relouis-pro/#1",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2024/09/PRO-Karandash-1200_02.jpg",
+    "localFile": "materials/catalog-7b/originals/b017-a/Карандаш для глаз стойкий гелевый Relouis PRO 02--gc001684.jpg",
+    "verification": {
+      "identity": "Official product-images-1 correlates with color datatype1 02 brown",
+      "volumeAndVariant": "Exact assigned shade/standard variant bound by source page; no alternate palette or colour used.",
+      "visualReview": "Full-fit sources-overview.png reviewed; source quality and exact outcome in review.md/results.json.",
+      "reviewMethod": "Exact page/productvariant mapping and visual inspection; retain unchangedbytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для глаз стойкий гелевый Relouis PRO 02",
+        "url": "https://relouis.by/product/karandash-dlya-glaz-stojkij-gelevyj-relouis-pro/#1",
+        "note": "Official product-images-1 correlates with color datatype1 02 brown Exact assigned shade/standard variant bound by source page; no alternate palette or colour used."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1200,
+    "height": 1200,
+    "bytes": 81207,
+    "sha256": "295a708a910addf1554ebd41ec51f40a4b2c3cc13879067602fdf6ef9fa0954f"
+  },
+  {
+    "productId": "parent-0116",
+    "variantId": "gc001701",
+    "productName": "Карандаш контурный для глаз с витамином Е Relouis",
+    "brand": "Relouis",
+    "variant": "01",
+    "sku": "GC001701",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 818,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/product/karandash-dlya-glaz-s-vitaminom-e-relouis/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Current official VitaminE is РБ1709-23/newpack. Official2021catalogue lists contour VitaminE РБ1709-16, matching Grace contour wording;01black appears in both but generation/package differs. No old/new packaging substitution without identification.",
+    "searches": [
+      {
+        "query": "Relouis карандаш контурный витаминE01",
+        "url": "https://relouis.by/product/karandash-dlya-glaz-s-vitaminom-e-relouis/",
+        "note": "Current official VitaminE is РБ1709-23/newpack. Official2021catalogue lists contour VitaminE РБ1709-16, matching Grace contour wording;01black appears in both but generation/package differs. No old/new packaging substitution without identification."
+      },
+      {
+        "query": "Relouis contour pencil VitaminE official2021 catalogue shades",
+        "url": "https://relouis.by/wp-content/uploads/2021/07/KATALOG-2021-sajt-poln.pdf",
+        "note": "Official indexed catalogue: contourVitaminE РБ1709-16;01black,02darkgrey,03brown. Current2023line differs."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0116",
+    "variantId": "gc001702",
+    "productName": "Карандаш контурный для глаз с витамином Е Relouis",
+    "brand": "Relouis",
+    "variant": "02",
+    "sku": "GC001702",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 819,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/product/karandash-dlya-glaz-s-vitaminom-e-relouis/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Current official VitaminE РБ1709-23 shade02BROWN, while official2021catalogue old contour VitaminE РБ1709-16 shade02darkgrey. Grace contour wording/02 cannot safely select newbrown package; old/new versions not conflated.",
+    "searches": [
+      {
+        "query": "Relouis карандаш контурный витаминE02",
+        "url": "https://relouis.by/product/karandash-dlya-glaz-s-vitaminom-e-relouis/",
+        "note": "Current official VitaminE РБ1709-23 shade02BROWN, while official2021catalogue old contour VitaminE РБ1709-16 shade02darkgrey. Grace contour wording/02 cannot safely select newbrown package; old/new versions not conflated."
+      },
+      {
+        "query": "Relouis contour pencil VitaminE official2021 catalogue shades",
+        "url": "https://relouis.by/wp-content/uploads/2021/07/KATALOG-2021-sajt-poln.pdf",
+        "note": "Official indexed catalogue: contourVitaminE РБ1709-16;01black,02darkgrey,03brown. Current2023line differs."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  }
+]

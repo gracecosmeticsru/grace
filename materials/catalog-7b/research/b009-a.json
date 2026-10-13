@@ -1,0 +1,588 @@
+[
+  {
+    "index": 401,
+    "productId": "parent-0054",
+    "variantId": "gc004471",
+    "productName": "Рассыпчатая пудра Chanel Universelle Libre",
+    "variant": "30",
+    "status": "skipped",
+    "sourcePage": "https://www.chanel.com/gb/makeup/p/132230/poudre-universelle-libre-natural-finish-loose-powder/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official page confirms Poudre Universelle Libre shade30 Medium ref132230, but original full gallery retrieval is blocked by access denial; US fetch timed out. Quick focused pass did not yield accessible original bytes. No other shade or on-the-go package substituted.",
+    "searches": [
+      {
+        "query": "Рассыпчатая пудра Chanel Universelle Libre 30",
+        "url": "https://www.chanel.com/gb/makeup/p/132230/poudre-universelle-libre-natural-finish-loose-powder/",
+        "note": "Official page confirms Poudre Universelle Libre shade30 Medium ref132230, but original full gallery retrieval is blocked by access denial; US fetch timed out. Quick focused pass did not yield accessible original bytes. No other shade or on-the-go package substituted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 402,
+    "productId": "parent-0055",
+    "variantId": "gc004472",
+    "productName": "Рассыпчатая пудра HUDA BEAUTY",
+    "variant": "Cherry Blossom Cake",
+    "status": "verified",
+    "sourcePage": "https://hudabeauty.com/products/easy-bake-loose-baking-setting-powder-hb00140m?variant=50573329432854",
+    "sourceImage": "https://hudabeauty.com/cdn/shop/files/PDP-SECTION1-EASYBAKELOOSEPOWDER-CHERRYBLOSSOMCAKE-TILE1.webp?v=1759866887",
+    "localFile": "materials/catalog-7b/originals/b009-a/Рассыпчатая пудра HUDA BEAUTY Cherry Blossom Cake--gc004472.jpg",
+    "verification": {
+      "identity": "Official selected-variant HTML 50573329432854 confirms Cherry Blossom Cake, SKU HB00570; preload hero image filename explicitly matches shade. Product JSON generic Banana Bread image was ignored because it does not match selected shade.",
+      "volumeAndVariant": "Catalog specifies no volume. Exact named regular product; no mini, decant or different shade substituted.",
+      "visualReview": "Whole square open Easy Bake jar and lid, exact Cherry Blossom Cake powder; white background and no watermark/graphic text. Small real powder scatter behind container retained. Full edges visible on contain review.",
+      "reviewMethod": "Full-source contain contact sheets viewed using view_image,2026-09-24; prepared review follows in review.md.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рассыпчатая пудра HUDA BEAUTY Cherry Blossom Cake",
+        "url": "https://hudabeauty.com/products/easy-bake-loose-baking-setting-powder-hb00140m?variant=50573329432854",
+        "note": "Official selected-variant HTML 50573329432854 confirms Cherry Blossom Cake, SKU HB00570; preload hero image filename explicitly matches shade. Product JSON generic Banana Bread image was ignored because it does not match selected shade."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 3000,
+    "height": 3500,
+    "format": "JPEG",
+    "bytes": 625128,
+    "sha256": "13e362160695e4db0911eb99e2e77ab1dc88d00a03f820c864bbb0b8cbed7c57"
+  },
+  {
+    "index": 403,
+    "productId": "parent-0055",
+    "variantId": "gc004473",
+    "productName": "Рассыпчатая пудра HUDA BEAUTY",
+    "variant": "Cherry Peach",
+    "status": "verified",
+    "sourcePage": "https://hudabeauty.com/products/easy-bake-duo-loose-powder-hb01581m?variant=50573547503894",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0959/8962/9206/files/ULTRA-SNATCHED-COLLECTION-PACKSHOT_CHERRYPEACH.webp?v=1787476341",
+    "localFile": "materials/catalog-7b/originals/b009-a/Рассыпчатая пудра HUDA BEAUTY Cherry Peach--gc004473.jpg",
+    "verification": {
+      "identity": "Official Easy Bake Duo Loose Powder variant 50573547503894, Cherry Peach, explicitly maps to CHERRYPEACH packshot. Split peach/pink powder is exactnamed product; not Peach Pie single shade.",
+      "volumeAndVariant": "Catalog specifies no volume. Exact named regular product; no mini, decant or different shade substituted.",
+      "visualReview": "Whole square open jar and black branded lid, exact pink/peach split shade; white background, no watermark or graphic labels. Small real powder texture behind the jar retained; no parts clipped.",
+      "reviewMethod": "Full-source contain contact sheets viewed using view_image,2026-09-24; prepared review follows in review.md.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рассыпчатая пудра HUDA BEAUTY Cherry Peach",
+        "url": "https://hudabeauty.com/products/easy-bake-duo-loose-powder-hb01581m?variant=50573547503894",
+        "note": "Official Easy Bake Duo Loose Powder variant 50573547503894, Cherry Peach, explicitly maps to CHERRYPEACH packshot. Split peach/pink powder is exactnamed product; not Peach Pie single shade."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2999,
+    "height": 3499,
+    "format": "JPEG",
+    "bytes": 351225,
+    "sha256": "2d3a618d5d4cd491462dfd3d2a4a8cd6df9413decc1b8e2145e1333f520b6c66"
+  },
+  {
+    "index": 404,
+    "productId": "parent-0055",
+    "variantId": "gc004474",
+    "productName": "Рассыпчатая пудра HUDA BEAUTY",
+    "variant": "Pound Cake",
+    "status": "verified",
+    "sourcePage": "https://hudabeauty.com/products/easy-bake-loose-baking-setting-powder-hb00140m?variant=50573329531158",
+    "sourceImage": "https://hudabeauty.com/cdn/shop/files/PDP-SECTION1-EASYBAKELOOSEPOWDER-POUNDCAKE-TILE1_a4006f92-8df8-4053-a348-ee20d9d347c7.webp?v=1759866924",
+    "localFile": "materials/catalog-7b/originals/b009-a/Рассыпчатая пудра HUDA BEAUTY Pound Cake--gc004474.jpg",
+    "verification": {
+      "identity": "Official selected-variant HTML 50573329531158 confirms Pound Cake, SKU HB00141; preload hero image filename explicitly matches shade. Product JSON generic Banana Bread image was ignored because it does not match selected shade.",
+      "volumeAndVariant": "Catalog specifies no volume. Exact named regular product; no mini, decant or different shade substituted.",
+      "visualReview": "Whole square open Easy Bake jar and lid, exact Pound Cake powder; white background and no watermark/graphic text. Small real powder scatter behind container retained. Full edges visible on contain review.",
+      "reviewMethod": "Full-source contain contact sheets viewed using view_image,2026-09-24; prepared review follows in review.md.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рассыпчатая пудра HUDA BEAUTY Pound Cake",
+        "url": "https://hudabeauty.com/products/easy-bake-loose-baking-setting-powder-hb00140m?variant=50573329531158",
+        "note": "Official selected-variant HTML 50573329531158 confirms Pound Cake, SKU HB00141; preload hero image filename explicitly matches shade. Product JSON generic Banana Bread image was ignored because it does not match selected shade."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 3000,
+    "height": 3500,
+    "format": "JPEG",
+    "bytes": 623146,
+    "sha256": "4906be4bd4e906fb97b1568dd8608774289443ce56aa52da846c25d67f97a112"
+  },
+  {
+    "index": 405,
+    "productId": "parent-0055",
+    "variantId": "gc004475",
+    "productName": "Рассыпчатая пудра HUDA BEAUTY",
+    "variant": "Sugar Cookie",
+    "status": "verified",
+    "sourcePage": "https://hudabeauty.com/products/easy-bake-loose-baking-setting-powder-hb00140m?variant=50573329465622",
+    "sourceImage": "https://hudabeauty.com/cdn/shop/files/PDP-SECTION1-EASYBAKELOOSEPOWDER-SUGARCOOKIE-TILE1.webp?v=1759866899",
+    "localFile": "materials/catalog-7b/originals/b009-a/Рассыпчатая пудра HUDA BEAUTY Sugar Cookie--gc004475.jpg",
+    "verification": {
+      "identity": "Official selected-variant HTML 50573329465622 confirms Sugar Cookie, SKU HB00145; preload hero image filename explicitly matches shade. Product JSON generic Banana Bread image was ignored because it does not match selected shade.",
+      "volumeAndVariant": "Catalog specifies no volume. Exact named regular product; no mini, decant or different shade substituted.",
+      "visualReview": "Whole square open Easy Bake jar and lid, exact Sugar Cookie powder; white background and no watermark/graphic text. Small real powder scatter behind container retained. Full edges visible on contain review.",
+      "reviewMethod": "Full-source contain contact sheets viewed using view_image,2026-09-24; prepared review follows in review.md.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рассыпчатая пудра HUDA BEAUTY Sugar Cookie",
+        "url": "https://hudabeauty.com/products/easy-bake-loose-baking-setting-powder-hb00140m?variant=50573329465622",
+        "note": "Official selected-variant HTML 50573329465622 confirms Sugar Cookie, SKU HB00145; preload hero image filename explicitly matches shade. Product JSON generic Banana Bread image was ignored because it does not match selected shade."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 3000,
+    "height": 3500,
+    "format": "JPEG",
+    "bytes": 534569,
+    "sha256": "39f7a97cf41115e6c8290e07f9b406d0780beb623a0837457e2abc670fbeeafb"
+  },
+  {
+    "index": 406,
+    "productId": "gc004476",
+    "variantId": "gc004476",
+    "productName": "Рассыпчатая пудра Makeup by Mario SurrealSkin «2 Neutral Light»",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.makeupbymario.com/products/surrealskin-soft-blur-setting-powder?variant=41635833774145",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0275/4822/1505/files/MBM_SS_SOFTBLUR_SETTINGPOWDER_PACKSHOT_2000X2000_NEUTRALLIGHT.jpg?v=1723128244",
+    "localFile": "materials/catalog-7b/originals/b009-a/Рассыпчатая пудра Makeup by Mario SurrealSkin «2 Neutral Light» Стандарт--gc004476.jpg",
+    "verification": {
+      "identity": "Official Shopify variant 41635833774145 explicitly SurrealSkin Soft Blur Setting Powder2 Neutral Light and its unique featured packshot.",
+      "volumeAndVariant": "Catalog specifies no volume. Exact named regular product; no mini, decant or different shade substituted.",
+      "visualReview": "Entire open round powder jar on opaque gray backdrop with hard cast shadow; gray scene remains unsuitable for white-background catalog. No masking/retouching.",
+      "reviewMethod": "Full-source contain contact sheets viewed using view_image,2026-09-24; prepared review follows in review.md.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рассыпчатая пудра Makeup by Mario SurrealSkin «2 Neutral Light» Стандарт",
+        "url": "https://www.makeupbymario.com/products/surrealskin-soft-blur-setting-powder?variant=41635833774145",
+        "note": "Official Shopify variant 41635833774145 explicitly SurrealSkin Soft Blur Setting Powder2 Neutral Light and its unique featured packshot."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "JPEG",
+    "bytes": 164075,
+    "sha256": "339edb5cd9f723fe53b0796141f93c1fa7f836a7624a60da15e4a4697b84e986"
+  },
+  {
+    "index": 407,
+    "productId": "gc004477",
+    "variantId": "gc004477",
+    "productName": "Рассыпчатая пудра для лица HUDA BEAUTY «Ube Birthday Cake»",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://hudabeauty.com/products/easy-bake-loose-baking-setting-powder-hb00140m?variant=51059832193302",
+    "sourceImage": "https://hudabeauty.com/cdn/shop/files/PDP-SECTION1-EASYBAKELOOSEPOWDER-UBEBIRTHDAYCAKE-TILE1_f7a2d3fc-04e4-45e2-b076-399cceafc837.webp?v=1759749397",
+    "localFile": "materials/catalog-7b/originals/b009-a/Рассыпчатая пудра для лица HUDA BEAUTY «Ube Birthday Cake» Стандарт--gc004477.jpg",
+    "verification": {
+      "identity": "Official selected-variant HTML 51059832193302 confirms Ube Birthday Cake, SKU HB01417; preload hero image filename explicitly matches shade. Product JSON generic Banana Bread image was ignored because it does not match selected shade.",
+      "volumeAndVariant": "Catalog specifies no volume. Exact named regular product; no mini, decant or different shade substituted.",
+      "visualReview": "Whole square open Easy Bake jar and lid, exact Ube Birthday Cake powder; white background and no watermark/graphic text. Small real powder scatter behind container retained. Full edges visible on contain review.",
+      "reviewMethod": "Full-source contain contact sheets viewed using view_image,2026-09-24; prepared review follows in review.md.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рассыпчатая пудра для лица HUDA BEAUTY «Ube Birthday Cake» Стандарт",
+        "url": "https://hudabeauty.com/products/easy-bake-loose-baking-setting-powder-hb00140m?variant=51059832193302",
+        "note": "Official selected-variant HTML 51059832193302 confirms Ube Birthday Cake, SKU HB01417; preload hero image filename explicitly matches shade. Product JSON generic Banana Bread image was ignored because it does not match selected shade."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 3000,
+    "height": 3500,
+    "format": "JPEG",
+    "bytes": 636983,
+    "sha256": "d81376f5c8075b296f00bc5eb2e0d5937d87deb4285eac9eb49119e11f6d129b"
+  },
+  {
+    "index": 408,
+    "productId": "parent-0056",
+    "variantId": "gc004500",
+    "productName": "Рефил для компактной пудры Jane Iredale",
+    "variant": "Amber",
+    "status": "verified",
+    "sourcePage": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447380108",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0338/3882/5612/products/PPB_Refill_Amber_07_PDP.jpg?v=1747760011",
+    "localFile": "materials/catalog-7b/originals/b009-a/Рефил для компактной пудры Jane Iredale Amber--gc004500.jpg",
+    "verification": {
+      "identity": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Amber, variant 33863447380108, directly to featured image 30031755575436. Refill pan, not reusable compact.",
+      "volumeAndVariant": "Catalog specifies no volume. Exact named regular product; no mini, decant or different shade substituted.",
+      "visualReview": "Full exact-colour refill pan on white,2772px square; however separate Skin Cancer Foundation/SPF graphic badge is embedded beside product. Not a clean product-only image; blocked without badge removal or cropping.",
+      "reviewMethod": "Full-source contain contact sheets viewed using view_image,2026-09-24; prepared review follows in review.md.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рефил для компактной пудры Jane Iredale Amber",
+        "url": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447380108",
+        "note": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Amber, variant 33863447380108, directly to featured image 30031755575436. Refill pan, not reusable compact."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2772,
+    "height": 2772,
+    "format": "JPEG",
+    "bytes": 223692,
+    "sha256": "ce5991b187f5ec93aa044fd87dca3c27f39b377dcf464396e809820ae2f84690"
+  },
+  {
+    "index": 409,
+    "productId": "parent-0056",
+    "variantId": "gc004501",
+    "productName": "Рефил для компактной пудры Jane Iredale",
+    "variant": "Bisque",
+    "status": "verified",
+    "sourcePage": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447249036",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0338/3882/5612/products/PPB_Refill_Bisque_02_PDP.jpg?v=1747760056",
+    "localFile": "materials/catalog-7b/originals/b009-a/Рефил для компактной пудры Jane Iredale Bisque--gc004501.jpg",
+    "verification": {
+      "identity": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Bisque, variant 33863447249036, directly to featured image 30031742402700. Refill pan, not reusable compact.",
+      "volumeAndVariant": "Catalog specifies no volume. Exact named regular product; no mini, decant or different shade substituted.",
+      "visualReview": "Full exact-colour refill pan on white,2772px square; however separate Skin Cancer Foundation/SPF graphic badge is embedded beside product. Not a clean product-only image; blocked without badge removal or cropping.",
+      "reviewMethod": "Full-source contain contact sheets viewed using view_image,2026-09-24; prepared review follows in review.md.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рефил для компактной пудры Jane Iredale Bisque",
+        "url": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447249036",
+        "note": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Bisque, variant 33863447249036, directly to featured image 30031742402700. Refill pan, not reusable compact."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2772,
+    "height": 2772,
+    "format": "JPEG",
+    "bytes": 202571,
+    "sha256": "8f8f8acfb8555f20bef789d0a4a8e04305b8c451830f8e2eb90ca0b2ff725ee6"
+  },
+  {
+    "index": 410,
+    "productId": "parent-0056",
+    "variantId": "gc004502",
+    "productName": "Рефил для компактной пудры Jane Iredale",
+    "variant": "Golden glow",
+    "status": "verified",
+    "sourcePage": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447511180",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0338/3882/5612/products/PPB_Refill_GoldenGlow_11_PDP.jpg?v=1747759953",
+    "localFile": "materials/catalog-7b/originals/b009-a/Рефил для компактной пудры Jane Iredale Golden glow--gc004502.jpg",
+    "verification": {
+      "identity": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Golden Glow, variant 33863447511180, directly to featured image 30032109011084. Refill pan, not reusable compact.",
+      "volumeAndVariant": "Catalog specifies no volume. Exact named regular product; no mini, decant or different shade substituted.",
+      "visualReview": "Full exact-colour refill pan on white,2772px square; however separate Skin Cancer Foundation/SPF graphic badge is embedded beside product. Not a clean product-only image; blocked without badge removal or cropping.",
+      "reviewMethod": "Full-source contain contact sheets viewed using view_image,2026-09-24; prepared review follows in review.md.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рефил для компактной пудры Jane Iredale Golden glow",
+        "url": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447511180",
+        "note": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Golden Glow, variant 33863447511180, directly to featured image 30032109011084. Refill pan, not reusable compact."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2772,
+    "height": 2772,
+    "format": "JPEG",
+    "bytes": 241249,
+    "sha256": "83e325e785fe0e61b08a6ece0a2d4c69e465a148dd9fcd24bc8c6f7d38b87037"
+  },
+  {
+    "index": 411,
+    "productId": "parent-0056",
+    "variantId": "gc004503",
+    "productName": "Рефил для компактной пудры Jane Iredale",
+    "variant": "Ivory",
+    "status": "verified",
+    "sourcePage": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447216268",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0338/3882/5612/products/PPB_Refill_Ivory_01_PDP.jpg?v=1747760065",
+    "localFile": "materials/catalog-7b/originals/b009-a/Рефил для компактной пудры Jane Iredale Ivory--gc004503.jpg",
+    "verification": {
+      "identity": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Ivory, variant 33863447216268, directly to featured image 30031738634380. Refill pan, not reusable compact.",
+      "volumeAndVariant": "Catalog specifies no volume. Exact named regular product; no mini, decant or different shade substituted.",
+      "visualReview": "Full exact-colour refill pan on white,2772px square; however separate Skin Cancer Foundation/SPF graphic badge is embedded beside product. Not a clean product-only image; blocked without badge removal or cropping.",
+      "reviewMethod": "Full-source contain contact sheets viewed using view_image,2026-09-24; prepared review follows in review.md.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рефил для компактной пудры Jane Iredale Ivory",
+        "url": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447216268",
+        "note": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Ivory, variant 33863447216268, directly to featured image 30031738634380. Refill pan, not reusable compact."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2772,
+    "height": 2772,
+    "format": "JPEG",
+    "bytes": 200065,
+    "sha256": "e2f2026f0f33313b91801dcfd0b1298cef6f6e9b22b4552c9f8da301c8399c94"
+  },
+  {
+    "index": 412,
+    "productId": "parent-0056",
+    "variantId": "gc004504",
+    "productName": "Рефил для компактной пудры Jane Iredale",
+    "variant": "Light Beige",
+    "status": "verified",
+    "sourcePage": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447314572",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0338/3882/5612/products/PPB_Refill_LightBeige_03_PDP.jpg?v=1747760044",
+    "localFile": "materials/catalog-7b/originals/b009-a/Рефил для компактной пудры Jane Iredale Light Beige--gc004504.jpg",
+    "verification": {
+      "identity": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Light Beige, variant 33863447314572, directly to featured image 30031744139404. Refill pan, not reusable compact.",
+      "volumeAndVariant": "Catalog specifies no volume. Exact named regular product; no mini, decant or different shade substituted.",
+      "visualReview": "Full exact-colour refill pan on white,2772px square; however separate Skin Cancer Foundation/SPF graphic badge is embedded beside product. Not a clean product-only image; blocked without badge removal or cropping.",
+      "reviewMethod": "Full-source contain contact sheets viewed using view_image,2026-09-24; prepared review follows in review.md.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рефил для компактной пудры Jane Iredale Light Beige",
+        "url": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447314572",
+        "note": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Light Beige, variant 33863447314572, directly to featured image 30031744139404. Refill pan, not reusable compact."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2772,
+    "height": 2772,
+    "format": "JPEG",
+    "bytes": 220830,
+    "sha256": "eb0fe1fdac581c6e502db952d87eff08be0a722a93242a3c2d64f8fd905b484b"
+  },
+  {
+    "index": 413,
+    "productId": "parent-0056",
+    "variantId": "gc004505",
+    "productName": "Рефил для компактной пудры Jane Iredale",
+    "variant": "Natural",
+    "status": "verified",
+    "sourcePage": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447445644",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0338/3882/5612/products/PPB_Refill_Natural_08_PDP.jpg?v=1747760004",
+    "localFile": "materials/catalog-7b/originals/b009-a/Рефил для компактной пудры Jane Iredale Natural--gc004505.jpg",
+    "verification": {
+      "identity": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Natural, variant 33863447445644, directly to featured image 30031758917772. Refill pan, not reusable compact.",
+      "volumeAndVariant": "Catalog specifies no volume. Exact named regular product; no mini, decant or different shade substituted.",
+      "visualReview": "Full exact-colour refill pan on white,2772px square; however separate Skin Cancer Foundation/SPF graphic badge is embedded beside product. Not a clean product-only image; blocked without badge removal or cropping.",
+      "reviewMethod": "Full-source contain contact sheets viewed using view_image,2026-09-24; prepared review follows in review.md.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рефил для компактной пудры Jane Iredale Natural",
+        "url": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447445644",
+        "note": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Natural, variant 33863447445644, directly to featured image 30031758917772. Refill pan, not reusable compact."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2772,
+    "height": 2772,
+    "format": "JPEG",
+    "bytes": 235289,
+    "sha256": "5223e145c986d20fb30a90a2c69c2f6ee7cf86be1cbad41d298f747d24373d8b"
+  },
+  {
+    "index": 414,
+    "productId": "parent-0056",
+    "variantId": "gc004506",
+    "productName": "Рефил для компактной пудры Jane Iredale",
+    "variant": "Radiant",
+    "status": "verified",
+    "sourcePage": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447412876",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0338/3882/5612/products/PPB_Refill_Radiant_04_PDP.jpg?v=1747760035",
+    "localFile": "materials/catalog-7b/originals/b009-a/Рефил для компактной пудры Jane Iredale Radiant--gc004506.jpg",
+    "verification": {
+      "identity": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Radiant, variant 33863447412876, directly to featured image 30031744368780. Refill pan, not reusable compact.",
+      "volumeAndVariant": "Catalog specifies no volume. Exact named regular product; no mini, decant or different shade substituted.",
+      "visualReview": "Full exact-colour refill pan on white,2772px square; however separate Skin Cancer Foundation/SPF graphic badge is embedded beside product. Not a clean product-only image; blocked without badge removal or cropping.",
+      "reviewMethod": "Full-source contain contact sheets viewed using view_image,2026-09-24; prepared review follows in review.md.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рефил для компактной пудры Jane Iredale Radiant",
+        "url": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447412876",
+        "note": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Radiant, variant 33863447412876, directly to featured image 30031744368780. Refill pan, not reusable compact."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2772,
+    "height": 2772,
+    "format": "JPEG",
+    "bytes": 231883,
+    "sha256": "617b09b5e49de607795ef5073d7cad36299b9ad69917afa6031c8b6a0910e752"
+  },
+  {
+    "index": 415,
+    "productId": "parent-0056",
+    "variantId": "gc004507",
+    "productName": "Рефил для компактной пудры Jane Iredale",
+    "variant": "Satin",
+    "status": "verified",
+    "sourcePage": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447347340",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0338/3882/5612/products/PPB_Refill_Satin_06_PDP.jpg?v=1747760021",
+    "localFile": "materials/catalog-7b/originals/b009-a/Рефил для компактной пудры Jane Iredale Satin--gc004507.jpg",
+    "verification": {
+      "identity": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Satin, variant 33863447347340, directly to featured image 30031752953996. Refill pan, not reusable compact.",
+      "volumeAndVariant": "Catalog specifies no volume. Exact named regular product; no mini, decant or different shade substituted.",
+      "visualReview": "Full exact-colour refill pan on white,2772px square; however separate Skin Cancer Foundation/SPF graphic badge is embedded beside product. Not a clean product-only image; blocked without badge removal or cropping.",
+      "reviewMethod": "Full-source contain contact sheets viewed using view_image,2026-09-24; prepared review follows in review.md.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рефил для компактной пудры Jane Iredale Satin",
+        "url": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447347340",
+        "note": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Satin, variant 33863447347340, directly to featured image 30031752953996. Refill pan, not reusable compact."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2772,
+    "height": 2772,
+    "format": "JPEG",
+    "bytes": 221568,
+    "sha256": "9e4e28ed0759bf40b723191b5bb9886fc56670b24d0875d9851e4342514a20f5"
+  },
+  {
+    "index": 416,
+    "productId": "parent-0056",
+    "variantId": "gc004508",
+    "productName": "Рефил для компактной пудры Jane Iredale",
+    "variant": "Suntan",
+    "status": "verified",
+    "sourcePage": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447576716",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0338/3882/5612/products/PPB_Refill_Suntan_10_PDP.jpg?v=1747759969",
+    "localFile": "materials/catalog-7b/originals/b009-a/Рефил для компактной пудры Jane Iredale Suntan--gc004508.jpg",
+    "verification": {
+      "identity": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Suntan, variant 33863447576716, directly to featured image 30032103571596. Refill pan, not reusable compact.",
+      "volumeAndVariant": "Catalog specifies no volume. Exact named regular product; no mini, decant or different shade substituted.",
+      "visualReview": "Full exact-colour refill pan on white,2772px square; however separate Skin Cancer Foundation/SPF graphic badge is embedded beside product. Not a clean product-only image; blocked without badge removal or cropping.",
+      "reviewMethod": "Full-source contain contact sheets viewed using view_image,2026-09-24; prepared review follows in review.md.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рефил для компактной пудры Jane Iredale Suntan",
+        "url": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447576716",
+        "note": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Suntan, variant 33863447576716, directly to featured image 30032103571596. Refill pan, not reusable compact."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2772,
+    "height": 2772,
+    "format": "JPEG",
+    "bytes": 237366,
+    "sha256": "1aa174201772edb742fa42cf548deb9b31b7df4c6d1012ed4ea29e2029d7917d"
+  },
+  {
+    "index": 417,
+    "productId": "parent-0056",
+    "variantId": "gc004509",
+    "productName": "Рефил для компактной пудры Jane Iredale",
+    "variant": "warm sienna",
+    "status": "verified",
+    "sourcePage": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447478412",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0338/3882/5612/products/PPB_Refill_WarmSienna_09_PDP.jpg?v=1747759993",
+    "localFile": "materials/catalog-7b/originals/b009-a/Рефил для компактной пудры Jane Iredale warm sienna--gc004509.jpg",
+    "verification": {
+      "identity": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Warm Sienna, variant 33863447478412, directly to featured image 30032091938956. Refill pan, not reusable compact.",
+      "volumeAndVariant": "Catalog specifies no volume. Exact named regular product; no mini, decant or different shade substituted.",
+      "visualReview": "Full exact-colour refill pan on white,2772px square; however separate Skin Cancer Foundation/SPF graphic badge is embedded beside product. Not a clean product-only image; blocked without badge removal or cropping.",
+      "reviewMethod": "Full-source contain contact sheets viewed using view_image,2026-09-24; prepared review follows in review.md.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рефил для компактной пудры Jane Iredale warm sienna",
+        "url": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447478412",
+        "note": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Warm Sienna, variant 33863447478412, directly to featured image 30032091938956. Refill pan, not reusable compact."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2772,
+    "height": 2772,
+    "format": "JPEG",
+    "bytes": 223053,
+    "sha256": "774f3e059a34a00070f7a1ffd40ca373ea8ed1a214e482f0d51a3ab18eeb2615"
+  },
+  {
+    "index": 418,
+    "productId": "parent-0056",
+    "variantId": "gc004510",
+    "productName": "Рефил для компактной пудры Jane Iredale",
+    "variant": "Warm silk",
+    "status": "verified",
+    "sourcePage": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447281804",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0338/3882/5612/products/PPB_Refill_WarmSilk_05_PDP.jpg?v=1747760029",
+    "localFile": "materials/catalog-7b/originals/b009-a/Рефил для компактной пудры Jane Iredale Warm silk--gc004510.jpg",
+    "verification": {
+      "identity": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Warm Silk, variant 33863447281804, directly to featured image 30031748137100. Refill pan, not reusable compact.",
+      "volumeAndVariant": "Catalog specifies no volume. Exact named regular product; no mini, decant or different shade substituted.",
+      "visualReview": "Full exact-colour refill pan on white,2772px square; however separate Skin Cancer Foundation/SPF graphic badge is embedded beside product. Not a clean product-only image; blocked without badge removal or cropping.",
+      "reviewMethod": "Full-source contain contact sheets viewed using view_image,2026-09-24; prepared review follows in review.md.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рефил для компактной пудры Jane Iredale Warm silk",
+        "url": "https://janeiredale.com/products/purepressed-base-mineral-foundation-refill?variant=33863447281804",
+        "note": "Official brand product JSON maps PurePressed Base Mineral Foundation refill shade Warm Silk, variant 33863447281804, directly to featured image 30031748137100. Refill pan, not reusable compact."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2772,
+    "height": 2772,
+    "format": "JPEG",
+    "bytes": 216558,
+    "sha256": "0486618456565477f9fcd79f410663ccb2fb2a591c70371404cc58f7bd0f0795"
+  },
+  {
+    "index": 419,
+    "productId": "gc005028",
+    "variantId": "gc005028",
+    "productName": "Увлажняющая коллагеновая пудра со сменным блоком Enough",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://enoughvietnam.com/products/phan-phu-nen-2-loi-collagen-enough-collagen-twoway-cake",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact collagen powder with refill exists in13,21,23; source confirms13g+13g. Catalog contains no shade or package model, so no exact image-to-variant mapping is possible. Do not assume21 or23.",
+    "searches": [
+      {
+        "query": "Увлажняющая коллагеновая пудра со сменным блоком Enough Стандарт",
+        "url": "https://enoughvietnam.com/products/phan-phu-nen-2-loi-collagen-enough-collagen-twoway-cake",
+        "note": "Exact collagen powder with refill exists in13,21,23; source confirms13g+13g. Catalog contains no shade or package model, so no exact image-to-variant mapping is possible. Do not assume21 or23."
+      }
+    ],
+    "sharedImageWith": []
+  }
+]

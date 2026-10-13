@@ -1,0 +1,1050 @@
+[
+  {
+    "productId": "gc001413",
+    "variantId": "gc001413",
+    "productName": "Тональное средство Lumene Matte Oil-Control Foundation 0 LIGHT IVORY",
+    "brand": "Lumene",
+    "variant": "Стандарт",
+    "sku": "GC001413",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 66,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://lyko.com/de/lumene/lumene-matte-oil-control-found-0-light-ivory",
+    "sourceImage": "https://lyko.com/globalassets/product-images/lumene-matte-oil-control-found-0-light-ivory-1188-566-0001_1.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-b/Тональное средство Lumene Matte Oil-Control Foundation 0 LIGHT IVORY Стандарт--gc001413.jpg",
+    "verification": {
+      "identity": "Lyko archive identifies exact non-SPF20 named Matte Oil-Control Foundation, shade 0 Light Ivory; original tube visibly prints the same shade. Current SPF20 reformulation and swatch-only official images were not substituted.",
+      "volumeAndVariant": "Catalog Standard retained. Exact named product and 0 Light Ivory uniquely identify the archived retail tube; no volume added to catalog.",
+      "visualReview": "Inspected through view_image. Whole centered beige tube, turquoise cap, Matte Oil-Control Foundation and 0 Light Ivory printed clearly; white background, no watermark.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": "Native downloaded original is 500x1630 pixels, despite larger dimensions advertised by the page image URL. No upscale requested or performed; inspect intended display size later."
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Lumene Matte Oil-Control Foundation 0 Light Ivory",
+        "url": "https://lyko.com/de/lumene/lumene-matte-oil-control-found-0-light-ivory",
+        "note": "Lyko archive identifies exact non-SPF20 named Matte Oil-Control Foundation, shade 0 Light Ivory; original tube visibly prints the same shade. Current SPF20 reformulation and swatch-only official images were not substituted."
+      },
+      {
+        "query": "Lumene Matte Oil-control Foundation SPF20 shades",
+        "url": "https://lumene.com/products/8472100",
+        "note": "Official current product has SPF20; per-shade featured media are swatches only, visually rejected. Exact old-model Lyko image used instead."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 500,
+    "height": 1630,
+    "bytes": 72310,
+    "sha256": "02f55aafe1ef2f97470adb596e1a938ddae79e2bb9ce28924b7d4e7938210080",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "gc001414",
+    "variantId": "gc001414",
+    "productName": "Тональное средство Lumene Matte Oil-Control Foundation 00 ULTRA LIGHT",
+    "brand": "Lumene",
+    "variant": "Стандарт",
+    "sku": "GC001414",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 67,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://lyko.com/no/lumene/lumene-matte-oil-control-found-00-ultra-light",
+    "sourceImage": "https://lyko.com/globalassets/product-images/lumene-matte-oil-control-found-00-ultra-light-1188-566-0000_1.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-b/Тональное средство Lumene Matte Oil-Control Foundation 00 ULTRA LIGHT Стандарт--gc001414.jpg",
+    "verification": {
+      "identity": "Lyko archive identifies exact non-SPF20 named Matte Oil-Control Foundation, shade 00 Ultra Light; original tube visibly prints the same shade. Current SPF20 reformulation and swatch-only official images were not substituted.",
+      "volumeAndVariant": "Catalog Standard retained. Exact named product and 00 Ultra Light uniquely identify the archived retail tube; no volume added to catalog.",
+      "visualReview": "Inspected through view_image. Whole centered beige tube, turquoise cap, Matte Oil-Control Foundation and 00 Ultra Light printed clearly; white background, no watermark.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": "Native downloaded original is 500x1630 pixels, despite larger dimensions advertised by the page image URL. No upscale requested or performed; inspect intended display size later."
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Lumene Matte Oil-Control Foundation 00 Ultra Light",
+        "url": "https://lyko.com/no/lumene/lumene-matte-oil-control-found-00-ultra-light",
+        "note": "Lyko archive identifies exact non-SPF20 named Matte Oil-Control Foundation, shade 00 Ultra Light; original tube visibly prints the same shade. Current SPF20 reformulation and swatch-only official images were not substituted."
+      },
+      {
+        "query": "Lumene Matte Oil-control Foundation SPF20 shades",
+        "url": "https://lumene.com/products/8472100",
+        "note": "Official current product has SPF20; per-shade featured media are swatches only, visually rejected. Exact old-model Lyko image used instead."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 500,
+    "height": 1630,
+    "bytes": 72054,
+    "sha256": "a925937fd324f8cff3d2f12933aa4bcc79892800e253fc053c5e15fc1d6183a0",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "gc001415",
+    "variantId": "gc001415",
+    "productName": "Тональное средство Lumene Matte Oil-Control Foundation 1 CLASSIC BEIGE",
+    "brand": "Lumene",
+    "variant": "Стандарт",
+    "sku": "GC001415",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 68,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://lyko.com/no/lumene/lumene-matte-oil-control-found-1-classic-beige",
+    "sourceImage": "https://lyko.com/globalassets/product-images/lumene-matte-oil-control-found-1-classic-beige-1188-566-0003_1.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-b/Тональное средство Lumene Matte Oil-Control Foundation 1 CLASSIC BEIGE Стандарт--gc001415.jpg",
+    "verification": {
+      "identity": "Lyko archive identifies exact non-SPF20 named Matte Oil-Control Foundation, shade 1 Classic Beige; original tube visibly prints the same shade. Current SPF20 reformulation and swatch-only official images were not substituted.",
+      "volumeAndVariant": "Catalog Standard retained. Exact named product and 1 Classic Beige uniquely identify the archived retail tube; no volume added to catalog.",
+      "visualReview": "Inspected through view_image. Whole centered beige tube, turquoise cap, Matte Oil-Control Foundation and 1 Classic Beige printed clearly; white background, no watermark.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": "Native downloaded original is 500x1630 pixels, despite larger dimensions advertised by the page image URL. No upscale requested or performed; inspect intended display size later."
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Lumene Matte Oil-Control Foundation 1 Classic Beige",
+        "url": "https://lyko.com/no/lumene/lumene-matte-oil-control-found-1-classic-beige",
+        "note": "Lyko archive identifies exact non-SPF20 named Matte Oil-Control Foundation, shade 1 Classic Beige; original tube visibly prints the same shade. Current SPF20 reformulation and swatch-only official images were not substituted."
+      },
+      {
+        "query": "Lumene Matte Oil-control Foundation SPF20 shades",
+        "url": "https://lumene.com/products/8472100",
+        "note": "Official current product has SPF20; per-shade featured media are swatches only, visually rejected. Exact old-model Lyko image used instead."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 500,
+    "height": 1630,
+    "bytes": 72372,
+    "sha256": "36daca619b652813b1895807f2f59c12786e3a824285f7a49596c355b9435d31",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "parent-0004",
+    "variantId": "gc001675",
+    "productName": "Тональный крем-флюид с сатиновым финишем Relouis Paradiso",
+    "brand": "Relouis",
+    "variant": "01",
+    "sku": "GC001675",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 69,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1850528",
+    "sourceImage": "https://s.f.kz/prod/1851/1850528_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-b/Тональный крем-флюид с сатиновым финишем Relouis Paradiso 01--gc001675.jpg",
+    "verification": {
+      "identity": "Flip exact product page and shade selection identify Relouis Paradiso satin fluid foundation, shade 01, 30 ml.",
+      "volumeAndVariant": "Exact shade 01; source retail pack 30 ml. Catalog shade preserved, no new volume claim added to product name.",
+      "visualReview": "Inspected through view_image. Whole clear foundation bottle with gold/white dropper and detached applicator; Paradiso Satin Fluid Foundation label, white background, no watermark.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": null
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Relouis Paradiso тональный крем 01",
+        "url": "https://www.flip.kz/catalog?prod=1850528",
+        "note": "Flip exact product page and shade selection identify Relouis Paradiso satin fluid foundation, shade 01, 30 ml."
+      },
+      {
+        "query": "Relouis Paradiso official catalog",
+        "url": "https://relouis.by/wp-content/uploads/2026/01/Catalog-Relouis-2026-Web.pdf",
+        "note": "Official current catalog corroborates Paradiso line and 01/01A/02. Shade 03 is sourced to its exact older retail listing, not replaced by 01A or 04."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 640,
+    "height": 904,
+    "bytes": 71030,
+    "sha256": "ea7c7d770cb489ac9e74f3dfb32d3946b5630ca3f12db0e7f8e26c06bac22eef",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "parent-0004",
+    "variantId": "gc001676",
+    "productName": "Тональный крем-флюид с сатиновым финишем Relouis Paradiso",
+    "brand": "Relouis",
+    "variant": "01A",
+    "sku": "GC001676",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 70,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1972567",
+    "sourceImage": "https://s.f.kz/prod/1973/1972567_550.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-b/Тональный крем-флюид с сатиновым финишем Relouis Paradiso 01A--gc001676.jpg",
+    "verification": {
+      "identity": "Flip exact product page and shade selection identify Relouis Paradiso satin fluid foundation, shade 01A, 30 ml.",
+      "volumeAndVariant": "Exact shade 01A; source retail pack 30 ml. Catalog shade preserved, no new volume claim added to product name.",
+      "visualReview": "Inspected through view_image. Whole clear foundation bottle with gold/white dropper and detached applicator; Paradiso Satin Fluid Foundation label, white background, no watermark.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": "Limited source resolution 377x532. Retain as original only; review at intended display size during later preparation, no enlargement performed."
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Relouis Paradiso тональный крем 01A",
+        "url": "https://www.flip.kz/catalog?prod=1972567",
+        "note": "Flip exact product page and shade selection identify Relouis Paradiso satin fluid foundation, shade 01A, 30 ml."
+      },
+      {
+        "query": "Relouis Paradiso official catalog",
+        "url": "https://relouis.by/wp-content/uploads/2026/01/Catalog-Relouis-2026-Web.pdf",
+        "note": "Official current catalog corroborates Paradiso line and 01/01A/02. Shade 03 is sourced to its exact older retail listing, not replaced by 01A or 04."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 377,
+    "height": 532,
+    "bytes": 30782,
+    "sha256": "eba70d552acbe9a815265a40a4adf6e84448db367f8b606e67d558969f9e2e8c",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "parent-0004",
+    "variantId": "gc001677",
+    "productName": "Тональный крем-флюид с сатиновым финишем Relouis Paradiso",
+    "brand": "Relouis",
+    "variant": "02",
+    "sku": "GC001677",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 71,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1850532",
+    "sourceImage": "https://s.f.kz/prod/1851/1850532_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-b/Тональный крем-флюид с сатиновым финишем Relouis Paradiso 02--gc001677.jpg",
+    "verification": {
+      "identity": "Flip exact product page and shade selection identify Relouis Paradiso satin fluid foundation, shade 02, 30 ml.",
+      "volumeAndVariant": "Exact shade 02; source retail pack 30 ml. Catalog shade preserved, no new volume claim added to product name.",
+      "visualReview": "Inspected through view_image. Whole clear foundation bottle with gold/white dropper and detached applicator; Paradiso Satin Fluid Foundation label, white background, no watermark.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": null
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Relouis Paradiso тональный крем 02",
+        "url": "https://www.flip.kz/catalog?prod=1850532",
+        "note": "Flip exact product page and shade selection identify Relouis Paradiso satin fluid foundation, shade 02, 30 ml."
+      },
+      {
+        "query": "Relouis Paradiso official catalog",
+        "url": "https://relouis.by/wp-content/uploads/2026/01/Catalog-Relouis-2026-Web.pdf",
+        "note": "Official current catalog corroborates Paradiso line and 01/01A/02. Shade 03 is sourced to its exact older retail listing, not replaced by 01A or 04."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 640,
+    "height": 904,
+    "bytes": 71756,
+    "sha256": "c96b20e63fc150f48132545858727ca092d97de3c4c8b3a0f935c5df7f3c007d",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "parent-0004",
+    "variantId": "gc001678",
+    "productName": "Тональный крем-флюид с сатиновым финишем Relouis Paradiso",
+    "brand": "Relouis",
+    "variant": "03",
+    "sku": "GC001678",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 72,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1850534",
+    "sourceImage": "https://s.f.kz/prod/1851/1850534_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-b/Тональный крем-флюид с сатиновым финишем Relouis Paradiso 03--gc001678.jpg",
+    "verification": {
+      "identity": "Flip exact product page and shade selection identify Relouis Paradiso satin fluid foundation, shade 03, 30 ml.",
+      "volumeAndVariant": "Exact shade 03; source retail pack 30 ml. Catalog shade preserved, no new volume claim added to product name.",
+      "visualReview": "Inspected through view_image. Whole clear foundation bottle with gold/white dropper and detached applicator; Paradiso Satin Fluid Foundation label, white background, no watermark.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": null
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Relouis Paradiso тональный крем 03",
+        "url": "https://www.flip.kz/catalog?prod=1850534",
+        "note": "Flip exact product page and shade selection identify Relouis Paradiso satin fluid foundation, shade 03, 30 ml."
+      },
+      {
+        "query": "Relouis Paradiso official catalog",
+        "url": "https://relouis.by/wp-content/uploads/2026/01/Catalog-Relouis-2026-Web.pdf",
+        "note": "Official current catalog corroborates Paradiso line and 01/01A/02. Shade 03 is sourced to its exact older retail listing, not replaced by 01A or 04."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 640,
+    "height": 904,
+    "bytes": 73334,
+    "sha256": "be32f5e69172a927112d96eb89225db21fa84fbd1607231ac4fa5963b55a21c7",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "parent-0005",
+    "variantId": "gc001748",
+    "productName": "Тональный Крем Revlon",
+    "brand": "Revlon",
+    "variant": "110",
+    "sku": "GC001748",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 73,
+    "batch": 2,
+    "status": "skipped",
+    "sourcePage": "https://www.revlon.com/collections/foundation",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog gives only generic Revlon foundation and shade 110, with no line, skin-type formula or volume. Research confirms 110 Ivory and 150 Buff exist in both ColorStay Normal/Dry SPF20 and Combination/Oily SPF15. The exact product/package cannot be determined from this catalog entry; neither formula nor a neighboring catalog item was assumed.",
+    "searches": [
+      {
+        "query": "Revlon foundation 110 product line",
+        "url": "https://www.revlon.com/collections/foundation",
+        "note": "Official brand has several distinct foundation lines."
+      },
+      {
+        "query": "Revlon ColorStay Normal Dry 110 Ivory 150 Buff",
+        "url": "https://www.walmart.ca/en/ip/Revlon-ColorStay-Longwear-Makeup-for-Normal-Dry-Skin/10059934",
+        "note": "Retail page explicitly identifies Normal/Dry SPF20 150 Buff, 30 ml, and 110 Ivory option."
+      },
+      {
+        "query": "Revlon ColorStay Combination Oily 110 Ivory 150 Buff",
+        "url": "https://www.jeancoutu.com/en/shop/categories/beauty/makeup/face/foundation/colorstay-longwear-makeup-combo-and-oily/p/309970004934",
+        "note": "Retail page separately identifies Combination/Oily 30 ml with 110 Ivory and 150 Buff options."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": null,
+    "height": null,
+    "bytes": null,
+    "sha256": null,
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "parent-0005",
+    "variantId": "gc001749",
+    "productName": "Тональный Крем Revlon",
+    "brand": "Revlon",
+    "variant": "150",
+    "sku": "GC001749",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 74,
+    "batch": 2,
+    "status": "skipped",
+    "sourcePage": "https://www.revlon.com/collections/foundation",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog gives only generic Revlon foundation and shade 150, with no line, skin-type formula or volume. Research confirms 110 Ivory and 150 Buff exist in both ColorStay Normal/Dry SPF20 and Combination/Oily SPF15. The exact product/package cannot be determined from this catalog entry; neither formula nor a neighboring catalog item was assumed.",
+    "searches": [
+      {
+        "query": "Revlon foundation 150 product line",
+        "url": "https://www.revlon.com/collections/foundation",
+        "note": "Official brand has several distinct foundation lines."
+      },
+      {
+        "query": "Revlon ColorStay Normal Dry 110 Ivory 150 Buff",
+        "url": "https://www.walmart.ca/en/ip/Revlon-ColorStay-Longwear-Makeup-for-Normal-Dry-Skin/10059934",
+        "note": "Retail page explicitly identifies Normal/Dry SPF20 150 Buff, 30 ml, and 110 Ivory option."
+      },
+      {
+        "query": "Revlon ColorStay Combination Oily 110 Ivory 150 Buff",
+        "url": "https://www.jeancoutu.com/en/shop/categories/beauty/makeup/face/foundation/colorstay-longwear-makeup-combo-and-oily/p/309970004934",
+        "note": "Retail page separately identifies Combination/Oily 30 ml with 110 Ivory and 150 Buff options."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": null,
+    "height": null,
+    "bytes": null,
+    "sha256": null,
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "gc001750",
+    "variantId": "gc001750",
+    "productName": "Тональный крем для комбинированной и жирной кожи Revlon ColorStay Longwear Makeup for Combination/Oily Skin SPF15 150 Buff",
+    "brand": "Revlon",
+    "variant": "Стандарт",
+    "sku": "GC001750",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 75,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://www.revlon.com/products/colorstay-longwear-makeup-for-combination-oily-skin-spf-15?variant=44134579011779",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/309975410020_Buff_02.jpg?v=1748012545",
+    "localFile": "materials/catalog-7b/originals/b002-b/Тональный крем для комбинированной и жирной кожи Revlon ColorStay Longwear Makeup for--gc001750.jpg",
+    "verification": {
+      "identity": "Official Revlon product JSON identifies Buff variant 44134579011779, SKU 0309975410020; gallery image alt #color_buff maps this exact shade. Image visibly prints 150, SPF15, Combination/Oily Skin and 30 ml.",
+      "volumeAndVariant": "Catalog explicitly names Combination/Oily SPF15 150 Buff. Source is the matching 30 ml retail bottle; Standard retained.",
+      "visualReview": "Inspected through view_image. Whole bottle and cap on white with matching cream smear; product name, SPF15, 150 and 30 ml clear, no watermark. The swatch-only alternate was rejected.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": "Official source includes cream smear and detached cap; product is complete and no edits were made."
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Revlon Colorstay Longwear Combination Oily SPF15 150 Buff",
+        "url": "https://www.revlon.com/products/colorstay-longwear-makeup-for-combination-oily-skin-spf-15?variant=44134579011779",
+        "note": "Official Revlon product JSON identifies Buff variant 44134579011779, SKU 0309975410020; gallery image alt #color_buff maps this exact shade. Image visibly prints 150, SPF15, Combination/Oily Skin and 30 ml."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 3000,
+    "height": 3000,
+    "bytes": 355262,
+    "sha256": "ed83eca927677d317d68bb198887b7d9b7f1748f90abb4b0b7baf3dc1aa0b08f",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "gc001771",
+    "variantId": "gc001771",
+    "productName": "Тональный флюид 010 тональное средство ROSE INC 30 мл",
+    "brand": "ROSE INC",
+    "variant": "30мл",
+    "sku": "GC001771",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 76,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://lyko.com/en/rose-inc/rose-inc-skin-enhance-luminous-tinted-serum-010-30-ml",
+    "sourceImage": "https://lyko.com/globalassets/product-images/rose-inc-skin-enhance-luminous-tinted-serum-010-30-ml-4032-104-0001_1.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-b/Тональный флюид 010 тональное средство ROSE INC 30 мл 30мл--gc001771.jpg",
+    "verification": {
+      "identity": "Lyko exact page identifies Skin Enhance Luminous Tinted Serum 010, 30 ml. Official Rose Inc variant 41112062361788 independently confirms this shade and size. Russian retailer identifies this exact line as tonalnyy fluid.",
+      "volumeAndVariant": "Exact 010 and 30 ml, matching the catalog fluid shade/volume. No mini or different foundation line used.",
+      "visualReview": "Inspected through view_image. Whole capped serum bottle isolated on white, centered; Skin Enhance Luminous Tinted Serum and 30ML labels legible, no watermark. Official gradient-background alternative rejected.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": "Narrow native source image, 288x1246 pixels. Fine label detail and full bottle visible; no upscale performed."
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Rose Inc Skin Enhance Luminous Tinted Serum 010 30ml",
+        "url": "https://lyko.com/en/rose-inc/rose-inc-skin-enhance-luminous-tinted-serum-010-30-ml",
+        "note": "Lyko exact page identifies Skin Enhance Luminous Tinted Serum 010, 30 ml. Official Rose Inc variant 41112062361788 independently confirms this shade and size. Russian retailer identifies this exact line as tonalnyy fluid."
+      },
+      {
+        "query": "Rose Inc official tinted serum 010",
+        "url": "https://www.roseinc.com/products/skin-enhance-luminous-tinted-serum?variant=41112062361788",
+        "note": "Official .js maps exact shade and 30 ml. Its gray studio original was replaced by cleaner white-background retailer original."
+      },
+      {
+        "query": "Rose Inc тональный флюид 010",
+        "url": "https://cosmetos.shop/catalog/makiyazh_1/dlya_litsa/tonalnye_kremy/tonalnyy_flyuid_rose_inc_skin_enhance_luminous_skin_tint_serum_foundation/",
+        "note": "Retailer explicitly uses tonal fluid wording for Skin Enhance Luminous Skin Tint Serum Foundation."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 288,
+    "height": 1246,
+    "bytes": 47373,
+    "sha256": "facda725e3644c0701f3aad750c9a638087c404e9d7963c43ba819a93efe9d05",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "gc001772",
+    "variantId": "gc001772",
+    "productName": "Тональный флюид 020 тональное средство ROSE INC 30 мл",
+    "brand": "ROSE INC",
+    "variant": "30мл",
+    "sku": "GC001772",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 77,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://lyko.com/en/rose-inc/rose-inc-skin-enhance-luminous-tinted-serum-020-30-ml",
+    "sourceImage": "https://lyko.com/globalassets/product-images/rose-inc-skin-enhance-luminous-tinted-serum-020-30-ml-4032-104-0002_1.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-b/Тональный флюид 020 тональное средство ROSE INC 30 мл 30мл--gc001772.jpg",
+    "verification": {
+      "identity": "Lyko exact page identifies Skin Enhance Luminous Tinted Serum 020, 30 ml. Official Rose Inc variant 41112062394556 independently confirms this shade and size. Russian retailer identifies this exact line as tonalnyy fluid.",
+      "volumeAndVariant": "Exact 020 and 30 ml, matching the catalog fluid shade/volume. No mini or different foundation line used.",
+      "visualReview": "Inspected through view_image. Whole capped serum bottle isolated on white, centered; Skin Enhance Luminous Tinted Serum and 30ML labels legible, no watermark. Official gradient-background alternative rejected.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": "Narrow native source image, 288x1246 pixels. Fine label detail and full bottle visible; no upscale performed."
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Rose Inc Skin Enhance Luminous Tinted Serum 020 30ml",
+        "url": "https://lyko.com/en/rose-inc/rose-inc-skin-enhance-luminous-tinted-serum-020-30-ml",
+        "note": "Lyko exact page identifies Skin Enhance Luminous Tinted Serum 020, 30 ml. Official Rose Inc variant 41112062394556 independently confirms this shade and size. Russian retailer identifies this exact line as tonalnyy fluid."
+      },
+      {
+        "query": "Rose Inc official tinted serum 020",
+        "url": "https://www.roseinc.com/products/skin-enhance-luminous-tinted-serum?variant=41112062394556",
+        "note": "Official .js maps exact shade and 30 ml. Its gray studio original was replaced by cleaner white-background retailer original."
+      },
+      {
+        "query": "Rose Inc тональный флюид 010",
+        "url": "https://cosmetos.shop/catalog/makiyazh_1/dlya_litsa/tonalnye_kremy/tonalnyy_flyuid_rose_inc_skin_enhance_luminous_skin_tint_serum_foundation/",
+        "note": "Retailer explicitly uses tonal fluid wording for Skin Enhance Luminous Skin Tint Serum Foundation."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 288,
+    "height": 1246,
+    "bytes": 47881,
+    "sha256": "2b3df05a7349800488a2c6d2bca44033698076ab17491f5d72643efd230e3cc0",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "gc001780",
+    "variantId": "gc001780",
+    "productName": "Тональная основа SHIK Velvet Cover 100 Plume",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001780",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 78,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://www.pandashop.md/ro/product/lnyj-krem-dlja-lica-shik-velvet-cover-100-00956586/",
+    "sourceImage": "https://www.pandashop.md/i/products/259/2595791.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-b/Тональная основа SHIK Velvet Cover 100 Plume Стандарт--gc001780.jpg",
+    "verification": {
+      "identity": "PandaShop exact named Velvet Cover 100 Plume product page supplies its own product image. Official selected 100 PLUME option maps to variation637 / EAN4650375900717, 30 ml; official gallery lacks this variation, so no other shade photo was used.",
+      "volumeAndVariant": "Exact 100 Plume; standard 30 ml retail product confirmed by official page and official marketplace listing. Catalog Standard retained.",
+      "visualReview": "Inspected through view_image. Whole centered Velvet Cover tube with pale pink shade smear, white background, no watermark; exact retail source shade 100 Plume.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": "Native retailer image 600x769 with somewhat soft label detail and shade smear. Original retained unchanged; inspect intended display size later."
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK Velvet Cover 100 Plume",
+        "url": "https://www.pandashop.md/ro/product/lnyj-krem-dlja-lica-shik-velvet-cover-100-00956586/",
+        "note": "PandaShop exact named Velvet Cover 100 Plume product page supplies its own product image. Official selected 100 PLUME option maps to variation637 / EAN4650375900717, 30 ml; official gallery lacks this variation, so no other shade photo was used."
+      },
+      {
+        "query": "SHIK Velvet Cover official 100 PLUME",
+        "url": "https://shikstore.ru/product/tonalnyj-krem-dla-lica-velvet-cover-101-cotton-shikstudio?color=100+PLUME",
+        "note": "Official product options identify 100 PLUME, EAN4650375900717 and volume30ml. Gallery lacks variation637; neighboring shade gallery deliberately rejected."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 600,
+    "height": 769,
+    "bytes": 31358,
+    "sha256": "59a6b0fbdadd440722e773c9aaac40b101cdeca3672f5ebc2eb29304bfb67e4f",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "gc001781",
+    "variantId": "gc001781",
+    "productName": "Тональная основа SHIK Velvet Cover 101 Cotton",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001781",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 79,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/tonalnyj-krem-dla-lica-velvet-cover-101-cotton-shikstudio?color=101%20COTTON",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/4281/variations/171896245266754914832d44.41928205.png",
+    "localFile": "materials/catalog-7b/originals/b002-b/Тональная основа SHIK Velvet Cover 101 Cotton Стандарт--gc001781.png",
+    "verification": {
+      "identity": "Official SHIK RU page explicitly selects 101 COTTON, option value 638, EAN 4650375900700. productPhoto gallery directly maps original to this variationId, not page-default og:image.",
+      "volumeAndVariant": "Exact shade 101 COTTON; official product description states 30 ml. Standard/name/variant fields retained as supplied.",
+      "visualReview": "Inspected through view_image. Whole centered Velvet Cover Foundation tube, readable product label, very pale off-white studio background and soft shadow, no watermark. Matching shade smear behind tube. Cropped-spout, model-photo and swatch-chart alternatives rejected.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": "Background is pale off-white studio gray, not pure white; preserve source unchanged for later preparation. Source includes shade smear behind whole tube."
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK Velvet Cover Foundation 101 COTTON",
+        "url": "https://shikstore.ru/product/tonalnyj-krem-dla-lica-velvet-cover-101-cotton-shikstudio?color=101%20COTTON",
+        "note": "Official SHIK RU page explicitly selects 101 COTTON, option value 638, EAN 4650375900700. productPhoto gallery directly maps original to this variationId, not page-default og:image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1400,
+    "height": 1972,
+    "bytes": 648570,
+    "sha256": "4443657fc6914b1f6c300f36be076e358b8a23595d783989bac601a082a5886c",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "gc001787",
+    "variantId": "gc001787",
+    "productName": "Тональная основа SHIK Velvet Cover 102 Milk",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001787",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 80,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/tonalnyj-krem-dla-lica-velvet-cover-101-cotton-shikstudio?color=102%20MILK",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/4281/variations/1718962467667549230e94e3.30411914.png",
+    "localFile": "materials/catalog-7b/originals/b002-b/Тональная основа SHIK Velvet Cover 102 Milk Стандарт--gc001787.png",
+    "verification": {
+      "identity": "Official SHIK RU page explicitly selects 102 MILK, option value 639, EAN 4650375900694. productPhoto gallery directly maps original to this variationId, not page-default og:image.",
+      "volumeAndVariant": "Exact shade 102 MILK; official product description states 30 ml. Standard/name/variant fields retained as supplied.",
+      "visualReview": "Inspected through view_image. Whole centered Velvet Cover Foundation tube, readable product label, very pale off-white studio background and soft shadow, no watermark. Matching shade smear behind tube. Cropped-spout, model-photo and swatch-chart alternatives rejected.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": "Background is pale off-white studio gray, not pure white; preserve source unchanged for later preparation. Source includes shade smear behind whole tube."
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK Velvet Cover Foundation 102 MILK",
+        "url": "https://shikstore.ru/product/tonalnyj-krem-dla-lica-velvet-cover-101-cotton-shikstudio?color=102%20MILK",
+        "note": "Official SHIK RU page explicitly selects 102 MILK, option value 639, EAN 4650375900694. productPhoto gallery directly maps original to this variationId, not page-default og:image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1400,
+    "height": 1972,
+    "bytes": 652494,
+    "sha256": "44aab5a064e56247f7617290b1f5a64998cd438a17a136fa45f2e8eec9519729",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "gc001788",
+    "variantId": "gc001788",
+    "productName": "Тональная основа SHIK Velvet Cover 103 Vanilla",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001788",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 81,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/tonalnyj-krem-dla-lica-velvet-cover-101-cotton-shikstudio?color=103%20VANILLA",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/4281/variations/171896248066754930128510.23463661.png",
+    "localFile": "materials/catalog-7b/originals/b002-b/Тональная основа SHIK Velvet Cover 103 Vanilla Стандарт--gc001788.png",
+    "verification": {
+      "identity": "Official SHIK RU page explicitly selects 103 VANILLA, option value 640, EAN 4650375900687. productPhoto gallery directly maps original to this variationId, not page-default og:image.",
+      "volumeAndVariant": "Exact shade 103 VANILLA; official product description states 30 ml. Standard/name/variant fields retained as supplied.",
+      "visualReview": "Inspected through view_image. Whole centered Velvet Cover Foundation tube, readable product label, very pale off-white studio background and soft shadow, no watermark. Matching shade smear behind tube. Cropped-spout, model-photo and swatch-chart alternatives rejected.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": "Background is pale off-white studio gray, not pure white; preserve source unchanged for later preparation. Source includes shade smear behind whole tube."
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK Velvet Cover Foundation 103 VANILLA",
+        "url": "https://shikstore.ru/product/tonalnyj-krem-dla-lica-velvet-cover-101-cotton-shikstudio?color=103%20VANILLA",
+        "note": "Official SHIK RU page explicitly selects 103 VANILLA, option value 640, EAN 4650375900687. productPhoto gallery directly maps original to this variationId, not page-default og:image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1400,
+    "height": 1972,
+    "bytes": 652633,
+    "sha256": "69adfced610b06a18adb4f046e8d7cabbc12cd0e0976cc6438360b4a59b6153c",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "parent-0006",
+    "variantId": "gc001830",
+    "productName": "Матовый тональный крем для лица SHIK Perfect Liquid Foundation",
+    "brand": "SHIK",
+    "variant": "0.5",
+    "sku": "GC001830",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 82,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/tonalnyj-krem-dla-lica-01-20-ml-perfect-liquid-foundation-20-ml?color=0.5",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/1773/variations/17857458766a7051d44b2151.91894090.webp",
+    "localFile": "materials/catalog-7b/originals/b002-b/Матовый тональный крем для лица SHIK Perfect Liquid Foundation 0.5--gc001830.webp",
+    "verification": {
+      "identity": "Official SHIK RU page explicitly selects 0.5, option value 851, EAN 4650375905866. productPhoto gallery directly maps original to this variationId, not page-default og:image.",
+      "volumeAndVariant": "Exact shade 0.5; official product description states 20 ml. Standard/name/variant fields retained as supplied.",
+      "visualReview": "Inspected through view_image. Whole centered Perfect Liquid Foundation tube, readable product label, very pale off-white studio background and soft shadow, no watermark.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": "Background is pale off-white studio gray, not pure white; preserve source unchanged for later preparation. "
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK Perfect Liquid Foundation 0.5",
+        "url": "https://shikstore.ru/product/tonalnyj-krem-dla-lica-01-20-ml-perfect-liquid-foundation-20-ml?color=0.5",
+        "note": "Official SHIK RU page explicitly selects 0.5, option value 851, EAN 4650375905866. productPhoto gallery directly maps original to this variationId, not page-default og:image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1400,
+    "height": 1972,
+    "bytes": 62818,
+    "sha256": "2771021cf9bb14ddd4f83eb6411242c9f71cc292dca76f81016ddc1464d8414b",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "parent-0006",
+    "variantId": "gc001831",
+    "productName": "Матовый тональный крем для лица SHIK Perfect Liquid Foundation",
+    "brand": "SHIK",
+    "variant": "1",
+    "sku": "GC001831",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 83,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/tonalnyj-krem-dla-lica-01-20-ml-perfect-liquid-foundation-20-ml?color=1",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/1773/variations/1721645859669e3b23630820.57891517.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-b/Матовый тональный крем для лица SHIK Perfect Liquid Foundation 1--gc001831.jpg",
+    "verification": {
+      "identity": "Official SHIK RU page explicitly selects 1, option value 225, EAN 4631161461285. productPhoto gallery directly maps original to this variationId, not page-default og:image.",
+      "volumeAndVariant": "Exact shade 1; official product description states 20 ml. Standard/name/variant fields retained as supplied.",
+      "visualReview": "Inspected through view_image. Whole centered Perfect Liquid Foundation tube, readable product label, very pale off-white studio background and soft shadow, no watermark.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": "Background is pale off-white studio gray, not pure white; preserve source unchanged for later preparation. "
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK Perfect Liquid Foundation 1",
+        "url": "https://shikstore.ru/product/tonalnyj-krem-dla-lica-01-20-ml-perfect-liquid-foundation-20-ml?color=1",
+        "note": "Official SHIK RU page explicitly selects 1, option value 225, EAN 4631161461285. productPhoto gallery directly maps original to this variationId, not page-default og:image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1380,
+    "height": 1772,
+    "bytes": 253074,
+    "sha256": "f24bdc8e73a6f9bb9edad166d4c58ec465bb6a68dce328d907133780e0a30df1",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "parent-0006",
+    "variantId": "gc001832",
+    "productName": "Матовый тональный крем для лица SHIK Perfect Liquid Foundation",
+    "brand": "SHIK",
+    "variant": "1.5",
+    "sku": "GC001832",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 84,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/tonalnyj-krem-dla-lica-01-20-ml-perfect-liquid-foundation-20-ml?color=1.5",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/1773/variations/1721645813669e3af5160357.84312234.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-b/Матовый тональный крем для лица SHIK Perfect Liquid Foundation 1.5--gc001832.jpg",
+    "verification": {
+      "identity": "Official SHIK RU page explicitly selects 1.5, option value 252, EAN 4631165598659. productPhoto gallery directly maps original to this variationId, not page-default og:image.",
+      "volumeAndVariant": "Exact shade 1.5; official product description states 20 ml. Standard/name/variant fields retained as supplied.",
+      "visualReview": "Inspected through view_image. Whole centered Perfect Liquid Foundation tube, readable product label, very pale off-white studio background and soft shadow, no watermark.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": "Background is pale off-white studio gray, not pure white; preserve source unchanged for later preparation. "
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK Perfect Liquid Foundation 1.5",
+        "url": "https://shikstore.ru/product/tonalnyj-krem-dla-lica-01-20-ml-perfect-liquid-foundation-20-ml?color=1.5",
+        "note": "Official SHIK RU page explicitly selects 1.5, option value 252, EAN 4631165598659. productPhoto gallery directly maps original to this variationId, not page-default og:image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1380,
+    "height": 1772,
+    "bytes": 251932,
+    "sha256": "df364c589fbdde86e949ad2b2338f05c8428fb9e2c19adcf5cbfdcb9943b6133",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  },
+  {
+    "productId": "parent-0006",
+    "variantId": "gc001833",
+    "productName": "Матовый тональный крем для лица SHIK Perfect Liquid Foundation",
+    "brand": "SHIK",
+    "variant": "2",
+    "sku": "GC001833",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/2"
+    ],
+    "index": 85,
+    "batch": 2,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/tonalnyj-krem-dla-lica-01-20-ml-perfect-liquid-foundation-20-ml?color=2",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/1773/variations/1721645903669e3b4f716fc5.16757067.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-b/Матовый тональный крем для лица SHIK Perfect Liquid Foundation 2--gc001833.jpg",
+    "verification": {
+      "identity": "Official SHIK RU page explicitly selects 2, option value 226, EAN 4631161461292. productPhoto gallery directly maps original to this variationId, not page-default og:image.",
+      "volumeAndVariant": "Exact shade 2; official product description states 20 ml. Standard/name/variant fields retained as supplied.",
+      "visualReview": "Inspected through view_image. Whole centered Perfect Liquid Foundation tube, readable product label, very pale off-white studio background and soft shadow, no watermark.",
+      "originalBytes": "Downloaded response retained byte-for-byte; Pillow verify and load passed. No resizing, background editing, sharpening or integration.",
+      "qualityCaveat": "Background is pale off-white studio gray, not pure white; preserve source unchanged for later preparation. "
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK Perfect Liquid Foundation 2",
+        "url": "https://shikstore.ru/product/tonalnyj-krem-dla-lica-01-20-ml-perfect-liquid-foundation-20-ml?color=2",
+        "note": "Official SHIK RU page explicitly selects 2, option value 226, EAN 4631161461292. productPhoto gallery directly maps original to this variationId, not page-default og:image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1380,
+    "height": 1772,
+    "bytes": 254835,
+    "sha256": "8cf50f74d5bbae34404aa79ff77df693305f61a8a75140e2fc067fe07c5c1d37",
+    "sharedImageWith": [],
+    "researchedAt": "2026-09-24"
+  }
+]

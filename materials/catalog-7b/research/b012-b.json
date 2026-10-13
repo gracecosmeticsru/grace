@@ -1,0 +1,563 @@
+[
+  {
+    "index": 570,
+    "productId": "gc004575",
+    "variantId": "gc004575",
+    "productName": "Румяна матовые Нежно-розовый Vivienne Sabo Macaron 03 5 г",
+    "variant": "5 г",
+    "sourcePage": "https://viviennesabo.ru/catalog/rumyana/macaron/",
+    "sourceImage": "https://viviennesabo.ru/upload/dev2fun.imagecompress/webp/iblock/c16/s0rl91clo90xmiokybz2z0dhggt4mx2l.webp",
+    "localFile": "materials/catalog-7b/originals/b012-b/Румяна матовые Нежно-розовый Vivienne Sabo Macaron 03 5 г 5 г--gc004575.webp",
+    "verification": {
+      "identity": "Official Macaron offer map CODE macaron-03 ID24292 binds the retained PREVIEW_PICTURE/first SLIDER image.03 and04 mapped separately.",
+      "volumeAndVariant": "Exact shade03 matching catalog Macaron5g line; catalog volume unchanged.",
+      "visualReview": "Full-fit source visually inspected. Exact shade source has opaque gray floor and broad dark cast shadow; not a simple clean white source. No repainting or shadow clipping.",
+      "reviewMethod": "Exact primary variant mapping; unmodified retained source and full-fit contact sheet viewed. Ready images separately viewed and physical bounds measured without shadow.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:viviennesabo.com Macaron румяна03 04; reuse exact official family from b012-a",
+        "url": "https://viviennesabo.ru/catalog/rumyana/macaron/",
+        "note": "Official Macaron offer map CODE macaron-03 ID24292 binds the retained PREVIEW_PICTURE/first SLIDER image.03 and04 mapped separately."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 3000,
+    "height": 3000,
+    "format": "WEBP",
+    "bytes": 111898,
+    "sha256": "82f69575cf68ebbf4cfb5939fe8d77348db8eef933fc89b3d8f2ad6d1bcc5776"
+  },
+  {
+    "index": 571,
+    "productId": "gc004576",
+    "variantId": "gc004576",
+    "productName": "Румяна матовые Натуральный розовый Vivienne Sabo Macaron 04 5 г",
+    "variant": "5 г",
+    "sourcePage": "https://viviennesabo.ru/catalog/rumyana/macaron/",
+    "sourceImage": "https://viviennesabo.ru/upload/dev2fun.imagecompress/webp/iblock/3b4/7kiwzkxe7vd224vhl3gbvom7qhvsrx99.webp",
+    "localFile": "materials/catalog-7b/originals/b012-b/Румяна матовые Натуральный розовый Vivienne Sabo Macaron 04 5 г 5 г--gc004576.webp",
+    "verification": {
+      "identity": "Official Macaron offer map CODE macaron-04 ID24293 binds the retained PREVIEW_PICTURE/first SLIDER image.03 and04 mapped separately.",
+      "volumeAndVariant": "Exact shade04 matching catalog Macaron5g line; catalog volume unchanged.",
+      "visualReview": "Full-fit source visually inspected. Exact shade source has opaque gray floor and broad dark cast shadow; not a simple clean white source. No repainting or shadow clipping.",
+      "reviewMethod": "Exact primary variant mapping; unmodified retained source and full-fit contact sheet viewed. Ready images separately viewed and physical bounds measured without shadow.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:viviennesabo.com Macaron румяна03 04; reuse exact official family from b012-a",
+        "url": "https://viviennesabo.ru/catalog/rumyana/macaron/",
+        "note": "Official Macaron offer map CODE macaron-04 ID24293 binds the retained PREVIEW_PICTURE/first SLIDER image.03 and04 mapped separately."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 3000,
+    "height": 3000,
+    "format": "WEBP",
+    "bytes": 120308,
+    "sha256": "e957eefeb8b330ee39ce169e05403f4e3b1c44df9b9f60298b1d22a364b67312"
+  },
+  {
+    "index": 572,
+    "productId": "parent-0084",
+    "variantId": "gc004577",
+    "productName": "Румяна мини PATRICK TA",
+    "variant": "She goes to the gym",
+    "sourcePage": "https://patrickta.com/products/mini-major-headlines-double-take-creme-powder-blush-duo.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0099/0602/8608/files/Mini-Major-Headlines-Double-Take-Creme-_-Powder-Blush-Duo-She-Goes-To-The-Gym.jpg?v=1787269541",
+    "localFile": "materials/catalog-7b/originals/b012-b/Румяна мини PATRICK TA She goes to the gym--gc004577.jpg",
+    "verification": {
+      "identity": "Official Mini Major Headlines Double-Take Crème & Powder Blush Duo; exact She Goes to the Gym (Cool Mauve Rose) variant 62808028381553 maps featured_image 81309592125809 to retained original.",
+      "volumeAndVariant": "Actual MINI collection, not full-size. Sephora P518438 confirms mini creme1.6g; exact She's That Girl SKU2906113 corroborates catalog1.6g. No catalog weight alteration.",
+      "visualReview": "Full-fit original and prepared image visually inspected: entire correct product, clean white output, no badge or clipping. Flat neutral source background whitened by existing bounded flood fill threshold2; natural soft shadow retained. Physical product measured by chroma mask excluding neutral shadows: 635x1443px. Centered1200square/1020px object.",
+      "reviewMethod": "Exact primary variant mapping; unmodified retained source and full-fit contact sheet viewed. Ready images separately viewed and physical bounds measured without shadow.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:patrickta.com mini She Goes blush; Patrick Ta mini 1.6",
+        "url": "https://patrickta.com/products/mini-major-headlines-double-take-creme-powder-blush-duo.js",
+        "note": "Official Mini Major Headlines Double-Take Crème & Powder Blush Duo; exact She Goes to the Gym (Cool Mauve Rose) variant 62808028381553 maps featured_image 81309592125809 to retained original."
+      },
+      {
+        "query": "Patrick Ta mini 1.6",
+        "url": "https://www.sephora.com/product/mini-major-headlines-double-take-creme-powder-blush-duo-P518438?icid2=&skuId=2906113",
+        "note": "Exact She's That Girl mini product lists creme1.6g and powder2.6g; source official volume selector60/30ml is visibly erroneous, not adopted."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 2000,
+    "height": 2000,
+    "format": "JPEG",
+    "bytes": 56179,
+    "sha256": "9c4f4d46f4f20f42794e7d4c4d07f213f6ba1eb080beaee978aa0e3468e79b4a"
+  },
+  {
+    "index": 573,
+    "productId": "parent-0084",
+    "variantId": "gc004578",
+    "productName": "Румяна мини PATRICK TA",
+    "variant": "She left me on red",
+    "sourcePage": "https://patrickta.com/products/mini-major-headlines-double-take-creme-powder-blush-duo.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0099/0602/8608/files/Mini-Major-Headlines-Double-Take-Creme-_-Powder-Blush-Duo-She-Left-Me-On-Red.jpg?v=1787269541",
+    "localFile": "materials/catalog-7b/originals/b012-b/Румяна мини PATRICK TA She left me on red--gc004578.jpg",
+    "verification": {
+      "identity": "Official Mini Major Headlines Double-Take Crème & Powder Blush Duo; exact She Left Me On Red (Warm Vivid Red) variant 62808028414321 maps featured_image 81309592093041 to retained original.",
+      "volumeAndVariant": "Actual MINI collection, not full-size. Sephora P518438 confirms mini creme1.6g; exact She's That Girl SKU2906113 corroborates catalog1.6g. No catalog weight alteration.",
+      "visualReview": "Full-fit original and prepared image visually inspected: entire correct product, clean white output, no badge or clipping. Flat neutral source background whitened by existing bounded flood fill threshold2; natural soft shadow retained. Physical product measured by chroma mask excluding neutral shadows: 635x1443px. Centered1200square/1020px object.",
+      "reviewMethod": "Exact primary variant mapping; unmodified retained source and full-fit contact sheet viewed. Ready images separately viewed and physical bounds measured without shadow.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:patrickta.com mini She Goes blush; Patrick Ta mini 1.6",
+        "url": "https://patrickta.com/products/mini-major-headlines-double-take-creme-powder-blush-duo.js",
+        "note": "Official Mini Major Headlines Double-Take Crème & Powder Blush Duo; exact She Left Me On Red (Warm Vivid Red) variant 62808028414321 maps featured_image 81309592093041 to retained original."
+      },
+      {
+        "query": "Patrick Ta mini 1.6",
+        "url": "https://www.sephora.com/product/mini-major-headlines-double-take-creme-powder-blush-duo-P518438?icid2=&skuId=2906113",
+        "note": "Exact She's That Girl mini product lists creme1.6g and powder2.6g; source official volume selector60/30ml is visibly erroneous, not adopted."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 2000,
+    "height": 2000,
+    "format": "JPEG",
+    "bytes": 56492,
+    "sha256": "2b360e698dd3b4224974b8ebe353ae3dcdc18f6ab5f0423de26f49a8ec2dd103"
+  },
+  {
+    "index": 574,
+    "productId": "parent-0084",
+    "variantId": "gc004579",
+    "productName": "Румяна мини PATRICK TA",
+    "variant": "She Seductive",
+    "sourcePage": "https://patrickta.com/products/mini-major-headlines-double-take-creme-powder-blush-duo.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0099/0602/8608/files/Mini-Major-Headlines-Double-Take-Creme-_-Powder-Blush-Duo-Shes-Seductive.jpg?v=1787269541",
+    "localFile": "materials/catalog-7b/originals/b012-b/Румяна мини PATRICK TA She Seductive--gc004579.jpg",
+    "verification": {
+      "identity": "Official Mini Major Headlines Double-Take Crème & Powder Blush Duo; exact She's Seductive (Warm Rosey Beige) variant 62808028447089 maps featured_image 81309592060273 to retained original.",
+      "volumeAndVariant": "Actual MINI collection, not full-size. Sephora P518438 confirms mini creme1.6g; exact She's That Girl SKU2906113 corroborates catalog1.6g. No catalog weight alteration.",
+      "visualReview": "Full-fit original and prepared image visually inspected: entire correct product, clean white output, no badge or clipping. Flat neutral source background whitened by existing bounded flood fill threshold2; natural soft shadow retained. Physical product measured by chroma mask excluding neutral shadows: 635x1443px. Centered1200square/1020px object.",
+      "reviewMethod": "Exact primary variant mapping; unmodified retained source and full-fit contact sheet viewed. Ready images separately viewed and physical bounds measured without shadow.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:patrickta.com mini She Goes blush; Patrick Ta mini 1.6",
+        "url": "https://patrickta.com/products/mini-major-headlines-double-take-creme-powder-blush-duo.js",
+        "note": "Official Mini Major Headlines Double-Take Crème & Powder Blush Duo; exact She's Seductive (Warm Rosey Beige) variant 62808028447089 maps featured_image 81309592060273 to retained original."
+      },
+      {
+        "query": "Patrick Ta mini 1.6",
+        "url": "https://www.sephora.com/product/mini-major-headlines-double-take-creme-powder-blush-duo-P518438?icid2=&skuId=2906113",
+        "note": "Exact She's That Girl mini product lists creme1.6g and powder2.6g; source official volume selector60/30ml is visibly erroneous, not adopted."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 2000,
+    "height": 2000,
+    "format": "JPEG",
+    "bytes": 56206,
+    "sha256": "417231c49eabef25ed89f368835a0dd226c0674e004aeac89946494a9759a3a8"
+  },
+  {
+    "index": 575,
+    "productId": "gc004512",
+    "variantId": "gc004512",
+    "productName": "Румяна мини PATRICK TA She's that girl 1,6 г",
+    "variant": "Стандарт",
+    "sourcePage": "https://patrickta.com/products/mini-major-headlines-double-take-creme-powder-blush-duo.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0099/0602/8608/files/Mini-Major-Headlines-Double-Take-Creme-_-Powder-Blush-Duo-Shes-That-Girl.jpg?v=1787269541",
+    "localFile": "materials/catalog-7b/originals/b012-b/Румяна мини PATRICK TA She's that girl 1,6 г Стандарт--gc004512.jpg",
+    "verification": {
+      "identity": "Official Mini Major Headlines Double-Take Crème & Powder Blush Duo; exact She's That Girl (Soft Pink) variant 62370750202225 maps featured_image 81309592027505 to retained original.",
+      "volumeAndVariant": "Actual MINI collection, not full-size. Sephora P518438 confirms mini creme1.6g; exact She's That Girl SKU2906113 corroborates catalog1.6g. No catalog weight alteration.",
+      "visualReview": "Full-fit original and prepared image visually inspected: entire correct product, clean white output, no badge or clipping. Flat neutral source background whitened by existing bounded flood fill threshold2; natural soft shadow retained. Physical product measured by chroma mask excluding neutral shadows: 638x1446px. Centered1200square/1020px object.",
+      "reviewMethod": "Exact primary variant mapping; unmodified retained source and full-fit contact sheet viewed. Ready images separately viewed and physical bounds measured without shadow.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:patrickta.com mini She Goes blush; Patrick Ta mini 1.6",
+        "url": "https://patrickta.com/products/mini-major-headlines-double-take-creme-powder-blush-duo.js",
+        "note": "Official Mini Major Headlines Double-Take Crème & Powder Blush Duo; exact She's That Girl (Soft Pink) variant 62370750202225 maps featured_image 81309592027505 to retained original."
+      },
+      {
+        "query": "Patrick Ta mini 1.6",
+        "url": "https://www.sephora.com/product/mini-major-headlines-double-take-creme-powder-blush-duo-P518438?icid2=&skuId=2906113",
+        "note": "Exact She's That Girl mini product lists creme1.6g and powder2.6g; source official volume selector60/30ml is visibly erroneous, not adopted."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 2000,
+    "height": 2000,
+    "format": "JPEG",
+    "bytes": 79249,
+    "sha256": "f9b01ea95ff01dd67397e957121ac3c17d6d3b3fb671b138573bb14b5fe35cbf"
+  },
+  {
+    "index": 576,
+    "productId": "gc004580",
+    "variantId": "gc004580",
+    "productName": "Румяна мраморные Catrice Cheek Lover Marbled Blush",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.catrice.eu/en-bn/p/9399620001/cheek-lover-marbled-blush?bvstate=pg%3A2%2Fct%3Ar&cmpscreen=",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Indexed official old product9399620001 identifies010 Dahlia Blossom, but direct response is generic Discover Rouge & Blush category with no exact product/title/og:image. No usable selected packshot found in quick pass; generic family imagery not substituted.",
+    "searches": [
+      {
+        "query": "Catrice Cheek Lover Marbled Blush010",
+        "url": "https://www.catrice.eu/en-bn/p/9399620001/cheek-lover-marbled-blush?bvstate=pg%3A2%2Fct%3Ar&cmpscreen=",
+        "note": "Indexed official old product9399620001 identifies010 Dahlia Blossom, but direct response is generic Discover Rouge & Blush category with no exact product/title/og:image. No usable selected packshot found in quick pass; generic family imagery not substituted."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 577,
+    "productId": "parent-0085",
+    "variantId": "gc004581",
+    "productName": "Румяна рассыпчатые 4 в Givenchy 1",
+    "variant": "Mousseline Lilas",
+    "sourcePage": "https://www.givenchybeauty.com/en/be/p/prisme-libre-blush-P080565.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed Prisme Libre Blush confirms01 Mousseline Lilas and02 Taffetas Rose four-color loose blush. Direct selected official family page returnedHTTP403; no retained exact shade original, stopped quick family pass.",
+    "searches": [
+      {
+        "query": "site:givenchybeauty.com Mousseline Lilas Taffetas Rose",
+        "url": "https://www.givenchybeauty.com/en/be/p/prisme-libre-blush-P080565.html",
+        "note": "Official indexed Prisme Libre Blush confirms01 Mousseline Lilas and02 Taffetas Rose four-color loose blush. Direct selected official family page returnedHTTP403; no retained exact shade original, stopped quick family pass."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 578,
+    "productId": "parent-0085",
+    "variantId": "gc004582",
+    "productName": "Румяна рассыпчатые 4 в Givenchy 1",
+    "variant": "Taffetas Rose",
+    "sourcePage": "https://www.givenchybeauty.com/en/be/p/prisme-libre-blush-P080565.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed Prisme Libre Blush confirms01 Mousseline Lilas and02 Taffetas Rose four-color loose blush. Direct selected official family page returnedHTTP403; no retained exact shade original, stopped quick family pass.",
+    "searches": [
+      {
+        "query": "site:givenchybeauty.com Mousseline Lilas Taffetas Rose",
+        "url": "https://www.givenchybeauty.com/en/be/p/prisme-libre-blush-P080565.html",
+        "note": "Official indexed Prisme Libre Blush confirms01 Mousseline Lilas and02 Taffetas Rose four-color loose blush. Direct selected official family page returnedHTTP403; no retained exact shade original, stopped quick family pass."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 579,
+    "productId": "parent-0086",
+    "variantId": "gc004583",
+    "productName": "Румяна с шиммером Rare Beauty Soft Pinch Luminous Powder Blush",
+    "variant": "Cheer",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-luminous-powder-blush.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-SOFT-PINCH-LUMINOUS-POWDER-BLUSH-CHEER.jpg?v=1762292447",
+    "localFile": "materials/catalog-7b/originals/b012-b/Румяна с шиммером Rare Beauty Soft Pinch Luminous Powder Blush Cheer--gc004583.jpg",
+    "verification": {
+      "identity": "Official Soft Pinch Luminous Powder Blush; exact Cheer variant 40970263232647 maps featured_image 31310158954631 to retained original.",
+      "volumeAndVariant": "Exact named line and shade, standard presentation shown by official variant. Catalog omits weight; no alternate shade or product line substituted.",
+      "visualReview": "Full-fit source visually inspected. Exact shade original is a beige studio scene with horizon and cast shadow, unsuitable for simple white preparation. No retouching or shadow clipping attempted.",
+      "reviewMethod": "Exact primary variant mapping; unmodified retained source and full-fit contact sheet viewed. Ready images separately viewed and physical bounds measured without shadow.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com Soft Pinch Luminous Powder Blush Cheer",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-luminous-powder-blush.js",
+        "note": "Official Soft Pinch Luminous Powder Blush; exact Cheer variant 40970263232647 maps featured_image 31310158954631 to retained original."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 65377,
+    "sha256": "7e3f1a08b752aed7a4a12236a97f15a8df3d9c16a68666169b76f07473f2f506"
+  },
+  {
+    "index": 580,
+    "productId": "parent-0086",
+    "variantId": "gc004584",
+    "productName": "Румяна с шиммером Rare Beauty Soft Pinch Luminous Powder Blush",
+    "variant": "Happy",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-luminous-powder-blush.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-SOFT-PINCH-LUMINOUS-POWDER-BLUSH-HAPPY.jpg?v=1711393177",
+    "localFile": "materials/catalog-7b/originals/b012-b/Румяна с шиммером Rare Beauty Soft Pinch Luminous Powder Blush Happy--gc004584.jpg",
+    "verification": {
+      "identity": "Official Soft Pinch Luminous Powder Blush; exact Happy variant 40970263298183 maps featured_image 31310172225671 to retained original.",
+      "volumeAndVariant": "Exact named line and shade, standard presentation shown by official variant. Catalog omits weight; no alternate shade or product line substituted.",
+      "visualReview": "Full-fit source visually inspected. Exact shade original is a beige studio scene with horizon and cast shadow, unsuitable for simple white preparation. No retouching or shadow clipping attempted.",
+      "reviewMethod": "Exact primary variant mapping; unmodified retained source and full-fit contact sheet viewed. Ready images separately viewed and physical bounds measured without shadow.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com Soft Pinch Luminous Powder Blush Cheer",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-luminous-powder-blush.js",
+        "note": "Official Soft Pinch Luminous Powder Blush; exact Happy variant 40970263298183 maps featured_image 31310172225671 to retained original."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 65362,
+    "sha256": "207b3e27360eb1b941ef347252e2d8da1bdff005818cbd3d86935479d396a922"
+  },
+  {
+    "index": 581,
+    "productId": "parent-0086",
+    "variantId": "gc004585",
+    "productName": "Румяна с шиммером Rare Beauty Soft Pinch Luminous Powder Blush",
+    "variant": "Hope",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-luminous-powder-blush.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-SOFT-PINCH-LUMINOUS-POWDER-BLUSH-HOPE.jpg?v=1711393177",
+    "localFile": "materials/catalog-7b/originals/b012-b/Румяна с шиммером Rare Beauty Soft Pinch Luminous Powder Blush Hope--gc004585.jpg",
+    "verification": {
+      "identity": "Official Soft Pinch Luminous Powder Blush; exact Hope variant 40970263265415 maps featured_image 31310168916103 to retained original.",
+      "volumeAndVariant": "Exact named line and shade, standard presentation shown by official variant. Catalog omits weight; no alternate shade or product line substituted.",
+      "visualReview": "Full-fit source visually inspected. Exact shade original is a beige studio scene with horizon and cast shadow, unsuitable for simple white preparation. No retouching or shadow clipping attempted.",
+      "reviewMethod": "Exact primary variant mapping; unmodified retained source and full-fit contact sheet viewed. Ready images separately viewed and physical bounds measured without shadow.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com Soft Pinch Luminous Powder Blush Cheer",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-luminous-powder-blush.js",
+        "note": "Official Soft Pinch Luminous Powder Blush; exact Hope variant 40970263265415 maps featured_image 31310168916103 to retained original."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 67365,
+    "sha256": "a24c78f850eb0e47b034a9d6c986c5e3877edd33c211ac067dc124eae007a57f"
+  },
+  {
+    "index": 582,
+    "productId": "gc004586",
+    "variantId": "gc004586",
+    "productName": "Румяна сияющие Haus Labs «Rose Quartz»",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.hauslabs.com/products/bio-radiant-gel-powder-highlighter.js",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official exact Rose Quartz belongs to Bio-Radiant Gel-Powder Highlighter, while catalog calls item luminous blush. Color Fuse Blush Powder has different shade names. Insufficient evidence to equate category/model; no highlighter photo silently substituted for blush.",
+    "searches": [
+      {
+        "query": "site:hauslabs.com/products Rose Quartz",
+        "url": "https://www.hauslabs.com/products/bio-radiant-gel-powder-highlighter.js",
+        "note": "Official exact Rose Quartz belongs to Bio-Radiant Gel-Powder Highlighter, while catalog calls item luminous blush. Color Fuse Blush Powder has different shade names. Insufficient evidence to equate category/model; no highlighter photo silently substituted for blush."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 583,
+    "productId": "gc004587",
+    "variantId": "gc004587",
+    "productName": "Румяна сияющие NARS «Orgasm»",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.narscosmetics.com/USA/powder-blush/999NAC0000192.html",
+    "sourceImage": "https://www.narscosmetics.com/dw/image/v2/BBSK_PRD/on/demandware.static/-/Sites-itemmaster_NARS/default/dw30397e11/2025/January/Blush/NARS_SP25_Blush_PDPCrop_Soldier_Swatch_AllureBeautySeal_Orgasm_GLBL.jpg?sw=856&sh=750&sm=fit",
+    "localFile": "materials/catalog-7b/originals/b012-b/Румяна сияющие NARS «Orgasm» Стандарт--gc004587.jpg",
+    "verification": {
+      "identity": "Official Powder Blush variation color4251140407, label777 Orgasm, binds hiRes image explicitly labeled Powder Blush777 Orgasm. Default Forbidden image not used.",
+      "volumeAndVariant": "Named Orgasm powder blush, not liquid formula. Catalog does not specify weight or edition; source retained for evidence only, blocked due badge/smear.",
+      "visualReview": "Full-fit source visually inspected. Exact shade source has prominent red Allure award badge and powder smear behind compact. No badge removal or cropping attempted.",
+      "reviewMethod": "Exact primary variant mapping; unmodified retained source and full-fit contact sheet viewed. Ready images separately viewed and physical bounds measured without shadow.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:narscosmetics.com Orgasm blush",
+        "url": "https://www.narscosmetics.com/USA/powder-blush/999NAC0000192.html",
+        "note": "Official Powder Blush variation color4251140407, label777 Orgasm, binds hiRes image explicitly labeled Powder Blush777 Orgasm. Default Forbidden image not used."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 750,
+    "height": 750,
+    "format": "JPEG",
+    "bytes": 85108,
+    "sha256": "1647bbbb019f8725425600f2e502af36c2990a26987448213a602694ebb23f06"
+  },
+  {
+    "index": 584,
+    "productId": "parent-0087",
+    "variantId": "gc004588",
+    "productName": "Румяна флюд для лица Chanel 15 мл",
+    "variant": "light pink",
+    "sourcePage": "https://www.chanel.com/us/makeup/p/184930/les-beiges-water-fresh-blush/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official exact Light Pink184930 and Warm Pink184940 pages identify Les Beiges Water-Fresh Blush. Both direct page requests returnedHTTP403; no exact original photo obtained, no neighboring shade assigned.",
+    "searches": [
+      {
+        "query": "site:chanel.com LES BEIGES WATER-FRESH BLUSH LIGHT PINK",
+        "url": "https://www.chanel.com/us/makeup/p/184930/les-beiges-water-fresh-blush/",
+        "note": "Official exact Light Pink184930 and Warm Pink184940 pages identify Les Beiges Water-Fresh Blush. Both direct page requests returnedHTTP403; no exact original photo obtained, no neighboring shade assigned."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 585,
+    "productId": "parent-0087",
+    "variantId": "gc004589",
+    "productName": "Румяна флюд для лица Chanel 15 мл",
+    "variant": "Warm Pink",
+    "sourcePage": "https://www.chanel.com/us/makeup/p/184940/les-beiges-water-fresh-blush/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official exact Light Pink184930 and Warm Pink184940 pages identify Les Beiges Water-Fresh Blush. Both direct page requests returnedHTTP403; no exact original photo obtained, no neighboring shade assigned.",
+    "searches": [
+      {
+        "query": "site:chanel.com LES BEIGES WATER-FRESH BLUSH LIGHT PINK",
+        "url": "https://www.chanel.com/us/makeup/p/184940/les-beiges-water-fresh-blush/",
+        "note": "Official exact Light Pink184930 and Warm Pink184940 pages identify Les Beiges Water-Fresh Blush. Both direct page requests returnedHTTP403; no exact original photo obtained, no neighboring shade assigned."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 586,
+    "productId": "parent-0088",
+    "variantId": "gc004590",
+    "productName": "Румяна-бальзам для губ и щек Chanel",
+    "variant": "3 Vital Beige",
+    "sourcePage": "https://www.chanel.com/au/makeup/p/145382/n1-de-chanel-lip-and-cheek-balm-enhances-colour-nourishes-plumps/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed N1 de Chanel Lip and Cheek Balm family confirms named shades. Direct official selected Vital Beige page returnedHTTP503; no exact original gallery/mapping retained for any of the three shades. Quick family pass stopped without inventing shade URLs.",
+    "searches": [
+      {
+        "query": "site:chanel.com 3 VITAL BEIGE 2 HEALTHY PINK; site:chanel.com 5 LIVELY ROSEWOOD 2 HEALTHY PINK",
+        "url": "https://www.chanel.com/au/makeup/p/145382/n1-de-chanel-lip-and-cheek-balm-enhances-colour-nourishes-plumps/",
+        "note": "Official indexed N1 de Chanel Lip and Cheek Balm family confirms named shades. Direct official selected Vital Beige page returnedHTTP503; no exact original gallery/mapping retained for any of the three shades. Quick family pass stopped without inventing shade URLs."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 587,
+    "productId": "parent-0088",
+    "variantId": "gc004591",
+    "productName": "Румяна-бальзам для губ и щек Chanel",
+    "variant": "2 Healthy Pink",
+    "sourcePage": "https://www.chanel.com/au/makeup/p/145382/n1-de-chanel-lip-and-cheek-balm-enhances-colour-nourishes-plumps/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed N1 de Chanel Lip and Cheek Balm family confirms named shades. Direct official selected Vital Beige page returnedHTTP503; no exact original gallery/mapping retained for any of the three shades. Quick family pass stopped without inventing shade URLs.",
+    "searches": [
+      {
+        "query": "site:chanel.com 3 VITAL BEIGE 2 HEALTHY PINK; site:chanel.com 5 LIVELY ROSEWOOD 2 HEALTHY PINK",
+        "url": "https://www.chanel.com/au/makeup/p/145382/n1-de-chanel-lip-and-cheek-balm-enhances-colour-nourishes-plumps/",
+        "note": "Official indexed N1 de Chanel Lip and Cheek Balm family confirms named shades. Direct official selected Vital Beige page returnedHTTP503; no exact original gallery/mapping retained for any of the three shades. Quick family pass stopped without inventing shade URLs."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 588,
+    "productId": "parent-0088",
+    "variantId": "gc004592",
+    "productName": "Румяна-бальзам для губ и щек Chanel",
+    "variant": "5 Lively Rosewood",
+    "sourcePage": "https://www.chanel.com/au/makeup/p/145382/n1-de-chanel-lip-and-cheek-balm-enhances-colour-nourishes-plumps/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed N1 de Chanel Lip and Cheek Balm family confirms named shades. Direct official selected Vital Beige page returnedHTTP503; no exact original gallery/mapping retained for any of the three shades. Quick family pass stopped without inventing shade URLs.",
+    "searches": [
+      {
+        "query": "site:chanel.com 3 VITAL BEIGE 2 HEALTHY PINK; site:chanel.com 5 LIVELY ROSEWOOD 2 HEALTHY PINK",
+        "url": "https://www.chanel.com/au/makeup/p/145382/n1-de-chanel-lip-and-cheek-balm-enhances-colour-nourishes-plumps/",
+        "note": "Official indexed N1 de Chanel Lip and Cheek Balm family confirms named shades. Direct official selected Vital Beige page returnedHTTP503; no exact original gallery/mapping retained for any of the three shades. Quick family pass stopped without inventing shade URLs."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 589,
+    "productId": "parent-0089",
+    "variantId": "gc004593",
+    "productName": "Румяна-желе Milk Makeup Milk",
+    "variant": "Burst",
+    "sourcePage": "https://milkmakeup.com/products/cooling-water-jelly-tint.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/3645/5609/files/MMU-1200x1500-JellyTint-CapOnSide-Burst.jpg?v=1773975553",
+    "localFile": "materials/catalog-7b/originals/b012-b/Румяна-желе Milk Makeup Milk Burst--gc004593.jpg",
+    "verification": {
+      "identity": "Official Cooling Water Jelly Tint; exact Burst - Poppy pink variant 43639856758969 maps featured_image 35079054426297 to retained original.",
+      "volumeAndVariant": "Exact named line and shade, standard presentation shown by official variant. Catalog omits weight; no alternate shade or product line substituted.",
+      "visualReview": "Full-fit original and prepared image visually inspected: entire correct product, clean white output, no badge or clipping. Flat neutral source background whitened by existing bounded flood fill threshold2; natural soft shadow retained. Physical product measured by chroma mask excluding neutral shadows: 840x845px. Centered1200square/1020px object.",
+      "reviewMethod": "Exact primary variant mapping; unmodified retained source and full-fit contact sheet viewed. Ready images separately viewed and physical bounds measured without shadow.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Milk Makeup Cooling Water Jelly Tint Burst",
+        "url": "https://milkmakeup.com/products/cooling-water-jelly-tint.js",
+        "note": "Official Cooling Water Jelly Tint; exact Burst - Poppy pink variant 43639856758969 maps featured_image 35079054426297 to retained original."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1200,
+    "height": 1500,
+    "format": "JPEG",
+    "bytes": 43411,
+    "sha256": "c5166124cf2ef7a52abdb485395cef047a4958dfcf9bc15d54dffde791fac459"
+  }
+]

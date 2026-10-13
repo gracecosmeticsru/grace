@@ -1,0 +1,202 @@
+{
+  "id": 6805117370533,
+  "title": "Glow Serum : Propolis + Niacinamide",
+  "handle": "glow-serum-propolis-niacinamide",
+  "description": "<p><meta charset=\"utf-8\">A cushiony smoothing serum with niacinamide and propolis extract that helps refine the look of skin texture and pores, hydrate, and calm skin for a glassy glow.<br></p>",
+  "published_at": "2022-07-27T17:09:44-07:00",
+  "created_at": "2021-06-06T20:47:54-07:00",
+  "vendor": "Beauty of Joseon",
+  "type": "",
+  "tags": [
+    "Acne-Breakouts",
+    "Dryness",
+    "general template",
+    "Pores-Sebum",
+    "Propolis",
+    "Serum",
+    "Skin Care",
+    "uk",
+    "US-WAREHOUSE"
+  ],
+  "price": 1360,
+  "price_min": 1360,
+  "price_max": 2210,
+  "available": true,
+  "price_varies": true,
+  "compare_at_price": 1700,
+  "compare_at_price_min": 1700,
+  "compare_at_price_max": 3400,
+  "compare_at_price_varies": true,
+  "variants": [
+    {
+      "id": 51833681772916,
+      "title": "1.01 fl. oz.(30ml)",
+      "option1": "1.01 fl. oz.(30ml)",
+      "option2": null,
+      "option3": null,
+      "sku": "82BS006",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "Glow Serum : Propolis + Niacinamide - 1.01 fl. oz.(30ml)",
+      "public_title": "1.01 fl. oz.(30ml)",
+      "options": [
+        "1.01 fl. oz.(30ml)"
+      ],
+      "price": 1360,
+      "weight": 60,
+      "compare_at_price": 1700,
+      "inventory_management": "shopify",
+      "barcode": "8809657114960",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 51833681805684,
+      "title": "2.03 fl. oz.(60ml)",
+      "option1": "2.03 fl. oz.(60ml)",
+      "option2": null,
+      "option3": null,
+      "sku": "82BS030",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 58369003061620,
+        "product_id": 6805117370533,
+        "position": 4,
+        "created_at": "2026-09-17T17:50:52-07:00",
+        "updated_at": "2026-09-17T17:50:53-07:00",
+        "alt": "Beauty of Joseon Glow Serum : Propolis + Niacinamide",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/Glow-Serum-Propolis-Niacinamide_Beauty-of-Joseon_27853449-52105492595060_05b70a7b-ff5c-48d4-9ec9-fe742e763c18.jpg?v=1789692653",
+        "variant_ids": [
+          51833681805684
+        ]
+      },
+      "available": true,
+      "name": "Glow Serum : Propolis + Niacinamide - 2.03 fl. oz.(60ml)",
+      "public_title": "2.03 fl. oz.(60ml)",
+      "options": [
+        "2.03 fl. oz.(60ml)"
+      ],
+      "price": 2210,
+      "weight": 60,
+      "compare_at_price": 3400,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "Beauty of Joseon Glow Serum : Propolis + Niacinamide",
+        "id": 56188335522164,
+        "position": 4,
+        "preview_image": {
+          "aspect_ratio": 1,
+          "height": 2000,
+          "width": 2000,
+          "src": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/Glow-Serum-Propolis-Niacinamide_Beauty-of-Joseon_27853449-52105492595060_05b70a7b-ff5c-48d4-9ec9-fe742e763c18.jpg?v=1789692653"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/0558/4135/7989/files/glow-serum-propolis-niacinamide-1-front.webp?v=1770278801",
+    "//cdn.shopify.com/s/files/1/0558/4135/7989/files/glow-serum-propolis-niacinamide-7.webp?v=1770278895",
+    "//cdn.shopify.com/s/files/1/0558/4135/7989/files/007.png?v=1773209292",
+    "//cdn.shopify.com/s/files/1/0558/4135/7989/files/Glow-Serum-Propolis-Niacinamide_Beauty-of-Joseon_27853449-52105492595060_05b70a7b-ff5c-48d4-9ec9-fe742e763c18.jpg?v=1789692653"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/0558/4135/7989/files/glow-serum-propolis-niacinamide-1-front.webp?v=1770278801",
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": [
+        "1.01 fl. oz.(30ml)",
+        "2.03 fl. oz.(60ml)"
+      ]
+    }
+  ],
+  "url": "/products/glow-serum-propolis-niacinamide",
+  "media": [
+    {
+      "alt": "Beauty of Joseon Glow Serum : Propolis + Niacinamide",
+      "id": 53139873005940,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 3000,
+        "width": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/glow-serum-propolis-niacinamide-1-front.webp?v=1770278801"
+      },
+      "aspect_ratio": 1,
+      "height": 3000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/glow-serum-propolis-niacinamide-1-front.webp?v=1770278801",
+      "width": 3000
+    },
+    {
+      "alt": "Beauty of Joseon Glow Serum : Propolis + Niacinamide",
+      "id": 53139873104244,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 3000,
+        "width": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/glow-serum-propolis-niacinamide-7.webp?v=1770278895"
+      },
+      "aspect_ratio": 1,
+      "height": 3000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/glow-serum-propolis-niacinamide-7.webp?v=1770278895",
+      "width": 3000
+    },
+    {
+      "alt": "Beauty of Joseon Glow Serum : Propolis + Niacinamide",
+      "id": 53361253417332,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 3000,
+        "width": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/007.png?v=1773209292"
+      },
+      "aspect_ratio": 1,
+      "height": 3000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/007.png?v=1773209292",
+      "width": 3000
+    },
+    {
+      "alt": "Beauty of Joseon Glow Serum : Propolis + Niacinamide",
+      "id": 56188335522164,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 2000,
+        "width": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/Glow-Serum-Propolis-Niacinamide_Beauty-of-Joseon_27853449-52105492595060_05b70a7b-ff5c-48d4-9ec9-fe742e763c18.jpg?v=1789692653"
+      },
+      "aspect_ratio": 1,
+      "height": 2000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/Glow-Serum-Propolis-Niacinamide_Beauty-of-Joseon_27853449-52105492595060_05b70a7b-ff5c-48d4-9ec9-fe742e763c18.jpg?v=1789692653",
+      "width": 2000
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

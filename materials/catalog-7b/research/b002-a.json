@@ -1,0 +1,524 @@
+[
+  {
+    "index": 51,
+    "productId": "gc000803",
+    "variantId": "gc000803",
+    "productName": "Крем тональный с коллагеном ультра х тон Enough 10 Ultra x10 13",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://maskshop.ru/catalog/enough-ultra-x10-cover-up-collagen-foundation-spf50-pa--100ml-13-ton/",
+    "sourceImage": "https://maskshop.ru/upload/iblock/9a2/9a206ca066e9e554c7d9ae028130eab2.webp",
+    "localFile": "materials/catalog-7b/originals/b002-a/Крем тональный с коллагеном ультра х тон Enough 10 Ultra x10 13 Стандарт--gc000803.webp",
+    "width": 600,
+    "height": 600,
+    "format": "WEBP",
+    "bytes": 19022,
+    "sha256": "8a1740d9914d993c2535c3fe0707c6aa2ffd10c1064dab52adb574f1bc56957d",
+    "verification": {
+      "identity": "Enough Ultra X10 Cover Up Collagen Foundation SPF50+ PA+++; exact shade 13 product page and its main image.",
+      "volumeAndVariant": "Catalog volume is unspecified Standard. Enough Vietnam identifies this exact Ultra X10 foundation as 100 ml in shades 13/21/23; Maskshop independently specifies 100 ml and the selected shade 13. No alternative package size found for this exact named model.",
+      "visualReview": "Complete blue-cap Ultra X10 bottle centered on white with a small product smear behind it; no watermark. Shade comes from the exact source page, not a readable front shade label. Source original is only 600x600; retained unchanged, no upscale.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Enough Ultra X10 13 100ml foundation",
+        "url": "https://maskshop.ru/catalog/enough-ultra-x10-cover-up-collagen-foundation-spf50-pa--100ml-13-ton/",
+        "note": "Exact shade 13, 100 ml, product-image link extracted from HTML."
+      },
+      {
+        "query": "Enough Ultra X10 13 100ml foundation",
+        "url": "https://enoughvietnam.com/products/kem-nen-collagen-x10-cao-cap-enough-premium-ultra-x10-cover-up-collagen-foundation-100ml",
+        "note": "Brand regional importer lists this named foundation in 100 ml and shades 13/21/23."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 52,
+    "productId": "gc000804",
+    "variantId": "gc000804",
+    "productName": "Тональный крем с коллагеном Enough Ultra X10 SPF50+ PA+++ №21",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://maskshop.ru/catalog/enough-ultra-x10-cover-up-collagen-foundation-spf50-pa--100ml-21-ton/",
+    "sourceImage": "https://maskshop.ru/upload/iblock/aaa/aaa572a9eb18c2b552488ab7756d49ac.webp",
+    "localFile": "materials/catalog-7b/originals/b002-a/Тональный крем с коллагеном Enough Ultra X10 SPF50+ PA+++ №21 Стандарт--gc000804.webp",
+    "width": 600,
+    "height": 600,
+    "format": "WEBP",
+    "bytes": 19258,
+    "sha256": "d8e6ab8ac598f2b7c5a1b17c5ebda42db7dc1e0e5099b66db322d70ac6615a12",
+    "verification": {
+      "identity": "Enough Ultra X10 Cover Up Collagen Foundation SPF50+ PA+++; exact shade 21 product page and its main image.",
+      "volumeAndVariant": "Catalog volume is unspecified Standard. Enough Vietnam identifies this exact Ultra X10 foundation as 100 ml in shades 13/21/23; Maskshop independently specifies 100 ml and the selected shade 21. No alternative package size found for this exact named model.",
+      "visualReview": "Complete blue-cap Ultra X10 bottle centered on white with a small product smear behind it; no watermark. Shade comes from the exact source page, not a readable front shade label. Source original is only 600x600; retained unchanged, no upscale.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Enough Ultra X10 21 100ml foundation",
+        "url": "https://maskshop.ru/catalog/enough-ultra-x10-cover-up-collagen-foundation-spf50-pa--100ml-21-ton/",
+        "note": "Exact shade 21, 100 ml, product-image link extracted from HTML."
+      },
+      {
+        "query": "Enough Ultra X10 13 100ml foundation",
+        "url": "https://enoughvietnam.com/products/kem-nen-collagen-x10-cao-cap-enough-premium-ultra-x10-cover-up-collagen-foundation-100ml",
+        "note": "Brand regional importer lists this named foundation in 100 ml and shades 13/21/23."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 53,
+    "productId": "gc000808",
+    "variantId": "gc000808",
+    "productName": "Непередаваемый стойкий тональный крем Estée Lauder Double Wear 30 мл",
+    "variant": "30 мл",
+    "status": "skipped",
+    "sourcePage": "https://www.esteelauder.ca/made-in-your-shade",
+    "sourceImage": null,
+    "localFile": null,
+    "width": null,
+    "height": null,
+    "format": null,
+    "bytes": null,
+    "sha256": null,
+    "verification": null,
+    "skipReason": "The catalog names Double Wear 30 ml but supplies no shade. Official original-formula Double Wear has over 55 shades, with distinct 1N1, 1C1, 1W1 and other variants. The missing shade cannot be recovered from this catalog row; no arbitrary bottle/shade assigned.",
+    "searches": [
+      {
+        "query": "Estee Lauder double wear 1n1 ivory nude 30 ml official",
+        "url": "https://www.esteelauder.ca/made-in-your-shade",
+        "note": "Official original-formula shade listing confirms many distinct shades; catalog entries 53/54 do not identify one."
+      },
+      {
+        "query": "Estee Lauder Double Wear 1N1 SPF 10 30ml",
+        "url": "https://www.esteelauder.it/product/double-wear-stay-in-place-longwear-matte-foundation-spf-10?shade=1N1_Ivory_Nude",
+        "note": "A concrete 1N1 product is shade-specific and cannot resolve an unnamed catalog variant; current page also presents newer formulation."
+      }
+    ]
+  },
+  {
+    "index": 54,
+    "productId": "gc000809",
+    "variantId": "gc000809",
+    "productName": "Стойкий тональный крем Estée Lauder Double Wear 30 мл",
+    "variant": "30 мл",
+    "status": "skipped",
+    "sourcePage": "https://www.esteelauder.ca/made-in-your-shade",
+    "sourceImage": null,
+    "localFile": null,
+    "width": null,
+    "height": null,
+    "format": null,
+    "bytes": null,
+    "sha256": null,
+    "verification": null,
+    "skipReason": "The catalog names Double Wear 30 ml but supplies no shade. Official original-formula Double Wear has over 55 shades, with distinct 1N1, 1C1, 1W1 and other variants. The missing shade cannot be recovered from this catalog row; no arbitrary bottle/shade assigned.",
+    "searches": [
+      {
+        "query": "Estee Lauder double wear 1n1 ivory nude 30 ml official",
+        "url": "https://www.esteelauder.ca/made-in-your-shade",
+        "note": "Official original-formula shade listing confirms many distinct shades; catalog entries 53/54 do not identify one."
+      },
+      {
+        "query": "Estee Lauder Double Wear 1N1 SPF 10 30ml",
+        "url": "https://www.esteelauder.it/product/double-wear-stay-in-place-longwear-matte-foundation-spf-10?shade=1N1_Ivory_Nude",
+        "note": "A concrete 1N1 product is shade-specific and cannot resolve an unnamed catalog variant; current page also presents newer formulation."
+      }
+    ]
+  },
+  {
+    "index": 55,
+    "productId": "gc000810",
+    "variantId": "gc000810",
+    "productName": "Стойкий тональный крем Estée Lauder SPF10 farbe 1n1 ivory nude 30 мл",
+    "variant": "30 мл",
+    "status": "verified",
+    "sourcePage": "https://www.rossmann.pl/Produkt/Podklady-do-twarzy/Estee-Lauder-Double-Wear-Stay-in-Place-podklad-do-twarzy-SPF-10-nr-1N1-Ivory-Nude-30-ml,2134623,12004",
+    "sourceImage": "https://pro-fra-s3-productsassets.rossmann.pl/product_8_large/2134623_1280_720_1782527282.webp",
+    "localFile": "materials/catalog-7b/originals/b002-a/Стойкий тональный крем Estée Lauder SPF10 farbe 1n1 ivory nude 30 мл 30 мл--gc000810.webp",
+    "width": 720,
+    "height": 778,
+    "format": "WEBP",
+    "bytes": 322984,
+    "sha256": "53ca8523d2e3ba6b495bd12987ea19c88e1b825b30b4f2dcd4f9c46c0a3eea58",
+    "verification": {
+      "identity": "Exact original Estée Lauder Double Wear Stay-in-Place SPF10, 1N1 Ivory Nude, not the newer 36-hour pump bottle.",
+      "volumeAndVariant": "Retailer title and product identify SPF10, 1N1 Ivory Nude and 30 ml; visible box says SPF10 and 30 ml.",
+      "visualReview": "Full glass bottle with gold cap and blue box; transparent cutout background, no watermark. Source canvas 720x778, tightly framed; retain as original for later background/preparation review.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Estee Lauder Double Wear 1N1 SPF 10 30ml",
+        "url": "https://www.rossmann.pl/Produkt/Podklady-do-twarzy/Estee-Lauder-Double-Wear-Stay-in-Place-podklad-do-twarzy-SPF-10-nr-1N1-Ivory-Nude-30-ml,2134623,12004",
+        "note": "Exact selected shade/volume product; source og:image extracted from page."
+      },
+      {
+        "query": "Estee Lauder double wear 1n1 ivory nude 30 ml official",
+        "url": "https://www.esteelauder.it/product/double-wear-stay-in-place-longwear-matte-foundation-spf-10?shade=1N1_Ivory_Nude",
+        "note": "Official result now shows 36-hour version, so original-formula retailer image chosen."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 56,
+    "productId": "gc000830",
+    "variantId": "gc000830",
+    "productName": "Тональный крем матирующий Eveline Cosmetics Botanic Expert Tea Tree 02 Ivory 30 мл",
+    "variant": "30 мл",
+    "status": "verified",
+    "sourcePage": "https://wizaz24.pl/eveline-botanic-expert-tea-tree-foundation-matujacy-ochronny-podklad-antybakteryjny-ivory-02-p171416-v46625",
+    "sourceImage": "https://wizaz24.pl/image/cmezlm9rwrerudzn6hsp",
+    "localFile": "materials/catalog-7b/originals/b002-a/Тональный крем матирующий Eveline Cosmetics Botanic Expert Tea Tree 02 Ivory 30 мл 30--gc000830.jpg",
+    "width": 1200,
+    "height": 1200,
+    "format": "JPEG",
+    "bytes": 120131,
+    "sha256": "46e463af47def274942e76a690e3f1b2dbf4a941b5c8a4785143b18a1a427b24",
+    "verification": {
+      "identity": "Eveline Botanic Expert Tea Tree antibacterial mattifying foundation, exact 02 Ivory.",
+      "volumeAndVariant": "Variant page identifies 02 Ivory and 30 ml; front label visibly reads IVORY 02.",
+      "visualReview": "Single centered beige/green Tea Tree tube on white, complete silver cap and label, no watermark; 1200x1200 source.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Eveline Botanic Expert 02 Ivory",
+        "url": "https://wizaz24.pl/eveline-botanic-expert-tea-tree-foundation-matujacy-ochronny-podklad-antybakteryjny-ivory-02-p171416-v46625",
+        "note": "Exact Polish retail variant page; embedded product image has readable IVORY 02."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 57,
+    "productId": "gc000864",
+    "variantId": "gc000864",
+    "productName": "Жидкая тональная основа Eveline Cosmetics Liquid Control 005 Ivory 32 мл",
+    "variant": "32 мл",
+    "status": "verified",
+    "sourcePage": "https://rozetka.com.ua/eveline_5901761961850/p219189175/",
+    "sourceImage": "https://content.rozetka.com.ua/goods/images/original/327510283.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-a/Жидкая тональная основа Eveline Cosmetics Liquid Control 005 Ivory 32 мл 32 мл--gc000864.jpg",
+    "width": 248,
+    "height": 912,
+    "format": "JPEG",
+    "bytes": 69054,
+    "sha256": "a73a9b18b2032f22a9920ed5323f71cb4642937d26289c285486a82ee9556fad",
+    "verification": {
+      "identity": "Legacy Eveline Liquid Control HD Long Lasting Formula 24H Mattifying Drops, 005 Ivory.",
+      "volumeAndVariant": "Exact product page specifies 005 Ivory, 32 ml and EAN 5901761961850; side bottle sticker also shows shade number and 32 ml.",
+      "visualReview": "Complete bottle and dropper on white, readable Liquid Control HD/24H text and side shade sticker; no watermark. Original is a narrow 248-pixel-wide cutout (about 900 pixels high); resolution limit retained without upscale.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Eveline Liquid Control 005 Ivory 32ml foundation",
+        "url": "https://rozetka.com.ua/eveline_5901761961850/p219189175/",
+        "note": "Exact legacy Liquid Control HD shade 005 Ivory, 32 ml and EAN 5901761961850; main original photo obtained from page image link."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 58,
+    "productId": "gc000865",
+    "variantId": "gc000865",
+    "productName": "Жидкая тональная основа Eveline Cosmetics 010 Light Beige 32 мл",
+    "variant": "32 мл",
+    "status": "verified",
+    "sourcePage": "https://rozetka.com.ua/eveline_5901761937244/p219190303/",
+    "sourceImage": "https://content2.rozetka.com.ua/goods/images/original/327510288.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-a/Жидкая тональная основа Eveline Cosmetics 010 Light Beige 32 мл 32 мл--gc000865-hd.jpg",
+    "width": 248,
+    "height": 904,
+    "format": "JPEG",
+    "bytes": 69456,
+    "sha256": "25fc899350b540bfeb4258a00fb7d1f6604ac1682e37907c6dd9b01615f6fef6",
+    "verification": {
+      "identity": "Legacy Eveline Liquid Control HD Long Lasting Formula 24H Mattifying Drops, 010 Light Beige.",
+      "volumeAndVariant": "Exact product page specifies 010 Light Beige, 32 ml and EAN 5901761937244; side bottle sticker also shows shade number and 32 ml.",
+      "visualReview": "Complete bottle and dropper on white, readable Liquid Control HD/24H text and side shade sticker; no watermark. Original is a narrow 248-pixel-wide cutout (about 900 pixels high); resolution limit retained without upscale.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Eveline Liquid Control 010 Light Beige 32ml foundation",
+        "url": "https://rozetka.com.ua/eveline_5901761937244/p219190303/",
+        "note": "Exact legacy Liquid Control HD shade 010 Light Beige, 32 ml and EAN 5901761937244; main original photo obtained from page image link."
+      },
+      {
+        "query": "Eveline Liquid Control 005 010 015 32ml official",
+        "url": "https://evelinecosmetics.com/uk/products/tonalna-osnova-z-nicynamidom",
+        "note": "Current official images show Liquid Control Serum reformulation; inspected but rejected in favor of legacy HD bottle."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 59,
+    "productId": "gc000866",
+    "variantId": "gc000866",
+    "productName": "Жидкая тональная основа Eveline Cosmetics 015 Light Vanilla 32 мл",
+    "variant": "32 мл",
+    "status": "verified",
+    "sourcePage": "https://rozetka.com.ua/eveline_5901761961867/p219193213/",
+    "sourceImage": "https://content.rozetka.com.ua/goods/images/original/327510289.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-a/Жидкая тональная основа Eveline Cosmetics 015 Light Vanilla 32 мл 32 мл--gc000866-hd.jpg",
+    "width": 248,
+    "height": 904,
+    "format": "JPEG",
+    "bytes": 71113,
+    "sha256": "57147b72363ccb3854077d76a97be9570751a588e12dc79019f41938c98e7887",
+    "verification": {
+      "identity": "Legacy Eveline Liquid Control HD Long Lasting Formula 24H Mattifying Drops, 015 Light Vanilla.",
+      "volumeAndVariant": "Exact product page specifies 015 Light Vanilla, 32 ml and EAN 5901761961867; side bottle sticker also shows shade number and 32 ml.",
+      "visualReview": "Complete bottle and dropper on white, readable Liquid Control HD/24H text and side shade sticker; no watermark. Original is a narrow 248-pixel-wide cutout (about 900 pixels high); resolution limit retained without upscale.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Eveline Liquid Control 015 Light Vanilla 32ml foundation",
+        "url": "https://rozetka.com.ua/eveline_5901761961867/p219193213/",
+        "note": "Exact legacy Liquid Control HD shade 015 Light Vanilla, 32 ml and EAN 5901761961867; main original photo obtained from page image link."
+      },
+      {
+        "query": "Eveline Liquid Control 005 010 015 32ml official",
+        "url": "https://evelinecosmetics.com/uk/products/tonalna-osnova-z-nicynamidom",
+        "note": "Current official images show Liquid Control Serum reformulation; inspected but rejected in favor of legacy HD bottle."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 60,
+    "productId": "gc000879",
+    "variantId": "gc000879",
+    "productName": "Тональный крем 8 в 1 Eveline Cosmetics Satin Touch BB Cream 001 Ivory 30 мл",
+    "variant": "30 мл",
+    "status": "verified",
+    "sourcePage": "https://rozetka.com.ua/477203069/p477203069/",
+    "sourceImage": "https://content2.rozetka.com.ua/goods/images/original/510015818.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-a/Тональный крем 8 в 1 Eveline Cosmetics Satin Touch BB Cream 001 Ivory 30 мл 30 мл--gc000879.jpg",
+    "width": 400,
+    "height": 400,
+    "format": "JPEG",
+    "bytes": 65590,
+    "sha256": "95ac8a2a21436a8373720d4f9eb483e7fb669ed1dbcb3b8e0fc6712effb82b4f",
+    "verification": {
+      "identity": "Exact Eveline Satin Touch BB Cream 8in1 SPF10, 001 Ivory.",
+      "volumeAndVariant": "Page identifies 001 Ivory, 30 ml and EAN 5901761987454; front tube visibly reads 001 IVORY and SPF10.",
+      "visualReview": "Complete pale tube and silver cap centered on white, 001 IVORY readable, no watermark. Original 400x400 is limited resolution. Larger 1600x1600 Sima-Land candidate was inspected and rejected due to prominent watermark; no upscale applied.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Eveline Satin Touch 001 30",
+        "url": "https://rozetka.com.ua/477203069/p477203069/",
+        "note": "Exact 001 Ivory, 30 ml listing; brand metadata on seller page is miscoded AB Cryptobox, but title, EAN, description and photographed Eveline tube agree."
+      },
+      {
+        "query": "Eveline Satin Touch 001",
+        "url": "https://www.sima-land.ru/4849057/tonalnyy-krem-8-v-1-eveline-satin-touch-bb-cream-ton-001-ivory-30-ml/",
+        "note": "Larger exact original downloaded and inspected; rejected visible www.sima-land.ru watermark."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 61,
+    "productId": "gc000881",
+    "variantId": "gc000881",
+    "productName": "Адаптирующаяся тональная основа Eveline Cosmetics 05 Light Porcelain 30 мл",
+    "variant": "30 мл",
+    "status": "verified",
+    "sourcePage": "https://rozetka.com.ua/eveline_5903416017738/p312227599/",
+    "sourceImage": "https://content1.rozetka.com.ua/goods/images/original/327436635.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-a/Адаптирующаяся тональная основа Eveline Cosmetics 05 Light Porcelain 30 мл 30 мл--gc000881-white.jpg",
+    "width": 274,
+    "height": 923,
+    "format": "JPEG",
+    "bytes": 115365,
+    "sha256": "7df21e84ad5c715f1c57724ba6bd19404b31b09f3f8524aa0d2bdc077d71875e",
+    "verification": {
+      "identity": "Eveline Wonder Match adapting foundation, 05 Light Porcelain. Generic catalog name resolved by exact shade, volume and adapting product description.",
+      "volumeAndVariant": "Source names 05 Light Porcelain and 30 ml; EAN 5903416017738. Exact variant image, not borrowed from another shade.",
+      "visualReview": "Whole black/gold-cap rectangular Wonder Match bottle on white. No watermark; shade association is from the exact product page. Narrow 274-pixel-wide original, about 923 pixels high, retained without upscale.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Eveline Wonder Match 05 Light Porcelain 30",
+        "url": "https://rozetka.com.ua/eveline_5903416017738/p312227599/",
+        "note": "Exact adapting Wonder Match foundation, shade 05 Light Porcelain, 30 ml and EAN 5903416017738; product image from exact variant page."
+      },
+      {
+        "query": "Eveline Wonder Match 05 official",
+        "url": "https://evelinecosmetics.com/products/luxurious-face-foundation",
+        "note": "Current official exact shade image inspected, but grey-background/new label candidate not selected; white-background legacy original selected."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 62,
+    "productId": "gc000882",
+    "variantId": "gc000882",
+    "productName": "Адаптирующаяся тональная основа Eveline Cosmetics 25 Light Beige 30 мл",
+    "variant": "30 мл",
+    "status": "verified",
+    "sourcePage": "https://rozetka.com.ua/eveline_5903416030409/p312228328/",
+    "sourceImage": "https://content1.rozetka.com.ua/goods/images/original/327436713.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-a/Адаптирующаяся тональная основа Eveline Cosmetics 25 Light Beige 30 мл 30 мл--gc000882.jpg",
+    "width": 274,
+    "height": 922,
+    "format": "JPEG",
+    "bytes": 113407,
+    "sha256": "bf09ce840b611123b50bbf55281cfd10cc59d0019a276ad0ce6cdd0d73e1811d",
+    "verification": {
+      "identity": "Eveline Wonder Match adapting foundation, 25 Light Beige. Generic catalog name resolved by exact shade, volume and adapting product description.",
+      "volumeAndVariant": "Source names 25 Light Beige and 30 ml; EAN 5903416030409. Exact variant image, not borrowed from another shade.",
+      "visualReview": "Whole black/gold-cap rectangular Wonder Match bottle on white. No watermark; shade association is from the exact product page. Narrow 274-pixel-wide original, about 923 pixels high, retained without upscale.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Eveline Wonder Match 25 Light Beige 30",
+        "url": "https://rozetka.com.ua/eveline_5903416030409/p312228328/",
+        "note": "Exact adapting Wonder Match foundation, shade 25 Light Beige, 30 ml and EAN 5903416030409; product image from exact variant page."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 63,
+    "productId": "gc001072",
+    "variantId": "gc001072",
+    "productName": "Легкий тональный тинт с уходом тональное средство Jane Iredale Medium light 50 мл",
+    "variant": "50 мл",
+    "status": "verified",
+    "sourcePage": "https://www.eskinstore.com/dream-tint-spf-15-medium-light-P11323",
+    "sourceImage": "https://www.eskinstore.com/productcart/pc/catalog/Dream_Tint_SPF_15_Medium_Light_11288_7982_zoom.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-a/Легкий тональный тинт с уходом тональное средство Jane Iredale Medium light 50 мл 50--gc001072-eskin.jpg",
+    "width": 1500,
+    "height": 1500,
+    "format": "JPEG",
+    "bytes": 114073,
+    "sha256": "2ffb61220a13223f6923880ac516241e1602fa4545ca3f1e68dd817c44da4a30",
+    "verification": {
+      "identity": "Jane Iredale lightweight tinted moisturizer is Dream Tint SPF15, Medium Light; exact tint name, shade and 50 ml agree with catalog.",
+      "volumeAndVariant": "Exact source product Medium Light, 50 ml/1.7 fl oz. Official Jane Iredale variant data independently confirms Medium Light SKU12411; tube reads Net 50 mL.",
+      "visualReview": "Single complete white/gold Dream Tint tube centered on white; no added seal or watermark; 1500x1500 original. Official US/UK candidates contained external certification seals; Australian shade asset was only a smear, so these were not selected.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Jane Iredale dream tint medium light 50ml official",
+        "url": "https://janeiredale.com/products/dream-tint-tinted-moisturizer",
+        "note": "Official product and variant JSON confirm Medium Light SKU12411; inspected official packshots include an extra certification seal."
+      },
+      {
+        "query": "Jane Iredale Dream Tint Medium Light 50",
+        "url": "https://www.eskinstore.com/dream-tint-spf-15-medium-light-P11323",
+        "note": "Exact Medium Light/50ml listing; HTML provides the selected variant zoom image. Filename explicitly says Medium_Light; generic copied alt text erroneously says Dark, so variant ID/title/image mapping was checked."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 64,
+    "productId": "parent-0003",
+    "variantId": "gc001073",
+    "productName": "Тональная основа Jane Iredale",
+    "variant": "GT1",
+    "status": "skipped",
+    "sourcePage": "https://janeiredale.ie/products/glow-time-pro-bb-cream-spf-25",
+    "sourceImage": null,
+    "localFile": null,
+    "width": null,
+    "height": null,
+    "format": null,
+    "bytes": null,
+    "sha256": null,
+    "verification": null,
+    "skipReason": "The catalog only says Jane Iredale foundation, shade GT1, with no model or volume. Research links GT1 to Glow Time Pro BB Cream SPF25, but package specifications conflict: the 2026 Skin Concept product list gives 30 ml, while exact retail GT1 listings give 40 ml. This does not establish two valid sizes, but it leaves the catalog package unresolved; no 30/40 ml image assigned by guess.",
+    "searches": [
+      {
+        "query": "Jane Iredale GT1 foundation",
+        "url": "https://janeiredale.ie/products/glow-time-pro-bb-cream-spf-25",
+        "note": "Official regional store identifies GT1 as Glow Time Pro BB Cream; catalog itself lacks model and volume."
+      },
+      {
+        "query": "Jane Iredale GT1 foundation",
+        "url": "https://skinconcept.com.mx/wp-content/uploads/2026/02/Jane-Iredale-Publico-2026.pdf",
+        "note": "Opened 2026 product list: Glow Time Pro GT1 is listed as 30 ml (GT1 SKU15721E, GT2 SKU15722E)."
+      },
+      {
+        "query": "jane iredale Glow Time GT1 40ml",
+        "url": "https://www.blivakker.no/product/3239652/jane-iredale-glow-time-pro-bb-cream-gt1-40ml",
+        "note": "Exact GT1 retailer product is labeled 40 ml; conflict cannot identify the unspecified catalog package."
+      }
+    ]
+  },
+  {
+    "index": 65,
+    "productId": "parent-0003",
+    "variantId": "gc001074",
+    "productName": "Тональная основа Jane Iredale",
+    "variant": "GT2",
+    "status": "skipped",
+    "sourcePage": "https://janeiredale.ie/products/glow-time-pro-bb-cream-spf-25",
+    "sourceImage": null,
+    "localFile": null,
+    "width": null,
+    "height": null,
+    "format": null,
+    "bytes": null,
+    "sha256": null,
+    "verification": null,
+    "skipReason": "The catalog only says Jane Iredale foundation, shade GT2, with no model or volume. Research links GT2 to Glow Time Pro BB Cream SPF25, but package specifications conflict: the 2026 Skin Concept product list gives 30 ml, while exact retail GT2 listings give 40 ml. This does not establish two valid sizes, but it leaves the catalog package unresolved; no 30/40 ml image assigned by guess.",
+    "searches": [
+      {
+        "query": "Jane Iredale GT2 foundation",
+        "url": "https://janeiredale.ie/products/glow-time-pro-bb-cream-spf-25",
+        "note": "Official regional store identifies GT2 as Glow Time Pro BB Cream; catalog itself lacks model and volume."
+      },
+      {
+        "query": "Jane Iredale GT1 foundation",
+        "url": "https://skinconcept.com.mx/wp-content/uploads/2026/02/Jane-Iredale-Publico-2026.pdf",
+        "note": "Opened 2026 product list: Glow Time Pro GT2 is listed as 30 ml (GT1 SKU15721E, GT2 SKU15722E)."
+      },
+      {
+        "query": "jane iredale Glow Time GT2 40ml",
+        "url": "https://www.eskinstore.com/glow-time-pro-bb-cream-spf-25-gt2-P66658",
+        "note": "Exact GT2 retailer product is labeled 40 ml; conflict cannot identify the unspecified catalog package."
+      }
+    ]
+  }
+]

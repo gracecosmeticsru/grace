@@ -1,0 +1,489 @@
+[
+  {
+    "index": 501,
+    "productId": "gc003588",
+    "variantId": "gc003588",
+    "productName": "Набор для лица хайлайтер + румяна Charlotte Tilbury «Superstar glow kit»",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/dreamy-superstar-glow-gift-set",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/6kA9PnN62NOQmXHCOn8la7/04952b777a50fb2cf1b4da8ad66a9396/Packshot_with_Products__HOLLYWOOD_SUPERSTAR_GLOW_KIT.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b011-a/Набор для лица хайлайтер + румяна Charlotte Tilbury «Superstar glow kit» Стандарт--gc003588.png",
+    "verification": {
+      "identity": "Official Hollywood Superstar Glow Kit, matching the catalog named highlighter+blush set. Its own exact product page og:image retained.",
+      "volumeAndVariant": "Official mini duo contains travel-size Beauty Light Wands Pinkgasm and Spotlight; package and both tubes visible. Catalog names Superstar Glow Kit, no contrary shade/size.",
+      "visualReview": "Original full-fit contact sheet and prepared output visually inspected. Entire correct kit/compact, white background, no watermark/badge or clipping. Natural original shadows preserved; centered1200square with1020px object.",
+      "reviewMethod": "Exact official/retailer variant mapping and visual review of source plus prepared output.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:charlottetilbury.com \"Superstar Glow Kit\" \"Pillow Talk Blush\"",
+        "url": "https://www.charlottetilbury.com/us/product/dreamy-superstar-glow-gift-set",
+        "note": "Official Hollywood Superstar Glow Kit, matching the catalog named highlighter+blush set. Its own exact product page og:image retained."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 1973801,
+    "sha256": "43a948612a28de559ea41c33c464d298bbda015f39b9dd30115dafdb9bbe9ae0"
+  },
+  {
+    "index": 502,
+    "productId": "gc003591",
+    "variantId": "gc003591",
+    "productName": "Набор для лица хайлайтер румяна матовые румяна сияющие Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.charlottetilbury.com/us/products/makeup/cheek/blush",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog gives a generic highlighter+matte blush+shimmer blush set without kit name or shades. Official family contains several distinct duos/trios; no exact kit composition identified. No guessed kit image.",
+    "searches": [
+      {
+        "query": "site:charlottetilbury.com \"Superstar Glow Kit\" \"Pillow Talk Blush\"",
+        "url": "https://www.charlottetilbury.com/us/products/makeup/cheek/blush",
+        "note": "Catalog gives a generic highlighter+matte blush+shimmer blush set without kit name or shades. Official family contains several distinct duos/trios; no exact kit composition identified. No guessed kit image."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 503,
+    "productId": "gc003593",
+    "variantId": "gc003593",
+    "productName": "Набор для лица мини Charlotte Tilbury Pillow Talk Blush and Glow Kit",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/pillow-talk-blush-glow-kit",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/4P4zUz84E1psHBFWCRWhAr/2a1d5bbbdac56f72aff0030c98c360e2/PILLOW_TALK_ICONIC_BLUSH_AND_GLOW_KIT-Prod.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b011-a/Набор для лица мини Charlotte Tilbury Pillow Talk Blush and Glow Kit Стандарт--gc003593.png",
+    "verification": {
+      "identity": "Official Pillow Talk Iconic Blush and Glow Kit, matching the catalog mini Pillow Talk Blush and Glow Kit. Own exact product page og:image retained.",
+      "volumeAndVariant": "Exact mini duo: travel-size Pillow Talk Matte Beauty Blush Wand and Beauty Light Wand Pillow Talk Original; official SKU GPBGXX2XXR24. Not substituted by a full-size customizable kit.",
+      "visualReview": "Original full-fit contact sheet and prepared output visually inspected. Entire correct kit/compact, white background, no watermark/badge or clipping. Natural original shadows preserved; centered1200square with1020px object.",
+      "reviewMethod": "Exact official/retailer variant mapping and visual review of source plus prepared output.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:charlottetilbury.com \"Pillow Talk Iconic Blush and Glow Kit\"",
+        "url": "https://www.charlottetilbury.com/us/product/pillow-talk-blush-glow-kit",
+        "note": "Official Pillow Talk Iconic Blush and Glow Kit, matching the catalog mini Pillow Talk Blush and Glow Kit. Own exact product page og:image retained."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 2000,
+    "height": 2001,
+    "format": "PNG",
+    "bytes": 2470522,
+    "sha256": "9d12259c1adc4ed6990e5d1d22d6b45e60de3822d6c923cd34a12773b9a480d1"
+  },
+  {
+    "index": 504,
+    "productId": "gc003645",
+    "variantId": "gc003645",
+    "productName": "Набор хайлайтер и румяна Charlotte Tilbury spotlight",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.charlottetilbury.com/us/products/makeup/cheek/blush",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog says highlighter/blush set Spotlight but omits kit name, partner shade and mini/full-size presentation. Official Spotlight appears in multiple products and kits. Cannot equate this generic entry to separately named Superstar Glow Kit without evidence.",
+    "searches": [
+      {
+        "query": "site:charlottetilbury.com \"Superstar Glow Kit\" \"Pillow Talk Blush\"",
+        "url": "https://www.charlottetilbury.com/us/products/makeup/cheek/blush",
+        "note": "Catalog says highlighter/blush set Spotlight but omits kit name, partner shade and mini/full-size presentation. Official Spotlight appears in multiple products and kits. Cannot equate this generic entry to separately named Superstar Glow Kit without evidence."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 505,
+    "productId": "gc004354",
+    "variantId": "gc004354",
+    "productName": "Помада-блеск Yves Saint Laurent 203 Blushed Mallow",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.yslbeautyus.com/makeup/lip/lipstick/ysl-loveshine-lip-oil-stick/WW-51209YSL.html?dwvar_WW-51209YSL_color=203+-+Blushed+Mallow",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed page confirms YSL Loveshine Lip Oil Stick203 Blushed Mallow (not Plumping Oil Gloss03 Mellow Mallow). Exact selected page direct retrieval returnedHTTP403; no exact original obtained in quick pass.",
+    "searches": [
+      {
+        "query": "site:yslbeautyus.com \"203\" \"Blushed Mallow\"",
+        "url": "https://www.yslbeautyus.com/makeup/lip/lipstick/ysl-loveshine-lip-oil-stick/WW-51209YSL.html?dwvar_WW-51209YSL_color=203+-+Blushed+Mallow",
+        "note": "Official indexed page confirms YSL Loveshine Lip Oil Stick203 Blushed Mallow (not Plumping Oil Gloss03 Mellow Mallow). Exact selected page direct retrieval returnedHTTP403; no exact original obtained in quick pass."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 506,
+    "productId": "parent-0073",
+    "variantId": "gc004513",
+    "productName": "Румяна С Кремовые Art-Visage ream blush",
+    "variant": "01",
+    "sourcePage": "https://art-visage.ru/cosmetics/face/AVkremrumyanacreamblush",
+    "sourceImage": "https://art-visage.ru/pictures/main/product_skus/2ee989132788fa3520e75a0201b361a1-1.webp",
+    "localFile": "materials/catalog-7b/originals/b011-a/Румяна С Кремовые Art-Visage ream blush 01--gc004513.webp",
+    "verification": {
+      "identity": "Official ART-VISAGE CREAM BLUSH. Exact tone 01 button data-image matches retained original; not default-shade image reuse.",
+      "volumeAndVariant": "Official cream blush5g and exact tone 01. Catalog has no contrary weight.",
+      "visualReview": "Full-fit original viewed: exact product/shade but separate printed tone caption below jar; blocked without caption removal.",
+      "reviewMethod": "Exact official/retailer variant mapping and visual review of source plus prepared output.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Art Visage Cream Blush 01 02 03 04 официальный",
+        "url": "https://art-visage.ru/cosmetics/face/AVkremrumyanacreamblush",
+        "note": "Official ART-VISAGE CREAM BLUSH. Exact tone 01 button data-image matches retained original; not default-shade image reuse."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 600,
+    "height": 600,
+    "format": "WEBP",
+    "bytes": 19388,
+    "sha256": "ed2e8c316c9e5ee860c9f7af057b6bd504ec3781c55658e067dcf777363be451"
+  },
+  {
+    "index": 507,
+    "productId": "parent-0073",
+    "variantId": "gc004514",
+    "productName": "Румяна С Кремовые Art-Visage ream blush",
+    "variant": "02",
+    "sourcePage": "https://art-visage.ru/cosmetics/face/AVkremrumyanacreamblush",
+    "sourceImage": "https://art-visage.ru/pictures/main/product_skus/f76edffaa62656dae710f70631cb678f-1.webp",
+    "localFile": "materials/catalog-7b/originals/b011-a/Румяна С Кремовые Art-Visage ream blush 02--gc004514.webp",
+    "verification": {
+      "identity": "Official ART-VISAGE CREAM BLUSH. Exact tone 02 button data-image matches retained original; not default-shade image reuse.",
+      "volumeAndVariant": "Official cream blush5g and exact tone 02. Catalog has no contrary weight.",
+      "visualReview": "Full-fit original viewed: exact product/shade but separate printed tone caption below jar; blocked without caption removal.",
+      "reviewMethod": "Exact official/retailer variant mapping and visual review of source plus prepared output.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Art Visage Cream Blush 01 02 03 04 официальный",
+        "url": "https://art-visage.ru/cosmetics/face/AVkremrumyanacreamblush",
+        "note": "Official ART-VISAGE CREAM BLUSH. Exact tone 02 button data-image matches retained original; not default-shade image reuse."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 600,
+    "height": 600,
+    "format": "WEBP",
+    "bytes": 19440,
+    "sha256": "c5d363d4075db9b258ac1b6869d2ba06bd31a3680a84a619aa502a4244856dd6"
+  },
+  {
+    "index": 508,
+    "productId": "parent-0073",
+    "variantId": "gc004515",
+    "productName": "Румяна С Кремовые Art-Visage ream blush",
+    "variant": "03",
+    "sourcePage": "https://art-visage.ru/cosmetics/face/AVkremrumyanacreamblush",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official current Cream Blush product page exact tone options01,02,04,05,11,12,13,14 contain no03. Historical review mentions03 but does not establish an exact current product photo; no neighboring tone substituted.",
+    "searches": [
+      {
+        "query": "Art Visage Cream Blush 01 02 03 04 официальный",
+        "url": "https://art-visage.ru/cosmetics/face/AVkremrumyanacreamblush",
+        "note": "Official current Cream Blush product page exact tone options01,02,04,05,11,12,13,14 contain no03. Historical review mentions03 but does not establish an exact current product photo; no neighboring tone substituted."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 509,
+    "productId": "parent-0073",
+    "variantId": "gc004516",
+    "productName": "Румяна С Кремовые Art-Visage ream blush",
+    "variant": "04",
+    "sourcePage": "https://art-visage.ru/cosmetics/face/AVkremrumyanacreamblush",
+    "sourceImage": "https://art-visage.ru/pictures/main/product_skus/644f68f3eb4b6993f6a502d664b9e003-1.webp",
+    "localFile": "materials/catalog-7b/originals/b011-a/Румяна С Кремовые Art-Visage ream blush 04--gc004516.webp",
+    "verification": {
+      "identity": "Official ART-VISAGE CREAM BLUSH. Exact tone 04 button data-image matches retained original; not default-shade image reuse.",
+      "volumeAndVariant": "Official cream blush5g and exact tone 04. Catalog has no contrary weight.",
+      "visualReview": "Full-fit original viewed: exact product/shade but separate printed tone caption below jar; blocked without caption removal.",
+      "reviewMethod": "Exact official/retailer variant mapping and visual review of source plus prepared output.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Art Visage Cream Blush 01 02 03 04 официальный",
+        "url": "https://art-visage.ru/cosmetics/face/AVkremrumyanacreamblush",
+        "note": "Official ART-VISAGE CREAM BLUSH. Exact tone 04 button data-image matches retained original; not default-shade image reuse."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 600,
+    "height": 600,
+    "format": "WEBP",
+    "bytes": 19320,
+    "sha256": "ad9e21549a6fbdc2883c1f2ddfc75cdf07e6a1b521285a6c8733343bc19f4c55"
+  },
+  {
+    "index": 510,
+    "productId": "parent-0074",
+    "variantId": "gc004517",
+    "productName": "Румяна Dior",
+    "variant": "001 Pink",
+    "sourcePage": "https://www.dior.com/en_cy/beauty/products/rosy-glow-Y0373000.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed Rosy Glow family confirms001 Pink,004 Coral,012 Rosewood. Direct original product page retrieval returnedHTTP403, so exact per-shade packshot could not be obtained in quick pass; no default-shade gallery reused.",
+    "searches": [
+      {
+        "query": "site:dior.com \"Rosy Glow\" \"004\" \"012\"",
+        "url": "https://www.dior.com/en_cy/beauty/products/rosy-glow-Y0373000.html",
+        "note": "Official indexed Rosy Glow family confirms001 Pink,004 Coral,012 Rosewood. Direct original product page retrieval returnedHTTP403, so exact per-shade packshot could not be obtained in quick pass; no default-shade gallery reused."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 511,
+    "productId": "parent-0074",
+    "variantId": "gc004518",
+    "productName": "Румяна Dior",
+    "variant": "004 Coral",
+    "sourcePage": "https://www.dior.com/en_cy/beauty/products/rosy-glow-Y0373000.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed Rosy Glow family confirms001 Pink,004 Coral,012 Rosewood. Direct original product page retrieval returnedHTTP403, so exact per-shade packshot could not be obtained in quick pass; no default-shade gallery reused.",
+    "searches": [
+      {
+        "query": "site:dior.com \"Rosy Glow\" \"004\" \"012\"",
+        "url": "https://www.dior.com/en_cy/beauty/products/rosy-glow-Y0373000.html",
+        "note": "Official indexed Rosy Glow family confirms001 Pink,004 Coral,012 Rosewood. Direct original product page retrieval returnedHTTP403, so exact per-shade packshot could not be obtained in quick pass; no default-shade gallery reused."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 512,
+    "productId": "parent-0074",
+    "variantId": "gc004519",
+    "productName": "Румяна Dior",
+    "variant": "012 Rosewood",
+    "sourcePage": "https://www.dior.com/en_cy/beauty/products/rosy-glow-Y0373000.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed Rosy Glow family confirms001 Pink,004 Coral,012 Rosewood. Direct original product page retrieval returnedHTTP403, so exact per-shade packshot could not be obtained in quick pass; no default-shade gallery reused.",
+    "searches": [
+      {
+        "query": "site:dior.com \"Rosy Glow\" \"004\" \"012\"",
+        "url": "https://www.dior.com/en_cy/beauty/products/rosy-glow-Y0373000.html",
+        "note": "Official indexed Rosy Glow family confirms001 Pink,004 Coral,012 Rosewood. Direct original product page retrieval returnedHTTP403, so exact per-shade packshot could not be obtained in quick pass; no default-shade gallery reused."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 513,
+    "productId": "gc004520",
+    "variantId": "gc004520",
+    "productName": "Румяна Dior Backstage Rosy Glow «001 Pink»",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.dior.com/en_cy/beauty/products/rosy-glow-Y0373000.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed Rosy Glow family confirms001 Pink,004 Coral,012 Rosewood. Direct original product page retrieval returnedHTTP403, so exact per-shade packshot could not be obtained in quick pass; no default-shade gallery reused.",
+    "searches": [
+      {
+        "query": "site:dior.com \"Rosy Glow\" \"004\" \"012\"",
+        "url": "https://www.dior.com/en_cy/beauty/products/rosy-glow-Y0373000.html",
+        "note": "Official indexed Rosy Glow family confirms001 Pink,004 Coral,012 Rosewood. Direct original product page retrieval returnedHTTP403, so exact per-shade packshot could not be obtained in quick pass; no default-shade gallery reused."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 514,
+    "productId": "gc004521",
+    "variantId": "gc004521",
+    "productName": "Румяна Dior Montaigne Shimmer 219",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.dior.com/en_ca/beauty/products/rouge-blush-C029600219.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed Rouge Blush family confirms219 Rose Montaigne and962 Poison; retailer listing confirms shimmer/matte respectively. Family962 direct page retrieval returnedHTTP403; no full-resolution exact original retained. Quick family pass stopped without alternate hunt.",
+    "searches": [
+      {
+        "query": "Dior Rouge Blush219 Montaigne Shimmer962 Poison Matte",
+        "url": "https://www.dior.com/en_ca/beauty/products/rouge-blush-C029600219.html",
+        "note": "Official indexed Rouge Blush family confirms219 Rose Montaigne and962 Poison; retailer listing confirms shimmer/matte respectively. Family962 direct page retrieval returnedHTTP403; no full-resolution exact original retained. Quick family pass stopped without alternate hunt."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 515,
+    "productId": "gc004522",
+    "variantId": "gc004522",
+    "productName": "Румяна Dior Poison Matte 962",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.dior.com/en_ca/beauty/products/rouge-blush-C029400962.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed Rouge Blush family confirms219 Rose Montaigne and962 Poison; retailer listing confirms shimmer/matte respectively. Family962 direct page retrieval returnedHTTP403; no full-resolution exact original retained. Quick family pass stopped without alternate hunt.",
+    "searches": [
+      {
+        "query": "Dior Rouge Blush219 Montaigne Shimmer962 Poison Matte",
+        "url": "https://www.dior.com/en_ca/beauty/products/rouge-blush-C029400962.html",
+        "note": "Official indexed Rouge Blush family confirms219 Rose Montaigne and962 Poison; retailer listing confirms shimmer/matte respectively. Family962 direct page retrieval returnedHTTP403; no full-resolution exact original retained. Quick family pass stopped without alternate hunt."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 516,
+    "productId": "parent-0075",
+    "variantId": "gc004523",
+    "productName": "Румяна Haus Labs",
+    "variant": "Hibiscus Haze",
+    "sourcePage": "https://www.hauslabs.com/products/color-fuse-blush.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Blush_Powder_Silo_Hibiscus_Haze_dc5880f3-ac29-40be-b426-357aa9132065.png?v=1784303623",
+    "localFile": "materials/catalog-7b/originals/b011-a/Румяна Haus Labs Hibiscus Haze--gc004523.png",
+    "verification": {
+      "identity": "Official Haus Labs Color Fuse Blush Powder Hibiscus Haze. Exact variant 40206117273688 featured_image 45029730910296 retained. Pomelo image filename says Beach but alt and variant mapping explicitly say Pomelo Peach.",
+      "volumeAndVariant": "Exact named powder blush shade; catalog has no weight. Matching standard compact shown by official variant, no miniature or palette substitution.",
+      "visualReview": "Original full-fit contact sheet and prepared output visually inspected. Entire correct kit/compact, white background, no watermark/badge or clipping. Natural original shadows preserved; centered1200square with1020px object.",
+      "reviewMethod": "Exact official/retailer variant mapping and visual review of source plus prepared output.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:hauslabs.com \"Hibiscus Haze\" \"Pomelo Peach\"",
+        "url": "https://www.hauslabs.com/products/color-fuse-blush.js",
+        "note": "Official Haus Labs Color Fuse Blush Powder Hibiscus Haze. Exact variant 40206117273688 featured_image 45029730910296 retained. Pomelo image filename says Beach but alt and variant mapping explicitly say Pomelo Peach."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 1785898,
+    "sha256": "63e1356b2e327424b77f783d240902dc307ad3c003fe057e9feb262d2cb606ce"
+  },
+  {
+    "index": 517,
+    "productId": "parent-0075",
+    "variantId": "gc004524",
+    "productName": "Румяна Haus Labs",
+    "variant": "Pomelo Peach",
+    "sourcePage": "https://www.hauslabs.com/products/color-fuse-blush.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Blush_Powder_Silo_Pomelo_Beach_87adabd5-e9e2-45ca-aef7-e029d4634c56.png?v=1784303623",
+    "localFile": "materials/catalog-7b/originals/b011-a/Румяна Haus Labs Pomelo Peach--gc004524.png",
+    "verification": {
+      "identity": "Official Haus Labs Color Fuse Blush Powder Pomelo Peach. Exact variant 40206117208152 featured_image 45029730975832 retained. Pomelo image filename says Beach but alt and variant mapping explicitly say Pomelo Peach.",
+      "volumeAndVariant": "Exact named powder blush shade; catalog has no weight. Matching standard compact shown by official variant, no miniature or palette substitution.",
+      "visualReview": "Original full-fit contact sheet and prepared output visually inspected. Entire correct kit/compact, white background, no watermark/badge or clipping. Natural original shadows preserved; centered1200square with1020px object.",
+      "reviewMethod": "Exact official/retailer variant mapping and visual review of source plus prepared output.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:hauslabs.com \"Hibiscus Haze\" \"Pomelo Peach\"",
+        "url": "https://www.hauslabs.com/products/color-fuse-blush.js",
+        "note": "Official Haus Labs Color Fuse Blush Powder Pomelo Peach. Exact variant 40206117208152 featured_image 45029730975832 retained. Pomelo image filename says Beach but alt and variant mapping explicitly say Pomelo Peach."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 1694619,
+    "sha256": "8028d41e06fcfcf25416653447aedcb990e0b28e0b6dea35941a332f75b8f5d1"
+  },
+  {
+    "index": 518,
+    "productId": "gc004525",
+    "variantId": "gc004525",
+    "productName": "Румяна Hourglass Diffused Heat",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.hourglasscosmetics.com/products/ambient-lighting-blush.js",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official exact Diffused Heat shade exists as full-size4.2g variant29474686566518 and travel1.3g variant45288066318534 with separate packshots. Catalog omits size; packaging scale/version cannot be established. Skip rather than silently select one presentation.",
+    "searches": [
+      {
+        "query": "Hourglass Ambient Lighting Blush Diffused Heat Euphoric Fusion official",
+        "url": "https://www.hourglasscosmetics.com/products/ambient-lighting-blush.js",
+        "note": "Official exact Diffused Heat shade exists as full-size4.2g variant29474686566518 and travel1.3g variant45288066318534 with separate packshots. Catalog omits size; packaging scale/version cannot be established. Skip rather than silently select one presentation."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 519,
+    "productId": "gc004526",
+    "variantId": "gc004526",
+    "productName": "Румяна Hourglass Euphoric Fusion",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.lookfantastic.com/p/hourglass-ambient-lighting-blush-4.2g-various-shades/12908241/?variation=12908249",
+    "sourceImage": "https://static.thcdn.com/productimg/original/12908249-1815257702019568.jpg",
+    "localFile": "materials/catalog-7b/originals/b011-a/Румяна Hourglass Euphoric Fusion Стандарт--gc004526.jpg",
+    "verification": {
+      "identity": "LOOKFANTASTIC selected variation12908249; title and JSON-LD identify Hourglass Ambient Strobe Lighting Blush Euphoric Fusion. Selected og:image names sameSKU.",
+      "volumeAndVariant": "Retailer identifies standalone4.2g Euphoric Fusion; Sephora brand information corroborates Ambient Strobe shade. Catalog names Euphoric Fusion, no contrary weight; not a multipan palette.",
+      "visualReview": "Original full-fit contact sheet and prepared output visually inspected. Entire correct kit/compact, white background, no watermark/badge or clipping. Natural original shadows preserved; centered1200square with1020px object.",
+      "reviewMethod": "Exact official/retailer variant mapping and visual review of source plus prepared output.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Hourglass \"Euphoric Fusion\" blush official shop",
+        "url": "https://www.lookfantastic.com/p/hourglass-ambient-lighting-blush-4.2g-various-shades/12908241/?variation=12908249",
+        "note": "LOOKFANTASTIC selected variation12908249; title and JSON-LD identify Hourglass Ambient Strobe Lighting Blush Euphoric Fusion. Selected og:image names sameSKU."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 2000,
+    "height": 2000,
+    "format": "JPEG",
+    "bytes": 309306,
+    "sha256": "017db602ddfcb9d44176a9c1823794f79b082a321358d40b68e88801a362a1e5"
+  }
+]

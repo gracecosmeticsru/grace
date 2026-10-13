@@ -1,0 +1,631 @@
+[
+  {
+    "index": 120,
+    "productId": "parent-0013",
+    "variantId": "gc004905",
+    "productName": "Тональная основа Rare Beauty True to Myself Natural Matte Longwear 30 мл",
+    "variant": "1 fair neutral",
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/true-to-myself-natural-matte-longwear-foundation?variant=44024686739591",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/SU26-ECOMM-TTM-MATTE-FOUNDATION-SHADE-1.jpg?v=1773356513",
+    "localFile": "materials/catalog-7b/originals/b003-b/Тональная основа Rare Beauty True to Myself Natural Matte Longwear 30 мл 1 fair neutr--gc004905.jpg",
+    "verification": {
+      "identity": "Official Rare Beauty True to Myself Natural Matte Longwear Foundation; Shopify variant featured_image explicitly maps 1 Fair Neutral.",
+      "volumeAndVariant": "Official product details state 30 ml; variant title and image alt match exact requested shade.",
+      "visualReview": "Complete matching pump bottle on a beige staged background, strong hard right shadow; unsuitable for white isolated-photo standard. No cleanup or recoloring performed.",
+      "reviewMethod": "view_image unchanged originals contact sheet and full-size probes, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тональная основа Rare Beauty True to Myself Natural Matte Longwear 30 мл 1 fair neutral",
+        "url": "https://www.rarebeauty.com/products/true-to-myself-natural-matte-longwear-foundation?variant=44024686739591",
+        "note": "Exact source product/variant page; original bytes retained locally."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 117626,
+    "sha256": "970750a4f787fb70befdb2415cc8aba90430a2aad0d35f9b20bff78be1d9925a"
+  },
+  {
+    "index": 121,
+    "productId": "parent-0013",
+    "variantId": "gc004906",
+    "productName": "Тональная основа Rare Beauty True to Myself Natural Matte Longwear 30 мл",
+    "variant": "2 fair warm",
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/true-to-myself-natural-matte-longwear-foundation?variant=44024686772359",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/SU26-ECOMM-TTM-MATTE-FOUNDATION-SHADE-2.jpg?v=1773356513",
+    "localFile": "materials/catalog-7b/originals/b003-b/Тональная основа Rare Beauty True to Myself Natural Matte Longwear 30 мл 2 fair warm--gc004906.jpg",
+    "verification": {
+      "identity": "Official Rare Beauty True to Myself Natural Matte Longwear Foundation; Shopify variant featured_image explicitly maps 2 Fair Warm.",
+      "volumeAndVariant": "Official product details state 30 ml; variant title and image alt match exact requested shade.",
+      "visualReview": "Complete matching pump bottle on a beige staged background, strong hard right shadow; unsuitable for white isolated-photo standard. No cleanup or recoloring performed.",
+      "reviewMethod": "view_image unchanged originals contact sheet and full-size probes, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тональная основа Rare Beauty True to Myself Natural Matte Longwear 30 мл 2 fair warm",
+        "url": "https://www.rarebeauty.com/products/true-to-myself-natural-matte-longwear-foundation?variant=44024686772359",
+        "note": "Exact source product/variant page; original bytes retained locally."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 117929,
+    "sha256": "318b53e16ab551e987025b16bf0b8fe7bc0a388435293fbc62e10bf0442fa41b"
+  },
+  {
+    "index": 122,
+    "productId": "parent-0013",
+    "variantId": "gc004907",
+    "productName": "Тональная основа Rare Beauty True to Myself Natural Matte Longwear 30 мл",
+    "variant": "3 fair cool",
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/true-to-myself-natural-matte-longwear-foundation?variant=44024686805127",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/SU26-ECOMM-TTM-MATTE-FOUNDATION-SHADE-3.jpg?v=1773356513",
+    "localFile": "materials/catalog-7b/originals/b003-b/Тональная основа Rare Beauty True to Myself Natural Matte Longwear 30 мл 3 fair cool--gc004907.jpg",
+    "verification": {
+      "identity": "Official Rare Beauty True to Myself Natural Matte Longwear Foundation; Shopify variant featured_image explicitly maps 3 Fair Cool.",
+      "volumeAndVariant": "Official product details state 30 ml; variant title and image alt match exact requested shade.",
+      "visualReview": "Complete matching pump bottle on a beige staged background, strong hard right shadow; unsuitable for white isolated-photo standard. No cleanup or recoloring performed.",
+      "reviewMethod": "view_image unchanged originals contact sheet and full-size probes, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тональная основа Rare Beauty True to Myself Natural Matte Longwear 30 мл 3 fair cool",
+        "url": "https://www.rarebeauty.com/products/true-to-myself-natural-matte-longwear-foundation?variant=44024686805127",
+        "note": "Exact source product/variant page; original bytes retained locally."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 118300,
+    "sha256": "b2d7bdc42d474d7bca48604443e4a75cd1f9b4973a1281ab78e1abcd3fe7faab"
+  },
+  {
+    "index": 123,
+    "productId": "gc004908",
+    "variantId": "gc004908",
+    "productName": "Тональное средство Dior Backstage Face & Body 1N 50 мл",
+    "variant": "50мл",
+    "status": "skipped",
+    "sourcePage": "https://www.sephora.de/p/dior-backstage-face-body-foundation---foundation-fuer-gesicht-und-koerper-658832.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact page title says Dior Backstage1N50ml but direct access403; exposed thumbnail path identifies different SKU658829, cannot certify target shade image in quick pass. No photo assigned.",
+    "searches": [
+      {
+        "query": "Dior Backstage Face Body 1N 50 ml foundation",
+        "url": "https://www.sephora.de/p/dior-backstage-face-body-foundation---foundation-fuer-gesicht-und-koerper-658832.html",
+        "note": "Exact page title says Dior Backstage1N50ml but direct access403; exposed thumbnail path identifies different SKU658829, cannot certify target shade image in quick pass. No photo assigned."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 124,
+    "productId": "gc004909",
+    "variantId": "gc004909",
+    "productName": "Тональный крем Art-Visage SPF6 102 25 мл",
+    "variant": "25 мл",
+    "status": "verified",
+    "sourcePage": "https://kaspi.kz/shop/p/art-visage-uvlazhnjajuschii-spf6-tonal-nyi-krem-102-svetlo-bezhevyi-25-ml-17500869/",
+    "sourceImage": "https://resources.cdn-kaspi.kz/img/m/p/h7a/h04/63842619654174.jpg?format=gallery-large",
+    "localFile": "materials/catalog-7b/originals/b003-b/Тональный крем Art-Visage SPF6 102 25 мл 25 мл--gc004909.jpg",
+    "verification": {
+      "identity": "Exact Art-Visage SPF6 102 product page, old beige/gold tube packaging, product-linked main image.",
+      "volumeAndVariant": "Product page explicitly names 102 and 25 ml.",
+      "visualReview": "Source632x700, tube top touches image boundary; visible subject below800px, no watermark.",
+      "reviewMethod": "view_image unchanged originals contact sheet and full-size probes, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тональный крем Art-Visage SPF6 102 25 мл 25 мл",
+        "url": "https://kaspi.kz/shop/p/art-visage-uvlazhnjajuschii-spf6-tonal-nyi-krem-102-svetlo-bezhevyi-25-ml-17500869/",
+        "note": "Exact source product/variant page; original bytes retained locally."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 632,
+    "height": 700,
+    "format": "JPEG",
+    "bytes": 45808,
+    "sha256": "bf998774a7d5baab081d6f7f1350f6bec12c0a765b8a879ce26dd4c7c5e9d493"
+  },
+  {
+    "index": 125,
+    "productId": "gc004910",
+    "variantId": "gc004910",
+    "productName": "Тональный крем Устойчивый Слоновая кость Art-Visage SPF6 201 25 мл",
+    "variant": "25 мл",
+    "status": "verified",
+    "sourcePage": "https://chudodey.com/catalog/tonalnye-sredstva/tonalnyj-krem-ustojchivyj-spf-6-201-slonovaya-kost",
+    "sourceImage": "https://chudodey.com/global/images/icons/836f6637-ade8-11e9-b8f0-a4bf0118b88e.JPEG?31cc8033dd5554810e8866940ba8d166",
+    "localFile": "materials/catalog-7b/originals/b003-b/Тональный крем Устойчивый Слоновая кость Art-Visage SPF6 201 25 мл 25 мл--gc004910.jpg",
+    "verification": {
+      "identity": "Exact Art-Visage SPF6 201 product page, old beige/gold tube packaging, product-linked main image.",
+      "volumeAndVariant": "Product page explicitly names 201 and 25 ml.",
+      "visualReview": "Source800x800, complete old beige/gold tube with cream smear and printed201 caption; subject below800px, no watermark.",
+      "reviewMethod": "view_image unchanged originals contact sheet and full-size probes, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тональный крем Устойчивый Слоновая кость Art-Visage SPF6 201 25 мл 25 мл",
+        "url": "https://chudodey.com/catalog/tonalnye-sredstva/tonalnyj-krem-ustojchivyj-spf-6-201-slonovaya-kost",
+        "note": "Exact source product/variant page; original bytes retained locally."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 800,
+    "height": 800,
+    "format": "JPEG",
+    "bytes": 31791,
+    "sha256": "acb0a5a3fdb58a3ec4a7bdcb524b7ff148f23e5f868c6b6555a00543285cd70e"
+  },
+  {
+    "index": 126,
+    "productId": "gc004911",
+    "variantId": "gc004911",
+    "productName": "Тональный крем тон Enough Gold Snail Moisture Foundation 13",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.barecare.ro/enough-gold-snail-moisture-foundation-13",
+    "sourceImage": "https://cdn.barecare.bg/images/products/enough-gold-snail-moisture-foundation-13-1699878711.jpg",
+    "localFile": "materials/catalog-7b/originals/b003-b/Тональный крем тон Enough Gold Snail Moisture Foundation 13 Стандарт--gc004911.jpg",
+    "verification": {
+      "identity": "Exact Enough Gold Snail Moisture Foundation #13 retailer page and its main full-resolution image.",
+      "volumeAndVariant": "Catalog does not state volume; exact named Gold Snail foundation is 100 ml, shades 13/21, confirmed by Enough Vietnam regional page.",
+      "visualReview": "Complete red/gold pump bottle with background foundation smear on white, 800-square source; visible subject below800px, no watermark. Retained source only.",
+      "reviewMethod": "view_image unchanged originals contact sheet and full-size probes, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тональный крем тон Enough Gold Snail Moisture Foundation 13 Стандарт",
+        "url": "https://www.barecare.ro/enough-gold-snail-moisture-foundation-13",
+        "note": "Exact source product/variant page; original bytes retained locally."
+      },
+      {
+        "query": "Enough Gold Snail Moisture Foundation 13",
+        "url": "https://enoughvietnam.com/products/kem-nen-enough-gold-snail-moisture-foundation",
+        "note": "Named model specified as 100 ml, Tone13 and Tone21."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 800,
+    "height": 800,
+    "format": "JPEG",
+    "bytes": 45808,
+    "sha256": "658a9fc5e40dfad6648324805d05da7807f4e4278f28be2b6bd2beb11b928888"
+  },
+  {
+    "index": 127,
+    "productId": "gc004912",
+    "variantId": "gc004912",
+    "productName": "Тональный крем Estrade Photoshop HD 02 Berlin 46 мл",
+    "variant": "46 мл",
+    "status": "skipped",
+    "sourcePage": "https://www.estrademakeup.ru/products/face/photoshop",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official shade02/04 photos found and visually inspected, but catalogue specifies46ml while accessible retailer describes30ml; manufacturer page provides no size confirmation. Exact46ml package not verified; no different-size tube substituted.",
+    "searches": [
+      {
+        "query": "Estrade Photoshop HD 02 Berlin 04 Lani 46",
+        "url": "https://makeupgrim.com/tonalnyj-krem-photoshop-hd/",
+        "note": "Family shades02Berlin and04Lani listed; volume30ml conflicts with catalogue46ml."
+      },
+      {
+        "query": "Estrade Photoshop HD 02 Berlin 04 Lani 46",
+        "url": "https://www.estrademakeup.ru/products/face/photoshop",
+        "note": "Official shade02/04 photos found and visually inspected, but catalogue specifies46ml while accessible retailer describes30ml; manufacturer page provides no size confirmation. Exact46ml package not verified; no different-size tube substituted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 128,
+    "productId": "gc004913",
+    "variantId": "gc004913",
+    "productName": "Тональный крем Estrade Photoshop HD 04 Lani 46 мл",
+    "variant": "46 мл",
+    "status": "skipped",
+    "sourcePage": "https://www.estrademakeup.ru/products/face/photoshop",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official shade02/04 photos found and visually inspected, but catalogue specifies46ml while accessible retailer describes30ml; manufacturer page provides no size confirmation. Exact46ml package not verified; no different-size tube substituted.",
+    "searches": [
+      {
+        "query": "Estrade Photoshop HD 02 Berlin 04 Lani 46",
+        "url": "https://makeupgrim.com/tonalnyj-krem-photoshop-hd/",
+        "note": "Family shades02Berlin and04Lani listed; volume30ml conflicts with catalogue46ml."
+      },
+      {
+        "query": "Estrade Photoshop HD 02 Berlin 04 Lani 46",
+        "url": "https://www.estrademakeup.ru/products/face/photoshop",
+        "note": "Official shade02/04 photos found and visually inspected, but catalogue specifies46ml while accessible retailer describes30ml; manufacturer page provides no size confirmation. Exact46ml package not verified; no different-size tube substituted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 129,
+    "productId": "gc004914",
+    "variantId": "gc004914",
+    "productName": "Тональный крем С фарфороый Estrade C Cream Satin Finish 11 24 мл",
+    "variant": "24 мл",
+    "status": "skipped",
+    "sourcePage": "https://m.integration.vs.market.yandex.net/card/estrade-tonalnyy-krem-ss-cream-satin-finish-11-farforovyy/102231700329",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Best family result lists CC Cream Satin Finish24ml shades11/12/13, but page/image retrieval failed and no exact shade-linked original could be obtained in quick pass. Generic or another shade image not assigned.",
+    "searches": [
+      {
+        "query": "Estrade CC Cream Satin Finish 11 12 13 24 мл",
+        "url": "https://m.integration.vs.market.yandex.net/card/estrade-tonalnyy-krem-ss-cream-satin-finish-11-farforovyy/102231700329",
+        "note": "Best family result lists CC Cream Satin Finish24ml shades11/12/13, but page/image retrieval failed and no exact shade-linked original could be obtained in quick pass. Generic or another shade image not assigned."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 130,
+    "productId": "gc004915",
+    "variantId": "gc004915",
+    "productName": "Тональный крем С майолика Estrade C Cream Satin Finish 12 24 мл",
+    "variant": "24 мл",
+    "status": "skipped",
+    "sourcePage": "https://m.integration.vs.market.yandex.net/card/estrade-tonalnyy-krem-ss-cream-satin-finish-11-farforovyy/102231700329",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Best family result lists CC Cream Satin Finish24ml shades11/12/13, but page/image retrieval failed and no exact shade-linked original could be obtained in quick pass. Generic or another shade image not assigned.",
+    "searches": [
+      {
+        "query": "Estrade CC Cream Satin Finish 11 12 13 24 мл",
+        "url": "https://m.integration.vs.market.yandex.net/card/estrade-tonalnyy-krem-ss-cream-satin-finish-11-farforovyy/102231700329",
+        "note": "Best family result lists CC Cream Satin Finish24ml shades11/12/13, but page/image retrieval failed and no exact shade-linked original could be obtained in quick pass. Generic or another shade image not assigned."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 131,
+    "productId": "gc004916",
+    "variantId": "gc004916",
+    "productName": "Тональный крем С амфора Estrade C Cream Satin Finish 13 24 мл",
+    "variant": "24 мл",
+    "status": "skipped",
+    "sourcePage": "https://m.integration.vs.market.yandex.net/card/estrade-tonalnyy-krem-ss-cream-satin-finish-11-farforovyy/102231700329",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Best family result lists CC Cream Satin Finish24ml shades11/12/13, but page/image retrieval failed and no exact shade-linked original could be obtained in quick pass. Generic or another shade image not assigned.",
+    "searches": [
+      {
+        "query": "Estrade CC Cream Satin Finish 11 12 13 24 мл",
+        "url": "https://m.integration.vs.market.yandex.net/card/estrade-tonalnyy-krem-ss-cream-satin-finish-11-farforovyy/102231700329",
+        "note": "Best family result lists CC Cream Satin Finish24ml shades11/12/13, but page/image retrieval failed and no exact shade-linked original could be obtained in quick pass. Generic or another shade image not assigned."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 132,
+    "productId": "gc004917",
+    "variantId": "gc004917",
+    "productName": "Тональный крем Haus Labs Triclone Skin Tech 015 Fair Warm 30 мл",
+    "variant": "30мл",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?variant=39969812217944",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Foundation_Silo_015_76b19270-60a1-4818-94b2-1e7b11113a71.png?v=1784305738",
+    "localFile": "materials/catalog-7b/originals/b003-b/Тональный крем Haus Labs Triclone Skin Tech 015 Fair Warm 30 мл 30мл--gc004917.png",
+    "verification": {
+      "identity": "Official Haus Labs Triclone Skin Tech Foundation Shopify exact numerical shade 015 Fair with unique featured_image and matching image alt.",
+      "volumeAndVariant": "Official page says Fill Weight 30 ml / 1 fl oz and explicitly states undertone descriptors changed while shade numbers and formula remain unchanged. Exact numerical shade preserved; no catalog text changed.",
+      "visualReview": "Complete exact-shade bottle on white, but red Allure Readers Choice 2026 award logo appears at upper right on each of the eight originals. Rejected without cropping/erasing logo; same gallery offers model/BA images, no clean alternate packshot.",
+      "reviewMethod": "view_image unchanged originals contact sheet and full-size probes, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тональный крем Haus Labs Triclone Skin Tech 015 Fair Warm 30 мл 30мл",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?variant=39969812217944",
+        "note": "Exact source product/variant page; original bytes retained locally."
+      },
+      {
+        "query": "Haus Labs Triclone Skin Tech foundation full size shade descriptors",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?trk=article-ssr-frontend-pulse_little-text-block&variant=39969811628120&view=pdp-big-cta",
+        "note": "Official text verifies 30 ml and explicitly explains renamed undertone descriptors with unchanged numerical shades."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 1315998,
+    "sha256": "88947546df2f82a73cda9f6e928417e4f9f60306f7f7ff963fb8c5dee8253299"
+  },
+  {
+    "index": 133,
+    "productId": "gc004918",
+    "variantId": "gc004918",
+    "productName": "Тональный крем Haus Labs Triclone Skin Tech 040 Fair Neutral 30 мл",
+    "variant": "30мл",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?variant=39969812152408",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Foundation_Silo_040_f398300d-5abe-42b4-ba62-dc3b4f8f88b5.png?v=1784305742",
+    "localFile": "materials/catalog-7b/originals/b003-b/Тональный крем Haus Labs Triclone Skin Tech 040 Fair Neutral 30 мл 30мл--gc004918.png",
+    "verification": {
+      "identity": "Official Haus Labs Triclone Skin Tech Foundation Shopify exact numerical shade 040 Fair with unique featured_image and matching image alt.",
+      "volumeAndVariant": "Official page says Fill Weight 30 ml / 1 fl oz and explicitly states undertone descriptors changed while shade numbers and formula remain unchanged. Exact numerical shade preserved; no catalog text changed.",
+      "visualReview": "Complete exact-shade bottle on white, but red Allure Readers Choice 2026 award logo appears at upper right on each of the eight originals. Rejected without cropping/erasing logo; same gallery offers model/BA images, no clean alternate packshot.",
+      "reviewMethod": "view_image unchanged originals contact sheet and full-size probes, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тональный крем Haus Labs Triclone Skin Tech 040 Fair Neutral 30 мл 30мл",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?variant=39969812152408",
+        "note": "Exact source product/variant page; original bytes retained locally."
+      },
+      {
+        "query": "Haus Labs Triclone Skin Tech foundation full size shade descriptors",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?trk=article-ssr-frontend-pulse_little-text-block&variant=39969811628120&view=pdp-big-cta",
+        "note": "Official text verifies 30 ml and explicitly explains renamed undertone descriptors with unchanged numerical shades."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 1358012,
+    "sha256": "a50cab436b78c79d3956fce36df3a9459043bb49e6f5bb8318f331422a78e5ca"
+  },
+  {
+    "index": 134,
+    "productId": "gc004919",
+    "variantId": "gc004919",
+    "productName": "Тональный крем Haus Labs Triclone Skin Tech 050 Fair Cool 30 мл",
+    "variant": "30мл",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?variant=39969812119640",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Foundation_Silo_050_9501b3a0-0208-4ca1-8cb8-a9108e609d93.png?v=1784305744",
+    "localFile": "materials/catalog-7b/originals/b003-b/Тональный крем Haus Labs Triclone Skin Tech 050 Fair Cool 30 мл 30мл--gc004919.png",
+    "verification": {
+      "identity": "Official Haus Labs Triclone Skin Tech Foundation Shopify exact numerical shade 050 Fair with unique featured_image and matching image alt.",
+      "volumeAndVariant": "Official page says Fill Weight 30 ml / 1 fl oz and explicitly states undertone descriptors changed while shade numbers and formula remain unchanged. Exact numerical shade preserved; no catalog text changed.",
+      "visualReview": "Complete exact-shade bottle on white, but red Allure Readers Choice 2026 award logo appears at upper right on each of the eight originals. Rejected without cropping/erasing logo; same gallery offers model/BA images, no clean alternate packshot.",
+      "reviewMethod": "view_image unchanged originals contact sheet and full-size probes, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тональный крем Haus Labs Triclone Skin Tech 050 Fair Cool 30 мл 30мл",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?variant=39969812119640",
+        "note": "Exact source product/variant page; original bytes retained locally."
+      },
+      {
+        "query": "Haus Labs Triclone Skin Tech foundation full size shade descriptors",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?trk=article-ssr-frontend-pulse_little-text-block&variant=39969811628120&view=pdp-big-cta",
+        "note": "Official text verifies 30 ml and explicitly explains renamed undertone descriptors with unchanged numerical shades."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 1358765,
+    "sha256": "ada6d0bcabc05f33b5793ab9d152d1d839d01f840143433d896517fd4842a62c"
+  },
+  {
+    "index": 135,
+    "productId": "gc004920",
+    "variantId": "gc004920",
+    "productName": "Тональный крем Haus Labs Triclone Skin Tech 070 Fair Neutral 30 мл",
+    "variant": "30мл",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?variant=39969812054104",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Foundation_Silo_070_829fcebd-a0d1-4448-a6fd-90354661483b.png?v=1784305748",
+    "localFile": "materials/catalog-7b/originals/b003-b/Тональный крем Haus Labs Triclone Skin Tech 070 Fair Neutral 30 мл 30мл--gc004920.png",
+    "verification": {
+      "identity": "Official Haus Labs Triclone Skin Tech Foundation Shopify exact numerical shade 070 Fair with unique featured_image and matching image alt.",
+      "volumeAndVariant": "Official page says Fill Weight 30 ml / 1 fl oz and explicitly states undertone descriptors changed while shade numbers and formula remain unchanged. Exact numerical shade preserved; no catalog text changed.",
+      "visualReview": "Complete exact-shade bottle on white, but red Allure Readers Choice 2026 award logo appears at upper right on each of the eight originals. Rejected without cropping/erasing logo; same gallery offers model/BA images, no clean alternate packshot.",
+      "reviewMethod": "view_image unchanged originals contact sheet and full-size probes, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тональный крем Haus Labs Triclone Skin Tech 070 Fair Neutral 30 мл 30мл",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?variant=39969812054104",
+        "note": "Exact source product/variant page; original bytes retained locally."
+      },
+      {
+        "query": "Haus Labs Triclone Skin Tech foundation full size shade descriptors",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?trk=article-ssr-frontend-pulse_little-text-block&variant=39969811628120&view=pdp-big-cta",
+        "note": "Official text verifies 30 ml and explicitly explains renamed undertone descriptors with unchanged numerical shades."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 1357056,
+    "sha256": "66a29bc79a0086eb24b9b454a6c95b1f5a1bcadab13fa33057def4e0cdc01e19"
+  },
+  {
+    "index": 136,
+    "productId": "gc004921",
+    "variantId": "gc004921",
+    "productName": "Тональный крем Haus Labs Triclone Skin Tech 100 Light Neutral 30 мл",
+    "variant": "30мл",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?variant=39969812021336",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Foundation_Silo_100_3683a3ae-5e13-4a42-a975-ecfdffa95471.png?v=1784305750",
+    "localFile": "materials/catalog-7b/originals/b003-b/Тональный крем Haus Labs Triclone Skin Tech 100 Light Neutral 30 мл 30мл--gc004921.png",
+    "verification": {
+      "identity": "Official Haus Labs Triclone Skin Tech Foundation Shopify exact numerical shade 100 Light with unique featured_image and matching image alt.",
+      "volumeAndVariant": "Official page says Fill Weight 30 ml / 1 fl oz and explicitly states undertone descriptors changed while shade numbers and formula remain unchanged. Exact numerical shade preserved; no catalog text changed.",
+      "visualReview": "Complete exact-shade bottle on white, but red Allure Readers Choice 2026 award logo appears at upper right on each of the eight originals. Rejected without cropping/erasing logo; same gallery offers model/BA images, no clean alternate packshot.",
+      "reviewMethod": "view_image unchanged originals contact sheet and full-size probes, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тональный крем Haus Labs Triclone Skin Tech 100 Light Neutral 30 мл 30мл",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?variant=39969812021336",
+        "note": "Exact source product/variant page; original bytes retained locally."
+      },
+      {
+        "query": "Haus Labs Triclone Skin Tech foundation full size shade descriptors",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?trk=article-ssr-frontend-pulse_little-text-block&variant=39969811628120&view=pdp-big-cta",
+        "note": "Official text verifies 30 ml and explicitly explains renamed undertone descriptors with unchanged numerical shades."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 1352576,
+    "sha256": "2fb609eef5b5e5eb173276ff790dc7c6f6fe8fc0cd283c67d28f425565cab84d"
+  },
+  {
+    "index": 137,
+    "productId": "gc004922",
+    "variantId": "gc004922",
+    "productName": "Тональный крем Haus Labs Triclone Skin Tech 110 Light Neutral 30 мл",
+    "variant": "30мл",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?variant=39969811955800",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Foundation_Silo_110_490e6f38-069d-430b-92f8-aed5c72a2648.png?v=1784305752",
+    "localFile": "materials/catalog-7b/originals/b003-b/Тональный крем Haus Labs Triclone Skin Tech 110 Light Neutral 30 мл 30мл--gc004922.png",
+    "verification": {
+      "identity": "Official Haus Labs Triclone Skin Tech Foundation Shopify exact numerical shade 110 Light with unique featured_image and matching image alt.",
+      "volumeAndVariant": "Official page says Fill Weight 30 ml / 1 fl oz and explicitly states undertone descriptors changed while shade numbers and formula remain unchanged. Exact numerical shade preserved; no catalog text changed.",
+      "visualReview": "Complete exact-shade bottle on white, but red Allure Readers Choice 2026 award logo appears at upper right on each of the eight originals. Rejected without cropping/erasing logo; same gallery offers model/BA images, no clean alternate packshot.",
+      "reviewMethod": "view_image unchanged originals contact sheet and full-size probes, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тональный крем Haus Labs Triclone Skin Tech 110 Light Neutral 30 мл 30мл",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?variant=39969811955800",
+        "note": "Exact source product/variant page; original bytes retained locally."
+      },
+      {
+        "query": "Haus Labs Triclone Skin Tech foundation full size shade descriptors",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?trk=article-ssr-frontend-pulse_little-text-block&variant=39969811628120&view=pdp-big-cta",
+        "note": "Official text verifies 30 ml and explicitly explains renamed undertone descriptors with unchanged numerical shades."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 1365672,
+    "sha256": "868a0fe75ad0172ddbc6f8f61a64d74cca143390dc8ab5f96245aa2a5b0cca54"
+  },
+  {
+    "index": 138,
+    "productId": "gc004923",
+    "variantId": "gc004923",
+    "productName": "Тональный крем Haus Labs Triclone Skin Tech 130 Light Rosy 30 мл",
+    "variant": "30мл",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?variant=39969811890264",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Foundation_Silo_130_7a2b9935-37bc-4461-b006-d982921f7cd1.png?v=1784305756",
+    "localFile": "materials/catalog-7b/originals/b003-b/Тональный крем Haus Labs Triclone Skin Tech 130 Light Rosy 30 мл 30мл--gc004923.png",
+    "verification": {
+      "identity": "Official Haus Labs Triclone Skin Tech Foundation Shopify exact numerical shade 130 Light with unique featured_image and matching image alt.",
+      "volumeAndVariant": "Official page says Fill Weight 30 ml / 1 fl oz and explicitly states undertone descriptors changed while shade numbers and formula remain unchanged. Exact numerical shade preserved; no catalog text changed.",
+      "visualReview": "Complete exact-shade bottle on white, but red Allure Readers Choice 2026 award logo appears at upper right on each of the eight originals. Rejected without cropping/erasing logo; same gallery offers model/BA images, no clean alternate packshot.",
+      "reviewMethod": "view_image unchanged originals contact sheet and full-size probes, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тональный крем Haus Labs Triclone Skin Tech 130 Light Rosy 30 мл 30мл",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?variant=39969811890264",
+        "note": "Exact source product/variant page; original bytes retained locally."
+      },
+      {
+        "query": "Haus Labs Triclone Skin Tech foundation full size shade descriptors",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?trk=article-ssr-frontend-pulse_little-text-block&variant=39969811628120&view=pdp-big-cta",
+        "note": "Official text verifies 30 ml and explicitly explains renamed undertone descriptors with unchanged numerical shades."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 1360366,
+    "sha256": "20aaec637fcfa2358d4a0a300261c666c5749d0a789cce37b538e4fcb0267132"
+  },
+  {
+    "index": 139,
+    "productId": "gc004924",
+    "variantId": "gc004924",
+    "productName": "Тональный крем Haus Labs Triclone Skin Tech 160 Light Neutral 30 мл",
+    "variant": "30мл",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?variant=39969811824728",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Foundation_Silo_160_639e9f5f-6ccb-45b3-9670-58b2049280ca.png?v=1784305761",
+    "localFile": "materials/catalog-7b/originals/b003-b/Тональный крем Haus Labs Triclone Skin Tech 160 Light Neutral 30 мл 30мл--gc004924.png",
+    "verification": {
+      "identity": "Official Haus Labs Triclone Skin Tech Foundation Shopify exact numerical shade 160 Light with unique featured_image and matching image alt.",
+      "volumeAndVariant": "Official page says Fill Weight 30 ml / 1 fl oz and explicitly states undertone descriptors changed while shade numbers and formula remain unchanged. Exact numerical shade preserved; no catalog text changed.",
+      "visualReview": "Complete exact-shade bottle on white, but red Allure Readers Choice 2026 award logo appears at upper right on each of the eight originals. Rejected without cropping/erasing logo; same gallery offers model/BA images, no clean alternate packshot.",
+      "reviewMethod": "view_image unchanged originals contact sheet and full-size probes, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тональный крем Haus Labs Triclone Skin Tech 160 Light Neutral 30 мл 30мл",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?variant=39969811824728",
+        "note": "Exact source product/variant page; original bytes retained locally."
+      },
+      {
+        "query": "Haus Labs Triclone Skin Tech foundation full size shade descriptors",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-medium-coverage-foundation?trk=article-ssr-frontend-pulse_little-text-block&variant=39969811628120&view=pdp-big-cta",
+        "note": "Official text verifies 30 ml and explicitly explains renamed undertone descriptors with unchanged numerical shades."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 1433234,
+    "sha256": "445d2c40375c6d33102fbd400a45c32a67368f23630326465f8f7bd9126f7282"
+  }
+]

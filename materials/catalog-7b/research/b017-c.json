@@ -1,0 +1,449 @@
+[
+  {
+    "productId": "gc001848",
+    "variantId": "gc001848",
+    "productName": "Стойкий каял для глаз карандаш для глаз SHIK 02 Bittersweet",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001848",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 840,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://www.flip.kz/catalog?prod=4457510",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused search located exact SHIKKajal02Bittersweet. Automatic approval review rejected grouped page fetch before execution (blocked by policy, no details). This request did not execute; not retried by another tool. No original retained.",
+    "searches": [
+      {
+        "query": "Стойкий каял для глаз карандаш для глаз SHIK 02 Bittersweet Стандарт",
+        "url": "https://www.flip.kz/catalog?prod=4457510",
+        "note": "Focused search located exact SHIKKajal02Bittersweet. Automatic approval review rejected grouped page fetch before execution (blocked by policy, no details). This request did not execute; not retried by another tool. No original retained."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc002858",
+    "variantId": "gc002858",
+    "productName": "Карандаш голден роуз толстый",
+    "brand": "Golden Rose",
+    "variant": "Стандарт",
+    "sku": "GC002858",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 841,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://www.bodycare.az/ru/product/100291",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Actual GoldenRose eye-pencil family search shows multiple named lines, widths and shades. Catalogue only says thick/thin without line, shade or number. Cannot establish exact photograph; no default black.",
+    "searches": [
+      {
+        "query": "Карандаш голден роуз толстый Стандарт",
+        "url": "https://www.bodycare.az/ru/product/100291",
+        "note": "Actual GoldenRose eye-pencil family search shows multiple named lines, widths and shades. Catalogue only says thick/thin without line, shade or number. Cannot establish exact photograph; no default black."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc002859",
+    "variantId": "gc002859",
+    "productName": "Карандаш голден роуз тонкий",
+    "brand": "Golden Rose",
+    "variant": "Стандарт",
+    "sku": "GC002859",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 842,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://www.bodycare.az/ru/product/100291",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Actual GoldenRose eye-pencil family search shows multiple named lines, widths and shades. Catalogue only says thick/thin without line, shade or number. Cannot establish exact photograph; no default black.",
+    "searches": [
+      {
+        "query": "Карандаш голден роуз тонкий Стандарт",
+        "url": "https://www.bodycare.az/ru/product/100291",
+        "note": "Actual GoldenRose eye-pencil family search shows multiple named lines, widths and shades. Catalogue only says thick/thin without line, shade or number. Cannot establish exact photograph; no default black."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc002875",
+    "variantId": "gc002875",
+    "productName": "Карандаш для глаз Art-Visage №707 Vip Waterproof",
+    "brand": "Art-Visage",
+    "variant": "Стандарт",
+    "sku": "GC002875",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 843,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1361855",
+    "sourceImage": "https://s.f.kz/prod/1362/1361855_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b017-c/Карандаш для глаз Art-Visage №707 Vip Waterproof Стандарт--gc002875.jpg",
+    "verification": {
+      "identity": "Exact ArtVisage VIPWaterproof707 full-size gallery original URL observed in retailer HTML, actual187x962; two views of same pencil. Original and full-fit preview inspected.",
+      "volumeAndVariant": "Exact ArtVisage VIPWaterproof707 full-size gallery original URL observed in retailer HTML, actual187x962; two views of same pencil. Original and full-fit preview inspected.",
+      "visualReview": "Source tightly frames shaft bottoms and outer cap at image boundary; complete contours cannot be established confidently. Preserve original and skip instead of reconstructing or accepting possible clipping.",
+      "reviewMethod": "Whole source viewed in full-fit contact sheet; Art187x962 additionally viewed full size; alpha physical bounds measured for bothCT.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для глаз Art-Visage №707 Vip Waterproof Стандарт",
+        "url": "https://www.flip.kz/catalog?prod=1361855",
+        "note": "Exact ArtVisage VIPWaterproof707 full-size gallery original URL observed in retailer HTML, actual187x962; two views of same pencil. Original and full-fit preview inspected."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 187,
+    "height": 962,
+    "bytes": 58977,
+    "sha256": "61508d26716d9aaff7f78b8ca67a4cfd19fbfdc97dba3e10249c32c85811c2d2"
+  },
+  {
+    "productId": "parent-0119",
+    "variantId": "gc002876",
+    "productName": "Карандаш для глаз Charlotte Tilbury Rock «N» Kohl",
+    "brand": "Charlotte Tilbury",
+    "variant": "Barbarella Brown",
+    "sku": "GC002876",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 844,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/rock-n-kohl-barbarella-brown",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/4yqOAVxXxaj70HdNQ4GHUf/86cddb2332b16c9cf5bb06d2f3f18e55/eyecampaign25_p_LH_0225_RNK_BARABELLA_BROWN-OPEN____.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b017-c/Карандаш для глаз Charlotte Tilbury Rock «N» Kohl Barbarella Brown--gc002876.png",
+    "verification": {
+      "identity": "Official RockN Kohl Barbarella Brown selected hero and named exact original. BedroomBlack French og:title erroneously mentions brown but selected hero aria label and image alt explicitly BedroomBlack, confirmed black lead. Physical opaque alpha>=240 object41x677, below800, shadow excluded.",
+      "volumeAndVariant": "Official RockN Kohl Barbarella Brown selected hero and named exact original. BedroomBlack French og:title erroneously mentions brown but selected hero aria label and image alt explicitly BedroomBlack, confirmed black lead. Physical opaque alpha>=240 object41x677, below800, shadow excluded.",
+      "visualReview": "Exact official physical pencil677px long side, below800 despite larger alpha shadow. No quality waiver.",
+      "reviewMethod": "Whole source viewed in full-fit contact sheet; Art187x962 additionally viewed full size; alpha physical bounds measured for bothCT.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для глаз Charlotte Tilbury Rock «N» Kohl Barbarella Brown",
+        "url": "https://www.charlottetilbury.com/uk/product/rock-n-kohl-barbarella-brown",
+        "note": "Official RockN Kohl Barbarella Brown selected hero and named exact original. BedroomBlack French og:title erroneously mentions brown but selected hero aria label and image alt explicitly BedroomBlack, confirmed black lead. Physical opaque alpha>=240 object41x677, below800, shadow excluded."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1000,
+    "height": 1000,
+    "bytes": 67546,
+    "sha256": "43b5d8ce931eff3cf6c7ab1b9a18f4b2fe58814e264ab3102f50aafbf0818828"
+  },
+  {
+    "productId": "parent-0119",
+    "variantId": "gc002877",
+    "productName": "Карандаш для глаз Charlotte Tilbury Rock «N» Kohl",
+    "brand": "Charlotte Tilbury",
+    "variant": "Bedroom Black",
+    "sku": "GC002877",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 845,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/ca-fr/product/rock-n-kohl-bedroom-black",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/1lvzCIXl3InaNVjLJFdHvX/53947cb875b453b3ab89806cecea4aa8/eyecampaign25_p_LH_0225_RNK_BEDROOM_BLACK-OPEN____.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b017-c/Карандаш для глаз Charlotte Tilbury Rock «N» Kohl Bedroom Black--gc002877.png",
+    "verification": {
+      "identity": "Official RockN Kohl Bedroom Black selected hero and named exact original. BedroomBlack French og:title erroneously mentions brown but selected hero aria label and image alt explicitly BedroomBlack, confirmed black lead. Physical opaque alpha>=240 object41x677, below800, shadow excluded.",
+      "volumeAndVariant": "Official RockN Kohl Bedroom Black selected hero and named exact original. BedroomBlack French og:title erroneously mentions brown but selected hero aria label and image alt explicitly BedroomBlack, confirmed black lead. Physical opaque alpha>=240 object41x677, below800, shadow excluded.",
+      "visualReview": "Exact official physical pencil677px long side, below800 despite larger alpha shadow. No quality waiver.",
+      "reviewMethod": "Whole source viewed in full-fit contact sheet; Art187x962 additionally viewed full size; alpha physical bounds measured for bothCT.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для глаз Charlotte Tilbury Rock «N» Kohl Bedroom Black",
+        "url": "https://www.charlottetilbury.com/ca-fr/product/rock-n-kohl-bedroom-black",
+        "note": "Official RockN Kohl Bedroom Black selected hero and named exact original. BedroomBlack French og:title erroneously mentions brown but selected hero aria label and image alt explicitly BedroomBlack, confirmed black lead. Physical opaque alpha>=240 object41x677, below800, shadow excluded."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1000,
+    "height": 1000,
+    "bytes": 67663,
+    "sha256": "26f6cfca5ef4fb67a2df381316c9663020df46d424ae66cef24d978f1d01acdb"
+  },
+  {
+    "productId": "parent-0120",
+    "variantId": "gc002878",
+    "productName": "Карандаш для глаз Estrade Contour des Yeux",
+    "brand": "Estrade",
+    "variant": "102",
+    "sku": "GC002878",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 846,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://estrademakeup.ru/products/eyes/Contour-des-Yeux",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused ContourdesYeux family query confirms Estrade eye pencils and numbered variants (separate lip/INGLOT products excluded). Automatic approval review rejected grouped page fetch before execution (blocked by policy, no details). Requests did not execute and were not retried. No exact original retained for 102.",
+    "searches": [
+      {
+        "query": "Карандаш для глаз Estrade Contour des Yeux 102",
+        "url": "https://estrademakeup.ru/products/eyes/Contour-des-Yeux",
+        "note": "Focused ContourdesYeux family query confirms Estrade eye pencils and numbered variants (separate lip/INGLOT products excluded). Automatic approval review rejected grouped page fetch before execution (blocked by policy, no details). Requests did not execute and were not retried. No exact original retained for 102."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0120",
+    "variantId": "gc002879",
+    "productName": "Карандаш для глаз Estrade Contour des Yeux",
+    "brand": "Estrade",
+    "variant": "104",
+    "sku": "GC002879",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 847,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://estrademakeup.ru/products/eyes/Contour-des-Yeux",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused ContourdesYeux family query confirms Estrade eye pencils and numbered variants (separate lip/INGLOT products excluded). Automatic approval review rejected grouped page fetch before execution (blocked by policy, no details). Requests did not execute and were not retried. No exact original retained for 104.",
+    "searches": [
+      {
+        "query": "Карандаш для глаз Estrade Contour des Yeux 104",
+        "url": "https://estrademakeup.ru/products/eyes/Contour-des-Yeux",
+        "note": "Focused ContourdesYeux family query confirms Estrade eye pencils and numbered variants (separate lip/INGLOT products excluded). Automatic approval review rejected grouped page fetch before execution (blocked by policy, no details). Requests did not execute and were not retried. No exact original retained for 104."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0120",
+    "variantId": "gc002880",
+    "productName": "Карандаш для глаз Estrade Contour des Yeux",
+    "brand": "Estrade",
+    "variant": "106",
+    "sku": "GC002880",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 848,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://estrademakeup.ru/products/eyes/Contour-des-Yeux",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused ContourdesYeux family query confirms Estrade eye pencils and numbered variants (separate lip/INGLOT products excluded). Automatic approval review rejected grouped page fetch before execution (blocked by policy, no details). Requests did not execute and were not retried. No exact original retained for 106.",
+    "searches": [
+      {
+        "query": "Карандаш для глаз Estrade Contour des Yeux 106",
+        "url": "https://estrademakeup.ru/products/eyes/Contour-des-Yeux",
+        "note": "Focused ContourdesYeux family query confirms Estrade eye pencils and numbered variants (separate lip/INGLOT products excluded). Automatic approval review rejected grouped page fetch before execution (blocked by policy, no details). Requests did not execute and were not retried. No exact original retained for 106."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0120",
+    "variantId": "gc002881",
+    "productName": "Карандаш для глаз Estrade Contour des Yeux",
+    "brand": "Estrade",
+    "variant": "107",
+    "sku": "GC002881",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 849,
+    "batch": 17,
+    "status": "skipped",
+    "sourcePage": "https://estrademakeup.ru/products/eyes/Contour-des-Yeux",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused ContourdesYeux family query confirms Estrade eye pencils and numbered variants (separate lip/INGLOT products excluded). Automatic approval review rejected grouped page fetch before execution (blocked by policy, no details). Requests did not execute and were not retried. No exact original retained for 107.",
+    "searches": [
+      {
+        "query": "Карандаш для глаз Estrade Contour des Yeux 107",
+        "url": "https://estrademakeup.ru/products/eyes/Contour-des-Yeux",
+        "note": "Focused ContourdesYeux family query confirms Estrade eye pencils and numbered variants (separate lip/INGLOT products excluded). Automatic approval review rejected grouped page fetch before execution (blocked by policy, no details). Requests did not execute and were not retried. No exact original retained for 107."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc002887",
+    "variantId": "gc002887",
+    "productName": "Карандаш для глаз Miss Tais № 701 черный",
+    "brand": "Miss Tais",
+    "variant": "Стандарт",
+    "sku": "GC002887",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 850,
+    "batch": 17,
+    "status": "verified",
+    "sourcePage": "https://misstais.com/product/miss-tais-701-karandash-dlya-glaz-original/",
+    "sourceImage": "https://misstais.com/wp-content/uploads/2020/05/701-chernyj-kopiya.jpg",
+    "localFile": "materials/catalog-7b/originals/b017-c/Карандаш для глаз Miss Tais № 701 черный Стандарт--gc002887.jpg",
+    "verification": {
+      "identity": "Exact MissTais701Black branded shop product image;500square includes close-up cropped lead and second cut shaft, plus external brand logo.",
+      "volumeAndVariant": "Exact MissTais701Black branded shop product image;500square includes close-up cropped lead and second cut shaft, plus external brand logo.",
+      "visualReview": "Only500px and intentionally cut-off close-up montage with outside logo, unsuitable as whole product photo. No reconstruction/logo removal.",
+      "reviewMethod": "Whole source viewed in full-fit contact sheet; Art187x962 additionally viewed full size; alpha physical bounds measured for bothCT.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для глаз Miss Tais № 701 черный Стандарт",
+        "url": "https://misstais.com/product/miss-tais-701-karandash-dlya-glaz-original/",
+        "note": "Exact MissTais701Black branded shop product image;500square includes close-up cropped lead and second cut shaft, plus external brand logo."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 500,
+    "height": 500,
+    "bytes": 58888,
+    "sha256": "3b7c6ce213c6d6696d30afa972be9fe78b50d59bb1e799191beb4065f89c52da"
+  }
+]

@@ -1,0 +1,21 @@
+// Public business details supplied and approved by the owner on 23 September 2026.
+export const storeDetails={
+ name:'Grace Cosmetics',
+ seller:'ИП Гаджиев Руслан Эльдарович',
+ phone:'+79640531213',
+ phoneLabel:'+7 (964) 053-12-13',
+ email:'info@gracecosmetics.ru',
+ whatsapp:'https://wa.me/79640531213',
+ instagram:'https://www.instagram.com/grace_cosmetics.ru/',
+ shopAddress:'367013, Россия, Махачкала, Гамидова 18С',
+ hours:'10:00–20:00',
+ legalAddress:'367030, Россия, Республика Дагестан, Махачкала, улица Хаджи Булача, д. 14в',
+ actualAddress:'367030, Россия, Республика Дагестан, Махачкала, улица Хаджи Булача, д. 14в',
+ inn:'057201924007',
+ ogrnip:'325050000014602',
+ account:'40802810256040007867',
+ bank:'ФИЛИАЛ «СТАВРОПОЛЬСКИЙ» АО «АЛЬФА-БАНК»',
+ bik:'040702752',
+ correspondentAccount:'30101810000000000752',
+ bankBranch:'ОТДЕЛЕНИЕ СТАВРОПОЛЬ БАНКА РОССИИ',
+} as const;

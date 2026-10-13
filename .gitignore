@@ -30,6 +30,7 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+.dev.vars*
 
 # vercel
 .vercel
@@ -44,3 +45,16 @@ next-env.d.ts
 /.codex/
 /outputs/
 /work/
+/.unlazy/
+
+# Local QA captures, download scratch files and machine-specific graph state.
+/artifacts/
+/graphify-out/.*
+/graphify-out/**/.*
+/graphify-out/site-before.json
+*.tsbuildinfo
+*.key
+*.p12
+*.pfx
+*.sqlite*
+*.db

@@ -1,0 +1,2630 @@
+{
+  "stage": "7B",
+  "phase": "collect-originals",
+  "batch": 1,
+  "completedAt": "2026-09-24T10:58:53.151031+00:00",
+  "collectionComplete": false,
+  "entries": [
+    {
+      "productId": "gc000242",
+      "variantId": "gc000242",
+      "productName": "Крем-праймер дневной матирующий для комбинированной и жирной кожи Belita Pure Green 50 мл",
+      "brand": "Belita",
+      "variant": "50 мл",
+      "sku": "GC000242",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 1,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://belcosmet.co.uk/products/mattifying-day-cream-primer-for-rash-prone-combination-and-oily-skin",
+      "sourceImage": "https://belcosmet.co.uk/cdn/shop/products/31760fc76a433103b28612f462ee5731.jpg?v=1613937810",
+      "localFile": "materials/catalog-7b/originals/b001-a/Крем-праймер дневной матирующий для комбинированной и жирной кожи Belita Pure Green 50 мл 50 мл--gc000242-clean.jpg",
+      "verification": {
+        "identity": "Belita Pure Green day mattifying cream-primer; seller specifies 50 ml and barcode 4810151026653.",
+        "volumeAndVariant": "Belita Pure Green day mattifying cream-primer; seller specifies 50 ml and barcode 4810151026653.",
+        "visualReview": "White-background pink jar on matching Pure Green box, front text matches day mattifying primer; no watermark. Cosmobest watermarked candidate rejected.",
+        "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Belita Pure Green 50 ml крем праймер",
+          "url": "https://belcosmet.co.uk/products/mattifying-day-cream-primer-for-rash-prone-combination-and-oily-skin",
+          "note": "Belita Pure Green day mattifying cream-primer; seller specifies 50 ml and barcode 4810151026653."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 1023,
+      "height": 1023,
+      "bytes": 54837,
+      "sha256": "701dbf5d133a5a096c1c28ba03317ef461b5e5b8069d569f745a56b5d35dc608",
+      "sharedImageWith": [],
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-a"
+    },
+    {
+      "productId": "gc000550",
+      "variantId": "gc000550",
+      "productName": "Выравнивающий праймер Catrice Prime And Fine Poreless Blur Primer 30 мл",
+      "brand": "Catrice",
+      "variant": "30 мл",
+      "sku": "GC000550",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 2,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://acosmetics.gr/product/catrice-cosmetics-catrice-prime-fine-pore-refining-anti-shine-base-30ml/",
+      "sourceImage": "https://acosmetics.gr/wp-content/uploads/2022/01/catrice_cosmetics_prime_and_fine_poreless_blur_primer_30ml-1000x1000-1.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-a/Выравнивающий праймер Catrice Prime And Fine Poreless Blur Primer 30 мл 30 мл--gc000550.jpg",
+      "verification": {
+        "identity": "Exact legacy Prime And Fine Poreless Blur Primer, 30 ml visible on tube. The Perfector successor was explicitly not substituted.",
+        "volumeAndVariant": "Exact legacy Prime And Fine Poreless Blur Primer, 30 ml visible on tube. The Perfector successor was explicitly not substituted.",
+        "visualReview": "Single pink tube, black cap, Prime And Fine and Goodbye Pores wording, 30 ml, white background, no watermark.",
+        "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Catrice Prime And Fine Poreless Blur Primer 30 купить",
+          "url": "https://acosmetics.gr/product/catrice-cosmetics-catrice-prime-fine-pore-refining-anti-shine-base-30ml/",
+          "note": "Exact legacy Prime And Fine Poreless Blur Primer, 30 ml visible on tube. The Perfector successor was explicitly not substituted."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 1000,
+      "height": 1000,
+      "bytes": 42040,
+      "sha256": "c5290a3ef08b09366283f9ff54d3ce09cc866708e16b2b5d93e9cb5b8eb2c084",
+      "sharedImageWith": [],
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-a"
+    },
+    {
+      "productId": "gc000848",
+      "variantId": "gc000848",
+      "productName": "База под макияж маскирующая покраснения Eveline Cosmetics Full HD 30 мл",
+      "brand": "Eveline Cosmetics",
+      "variant": "30 мл",
+      "sku": "GC000848",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 3,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://rozetka.com.ua/362253915/p362253915/",
+      "sourceImage": "https://content2.rozetka.com.ua/goods/images/original/303206083.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-a/База под макияж маскирующая покраснения Eveline Cosmetics Full HD 30 мл 30 мл--gc000848-original.jpg",
+      "verification": {
+        "identity": "Exact green Base Full HD redness-concealing version; page specifies 30 ml.",
+        "volumeAndVariant": "Exact green Base Full HD redness-concealing version; page specifies 30 ml.",
+        "visualReview": "Green tube reads маскирующая покраснения, distinct from pink and gold versions; complete product on white background. Source original is 500x700, retain quality limit for preparation review.",
+        "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Eveline Full HD база 30 маскирующая покраснения разглаживающая сияющая 4в1",
+          "url": "https://rozetka.com.ua/362253915/p362253915/",
+          "note": "Exact green Base Full HD redness-concealing version; page specifies 30 ml."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 500,
+      "height": 700,
+      "bytes": 27576,
+      "sha256": "1f6bde8b9a10a44f04638104e6e19c9e208507935bfc00d62798bf32c76e754c",
+      "sharedImageWith": [],
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-a"
+    },
+    {
+      "productId": "gc000849",
+      "variantId": "gc000849",
+      "productName": "База под макияж разглаживающая и выравнивающая Eveline Cosmetics Full HD 30 мл",
+      "brand": "Eveline Cosmetics",
+      "variant": "30 мл",
+      "sku": "GC000849",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 4,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://rozetka.com.ua/362253918/p362253918/",
+      "sourceImage": "https://content1.rozetka.com.ua/goods/images/original/303206121.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-a/База под макияж разглаживающая и выравнивающая Eveline Cosmetics Full HD 30 мл 30 мл--gc000849-original.jpg",
+      "verification": {
+        "identity": "Exact pink smoothing/evening Base Full HD; page specifies 30 ml.",
+        "volumeAndVariant": "Exact pink smoothing/evening Base Full HD; page specifies 30 ml.",
+        "visualReview": "Pink tube reads разглаживает кожу и выравнивает тон; no sibling substitution, complete product on white background. Source original is 500x700; preparation review must avoid apparent upscale blur.",
+        "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Eveline Base Full HD разглаживающая 30 makeup",
+          "url": "https://rozetka.com.ua/362253918/p362253918/",
+          "note": "Exact pink smoothing/evening Base Full HD; page specifies 30 ml."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 500,
+      "height": 700,
+      "bytes": 27430,
+      "sha256": "673f2a61ba458fcc78f4029e6ef33fcf5c9fe06fde91e711b95661b3ea032fe7",
+      "sharedImageWith": [],
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-a"
+    },
+    {
+      "productId": "gc000850",
+      "variantId": "gc000850",
+      "productName": "База под макияж сияющая матовая кожа 4 в 1 Eveline Cosmetics Full HD 30 мл",
+      "brand": "Eveline Cosmetics",
+      "variant": "30 мл",
+      "sku": "GC000850",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 5,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://cosmart.kz/catalog/makiyazh/litso/osnovy_pod_makiyazh/baza_pod_makiyazh_eveline_base_full_hd_siyayushchaya_matovaya_kozha_4v1_30_ml/",
+      "sourceImage": "https://cosmart.kz/upload/dev2fun.imagecompress/webp/iblock/afc/rhi0jkejy44ka5f5qknxcg23uqs3zr00.webp",
+      "localFile": "materials/catalog-7b/originals/b001-a/База под макияж сияющая матовая кожа 4 в 1 Eveline Cosmetics Full HD 30 мл 30 мл--gc000850.webp",
+      "verification": {
+        "identity": "Exact gold 4-in-1 radiant matte Base Full HD, 30 ml on page, barcode 5901761990454.",
+        "volumeAndVariant": "Exact gold 4-in-1 radiant matte Base Full HD, 30 ml on page, barcode 5901761990454.",
+        "visualReview": "Gold tube reads сияющая матовая кожа, numbered 4-in-1 benefits, full cap and tube; white background, no watermark.",
+        "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Eveline Base Full HD сияющая матовая 4 в 1 30 makeup",
+          "url": "https://cosmart.kz/catalog/makiyazh/litso/osnovy_pod_makiyazh/baza_pod_makiyazh_eveline_base_full_hd_siyayushchaya_matovaya_kozha_4v1_30_ml/",
+          "note": "Exact gold 4-in-1 radiant matte Base Full HD, 30 ml on page, barcode 5901761990454."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 800,
+      "height": 800,
+      "bytes": 16370,
+      "sha256": "d4953d59064932b935934af829e9bb618da98f3f73a2d2d95046e18c37bf779e",
+      "sharedImageWith": [],
+      "imageFormat": "WEBP",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-a"
+    },
+    {
+      "productId": "gc001859",
+      "variantId": "gc001859",
+      "productName": "Увлажняющий крем-праймер для лица SHIK Face primer, 02",
+      "brand": "SHIK",
+      "variant": "Стандарт",
+      "sku": "GC001859",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 6,
+      "batch": 1,
+      "status": "skipped",
+      "sourcePage": null,
+      "sourceImage": null,
+      "localFile": null,
+      "verification": null,
+      "skipReason": "В каталоге задан оттенок 02, но объём Стандарт. Найдены страницы 02 50 мл; объём и упаковка конкретного GC001859 не подтверждены. Не назначать 50 мл по сходству названия.",
+      "searches": [
+        {
+          "query": "SHIK 02 крем-праймер официальный",
+          "url": "https://www.flip.kz/catalog?prod=2937863",
+          "note": "Подтверждает Face Primer 02 50 мл, но в каталоге Grace объёма нет."
+        },
+        {
+          "query": "SHIK Face Primer 02 крем",
+          "url": "https://cream-cosmi.ru/products/shik-krem-praimer-dlya-litsa-uvlazhnyaiuschii-02-face-primer-50-ml",
+          "note": "Второй источник для 50 мл; GC-артикул Grace не сопоставлен с заводским артикулом/штрихкодом."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "sha256": null,
+      "sharedImageWith": [],
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-a"
+    },
+    {
+      "productId": "gc002341",
+      "variantId": "gc002341",
+      "productName": "Увлажняющая база с эффектом Bielenda 30 г",
+      "brand": "Bielenda",
+      "variant": "30 г",
+      "sku": "GC002341",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 7,
+      "batch": 1,
+      "status": "skipped",
+      "sourcePage": null,
+      "sourceImage": null,
+      "localFile": null,
+      "verification": null,
+      "skipReason": "Название «Увлажняющая база с эффектом» обрывается до названия эффекта/серии. У Bielenda существуют Glass Skin, Magic Base и другие увлажняющие базы. Точную линейку по названию 30 г установить нельзя.",
+      "searches": [
+        {
+          "query": "Bielenda увлажняющая золотая жемчужная база 30 г",
+          "url": "https://bielenda.pl/en/catalog/make-up-academie",
+          "note": "Официальный каталог перечисляет несколько баз 30 г и отдельно Pearl Base rose и Lumiere Base pearl; недостаточное название Grace не различает их."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "sha256": null,
+      "sharedImageWith": [],
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-a"
+    },
+    {
+      "productId": "gc002416",
+      "variantId": "gc002416",
+      "productName": "Золотая база с эффектом Bielenda 30 г",
+      "brand": "Bielenda",
+      "variant": "30Г",
+      "sku": "GC002416",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 8,
+      "batch": 1,
+      "status": "skipped",
+      "sourcePage": null,
+      "sourceImage": null,
+      "localFile": null,
+      "verification": null,
+      "skipReason": "Название «Золотая база с эффектом» обрывается, серия и эффект отсутствуют. Найден кандидат Make-Up Academie Gold Flakes 24k 30 г / Gold 24k, однако соответствие GC002416 конкретной линейке или упаковке не подтверждено.",
+      "searches": [
+        {
+          "query": "Bielenda увлажняющая золотая жемчужная база 30 г",
+          "url": "https://bielenda.pl/en/catalog/make-up-academie",
+          "note": "Официальный каталог перечисляет несколько баз 30 г и отдельно Pearl Base rose и Lumiere Base pearl; недостаточное название Grace не различает их."
+        },
+        {
+          "query": "Bielenda золотая база с эффектом",
+          "url": "https://bielenda.pl/en/catalog/make-up-academie/1208-make-up-gold-24",
+          "note": "Найден оригинальный Gold Flakes 24k 30 г; кандидат не привязан без подтверждения серии."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "sha256": null,
+      "sharedImageWith": [],
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-a"
+    },
+    {
+      "productId": "gc002435",
+      "variantId": "gc002435",
+      "productName": "Жемчужная база под макияж Bielenda 30 г",
+      "brand": "Bielenda",
+      "variant": "30г",
+      "sku": "GC002435",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 9,
+      "batch": 1,
+      "status": "skipped",
+      "sourcePage": null,
+      "sourceImage": null,
+      "localFile": null,
+      "verification": null,
+      "skipReason": "В каталоге только «Жемчужная база» 30 г без цвета и серии. У производителя есть розовая Pearl Base и белая Lumiere Base 30 г. Розовая фотография-кандидат не принята, чтобы не подменить оттенок.",
+      "searches": [
+        {
+          "query": "Bielenda увлажняющая золотая жемчужная база 30 г",
+          "url": "https://bielenda.pl/en/catalog/make-up-academie",
+          "note": "Официальный каталог перечисляет несколько баз 30 г и отдельно Pearl Base rose и Lumiere Base pearl; недостаточное название Grace не различает их."
+        },
+        {
+          "query": "Bielenda Pearl Base 30",
+          "url": "https://bielenda.com/make-up-academie-pearl-base-rozowa-baza-pod-makijaz-korygujaca-30-g",
+          "note": "Розовая Pearl Base 30 г EAN5902169022594; белая Lumiere существует отдельно, поэтому розовую не назначаем."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "sha256": null,
+      "sharedImageWith": [],
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-a"
+    },
+    {
+      "productId": "gc003768",
+      "variantId": "gc003768",
+      "productName": "Увлажняющая основа под макияж Estrade Aqua Prime 20 мл",
+      "brand": "Estrade",
+      "variant": "20 мл",
+      "sku": "GC003768",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 10,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://glowbeauty.kz/product/estrade-aqua-prime",
+      "sourceImage": "https://cdn.insales-shop.ru/images/products/1/3993/2323484569/57.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-a/Увлажняющая основа под макияж Estrade Aqua Prime 20 мл 20 мл--gc003768-second.jpg",
+      "verification": {
+        "identity": "Aqua Prime 20 ml, page product barcode 4690327068089; manufacturer Aqua Prime name on tube.",
+        "volumeAndVariant": "Aqua Prime 20 ml, page product barcode 4690327068089; manufacturer Aqua Prime name on tube.",
+        "visualReview": "Black-and-white Aqua Prime tube, all types of skin; white background, complete edges. Larger of two page originals retained (550x550); this modest resolution is explicitly flagged for later preparation QA.",
+        "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Estrade Aqua Prime 20 мл фото купить",
+          "url": "https://glowbeauty.kz/product/estrade-aqua-prime",
+          "note": "Aqua Prime 20 ml, page product barcode 4690327068089; manufacturer Aqua Prime name on tube."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 550,
+      "height": 550,
+      "bytes": 23468,
+      "sha256": "69ce3f507b290795ae4b63fd2b384a8d7122908e6aa9b2e401d59b7f6ce687d8",
+      "sharedImageWith": [],
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-a"
+    },
+    {
+      "productId": "gc003769",
+      "variantId": "gc003769",
+      "productName": "Сияющая основа под макияж Estrade Marry Me? 30 мл",
+      "brand": "Estrade",
+      "variant": "30 мл",
+      "sku": "GC003769",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 11,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.estrademakeup.ru/products/face/marry-me",
+      "sourceImage": "https://www.estrademakeup.ru/pictures/wr_wares/53_1_1.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-a/Сияющая основа под макияж Estrade Marry Me- 30 мл 30 мл--gc003769-full.jpg",
+      "verification": {
+        "identity": "Official Marry Me glow primer photo. 30 ml cross-check: make4make Estrade catalog lists Marry Me 30 ml; do not use marketplace 20 ml listing.",
+        "volumeAndVariant": "Official Marry Me glow primer photo. 30 ml cross-check: make4make Estrade catalog lists Marry Me 30 ml; do not use marketplace 20 ml listing.",
+        "visualReview": "Pink closed upright tube labelled Marry Me with ring icon; white background, no watermark, full product.",
+        "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Estrade Marry Me 30 официальный",
+          "url": "https://www.estrademakeup.ru/products/face/marry-me",
+          "note": "Official Marry Me glow primer photo. 30 ml cross-check: make4make Estrade catalog lists Marry Me 30 ml; do not use marketplace 20 ml listing."
+        },
+        {
+          "query": "Estrade Marry Me Matte Skin Stay Prime 20 30 мл",
+          "url": "https://make4make.ru/estrade/",
+          "note": "Independent size cross-check: Marry Me 30 ml and Stay Prime 20 ml."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 1200,
+      "height": 1180,
+      "bytes": 66151,
+      "sha256": "fde1d712afc05cefed84f727ff75e18d31f84139a7c39b6dbba90095b5e837ae",
+      "sharedImageWith": [],
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-a"
+    },
+    {
+      "productId": "gc003770",
+      "variantId": "gc003770",
+      "productName": "Матирующая основа под макияж Estrade Matte Skin 20 мл",
+      "brand": "Estrade",
+      "variant": "20 мл",
+      "sku": "GC003770",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 12,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://glowbeauty.kz/product/osnova-pod-makiyazh-estrade-matte-skin-primer-20-ml",
+      "sourceImage": "https://cdn.insales-shop.ru/images/products/1/2956/620972940/1042.jpeg",
+      "localFile": "materials/catalog-7b/originals/b001-a/Матирующая основа под макияж Estrade Matte Skin 20 мл 20 мл--gc003770-glow.jpg",
+      "verification": {
+        "identity": "Matte Skin primer 20 ml exact page; same black packaging verified against official Estrade Matte Skin page.",
+        "volumeAndVariant": "Matte Skin primer 20 ml exact page; same black packaging verified against official Estrade Matte Skin page.",
+        "visualReview": "Black closed upright tube labelled Matte Skin primer for oily skin with heart icon, white background, no watermark; official promotional image with pink panels and open tube excluded from selected file.",
+        "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Estrade Matte Skin Stay Prime",
+          "url": "https://glowbeauty.kz/product/osnova-pod-makiyazh-estrade-matte-skin-primer-20-ml",
+          "note": "Matte Skin primer 20 ml exact page; same black packaging verified against official Estrade Matte Skin page."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 800,
+      "height": 786,
+      "bytes": 28875,
+      "sha256": "c3a823420d9465d1f00738b7cd60030c8ded0e4524b5790838fcc0eadb5c2436",
+      "sharedImageWith": [],
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-a"
+    },
+    {
+      "productId": "gc003771",
+      "variantId": "gc003771",
+      "productName": "Основа под макияж Защита и стойкость Estrade Stay Prime 20 мл",
+      "brand": "Estrade",
+      "variant": "20 мл",
+      "sku": "GC003771",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 13,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.estrademakeup.ru/products/face/stay-prime-makeup-base",
+      "sourceImage": "https://www.estrademakeup.ru/pictures/wr_wares/52_1_1.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-a/Основа под макияж Защита и стойкость Estrade Stay Prime 20 мл 20 мл--gc003771-full.jpg",
+      "verification": {
+        "identity": "Official Stay Prime protection/lasting primer image. 20 ml cross-check in make4make Estrade catalog.",
+        "volumeAndVariant": "Official Stay Prime protection/lasting primer image. 20 ml cross-check in make4make Estrade catalog.",
+        "visualReview": "White closed upright tube labelled Stay Prime 16h protect with flame icon, black cap; white background, complete product, no watermark.",
+        "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Estrade Matte Skin Stay Prime",
+          "url": "https://www.estrademakeup.ru/products/face/stay-prime-makeup-base",
+          "note": "Official Stay Prime protection/lasting primer image. 20 ml cross-check in make4make Estrade catalog."
+        },
+        {
+          "query": "Estrade Marry Me Matte Skin Stay Prime 20 30 мл",
+          "url": "https://make4make.ru/estrade/",
+          "note": "Independent size cross-check: Marry Me 30 ml and Stay Prime 20 ml."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 1200,
+      "height": 1180,
+      "bytes": 54180,
+      "sha256": "91ccb1524e2f6c3ba45dc2c43489b1dcc040f457133421638087a5427d738fe9",
+      "sharedImageWith": [],
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-a"
+    },
+    {
+      "productId": "parent-0001",
+      "variantId": "gc004372",
+      "productName": "Праймер база под макияж Charlotte Tilbury Hollywood Flawless Filter",
+      "brand": "Charlotte Tilbury",
+      "variant": "2 Fair",
+      "sku": "GC004372",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 14,
+      "batch": 1,
+      "status": "skipped",
+      "sourcePage": null,
+      "sourceImage": null,
+      "localFile": null,
+      "verification": null,
+      "skipReason": "Оттенок 2 Fair задан, но объём не указан. Официальный бренд предлагает full-size и travel-size с разными упаковками. Нельзя определить, какая упаковка соответствует gc004372, без объёма/штрихкода Grace.",
+      "searches": [
+        {
+          "query": "Charlotte Tilbury Hollywood Flawless Filter 2 Fair",
+          "url": "https://www.charlottetilbury.com/us/product/hollywood-flawless-filter-full-size-travel-size-duo",
+          "note": "Официальная страница full-size + travel-size показывает shade 2 Fair в обеих линейках; выбор по оттенку не определяет объём."
+        },
+        {
+          "query": "site:charlottetilbury.com Hollywood Flawless Filter 2 Fair Travel",
+          "url": "https://www.charlottetilbury.com/us/products/makeup/face/hollywood-flawless-filter",
+          "note": "Официальный каталог отдельно показывает стандартные и Travel версии; Grace хранит только оттенок."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "sha256": null,
+      "sharedImageWith": [],
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-a"
+    },
+    {
+      "productId": "parent-0001",
+      "variantId": "gc004373",
+      "productName": "Праймер база под макияж Charlotte Tilbury Hollywood Flawless Filter",
+      "brand": "Charlotte Tilbury",
+      "variant": "2.5 Fair",
+      "sku": "GC004373",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 15,
+      "batch": 1,
+      "status": "skipped",
+      "sourcePage": null,
+      "sourceImage": null,
+      "localFile": null,
+      "verification": null,
+      "skipReason": "Оттенок 2.5 Fair задан, но объём не указан. Официальный бренд предлагает full-size и travel-size с разными упаковками. Нельзя определить, какая упаковка соответствует gc004373, без объёма/штрихкода Grace.",
+      "searches": [
+        {
+          "query": "Charlotte Tilbury Hollywood Flawless Filter 2.5 Fair",
+          "url": "https://www.charlottetilbury.com/us/product/hollywood-flawless-filter-full-size-travel-size-duo",
+          "note": "Официальная страница full-size + travel-size показывает shade 2.5 Fair в обеих линейках; выбор по оттенку не определяет объём."
+        },
+        {
+          "query": "site:charlottetilbury.com Hollywood Flawless Filter 2.5 Fair Travel",
+          "url": "https://www.charlottetilbury.com/us/products/makeup/face/hollywood-flawless-filter",
+          "note": "Официальный каталог отдельно показывает стандартные и Travel версии; Grace хранит только оттенок."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "sha256": null,
+      "sharedImageWith": [],
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-a"
+    },
+    {
+      "productId": "parent-0001",
+      "variantId": "gc004374",
+      "productName": "Праймер база под макияж Charlotte Tilbury Hollywood Flawless Filter",
+      "brand": "Charlotte Tilbury",
+      "variant": "3 Fair",
+      "sku": "GC004374",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 16,
+      "batch": 1,
+      "status": "skipped",
+      "sourcePage": null,
+      "sourceImage": null,
+      "localFile": null,
+      "verification": null,
+      "skipReason": "Оттенок 3 Fair задан, но объём не указан. Официальный бренд предлагает full-size и travel-size с разными упаковками. Нельзя определить, какая упаковка соответствует gc004374, без объёма/штрихкода Grace.",
+      "searches": [
+        {
+          "query": "Charlotte Tilbury Hollywood Flawless Filter 3 Fair",
+          "url": "https://www.charlottetilbury.com/us/product/hollywood-flawless-filter-full-size-travel-size-duo",
+          "note": "Официальная страница full-size + travel-size показывает shade 3 Fair в обеих линейках; выбор по оттенку не определяет объём."
+        },
+        {
+          "query": "site:charlottetilbury.com Hollywood Flawless Filter 3 Fair Travel",
+          "url": "https://www.charlottetilbury.com/us/products/makeup/face/hollywood-flawless-filter",
+          "note": "Официальный каталог отдельно показывает стандартные и Travel версии; Grace хранит только оттенок."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "sha256": null,
+      "sharedImageWith": [],
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-a"
+    },
+    {
+      "productId": "parent-0001",
+      "variantId": "gc004375",
+      "productName": "Праймер база под макияж Charlotte Tilbury Hollywood Flawless Filter",
+      "brand": "Charlotte Tilbury",
+      "variant": "4 Medium",
+      "sku": "GC004375",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 17,
+      "batch": 1,
+      "status": "skipped",
+      "sourcePage": null,
+      "sourceImage": null,
+      "localFile": null,
+      "verification": null,
+      "skipReason": "Оттенок 4 Medium задан, но объём не указан. Официальный бренд предлагает full-size и travel-size с разными упаковками. Нельзя определить, какая упаковка соответствует gc004375, без объёма/штрихкода Grace.",
+      "searches": [
+        {
+          "query": "Charlotte Tilbury Hollywood Flawless Filter 4 Medium",
+          "url": "https://www.charlottetilbury.com/us/product/hollywood-flawless-filter-full-size-travel-size-duo",
+          "note": "Официальная страница full-size + travel-size показывает shade 4 Medium в обеих линейках; выбор по оттенку не определяет объём."
+        },
+        {
+          "query": "site:charlottetilbury.com Hollywood Flawless Filter 4 Medium Travel",
+          "url": "https://www.charlottetilbury.com/us/products/makeup/face/hollywood-flawless-filter",
+          "note": "Официальный каталог отдельно показывает стандартные и Travel версии; Grace хранит только оттенок."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "sha256": null,
+      "sharedImageWith": [],
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-a"
+    },
+    {
+      "productId": "gc004376",
+      "variantId": "gc004376",
+      "productName": "Праймер Catrice One Step Skin Perfector 30 мл",
+      "brand": "Catrice",
+      "variant": "30 мл",
+      "sku": "GC004376",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 18,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.centrepointstores.com/ae/en/buy-catrice-one-step-skin-perfector-30-ml/p/164152484",
+      "sourceImage": "https://media.centrepointstores.com/i/centrepoint/164152484-4059729312532-LS18230322_01-2100.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-b/Catrice One Step Skin Perfector 30 ml Centrepoint--gc004376.jpg",
+      "verification": {
+        "identity": "The retailer identifies the exact 30 ml product; EAN 4059729312532.",
+        "volumeAndVariant": "The retailer identifies the exact 30 ml product; EAN 4059729312532.",
+        "visualReview": "Inspected through view_image. Whole coral/black tube; One Step Skin Perfector label and 30 ml visible, clean white background, no watermark.",
+        "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+        "qualityCaveat": null,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Catrice One Step Skin Perfector 30 ml",
+          "url": "https://www.centrepointstores.com/ae/en/buy-catrice-one-step-skin-perfector-30-ml/p/164152484",
+          "note": "The retailer identifies the exact 30 ml product; EAN 4059729312532."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 1200,
+      "height": 1200,
+      "bytes": 85761,
+      "sha256": "f095cd2edf04c4d18562048fccf19958ebe6f6ff4b6f46472a360f9dfe744d03",
+      "sharedImageWith": [],
+      "researchedAt": "2026-09-24",
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-b"
+    },
+    {
+      "productId": "gc004377",
+      "variantId": "gc004377",
+      "productName": "Праймер Rare Beauty Always An Optimist Pore Diffusing 28 мл",
+      "brand": "Rare Beauty",
+      "variant": "28 мл",
+      "sku": "GC004377",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 19,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://sephora.in/product/rare-beauty-always-an-optimist-pore-diffusing-primer-v-28ml",
+      "sourceImage": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/original/artist-easer/7024569/0/hxiGfEESMH-1_Product_840122902550-Rare-Beauty-Always-An-Optimist-Pore-Diffusing-Primer-28ml_4000c2291694395dcfd7ad96888ddd8fb2e5935e_1631874970.png",
+      "localFile": "materials/catalog-7b/originals/b001-b/Rare Beauty Always An Optimist Pore Diffusing Primer 28 ml Sephora India--gc004377.png",
+      "verification": {
+        "identity": "Sephora India page explicitly identifies 28 ml and Net Volume 28 ml. Official Rare Beauty page independently confirms 0.94 oz / 28 ml.",
+        "volumeAndVariant": "Sephora India page explicitly identifies 28 ml and Net Volume 28 ml. Official Rare Beauty page independently confirms 0.94 oz / 28 ml.",
+        "visualReview": "Inspected through view_image. Whole pale-pink bottle with ivory cap, centered on white, no watermark; exact 28 ml source gallery.",
+        "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+        "qualityCaveat": null,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Rare Beauty Always An Optimist Pore Diffusing Primer 28ml",
+          "url": "https://sephora.in/product/rare-beauty-always-an-optimist-pore-diffusing-primer-v-28ml",
+          "note": "Sephora India page explicitly identifies 28 ml and Net Volume 28 ml. Official Rare Beauty page independently confirms 0.94 oz / 28 ml."
+        },
+        {
+          "query": "Rare Beauty Always An Optimist Pore Diffusing Primer 28ml",
+          "url": "https://www.rarebeauty.com/products/always-an-optimist-pore-diffusing-primer",
+          "note": "Official exact product and size confirmed. Its lifestyle image with plinth was replaced by the clean Sephora original."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 1000,
+      "height": 1000,
+      "bytes": 51517,
+      "sha256": "579f4eca33bfa5e7135775cf7dbe15e5cb39410885c1353569d3d4cbdb39e4ed",
+      "sharedImageWith": [],
+      "researchedAt": "2026-09-24",
+      "imageFormat": "PNG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-b"
+    },
+    {
+      "productId": "gc004378",
+      "variantId": "gc004378",
+      "productName": "Матирующий праймер для лица Golden Rose Mattifying & Pore Minimising 30 мл",
+      "brand": "Golden Rose",
+      "variant": "30 мл",
+      "sku": "GC004378",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 20,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://shop.goldenrose.com.tr/make-up-primer-mattifying-pore-minimising",
+      "sourceImage": "https://shop.goldenrose.com.tr/make-up-primer-mattifying-pore-minimising-baz-ve-makyaj-sabitleyici-golden-rose-make-up-primer-25875-21-B.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-b/Golden Rose Mattifying Pore Minimising Primer 30 ml Original--gc004378.jpg",
+      "verification": {
+        "identity": "Official Golden Rose product page states 30 ml, SKU P-GMP-MPM, EAN 8691190070533.",
+        "volumeAndVariant": "Official Golden Rose product page states 30 ml, SKU P-GMP-MPM, EAN 8691190070533.",
+        "visualReview": "Inspected through view_image. Whole white bottle and black cap, exact Mattifying & Pore Minimising label, white background, no watermark.",
+        "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+        "qualityCaveat": null,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Golden Rose Mattifying Pore Minimising Primer 30 ml",
+          "url": "https://shop.goldenrose.com.tr/make-up-primer-mattifying-pore-minimising",
+          "note": "Official Golden Rose product page states 30 ml, SKU P-GMP-MPM, EAN 8691190070533."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 800,
+      "height": 1200,
+      "bytes": 26361,
+      "sha256": "e86d83bd7b719702b0d303b15aef455937163d4e79cd7fbe4c19867bf9854de4",
+      "sharedImageWith": [],
+      "researchedAt": "2026-09-24",
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-b"
+    },
+    {
+      "productId": "gc004379",
+      "variantId": "gc004379",
+      "productName": "Праймер с эффектом сияния Charlotte Tilbury Wonderglow",
+      "brand": "Charlotte Tilbury",
+      "variant": "Стандарт",
+      "sku": "GC004379",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 21,
+      "batch": 1,
+      "status": "skipped",
+      "sourcePage": "https://www.charlottetilbury.com/us/product/wonderglow",
+      "sourceImage": null,
+      "localFile": null,
+      "verification": null,
+      "skipReason": "Catalog says Standard with no size. Official Wonderglow exists as 15 ml and 40 ml; cannot choose the exact packaging without inferring catalog volume.",
+      "searches": [
+        {
+          "query": "Charlotte Tilbury Wonderglow sizes 15ml 40ml",
+          "url": "https://www.charlottetilbury.com/us/product/wonderglow",
+          "note": "Official full-size product is 40 ml."
+        },
+        {
+          "query": "Charlotte Tilbury Wonderglow 15ml",
+          "url": "https://www.charlottetilbury.com/us/product/travel-sized-wonderglow-face-primer",
+          "note": "Official travel-size product is 15 ml. Catalog does not disambiguate."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "sha256": null,
+      "sharedImageWith": [],
+      "researchedAt": "2026-09-24",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-b"
+    },
+    {
+      "productId": "gc004636",
+      "variantId": "gc004636",
+      "productName": "Сияющая база под макияж Dior Forever Glow Veil 30 мл",
+      "brand": "Dior",
+      "variant": "30мл",
+      "sku": "GC004636",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 22,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://tr.dior.com/products/dior-forever-glow-veil",
+      "sourceImage": "https://tr.dior.com/cdn/shop/products/Y0997071_C099700184_E01_GHC_2.jpg?v=1680155688",
+      "localFile": "materials/catalog-7b/originals/b001-b/Dior Forever Glow Veil 30 ml--gc004636.jpg",
+      "verification": {
+        "identity": "Regional official Dior source and global Dior page both identify the 30 ml product.",
+        "volumeAndVariant": "Regional official Dior source and global Dior page both identify the 30 ml product.",
+        "visualReview": "Inspected through view_image. Whole Dior Forever Glow Veil bottle with ivory cap and legible label, pale neutral background, no watermark.",
+        "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+        "qualityCaveat": null,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Dior Forever Glow Veil 30 ml",
+          "url": "https://tr.dior.com/products/dior-forever-glow-veil",
+          "note": "Regional official Dior source and global Dior page both identify the 30 ml product."
+        },
+        {
+          "query": "Dior Forever Glow Veil 30 ml",
+          "url": "https://www.dior.com/en_int/beauty/products/dior-forever-glow-veil-Y0997071.html",
+          "note": "Global official page confirms 30 ml; global image download unavailable; original fetched from official Turkish Dior store."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 1850,
+      "height": 2000,
+      "bytes": 55236,
+      "sha256": "ab01045f75f26509151cfab147a8aa2c5962726c9a4d2265c51409a336145bef",
+      "sharedImageWith": [],
+      "researchedAt": "2026-09-24",
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-b"
+    },
+    {
+      "productId": "gc004820",
+      "variantId": "gc004820",
+      "productName": "Тени для век и праймер Ruby Rose Adorable",
+      "brand": "Ruby Rose",
+      "variant": "Стандарт",
+      "sku": "GC004820",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/eyes/2"
+      ],
+      "index": 23,
+      "batch": 1,
+      "status": "skipped",
+      "sourcePage": "https://eva.ua/pr92061/",
+      "sourceImage": null,
+      "localFile": null,
+      "verification": null,
+      "skipReason": "Exact Adorable HB9909 retail pages were found, but a clean downloadable product original could not be verified: EVA retrieval failed and the former wholesale URL is now a generic listing. No blogger or sibling-palette image substituted.",
+      "searches": [
+        {
+          "query": "Ruby Rose Adorable HB9909 palette",
+          "url": "https://eva.ua/pr92061/",
+          "note": "Indexed and opened exact 17.5 g HB9909 product; local retrieval failed with HTTP error."
+        },
+        {
+          "query": "Ruby Rose Adorable palette buy",
+          "url": "https://www.revendadecosmeticos.com.br/paleta-de-sombras-primer-ruby-rose-adorable-hb-9909.html",
+          "note": "Former product URL resolves as generic wholesale listing; no verifiable exact original obtained."
+        },
+        {
+          "query": "Ruby Rose Adorable HB9909 palette",
+          "url": "https://rozetka.com.ua/ua/374279244/p374279244/",
+          "note": "Exact product listing found; local Rozetka image delivery did not resolve during this research."
+        },
+        {
+          "query": "Ruby Rose Adorable paleta farmacia",
+          "url": "https://blogvinteprimaveras.blogspot.com/2017/11/resenha-de-quarta-paleta-adorable-ruby.html",
+          "note": "Review corroborates 12-color Adorable, but user review photography is not accepted as the required clean retail original."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "sha256": null,
+      "sharedImageWith": [],
+      "researchedAt": "2026-09-24",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-b"
+    },
+    {
+      "productId": "gc004821",
+      "variantId": "gc004821",
+      "productName": "Тени для век и праймер Ruby Rose Be gorgeous",
+      "brand": "Ruby Rose",
+      "variant": "Стандарт",
+      "sku": "GC004821",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/eyes/2"
+      ],
+      "index": 24,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://supreva.com/en/eye-shadow-and-primer-ruby-rose-hb9916-be-gorgeous-18-shades/pd/59S5/",
+      "sourceImage": "https://supreva.com/images/detailed/361/10619171_PRODUCT.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose Be Gorgeous Standard Supreva--gc004821.jpg",
+      "verification": {
+        "identity": "Exact named Be Gorgeous palette, 18 shades, HB9916. Standard variant retained; no catalog weight inferred.",
+        "volumeAndVariant": "Exact named Be Gorgeous palette, 18 shades, HB9916. Standard variant retained; no catalog weight inferred.",
+        "visualReview": "Inspected through view_image. Whole black palette on white; Be GORGEOUS label and 18-pan layout match. Native 550 px image; retain with limited-resolution warning for later preparation.",
+        "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+        "qualityCaveat": "Limited native/source detail: inspect at intended product-page size before integration; do not upscale or invent detail.",
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Ruby Rose Be Gorgeous HB9916",
+          "url": "https://supreva.com/en/eye-shadow-and-primer-ruby-rose-hb9916-be-gorgeous-18-shades/pd/59S5/",
+          "note": "Exact named Be Gorgeous palette, 18 shades, HB9916. Standard variant retained; no catalog weight inferred."
+        },
+        {
+          "query": "Ruby Rose Be Gorgeous palette",
+          "url": "https://www.rubyrose.mn/product-page/be-gorgeous-palette-%D0%BD%D2%AF%D0%B4%D0%BD%D0%B8%D0%B9-%D1%82%D0%B5%D0%BD%D1%8C",
+          "note": "Larger candidate rejected after visual inspection: composite packaging/open palette with a partial UI symbol."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 550,
+      "height": 550,
+      "bytes": 25872,
+      "sha256": "55121467cf5f62efcbe138afbf762af7e72fa7f66f75485c85946b817f460914",
+      "sharedImageWith": [],
+      "researchedAt": "2026-09-24",
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-b"
+    },
+    {
+      "productId": "gc004822",
+      "variantId": "gc004822",
+      "productName": "Тени для век и праймер Ruby Rose Be iconic",
+      "brand": "Ruby Rose",
+      "variant": "Стандарт",
+      "sku": "GC004822",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/eyes/2"
+      ],
+      "index": 25,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.epocacosmeticos.com.br/paleta-de-sombra-ruby-rose-be-iconic/p",
+      "sourceImage": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/357476/6295125012555.jpg?v=637054666523830000",
+      "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose Be Iconic Standard--gc004822.jpg",
+      "verification": {
+        "identity": "Exact named Be Iconic 18-color palette. Catalog Standard retained; no weight added.",
+        "volumeAndVariant": "Exact named Be Iconic 18-color palette. Catalog Standard retained; no weight added.",
+        "visualReview": "Inspected through view_image. Whole gold window palette, Be ICONIC lettering and 18 pans visible, white background, no watermark.",
+        "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+        "qualityCaveat": null,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Ruby Rose Be Iconic palette",
+          "url": "https://www.epocacosmeticos.com.br/paleta-de-sombra-ruby-rose-be-iconic/p",
+          "note": "Exact named Be Iconic 18-color palette. Catalog Standard retained; no weight added."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 1000,
+      "height": 1000,
+      "bytes": 73430,
+      "sha256": "39728b41c205e14b185e2e54abbd4e99ab7998e409721bba06b61af564554f3a",
+      "sharedImageWith": [],
+      "researchedAt": "2026-09-24",
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-b"
+    },
+    {
+      "productId": "gc004823",
+      "variantId": "gc004823",
+      "productName": "Тени для век и праймер Ruby Rose Be natural 1",
+      "brand": "Ruby Rose",
+      "variant": "Стандарт",
+      "sku": "GC004823",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/eyes/2"
+      ],
+      "index": 26,
+      "batch": 1,
+      "status": "skipped",
+      "sourcePage": "https://www.epocacosmeticos.com.br/paleta-de-sombra-ruby-rose-be-natural/p",
+      "sourceImage": null,
+      "localFile": null,
+      "verification": null,
+      "skipReason": "Catalog name explicitly includes Be Natural1. Research found Be Natural / HB9930 and listings with 1 Un (one unit), but none established that the catalog suffix 1 denotes that exact model rather than another version. No identity guessed.",
+      "searches": [
+        {
+          "query": "Ruby Rose Be Natural 1",
+          "url": "https://www.epocacosmeticos.com.br/paleta-de-sombra-ruby-rose-be-natural/p",
+          "note": "Retail title Be Natural 1 Un denotes one unit of an 18-color palette, not evidence of a model named Be Natural1."
+        },
+        {
+          "query": "Ruby Rose Be Natural1",
+          "url": "https://rozetka.com.ua/ruby_rose_6295125021106/p38898200/",
+          "note": "Found Be Natural HB9930, not an independently verified Be Natural1 variant. Exact spelling searches did not disambiguate."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "sha256": null,
+      "sharedImageWith": [],
+      "researchedAt": "2026-09-24",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-b"
+    },
+    {
+      "productId": "gc004824",
+      "variantId": "gc004824",
+      "productName": "Тени для век и праймер Ruby Rose Be smoky",
+      "brand": "Ruby Rose",
+      "variant": "Стандарт",
+      "sku": "GC004824",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/eyes/2"
+      ],
+      "index": 27,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.epocacosmeticos.com.br/paleta-de-sombras-ruby-rose-besmoky/p",
+      "sourceImage": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/358935/be-smoky-ruby-rose-1.jpg?v=637063053823370000",
+      "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose Be Smoky Standard--gc004824.jpg",
+      "verification": {
+        "identity": "Exact Be Smoky 18-color palette; distinguished from separate Smokey 12-color product. Catalog Standard retained.",
+        "volumeAndVariant": "Exact Be Smoky 18-color palette; distinguished from separate Smokey 12-color product. Catalog Standard retained.",
+        "visualReview": "Inspected through view_image. Whole black Be SMOKY palette with 18 pans, white background, no watermark.",
+        "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+        "qualityCaveat": null,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Ruby Rose Be Smoky palette",
+          "url": "https://www.epocacosmeticos.com.br/paleta-de-sombras-ruby-rose-besmoky/p",
+          "note": "Exact Be Smoky 18-color palette; distinguished from separate Smokey 12-color product. Catalog Standard retained."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 1000,
+      "height": 1000,
+      "bytes": 83010,
+      "sha256": "8e9b90699d2dad16452db2cfffbf81e7301f7a7a3672a7189c58e0e6f4968911",
+      "sharedImageWith": [],
+      "researchedAt": "2026-09-24",
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-b"
+    },
+    {
+      "productId": "gc004825",
+      "variantId": "gc004825",
+      "productName": "Тени для век и праймер Ruby Rose Be sweet",
+      "brand": "Ruby Rose",
+      "variant": "Стандарт",
+      "sku": "GC004825",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/eyes/2"
+      ],
+      "index": 28,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.okazii.ro/trusa-de-farduri-ruby-rose-be-sweet-a208060717",
+      "sourceImage": "https://images.okr.ro/serve/product/4d44cc312ad99cc38808063845aeee70-208032",
+      "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose Be Sweet Standard--gc004825.jpg",
+      "verification": {
+        "identity": "Exact named Be Sweet archive listing specifies 18 colors. Beleza na Web independently identifies the same Be Sweet product. Standard retained, no inferred weight.",
+        "volumeAndVariant": "Exact named Be Sweet archive listing specifies 18 colors. Beleza na Web independently identifies the same Be Sweet product. Standard retained, no inferred weight.",
+        "visualReview": "Inspected through view_image. Whole open orange palette with 18 pans, primer and brush; on white, no watermark or interface elements.",
+        "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+        "qualityCaveat": null,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Ruby Rose Be Sweet palette",
+          "url": "https://www.okazii.ro/trusa-de-farduri-ruby-rose-be-sweet-a208060717",
+          "note": "Exact named Be Sweet archive listing specifies 18 colors. Beleza na Web independently identifies the same Be Sweet product. Standard retained, no inferred weight."
+        },
+        {
+          "query": "Ruby Rose Be Sweet paleta loja",
+          "url": "https://www.belezanaweb.com.br/ruby-rose-be-sweet-paleta-de-sombras-16g/",
+          "note": "Exact product page found; direct retrieval blocked 403. Used accessible original image linked from Okazii archive."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 1000,
+      "height": 1000,
+      "bytes": 70160,
+      "sha256": "6c89cfe70ebc4a8b43d83d20da74756841e536c57b5f7e3726f764472f70bf2c",
+      "sharedImageWith": [],
+      "researchedAt": "2026-09-24",
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-b"
+    },
+    {
+      "productId": "gc004826",
+      "variantId": "gc004826",
+      "productName": "Тени для век и праймер Ruby Rose Be velvet",
+      "brand": "Ruby Rose",
+      "variant": "Стандарт",
+      "sku": "GC004826",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/eyes/2"
+      ],
+      "index": 29,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.drogaleste.com.br/paleta-de-sombra-ruby-rose-be-velvet-ref-hb-9915-20268/p",
+      "sourceImage": "https://drogaleste.vtexassets.com/arquivos/ids/261810",
+      "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose Be Velvet Standard Drogaleste--gc004826.png",
+      "verification": {
+        "identity": "Exact named Be Velvet palette, source reference HB9915. Standard retained, no inferred weight.",
+        "volumeAndVariant": "Exact named Be Velvet palette, source reference HB9915. Standard retained, no inferred weight.",
+        "visualReview": "Inspected through view_image. Whole gold Be VELVET 18-pan palette on white, no watermark. Original 1000 px PNG has somewhat soft source detail; no local enlargement performed.",
+        "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+        "qualityCaveat": "Limited native/source detail: inspect at intended product-page size before integration; do not upscale or invent detail.",
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Ruby Rose Be Velvet HB9915",
+          "url": "https://www.drogaleste.com.br/paleta-de-sombra-ruby-rose-be-velvet-ref-hb-9915-20268/p",
+          "note": "Exact named Be Velvet palette, source reference HB9915. Standard retained, no inferred weight."
+        },
+        {
+          "query": "Ruby Rose Be Velvet palette",
+          "url": "https://consultaremedios.com.br/paleta-de-sombras-ruby-rose-be-velvet/p",
+          "note": "Earlier 498x500 original was replaced by 1000x1000 original from Drogaleste."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 1000,
+      "height": 1000,
+      "bytes": 167723,
+      "sha256": "f041042356b8e22fc550f71fac23556f56322603c634c365cf2fb4ca4671a5d8",
+      "sharedImageWith": [],
+      "researchedAt": "2026-09-24",
+      "imageFormat": "PNG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-b"
+    },
+    {
+      "productId": "gc004827",
+      "variantId": "gc004827",
+      "productName": "Тени для век и праймер Ruby Rose Be wonderful",
+      "brand": "Ruby Rose",
+      "variant": "Стандарт",
+      "sku": "GC004827",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/eyes/2"
+      ],
+      "index": 30,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.epocacosmeticos.com.br/paleta-de-sombra-ruby-rose-be-wonderful/p",
+      "sourceImage": "https://epocacosmeticos.vtexassets.com/arquivos/ids/357470/6295125015716.jpg?v=637054665288800000",
+      "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose Be Wonderful Standard--gc004827.jpg",
+      "verification": {
+        "identity": "Exact named Be Wonderful 18-color palette. Standard retained, no inferred weight.",
+        "volumeAndVariant": "Exact named Be Wonderful 18-color palette. Standard retained, no inferred weight.",
+        "visualReview": "Inspected through view_image. Whole cream Be WONDERFUL window palette with 18 pans on white, no watermark.",
+        "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+        "qualityCaveat": null,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Ruby Rose Be Wonderful palette",
+          "url": "https://www.epocacosmeticos.com.br/paleta-de-sombra-ruby-rose-be-wonderful/p",
+          "note": "Exact named Be Wonderful 18-color palette. Standard retained, no inferred weight."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 1000,
+      "height": 1000,
+      "bytes": 92962,
+      "sha256": "491b2a33413af19e60bc8f79ace2145d3a35073ac519d45e2e8d2df792a8f377",
+      "sharedImageWith": [],
+      "researchedAt": "2026-09-24",
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-b"
+    },
+    {
+      "productId": "gc004828",
+      "variantId": "gc004828",
+      "productName": "Тени для век и праймер Ruby Rose Glamour",
+      "brand": "Ruby Rose",
+      "variant": "Стандарт",
+      "sku": "GC004828",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/eyes/2"
+      ],
+      "index": 31,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.drogaleste.com.br/paleta-de-sombra-ruby-rose-glamour-matte-r-hb-9907-20281/p",
+      "sourceImage": "https://drogaleste.vtexassets.com/arquivos/ids/261836",
+      "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose Glamour HB9907 Standard--gc004828.png",
+      "verification": {
+        "identity": "Exact named Glamour palette, reference HB9907; corroborated by Magazine Luiza 12 colors and primer. Standard retained.",
+        "volumeAndVariant": "Exact named Glamour palette, reference HB9907; corroborated by Magazine Luiza 12 colors and primer. Standard retained.",
+        "visualReview": "Inspected through view_image. Whole transparent black Glamour palette, 12 shades and name visible, white background. Native 500 px original; limited detail must be considered during preparation.",
+        "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+        "qualityCaveat": "Limited native/source detail: inspect at intended product-page size before integration; do not upscale or invent detail.",
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Ruby Rose Glamour HB9907",
+          "url": "https://www.drogaleste.com.br/paleta-de-sombra-ruby-rose-glamour-matte-r-hb-9907-20281/p",
+          "note": "Exact named Glamour palette, reference HB9907; corroborated by Magazine Luiza 12 colors and primer. Standard retained."
+        },
+        {
+          "query": "Ruby Rose Glamour HB-9907",
+          "url": "https://www.magazineluiza.com.br/paleta-de-sombras-primer-ruby-rose-glamour-hb-9907/p/635269400/pf/eepm/",
+          "note": "Corroborates Glamour HB9907, 12 colors, primer and brush. Seller warns color positioning may vary by production batch; no individual shade is inferred."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 500,
+      "height": 500,
+      "bytes": 53355,
+      "sha256": "0430bbe85e4118431ddbdcfb05fd05eee59356e2aa840aaa731d095f766ec2b6",
+      "sharedImageWith": [],
+      "researchedAt": "2026-09-24",
+      "imageFormat": "PNG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-b"
+    },
+    {
+      "productId": "gc004830",
+      "variantId": "gc004830",
+      "productName": "Тени для век и праймер Ruby Rose Sex bomb",
+      "brand": "Ruby Rose",
+      "variant": "Стандарт",
+      "sku": "GC004830",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/eyes/2"
+      ],
+      "index": 32,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://consultaremedios.com.br/paleta-de-sombras-ruby-rose-sex-bomb/p",
+      "sourceImage": "https://uploads.consultaremedios.com.br/product_variation_images/full/410e57c05e25fa0ed4af621f4c3e6a75a23a6f57.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose Sex Bomb HB9912 Standard--gc004830.jpg",
+      "verification": {
+        "identity": "Exact named Sex Bomb palette, source HB9912, 12 colors and primer. Standard retained, no inferred weight.",
+        "volumeAndVariant": "Exact named Sex Bomb palette, source HB9912, 12 colors and primer. Standard retained, no inferred weight.",
+        "visualReview": "Inspected through view_image. Whole black/burgundy Sex Bomb window palette on white. Native 500 px image with small product area; identifiable name, but retain limited-resolution warning.",
+        "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+        "qualityCaveat": "Limited native/source detail: inspect at intended product-page size before integration; do not upscale or invent detail.",
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Ruby Rose Sex Bomb HB9912",
+          "url": "https://consultaremedios.com.br/paleta-de-sombras-ruby-rose-sex-bomb/p",
+          "note": "Exact named Sex Bomb palette, source HB9912, 12 colors and primer. Standard retained, no inferred weight."
+        },
+        {
+          "query": "Ruby Rose Sex Bomb HB9912",
+          "url": "https://eva.ua/pr92064/",
+          "note": "Exact product source found but local CDN retrieval failed. Accessible Consulta Remedios original used instead."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 500,
+      "height": 500,
+      "bytes": 16478,
+      "sha256": "8f198a85441cf951d154d7dcf3d29d1804a15410961b3370983cd15451b0b2f8",
+      "sharedImageWith": [],
+      "researchedAt": "2026-09-24",
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-b"
+    },
+    {
+      "productId": "gc004829",
+      "variantId": "gc004829",
+      "productName": "Тени для век и праймер Ruby Rose Smokey",
+      "brand": "Ruby Rose",
+      "variant": "Стандарт",
+      "sku": "GC004829",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/eyes/2"
+      ],
+      "index": 33,
+      "batch": 1,
+      "status": "skipped",
+      "sourcePage": "https://www.magazineluiza.com.br/paleta-de-sombras-smokey-hb9910-ruby-rose/p/gggfc4d5k3/pf/eepm/",
+      "sourceImage": null,
+      "localFile": null,
+      "verification": null,
+      "skipReason": "Exact Smokey HB9910 original from a seller contains red carousel-arrow graphics baked into the photo and was rejected visually. Other exact-source retrievals failed; Be Smoky 18-color photo is a different product and was not substituted.",
+      "searches": [
+        {
+          "query": "Ruby Rose Smokey HB9910 palette",
+          "url": "https://www.magazineluiza.com.br/paleta-de-sombras-smokey-hb9910-ruby-rose/p/gggfc4d5k3/pf/eepm/",
+          "note": "Exact 12-color Smokey HB9910 confirmed. Downloaded 1080x652 source has embedded red left/right interface arrows; rejected."
+        },
+        {
+          "query": "Ruby Rose Smokey HB9910 palette",
+          "url": "https://shopping.inter.co/Paleta-de-Sombras-Smokey-Ruby/p/7697223",
+          "note": "Exact listing found; direct source retrieval 403."
+        },
+        {
+          "query": "Ruby Rose Smokey 12 palette",
+          "url": "https://www.ciceksepeti.com/ruby-rose-smokey-12li-goz-fari-paleti-kc618246",
+          "note": "Exact 12-color Smokey listing; source retrieval denied/HTTP error, no usable original verified."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "sha256": null,
+      "sharedImageWith": [],
+      "researchedAt": "2026-09-24",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-b"
+    },
+    {
+      "productId": "gc004831",
+      "variantId": "gc004831",
+      "productName": "Тени для век и праймер НВ Ruby Rose 9932 Be lovely",
+      "brand": "Ruby Rose",
+      "variant": "Стандарт",
+      "sku": "GC004831",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/eyes/2"
+      ],
+      "index": 34,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://supreva.com/en/eye-shadow-ruby-rose-hb9932-be-lovely-16-g-18-shades/pd/59SP/",
+      "sourceImage": "https://supreva.com/images/detailed/361/10619177_PRODUCT.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-b/Ruby Rose HB9932 Be Lovely Standard--gc004831.jpg",
+      "verification": {
+        "identity": "Exact HB9932 and Be Lovely name, 18 shades. Catalog Standard preserved without adding source weight.",
+        "volumeAndVariant": "Exact HB9932 and Be Lovely name, 18 shades. Catalog Standard preserved without adding source weight.",
+        "visualReview": "Inspected through view_image. Whole pink Be LOVELY palette with 18 pans, clean white background, no watermark. Native 550 px original; limited-resolution warning for preparation.",
+        "originalBytes": "Downloaded response preserved byte-for-byte; PIL verify and load completed; no local transformation.",
+        "qualityCaveat": "Limited native/source detail: inspect at intended product-page size before integration; do not upscale or invent detail.",
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Ruby Rose HB9932 Be Lovely palette",
+          "url": "https://supreva.com/en/eye-shadow-ruby-rose-hb9932-be-lovely-16-g-18-shades/pd/59SP/",
+          "note": "Exact HB9932 and Be Lovely name, 18 shades. Catalog Standard preserved without adding source weight."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 550,
+      "height": 550,
+      "bytes": 19111,
+      "sha256": "893946c7825b4041eddf0ff4e9c4b6d223d1accdc87a2f7c1ac9c4b3059297d0",
+      "sharedImageWith": [],
+      "researchedAt": "2026-09-24",
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-b"
+    },
+    {
+      "productId": "gc005025",
+      "variantId": "gc005025",
+      "productName": "Тушь-основа для ресниц Golden Rose Lash Primer 9 мл",
+      "brand": "Golden Rose",
+      "variant": "9 мл",
+      "sku": "GC005025",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup"
+      ],
+      "index": 35,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.goldenrose.lt/en/golden-rose-lash-primer-9ml",
+      "sourceImage": "https://www.goldenrose.lt/images/uploader/go/golden-rose-lash-primer-blakstienu-tuso-pagrindas-1.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-c/Тушь-основа для ресниц Golden Rose Lash Primer 9 мл 9 мл--gc005025.jpg",
+      "verification": {
+        "identity": "Golden Rose Lash Primer, источник указывает 9 мл. Белый флакон и белая щёточка целиком, без водяного знака, 914×914.",
+        "volumeAndVariant": "Golden Rose Lash Primer, источник указывает 9 мл. Белый флакон и белая щёточка целиком, без водяного знака, 914×914.",
+        "visualReview": "Golden Rose Lash Primer, источник указывает 9 мл. Белый флакон и белая щёточка целиком, без водяного знака, 914×914.",
+        "reviewMethod": "Parent view_image of original bytes; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Golden Rose Lash Primer 9 ml official",
+          "url": "https://www.goldenrose.lt/en/golden-rose-lash-primer-9ml",
+          "note": "Golden Rose Lash Primer, источник указывает 9 мл. Белый флакон и белая щёточка целиком, без водяного знака, 914×914."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 914,
+      "height": 914,
+      "bytes": 91879,
+      "sha256": "53654033f53dd6ee756df7d8766dfb72143b69e7553026f615cb09ebec1cc57c",
+      "checkedAt": "2026-09-24",
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-c"
+    },
+    {
+      "productId": "gc005090",
+      "variantId": "gc005090",
+      "productName": "Увлажняющий праймер-основа для лица Elizavecca Skin Liar Primer",
+      "brand": "Elizavecca",
+      "variant": "Стандарт",
+      "sku": "GC005090",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "index": 36,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.elizavecca.com/goods/goods_view.php?goodsNo=710",
+      "sourceImage": "https://gi.esmplus.com/macill/banner/renewal/skin_liar_primer.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-c/Увлажняющий праймер-основа для лица Elizavecca Skin Liar Primer Стандарт--gc005090.jpg",
+      "verification": {
+        "identity": "Официальный Skin Liar Primer 30 мл: голубой тюбик с красной крышкой, совпадают бренд и линия. В каталоге Стандарт; 30 мл — сведения источника, исходный каталог не дополнялся. Фото 500×500: ограничение качества, перед подготовкой оценить отдельно, не увеличивать с заявлением восстановления деталей.",
+        "volumeAndVariant": "Официальный Skin Liar Primer 30 мл: голубой тюбик с красной крышкой, совпадают бренд и линия. В каталоге Стандарт; 30 мл — сведения источника, исходный каталог не дополнялся. Фото 500×500: ограничение качества, перед подготовкой оценить отдельно, не увеличивать с заявлением восстановления деталей.",
+        "visualReview": "Официальный Skin Liar Primer 30 мл: голубой тюбик с красной крышкой, совпадают бренд и линия. В каталоге Стандарт; 30 мл — сведения источника, исходный каталог не дополнялся. Фото 500×500: ограничение качества, перед подготовкой оценить отдельно, не увеличивать с заявлением восстановления деталей.",
+        "reviewMethod": "Parent view_image of original bytes; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Elizavecca Skin Liar Primer official",
+          "url": "https://www.elizavecca.com/goods/goods_view.php?goodsNo=710",
+          "note": "Официальный Skin Liar Primer 30 мл: голубой тюбик с красной крышкой, совпадают бренд и линия. В каталоге Стандарт; 30 мл — сведения источника, исходный каталог не дополнялся. Фото 500×500: ограничение качества, перед подготовкой оценить отдельно, не увеличивать с заявлением восстановления деталей."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 500,
+      "height": 500,
+      "bytes": 69898,
+      "sha256": "1a16d0ee2aa2a7d6c942270009b93f106a9d83f08ff958789cb8583960d5a228",
+      "checkedAt": "2026-09-24",
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-c"
+    },
+    {
+      "productId": "gc000204",
+      "variantId": "gc000204",
+      "productName": "Устойчивый тональный крем светло-бежевый Art-Visage 202 25 мл",
+      "brand": "Art-Visage",
+      "variant": "25 мл",
+      "sku": "GC000204",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/2"
+      ],
+      "index": 37,
+      "batch": 1,
+      "status": "skipped",
+      "sourcePage": "https://art-visage.ru/product/av_cover_face",
+      "sourceImage": "https://art-visage.ru/pictures/main/product_skus/dd2d9978e49393d641345838159b595e-1.webp",
+      "localFile": null,
+      "verification": null,
+      "skipReason": "Официальный источник показывает переоформленный Cover Face 202 / 25 мл; у Grace указано только «устойчивый» без версии упаковки. Фото600×600 дополнено графическим свотчем и подписью. Кандидат сохранён, но соответствие прежней/новой упаковке не подтверждено; не подменять версию.",
+      "searches": [
+        {
+          "query": "Art Visage устойчивый тональный крем 202 25 мл официальный",
+          "url": "https://art-visage.ru/product/av_cover_face",
+          "note": "Официальный источник показывает переоформленный Cover Face 202 / 25 мл; у Grace указано только «устойчивый» без версии упаковки. Фото600×600 дополнено графическим свотчем и подписью. Кандидат сохранён, но соответствие прежней/новой упаковке не подтверждено; не подменять версию."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "candidate": {
+        "variantId": "gc000204",
+        "sourceImage": "https://art-visage.ru/pictures/main/product_skus/dd2d9978e49393d641345838159b595e-1.webp",
+        "localFile": "materials/catalog-7b/originals/b001-c/Устойчивый тональный крем светло-бежевый Art-Visage 202 25 мл 25 мл--gc000204.webp",
+        "width": 600,
+        "height": 600,
+        "format": "WEBP",
+        "bytes": 20924,
+        "sha256": "8f3a2d77a6596ff51d6b9b09e735ffcb45389df2e247d56a1ba04c585eaa2bfb"
+      },
+      "checkedAt": "2026-09-24",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-c"
+    },
+    {
+      "productId": "parent-0002",
+      "variantId": "gc000547",
+      "productName": "Тональная основа Catrice HD Liquid Coverage Foundation",
+      "brand": "Catrice",
+      "variant": "010",
+      "sku": "GC000547",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/2"
+      ],
+      "index": 38,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.catrice.eu/en-de/p/759828/hd-liquid-coverage-foundation",
+      "sourceImage": "https://i8.amplience.net/i/Cosnova/6981402",
+      "localFile": "materials/catalog-7b/originals/b001-c/Тональная основа Catrice HD Liquid Coverage Foundation 010--gc000547-eu.png",
+      "verification": {
+        "identity": "Официальная страница выбранного оттенка 010 Light Beige связана с отдельным изображением Cosnova. Просмотрен полный открытый флакон и пипетка с маркировкой30мл, без watermark, прозрачный фон, оригинал2000×2000. Превью500×500 заменено оригиналом, байты не редактировались. Сведения источника не меняют каталог; состав текущей версии автоматически не переносится.",
+        "volumeAndVariant": "Официальная страница выбранного оттенка 010 Light Beige связана с отдельным изображением Cosnova. Просмотрен полный открытый флакон и пипетка с маркировкой30мл, без watermark, прозрачный фон, оригинал2000×2000. Превью500×500 заменено оригиналом, байты не редактировались. Сведения источника не меняют каталог; состав текущей версии автоматически не переносится.",
+        "visualReview": "Официальная страница выбранного оттенка 010 Light Beige связана с отдельным изображением Cosnova. Просмотрен полный открытый флакон и пипетка с маркировкой30мл, без watermark, прозрачный фон, оригинал2000×2000. Превью500×500 заменено оригиналом, байты не редактировались. Сведения источника не меняют каталог; состав текущей версии автоматически не переносится.",
+        "reviewMethod": "Parent view_image of original bytes; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "site.catrice.eu HD Liquid Coverage Foundation 010 Light Beige",
+          "url": "https://www.catrice.eu/en-de/p/759828/hd-liquid-coverage-foundation",
+          "note": "Официальная страница выбранного оттенка 010 Light Beige связана с отдельным изображением Cosnova. Просмотрен полный открытый флакон и пипетка с маркировкой30мл, без watermark, прозрачный фон, оригинал2000×2000. Превью500×500 заменено оригиналом, байты не редактировались. Сведения источника не меняют каталог; состав текущей версии автоматически не переносится."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 2000,
+      "height": 2000,
+      "bytes": 1886051,
+      "sha256": "574e82b0d3abca1ea82f03ef5942a554e7aca76a848b524495212b03773d0c0b",
+      "checkedAt": "2026-09-24",
+      "imageFormat": "PNG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-c"
+    },
+    {
+      "productId": "parent-0002",
+      "variantId": "gc000549",
+      "productName": "Тональная основа Catrice HD Liquid Coverage Foundation",
+      "brand": "Catrice",
+      "variant": "020",
+      "sku": "GC000549",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/2"
+      ],
+      "index": 39,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.catrice.eu/en-de/p/759829/hd-liquid-coverage-foundation",
+      "sourceImage": "https://i8.amplience.net/i/Cosnova/6981404",
+      "localFile": "materials/catalog-7b/originals/b001-c/Тональная основа Catrice HD Liquid Coverage Foundation 020--gc000549-eu.png",
+      "verification": {
+        "identity": "Официальная страница выбранного оттенка 020 Rose Beige связана с отдельным изображением Cosnova. Просмотрен полный открытый флакон и пипетка с маркировкой30мл, без watermark, прозрачный фон, оригинал2000×2000. Превью500×500 заменено оригиналом, байты не редактировались. Сведения источника не меняют каталог; состав текущей версии автоматически не переносится.",
+        "volumeAndVariant": "Официальная страница выбранного оттенка 020 Rose Beige связана с отдельным изображением Cosnova. Просмотрен полный открытый флакон и пипетка с маркировкой30мл, без watermark, прозрачный фон, оригинал2000×2000. Превью500×500 заменено оригиналом, байты не редактировались. Сведения источника не меняют каталог; состав текущей версии автоматически не переносится.",
+        "visualReview": "Официальная страница выбранного оттенка 020 Rose Beige связана с отдельным изображением Cosnova. Просмотрен полный открытый флакон и пипетка с маркировкой30мл, без watermark, прозрачный фон, оригинал2000×2000. Превью500×500 заменено оригиналом, байты не редактировались. Сведения источника не меняют каталог; состав текущей версии автоматически не переносится.",
+        "reviewMethod": "Parent view_image of original bytes; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "site.catrice.eu HD Liquid Coverage Foundation 020 Rose Beige",
+          "url": "https://www.catrice.eu/en-de/p/759829/hd-liquid-coverage-foundation",
+          "note": "Официальная страница выбранного оттенка 020 Rose Beige связана с отдельным изображением Cosnova. Просмотрен полный открытый флакон и пипетка с маркировкой30мл, без watermark, прозрачный фон, оригинал2000×2000. Превью500×500 заменено оригиналом, байты не редактировались. Сведения источника не меняют каталог; состав текущей версии автоматически не переносится."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 2000,
+      "height": 2000,
+      "bytes": 1889397,
+      "sha256": "9e77effe18252446bf347821a22998fb0511ceaaf1aeb9cf076856617c614b79",
+      "checkedAt": "2026-09-24",
+      "imageFormat": "PNG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-c"
+    },
+    {
+      "productId": "parent-0002",
+      "variantId": "gc000567",
+      "productName": "Тональная основа Catrice HD Liquid Coverage Foundation",
+      "brand": "Catrice",
+      "variant": "005",
+      "sku": "GC000567",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/2"
+      ],
+      "index": 40,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.catrice.eu/en-de/p/903436/hd-liquid-coverage-foundation",
+      "sourceImage": "https://i8.amplience.net/i/Cosnova/6981398",
+      "localFile": "materials/catalog-7b/originals/b001-c/Тональная основа Catrice HD Liquid Coverage Foundation 005--gc000567-eu.png",
+      "verification": {
+        "identity": "Официальная страница выбранного оттенка 005 Ivory Beige связана с отдельным изображением Cosnova. Просмотрен полный открытый флакон и пипетка с маркировкой30мл, без watermark, прозрачный фон, оригинал2000×2000. Превью500×500 заменено оригиналом, байты не редактировались. Сведения источника не меняют каталог; состав текущей версии автоматически не переносится.",
+        "volumeAndVariant": "Официальная страница выбранного оттенка 005 Ivory Beige связана с отдельным изображением Cosnova. Просмотрен полный открытый флакон и пипетка с маркировкой30мл, без watermark, прозрачный фон, оригинал2000×2000. Превью500×500 заменено оригиналом, байты не редактировались. Сведения источника не меняют каталог; состав текущей версии автоматически не переносится.",
+        "visualReview": "Официальная страница выбранного оттенка 005 Ivory Beige связана с отдельным изображением Cosnova. Просмотрен полный открытый флакон и пипетка с маркировкой30мл, без watermark, прозрачный фон, оригинал2000×2000. Превью500×500 заменено оригиналом, байты не редактировались. Сведения источника не меняют каталог; состав текущей версии автоматически не переносится.",
+        "reviewMethod": "Parent view_image of original bytes; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "site.catrice.eu HD Liquid Coverage Foundation 005 Ivory Beige",
+          "url": "https://www.catrice.eu/en-de/p/903436/hd-liquid-coverage-foundation",
+          "note": "Официальная страница выбранного оттенка 005 Ivory Beige связана с отдельным изображением Cosnova. Просмотрен полный открытый флакон и пипетка с маркировкой30мл, без watermark, прозрачный фон, оригинал2000×2000. Превью500×500 заменено оригиналом, байты не редактировались. Сведения источника не меняют каталог; состав текущей версии автоматически не переносится."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 2000,
+      "height": 2000,
+      "bytes": 1923441,
+      "sha256": "b32d115959f72a44413b6ab3142b2380b1077041d0e845d196afa2178dc643c1",
+      "checkedAt": "2026-09-24",
+      "imageFormat": "PNG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-c"
+    },
+    {
+      "productId": "gc000548",
+      "variantId": "gc000548",
+      "productName": "Тональная основа Catrice HD Liquid Coverage Foundation 002 Porcelain 30 мл",
+      "brand": "Catrice",
+      "variant": "30 мл",
+      "sku": "GC000548",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/2"
+      ],
+      "index": 41,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.catrice.eu/en-de/p/903435/hd-liquid-coverage-foundation",
+      "sourceImage": "https://i8.amplience.net/i/Cosnova/6981396",
+      "localFile": "materials/catalog-7b/originals/b001-c/Тональная основа Catrice HD Liquid Coverage Foundation 002 Porcelain 30 мл 30 мл--gc000548-eu.png",
+      "verification": {
+        "identity": "Официальная страница выбранного оттенка 002 Porcelain Beige связана с отдельным изображением Cosnova. Просмотрен полный открытый флакон и пипетка с маркировкой30мл, без watermark, прозрачный фон, оригинал2000×2000. Превью500×500 заменено оригиналом, байты не редактировались. Сведения источника не меняют каталог; состав текущей версии автоматически не переносится.",
+        "volumeAndVariant": "Официальная страница выбранного оттенка 002 Porcelain Beige связана с отдельным изображением Cosnova. Просмотрен полный открытый флакон и пипетка с маркировкой30мл, без watermark, прозрачный фон, оригинал2000×2000. Превью500×500 заменено оригиналом, байты не редактировались. Сведения источника не меняют каталог; состав текущей версии автоматически не переносится.",
+        "visualReview": "Официальная страница выбранного оттенка 002 Porcelain Beige связана с отдельным изображением Cosnova. Просмотрен полный открытый флакон и пипетка с маркировкой30мл, без watermark, прозрачный фон, оригинал2000×2000. Превью500×500 заменено оригиналом, байты не редактировались. Сведения источника не меняют каталог; состав текущей версии автоматически не переносится.",
+        "reviewMethod": "Parent view_image of original bytes; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "site.catrice.eu HD Liquid Coverage Foundation 002 Porcelain Beige",
+          "url": "https://www.catrice.eu/en-de/p/903435/hd-liquid-coverage-foundation",
+          "note": "Официальная страница выбранного оттенка 002 Porcelain Beige связана с отдельным изображением Cosnova. Просмотрен полный открытый флакон и пипетка с маркировкой30мл, без watermark, прозрачный фон, оригинал2000×2000. Превью500×500 заменено оригиналом, байты не редактировались. Сведения источника не меняют каталог; состав текущей версии автоматически не переносится."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 2000,
+      "height": 2000,
+      "bytes": 1906505,
+      "sha256": "c298ae932145b07954d8a07219233e6dba105cd657e9b0324c1feb2715ece7f2",
+      "checkedAt": "2026-09-24",
+      "imageFormat": "PNG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-c"
+    },
+    {
+      "productId": "gc000564",
+      "variantId": "gc000564",
+      "productName": "Тональная основа Catrice All Matt Shine Control Make Up, 002 N",
+      "brand": "Catrice",
+      "variant": "Стандарт",
+      "sku": "GC000564",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/2"
+      ],
+      "index": 42,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.otto.de/p/catrice-foundation-all-matt-shine-control-make-up-nr-002-n-neutral-ivory-30ml-S0G9M0WO/",
+      "sourceImage": "https://i.otto.de/i/otto/776bee3f-b9f4-5049-8f06-402f54a0f614/catrice-foundation-all-matt-shine-control-make-up-nr-002-n-neutral-ivory-30ml.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-c/Тональная основа Catrice All Matt Shine Control Make Up, 002 N Стандарт--gc000564.jpg",
+      "verification": {
+        "identity": "All Matt Shine Control 002N Neutral Ivory, 30 мл видны на упаковке и подтверждены страницей OTTO. Две проекции одного флакона и свотч, не набор. Исходник сохранён целиком; для единой карточки требуется отдельная проверка композиции при подготовке. Каталожный объём Стандарт не изменён.",
+        "volumeAndVariant": "All Matt Shine Control 002N Neutral Ivory, 30 мл видны на упаковке и подтверждены страницей OTTO. Две проекции одного флакона и свотч, не набор. Исходник сохранён целиком; для единой карточки требуется отдельная проверка композиции при подготовке. Каталожный объём Стандарт не изменён.",
+        "visualReview": "All Matt Shine Control 002N Neutral Ivory, 30 мл видны на упаковке и подтверждены страницей OTTO. Две проекции одного флакона и свотч, не набор. Исходник сохранён целиком; для единой карточки требуется отдельная проверка композиции при подготовке. Каталожный объём Стандарт не изменён.",
+        "reviewMethod": "Parent view_image of original bytes; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Catrice All Matt Shine Control 002 N 010 N 015 foundation official",
+          "url": "https://www.otto.de/p/catrice-foundation-all-matt-shine-control-make-up-nr-002-n-neutral-ivory-30ml-S0G9M0WO/",
+          "note": "All Matt Shine Control 002N Neutral Ivory, 30 мл видны на упаковке и подтверждены страницей OTTO. Две проекции одного флакона и свотч, не набор. Исходник сохранён целиком; для единой карточки требуется отдельная проверка композиции при подготовке. Каталожный объём Стандарт не изменён."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 1000,
+      "height": 1000,
+      "bytes": 28786,
+      "sha256": "bc269deb6e88da8cb94ea64e5f786dfe24994d705b2987c2da43308ea10d37ff",
+      "checkedAt": "2026-09-24",
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-c"
+    },
+    {
+      "productId": "gc000565",
+      "variantId": "gc000565",
+      "productName": "Тональная основа Catrice All Matt Shine Control Make Up, 010 N",
+      "brand": "Catrice",
+      "variant": "Стандарт",
+      "sku": "GC000565",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/2"
+      ],
+      "index": 43,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://lyko.com/de/catrice/catrice-all-matt-shine-control-make-up-010-n",
+      "sourceImage": "https://lyko.com/globalassets/product-images/catrice-all-matt-shine-control-make-up-010-n-2552-492-0010_1.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-c/Тональная основа Catrice All Matt Shine Control Make Up, 010 N Стандарт--gc000565-lyko.jpg",
+      "verification": {
+        "identity": "All Matt Shine Control 010N Neutral Light Beige, 30 мл видны на этикетке. Один полный флакон, белый фон, без watermark. Lyko 232×840 лучше найденного Alza 141×579; ограничение разрешения сохранить при подготовке. Каталожный объём Стандарт не изменён.",
+        "volumeAndVariant": "All Matt Shine Control 010N Neutral Light Beige, 30 мл видны на этикетке. Один полный флакон, белый фон, без watermark. Lyko 232×840 лучше найденного Alza 141×579; ограничение разрешения сохранить при подготовке. Каталожный объём Стандарт не изменён.",
+        "visualReview": "All Matt Shine Control 010N Neutral Light Beige, 30 мл видны на этикетке. Один полный флакон, белый фон, без watermark. Lyko 232×840 лучше найденного Alza 141×579; ограничение разрешения сохранить при подготовке. Каталожный объём Стандарт не изменён.",
+        "reviewMethod": "Parent view_image of original bytes; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Catrice All Matt Shine Control 010 N 30ml",
+          "url": "https://lyko.com/de/catrice/catrice-all-matt-shine-control-make-up-010-n",
+          "note": "All Matt Shine Control 010N Neutral Light Beige, 30 мл видны на этикетке. Один полный флакон, белый фон, без watermark. Lyko 232×840 лучше найденного Alza 141×579; ограничение разрешения сохранить при подготовке. Каталожный объём Стандарт не изменён."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 232,
+      "height": 840,
+      "bytes": 29106,
+      "sha256": "039cf144ac9627d8b6f051772c3e3a5e5e03d8b5e93047db145bf99865201288",
+      "checkedAt": "2026-09-24",
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-c"
+    },
+    {
+      "productId": "gc000566",
+      "variantId": "gc000566",
+      "productName": "Тональная основа с Catrice All Matt Shine Control Make Up, 015",
+      "brand": "Catrice",
+      "variant": "Стандарт",
+      "sku": "GC000566",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/2"
+      ],
+      "index": 44,
+      "batch": 1,
+      "status": "skipped",
+      "sourcePage": "https://www.dm.rs/p/d/1601198/catrice-all-matt-shine-control-tecni-puder-015-cool-vanilla-beige",
+      "sourceImage": null,
+      "localFile": null,
+      "verification": null,
+      "skipReason": "В Grace указан только 015 без полного имени оттенка. Найдены старый 015 Vanilla Beige All Matt Plus и 015C Cool Vanilla Beige обновлённой линии. Без штрихкода или полного названия варианта нельзя выбрать упаковку/подтон.",
+      "searches": [
+        {
+          "query": "Catrice All Matt 015 Vanilla Beige",
+          "url": "https://www.dm.rs/p/d/1601198/catrice-all-matt-shine-control-tecni-puder-015-cool-vanilla-beige",
+          "note": "В Grace указан только 015 без полного имени оттенка. Найдены старый 015 Vanilla Beige All Matt Plus и 015C Cool Vanilla Beige обновлённой линии. Без штрихкода или полного названия варианта нельзя выбрать упаковку/подтон."
+        },
+        {
+          "query": "Catrice All Matt 015 Vanilla Beige",
+          "url": "https://rozetka.com.ua/ua/catrice_4250587792935/p8815507/",
+          "note": "Old 015 Vanilla Beige and new015C are not interchangeable."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "checkedAt": "2026-09-24",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-c"
+    },
+    {
+      "productId": "gc000577",
+      "variantId": "gc000577",
+      "productName": "Матовый Тональный Крем Charlotte Tilbury Airbrush Flawless Foundation 1 Neutral",
+      "brand": "Charlotte Tilbury",
+      "variant": "Стандарт",
+      "sku": "GC000577",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/2"
+      ],
+      "index": 45,
+      "batch": 1,
+      "status": "skipped",
+      "sourcePage": "https://www.charlottetilbury.com/uk/product/airbrush-flawless-foundation-shade-1-neutral-old",
+      "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/VJYwBMl3XGgHBSpAU21G7/ade72ccac8c661bd1e795c039b179801/AIRBRUSH-FLAWLESS-FOUNDATION-1-NEUTRAL-CLOSED.png",
+      "localFile": null,
+      "verification": null,
+      "skipReason": "Оттенок 1 Neutral известен, объём Стандарт. Найден официальный флакон30мл старой версии и предложения мини5мл; размер Grace не подтверждён. Оригинал30мл оставлен кандидатом, не выбран для товара.",
+      "searches": [
+        {
+          "query": "Charlotte Tilbury Airbrush Flawless Foundation 1 Neutral mini",
+          "url": "https://www.charlottetilbury.com/uk/product/airbrush-flawless-foundation-shade-1-neutral-old",
+          "note": "Оттенок 1 Neutral известен, объём Стандарт. Найден официальный флакон30мл старой версии и предложения мини5мл; размер Grace не подтверждён. Оригинал30мл оставлен кандидатом, не выбран для товара."
+        },
+        {
+          "query": "Charlotte Tilbury Airbrush Flawless Foundation MINI sample",
+          "url": "https://houseofbeauty.com.pl/warianty/32246-charlotte-tilbury-airbrush-flawless-foundation-podklad-do-twarzy-mini-sample-probka",
+          "note": "Mini/sample listings include both 1 Neutral and 2 Neutral; no full-size assumption from Standard."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "candidate": {
+        "variantId": "gc000577",
+        "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/VJYwBMl3XGgHBSpAU21G7/ade72ccac8c661bd1e795c039b179801/AIRBRUSH-FLAWLESS-FOUNDATION-1-NEUTRAL-CLOSED.png",
+        "localFile": "materials/catalog-7b/originals/b001-c/Матовый Тональный Крем Charlotte Tilbury Airbrush Flawless Foundation 1 Neutral Станд--gc000577.png",
+        "width": 1000,
+        "height": 1000,
+        "format": "PNG",
+        "bytes": 435188,
+        "sha256": "8a010e863c646420058f9e82b846cdaba9c1b9d92816e60ae57a675da5bdd3c5"
+      },
+      "checkedAt": "2026-09-24",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-c"
+    },
+    {
+      "productId": "gc000578",
+      "variantId": "gc000578",
+      "productName": "Матовый Тональный Крем Charlotte Tilbury Airbrush Flawless Foundation 2 Neutral",
+      "brand": "Charlotte Tilbury",
+      "variant": "Стандарт",
+      "sku": "GC000578",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/2"
+      ],
+      "index": 46,
+      "batch": 1,
+      "status": "skipped",
+      "sourcePage": "https://www.charlottetilbury.com/uk/product/airbrush-flawless-foundation-shade-1-neutral-old",
+      "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/4w5gqLNqirM4AyHBteXBLV/5a952aaf114d000d72d5456e1f262912/AIRBRUSH-FLAWLESS-FOUNDATION-2-NEUTRAL-CLOSED.png",
+      "localFile": null,
+      "verification": null,
+      "skipReason": "Оттенок 2 Neutral известен, объём Стандарт. Официальный архив содержит флакон30мл, а предложения мини-пробников включают2Neutral. Без размера/штрихкода Grace не назначать полноразмерную упаковку.",
+      "searches": [
+        {
+          "query": "Charlotte Tilbury Airbrush Flawless Foundation 1 neutral 2 neutral",
+          "url": "https://www.charlottetilbury.com/uk/product/airbrush-flawless-foundation-shade-1-neutral-old",
+          "note": "Оттенок 2 Neutral известен, объём Стандарт. Официальный архив содержит флакон30мл, а предложения мини-пробников включают2Neutral. Без размера/штрихкода Grace не назначать полноразмерную упаковку."
+        },
+        {
+          "query": "Charlotte Tilbury Airbrush Flawless Foundation MINI sample",
+          "url": "https://houseofbeauty.com.pl/warianty/32246-charlotte-tilbury-airbrush-flawless-foundation-podklad-do-twarzy-mini-sample-probka",
+          "note": "Mini/sample listings include both 1 Neutral and 2 Neutral; no full-size assumption from Standard."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "candidate": {
+        "variantId": "gc000578",
+        "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/4w5gqLNqirM4AyHBteXBLV/5a952aaf114d000d72d5456e1f262912/AIRBRUSH-FLAWLESS-FOUNDATION-2-NEUTRAL-CLOSED.png",
+        "localFile": "materials/catalog-7b/originals/b001-c/Матовый Тональный Крем Charlotte Tilbury Airbrush Flawless Foundation 2 Neutral Станд--gc000578.png",
+        "width": 1000,
+        "height": 1000,
+        "format": "PNG",
+        "bytes": 439578,
+        "sha256": "55fba0624c5782cfb8f7df7b54b2de3dced7904c43b31ec55114cc53358a2a94"
+      },
+      "checkedAt": "2026-09-24",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-c"
+    },
+    {
+      "productId": "gc000587",
+      "variantId": "gc000587",
+      "productName": "Тональная основа-кушон Chupa Chups SPF50+ PA++++ 1.0 Ivory",
+      "brand": "Chupa Chups",
+      "variant": "Стандарт",
+      "sku": "GC000587",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/2"
+      ],
+      "index": 47,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.pharmacosmetica.ru/eshop/chupa-chups-tonalnoe-sredstvo-v-kushone-spf50-pa-slonovaya-kost-14-gr_id_317376.html",
+      "sourceImage": "https://www.pharmacosmetica.ru/files/pharmacosmetica/reg_images/candy-glow-cushion-2.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-c/Тональная основа-кушон Chupa Chups SPF50+ PA++++ 1.0 Ivory Стандарт--gc000587-pharma.jpg",
+      "verification": {
+        "identity": "Pharmacosmetica подтверждает 1.0 Ivory / Strawberry, кушон в футляре, 14 г. Просмотрен красный открытый футляр, без обрезки и watermark, 1342×1500. Свотч Hollyshop, общая сетка четырёх цветов и малое Glow400 отклонены. Стандарт в каталоге не заменялся на объём источника.",
+        "volumeAndVariant": "Pharmacosmetica подтверждает 1.0 Ivory / Strawberry, кушон в футляре, 14 г. Просмотрен красный открытый футляр, без обрезки и watermark, 1342×1500. Свотч Hollyshop, общая сетка четырёх цветов и малое Glow400 отклонены. Стандарт в каталоге не заменялся на объём источника.",
+        "visualReview": "Pharmacosmetica подтверждает 1.0 Ivory / Strawberry, кушон в футляре, 14 г. Просмотрен красный открытый футляр, без обрезки и watermark, 1342×1500. Свотч Hollyshop, общая сетка четырёх цветов и малое Glow400 отклонены. Стандарт в каталоге не заменялся на объём источника.",
+        "reviewMethod": "Parent view_image of original bytes; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Chupa Chups 1.0 Ivory кушон",
+          "url": "https://www.pharmacosmetica.ru/eshop/chupa-chups-tonalnoe-sredstvo-v-kushone-spf50-pa-slonovaya-kost-14-gr_id_317376.html",
+          "note": "Pharmacosmetica подтверждает 1.0 Ivory / Strawberry, кушон в футляре, 14 г. Просмотрен красный открытый футляр, без обрезки и watermark, 1342×1500. Свотч Hollyshop, общая сетка четырёх цветов и малое Glow400 отклонены. Стандарт в каталоге не заменялся на объём источника."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 1342,
+      "height": 1500,
+      "bytes": 393827,
+      "sha256": "c986529e8a9e5bd041365334cb09a445a8ebebee47853a7177dbcffb1b7c1af8",
+      "checkedAt": "2026-09-24",
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-c"
+    },
+    {
+      "productId": "gc000588",
+      "variantId": "gc000588",
+      "productName": "Тональная основа-кушон в оттенке Chupa Chups «2.0 Shell» 14 г",
+      "brand": "Chupa Chups",
+      "variant": "14 г",
+      "sku": "GC000588",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/2"
+      ],
+      "index": 48,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.pharmacosmetica.ru/eshop/chupa-chups-tonalnaya-osnova-kushon-v-ottenke-2-0-shell-_id_432205.html",
+      "sourceImage": "https://www.pharmacosmetica.ru/files/pharmacosmetica/reg_images/eh99989424393-1.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-c/Тональная основа-кушон в оттенке Chupa Chups «2.0 Shell» 14 г 14 г--gc000588.jpg",
+      "verification": {
+        "identity": "Pharmacosmetica подтверждает 2.0 Shell / Cherry, 14 г. Просмотрен розовый открытый футляр с губкой, 1500×1500, не refill и не соседний красный Strawberry. Весь предмет в кадре, без watermark.",
+        "volumeAndVariant": "Pharmacosmetica подтверждает 2.0 Shell / Cherry, 14 г. Просмотрен розовый открытый футляр с губкой, 1500×1500, не refill и не соседний красный Strawberry. Весь предмет в кадре, без watermark.",
+        "visualReview": "Pharmacosmetica подтверждает 2.0 Shell / Cherry, 14 г. Просмотрен розовый открытый футляр с губкой, 1500×1500, не refill и не соседний красный Strawberry. Весь предмет в кадре, без watermark.",
+        "reviewMethod": "Parent view_image of original bytes; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Chupa Chups 2.0 Shell cushion",
+          "url": "https://www.pharmacosmetica.ru/eshop/chupa-chups-tonalnaya-osnova-kushon-v-ottenke-2-0-shell-_id_432205.html",
+          "note": "Pharmacosmetica подтверждает 2.0 Shell / Cherry, 14 г. Просмотрен розовый открытый футляр с губкой, 1500×1500, не refill и не соседний красный Strawberry. Весь предмет в кадре, без watermark."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 1500,
+      "height": 1500,
+      "bytes": 440156,
+      "sha256": "067811abf7c965c641b56403869cca9fdeeeaa6ccdee64b0db3485221ea3535f",
+      "checkedAt": "2026-09-24",
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-c"
+    },
+    {
+      "productId": "gc000589",
+      "variantId": "gc000589",
+      "productName": "Тональная основа-кушон в оттенке 3.0 Chupa Chups 14 г",
+      "brand": "Chupa Chups",
+      "variant": "14 г",
+      "sku": "GC000589",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/2"
+      ],
+      "index": 49,
+      "batch": 1,
+      "status": "verified",
+      "sourcePage": "https://www.pharmacosmetica.ru/eshop/chupa-chups-tonalnaya-osnova-kushon-v-ottenke-3-0-fair-14-g-persik-svetlyy-_id_387953.html",
+      "sourceImage": "https://www.pharmacosmetica.ru/files/pharmacosmetica/reg_images/12098557-2.jpg",
+      "localFile": "materials/catalog-7b/originals/b001-c/Тональная основа-кушон в оттенке 3.0 Chupa Chups 14 г 14 г--gc000589.jpg",
+      "verification": {
+        "identity": "Pharmacosmetica подтверждает 3.0 Fair / Peach, 14 г. Просмотрен персиковый открытый футляр, 900×1200; не refill, без обрезки и watermark. Star Cosmetics перенаправлял на главную, изображение взято из проверенной страницы Pharmacosmetica.",
+        "volumeAndVariant": "Pharmacosmetica подтверждает 3.0 Fair / Peach, 14 г. Просмотрен персиковый открытый футляр, 900×1200; не refill, без обрезки и watermark. Star Cosmetics перенаправлял на главную, изображение взято из проверенной страницы Pharmacosmetica.",
+        "visualReview": "Pharmacosmetica подтверждает 3.0 Fair / Peach, 14 г. Просмотрен персиковый открытый футляр, 900×1200; не refill, без обрезки и watermark. Star Cosmetics перенаправлял на главную, изображение взято из проверенной страницы Pharmacosmetica.",
+        "reviewMethod": "Parent view_image of original bytes; 2026-09-24",
+        "sourceBytesUnmodified": true,
+        "parentReview": "Original viewed through view_image; packaging, label, full object and visible overlays checked on 2026-09-24. Accepted for source collection only; preparation review remains separate."
+      },
+      "skipReason": null,
+      "searches": [
+        {
+          "query": "Chupa Chups 3.0 Fair 14",
+          "url": "https://www.pharmacosmetica.ru/eshop/chupa-chups-tonalnaya-osnova-kushon-v-ottenke-3-0-fair-14-g-persik-svetlyy-_id_387953.html",
+          "note": "Pharmacosmetica подтверждает 3.0 Fair / Peach, 14 г. Просмотрен персиковый открытый футляр, 900×1200; не refill, без обрезки и watermark. Star Cosmetics перенаправлял на главную, изображение взято из проверенной страницы Pharmacosmetica."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "width": 900,
+      "height": 1200,
+      "bytes": 134033,
+      "sha256": "8d77f484498603102be8fa683bc24a69f00f739d109f1b196dbd68e25e40f6b1",
+      "checkedAt": "2026-09-24",
+      "imageFormat": "JPEG",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-c"
+    },
+    {
+      "productId": "gc000643",
+      "variantId": "gc000643",
+      "productName": "Тональная основа DDK",
+      "brand": "DDK",
+      "variant": "Стандарт",
+      "sku": "GC000643",
+      "format": null,
+      "decant": false,
+      "paths": [
+        "makeup/face/2"
+      ],
+      "index": 50,
+      "batch": 1,
+      "status": "skipped",
+      "sourcePage": null,
+      "sourceImage": null,
+      "localFile": null,
+      "verification": null,
+      "skipReason": "По запросам «Тональная основа DDK», «DDK тональный крем» не удалось установить точную модель, объём и оттенок. В каталоге только брендDDK и Стандарт. Найденные кушоны/стики и OEM-предложения не подтверждают конкретную позицию.",
+      "searches": [
+        {
+          "query": "Тональная основа DDK",
+          "url": null,
+          "note": "По запросам «Тональная основа DDK», «DDK тональный крем» не удалось установить точную модель, объём и оттенок. В каталоге только брендDDK и Стандарт. Найденные кушоны/стики и OEM-предложения не подтверждают конкретную позицию."
+        }
+      ],
+      "preparation": {
+        "status": "not-started"
+      },
+      "integration": {
+        "status": "not-started"
+      },
+      "content": {
+        "status": "not-started"
+      },
+      "checkedAt": "2026-09-24",
+      "reviewedAt": "2026-09-24T10:58:53.151031+00:00",
+      "researchPart": "b001-c"
+    }
+  ]
+}

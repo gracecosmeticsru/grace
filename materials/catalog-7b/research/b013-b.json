@@ -1,0 +1,576 @@
+[
+  {
+    "index": 620,
+    "productId": "gc003231",
+    "variantId": "gc003231",
+    "productName": "Кремовый скульптор для лица Charlotte Tilbury «fair-medium»",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/hollywood-contour-wand-light-medium",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/4bcXYILWdLaJJ2HBIvNWxT/5b03ead4d7c537874fb90baa3db92be4/HCW-FAIRMEDIUM-LEGENDARY-PDP.png",
+    "localFile": "materials/catalog-7b/originals/b013-b/Кремовый скульптор для лица Charlotte Tilbury «fair-medium» Стандарт--gc003231.png",
+    "verification": {
+      "identity": "Official Hollywood Contour Wand Fair-Medium page and exact HCW-FAIRMEDIUM primary PNG. Other contour formulations not substituted.",
+      "volumeAndVariant": "Catalog specifies no volume; exact named regular product and shade; no mini or decant substitution.",
+      "visualReview": "Whole tube on alpha, but source1000square and actual opacity>=240 bbox y96..881 gives785px; shadow cannot supply missing product resolution. Blocked.",
+      "reviewMethod": "Full-source fit-contain overview viewed in view_image with alpha flattened on white; prepared review documented separately,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовый скульптор для лица Charlotte Tilbury «fair-medium» Стандарт",
+        "url": "https://www.charlottetilbury.com/uk/product/hollywood-contour-wand-light-medium",
+        "note": "Official Hollywood Contour Wand Fair-Medium page and exact HCW-FAIRMEDIUM primary PNG. Other contour formulations not substituted."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 217103,
+    "sha256": "6619807d0e2257b80cfc2f40e910bd7713f150ed6a193fcfd6249abae76dee65"
+  },
+  {
+    "index": 621,
+    "productId": "gc003232",
+    "variantId": "gc003232",
+    "productName": "Кремовый скульптор для лица Fenty Beauty «01 Amber»",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://fentybeauty.com/products/cheeks-out-freestyle-cream-bronzer-amber",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FB30024_FB3008.jpg?v=1762198230",
+    "localFile": "materials/catalog-7b/originals/b013-b/Кремовый скульптор для лица Fenty Beauty «01 Amber» Стандарт--gc003232.jpg",
+    "verification": {
+      "identity": "Official product data names Cheeks Out Freestyle Cream Bronzer — Amber and directly binds this primary image.",
+      "volumeAndVariant": "Catalog specifies no volume; exact named regular product and shade; no mini or decant substitution.",
+      "visualReview": "Exact Amber cream bronzer octagonal compact on beige textured ground with hard cast shadow; not a white product photo.01Amber cream pot identity distinguished from MatchStix.",
+      "reviewMethod": "Full-source fit-contain overview viewed in view_image with alpha flattened on white; prepared review documented separately,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовый скульптор для лица Fenty Beauty «01 Amber» Стандарт",
+        "url": "https://fentybeauty.com/products/cheeks-out-freestyle-cream-bronzer-amber",
+        "note": "Official product data names Cheeks Out Freestyle Cream Bronzer — Amber and directly binds this primary image."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1500,
+    "format": "JPEG",
+    "bytes": 174702,
+    "sha256": "129c357741bec8a49052749df84994120bebafd9ba080978add12d58fc8f06dc"
+  },
+  {
+    "index": 622,
+    "productId": "parent-0095",
+    "variantId": "gc003233",
+    "productName": "Кремовый скульптор-стик Dior",
+    "variant": "01",
+    "status": "verified",
+    "sourcePage": "https://shop-beauty.dior.com.kw/products/dior-forever-skin-contour?variant=44023163289750",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0405/6006/6710/files/C045300001_E01_GHC_57751cb2-a1d2-4f67-a9ce-059d7fce7f3c.jpg?v=1724743798",
+    "localFile": "materials/catalog-7b/originals/b013-b/Кремовый скульптор-стик Dior 01--gc003233.jpg",
+    "verification": {
+      "identity": "Official product data names 01 LIGHT and directly binds this primary image. Exact variant44023163289750, featured image36694627418262.",
+      "volumeAndVariant": "Catalog specifies no volume; exact named regular product and shade; no mini or decant substitution.",
+      "visualReview": "Full black contour stick and cap, but opaque gray scene and shadows; unsuitable white-background preparation.",
+      "reviewMethod": "Full-source fit-contain overview viewed in view_image with alpha flattened on white; prepared review documented separately,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовый скульптор-стик Dior 01",
+        "url": "https://shop-beauty.dior.com.kw/products/dior-forever-skin-contour?variant=44023163289750",
+        "note": "Official product data names 01 LIGHT and directly binds this primary image. Exact variant44023163289750, featured image36694627418262."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1850,
+    "height": 2000,
+    "format": "JPEG",
+    "bytes": 114058,
+    "sha256": "856685c7b5dcbfd23a90442b624775db734d8b204b55ed02ba3bae304d56aea7"
+  },
+  {
+    "index": 623,
+    "productId": "parent-0095",
+    "variantId": "gc003234",
+    "productName": "Кремовый скульптор-стик Dior",
+    "variant": "03",
+    "status": "skipped",
+    "sourcePage": "https://shop-beauty.dior.com.kw/products/dior-forever-skin-contour",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact Dior Forever Skin Contour family researched. Retrieved official variant list contains01Light,02Tan,04Deep, not03. No exact03 source image available; no nearby shade substituted.",
+    "searches": [
+      {
+        "query": "Кремовый скульптор-стик Dior 03",
+        "url": "https://shop-beauty.dior.com.kw/products/dior-forever-skin-contour",
+        "note": "Exact Dior Forever Skin Contour family researched. Retrieved official variant list contains01Light,02Tan,04Deep, not03. No exact03 source image available; no nearby shade substituted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 624,
+    "productId": "parent-0096",
+    "variantId": "gc004657",
+    "productName": "Скульптор в стике средство для контуринга Haus Labs",
+    "variant": "Angle",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/precision-sculpt-shaping-balm?variant=43106054275160",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Shaping_Balm_Silo_Angle_27ff68b8-9c85-404a-a15c-96c4ffd1ec67.png?v=1784303636",
+    "localFile": "materials/catalog-7b/originals/b013-b/Скульптор в стике средство для контуринга Haus Labs Angle--gc004657.png",
+    "verification": {
+      "identity": "Official product data names Angle and directly binds this primary image. Exact variant43106054275160, featured image45029736939608.",
+      "volumeAndVariant": "Catalog specifies no volume; exact named regular product and shade; no mini or decant substitution.",
+      "visualReview": "Full exact-shade product on white background,2000square, no watermark/graphic, all top/bottom edges intact. Actual object clearly exceeds800px; no shadow-based inflation.",
+      "reviewMethod": "Full-source fit-contain overview viewed in view_image with alpha flattened on white; prepared review documented separately,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Скульптор в стике средство для контуринга Haus Labs Angle",
+        "url": "https://www.hauslabs.com/products/precision-sculpt-shaping-balm?variant=43106054275160",
+        "note": "Official product data names Angle and directly binds this primary image. Exact variant43106054275160, featured image45029736939608."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 239097,
+    "sha256": "90ddd9fdcbda18bbcf4cfe6502e169d8f803ae2eac6598b463f748fc9601e64c"
+  },
+  {
+    "index": 625,
+    "productId": "parent-0096",
+    "variantId": "gc004658",
+    "productName": "Скульптор в стике средство для контуринга Haus Labs",
+    "variant": "Profile",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/precision-sculpt-shaping-balm?variant=43106054439000",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Shaping_Balm_Silo_Profile_7b946d9b-bafb-48a5-8198-494ab5304afe.png?v=1784303636",
+    "localFile": "materials/catalog-7b/originals/b013-b/Скульптор в стике средство для контуринга Haus Labs Profile--gc004658.png",
+    "verification": {
+      "identity": "Official product data names Profile and directly binds this primary image. Exact variant43106054439000, featured image45029737005144.",
+      "volumeAndVariant": "Catalog specifies no volume; exact named regular product and shade; no mini or decant substitution.",
+      "visualReview": "Full exact-shade product on white background,2000square, no watermark/graphic, all top/bottom edges intact. Actual object clearly exceeds800px; no shadow-based inflation.",
+      "reviewMethod": "Full-source fit-contain overview viewed in view_image with alpha flattened on white; prepared review documented separately,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Скульптор в стике средство для контуринга Haus Labs Profile",
+        "url": "https://www.hauslabs.com/products/precision-sculpt-shaping-balm?variant=43106054439000",
+        "note": "Official product data names Profile and directly binds this primary image. Exact variant43106054439000, featured image45029737005144."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 295574,
+    "sha256": "1b9d652642fa296bdded48c668f7a73307fec75b3fc917bbba62182384518bfc"
+  },
+  {
+    "index": 626,
+    "productId": "gc004659",
+    "variantId": "gc004659",
+    "productName": "Скульптор в стике средство для контуринга Westman Atelier «buscuit»",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.westman-atelier.com/products/face-trace-contour-stick-biscuit",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog explicitly says buscuit; official Face Trace product is Biscuit, offered in Original and Petite. Possible typo plus absent catalog size prevents exact original/petite mapping; no silent catalog correction or size guess.",
+    "searches": [
+      {
+        "query": "Скульптор в стике средство для контуринга Westman Atelier «buscuit» Стандарт",
+        "url": "https://www.westman-atelier.com/products/face-trace-contour-stick-biscuit",
+        "note": "Catalog explicitly says buscuit; official Face Trace product is Biscuit, offered in Original and Petite. Possible typo plus absent catalog size prevents exact original/petite mapping; no silent catalog correction or size guess."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 627,
+    "productId": "gc004660",
+    "variantId": "gc004660",
+    "productName": "Скульптор в стике средство для контуринга Westman Atelier «buscuit» 6 г",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.westman-atelier.com/products/face-trace-contour-stick-biscuit",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official original Face Trace is Biscuit6g, but catalog shade is buscuit. Likely spelling error recorded without silently correcting catalog identity; no exact spelling source match accepted in this pass.",
+    "searches": [
+      {
+        "query": "Скульптор в стике средство для контуринга Westman Atelier «buscuit» 6 г Стандарт",
+        "url": "https://www.westman-atelier.com/products/face-trace-contour-stick-biscuit",
+        "note": "Official original Face Trace is Biscuit6g, but catalog shade is buscuit. Likely spelling error recorded without silently correcting catalog identity; no exact spelling source match accepted in this pass."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 628,
+    "productId": "parent-0097",
+    "variantId": "gc004661",
+    "productName": "Скульптор для лица средство для контуринга Estrade Mon Secret",
+    "variant": "201",
+    "status": "verified",
+    "sourcePage": "https://www.parfum-lider.ru/catalog/makiyazh/m_litso/sredstva_dlya_konturinga/19503/",
+    "sourceImage": "https://www.parfum-lider.ru/upload/iblock/714/53fb80u7f8xjw0lvepgkjvpj181bqc8y.png",
+    "localFile": "materials/catalog-7b/originals/b013-b/Скульптор для лица средство для контуринга Estrade Mon Secret 201--gc004661.png",
+    "verification": {
+      "identity": "Dedicated retailer page active shade and direct original image link confirm Mon Secret 201Europe. Separate original linked per shade.",
+      "volumeAndVariant": "7g matches catalog for208; same named powder family201/214 confirmed.",
+      "visualReview": "Whole closed round compact on white, exact colour, but original800square with object only about440px long; below800px object detail. Not enlarged to pass.",
+      "reviewMethod": "Full-source fit-contain overview viewed in view_image with alpha flattened on white; prepared review documented separately,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Скульптор для лица средство для контуринга Estrade Mon Secret 201",
+        "url": "https://www.parfum-lider.ru/catalog/makiyazh/m_litso/sredstva_dlya_konturinga/19503/",
+        "note": "Dedicated retailer page active shade and direct original image link confirm Mon Secret 201Europe. Separate original linked per shade."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 800,
+    "height": 800,
+    "format": "PNG",
+    "bytes": 272468,
+    "sha256": "668ad41f6ce44b08bed244c4aaf2ec07eef361356c88715adc89b43f8447cedb"
+  },
+  {
+    "index": 629,
+    "productId": "parent-0097",
+    "variantId": "gc004663",
+    "productName": "Скульптор для лица средство для контуринга Estrade Mon Secret",
+    "variant": "214",
+    "status": "verified",
+    "sourcePage": "https://www.parfum-lider.ru/catalog/makiyazh/m_litso/sredstva_dlya_konturinga/19505/",
+    "sourceImage": "https://www.parfum-lider.ru/upload/iblock/259/zlqfjgj8bbepov8b9o2dlkf1dtohsnjf.png",
+    "localFile": "materials/catalog-7b/originals/b013-b/Скульптор для лица средство для контуринга Estrade Mon Secret 214--gc004663.png",
+    "verification": {
+      "identity": "Dedicated retailer page active shade and direct original image link confirm Mon Secret 214Asia. Separate original linked per shade.",
+      "volumeAndVariant": "7g matches catalog for208; same named powder family201/214 confirmed.",
+      "visualReview": "Whole closed round compact on white, exact colour, but original800square with object only about440px long; below800px object detail. Not enlarged to pass.",
+      "reviewMethod": "Full-source fit-contain overview viewed in view_image with alpha flattened on white; prepared review documented separately,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Скульптор для лица средство для контуринга Estrade Mon Secret 214",
+        "url": "https://www.parfum-lider.ru/catalog/makiyazh/m_litso/sredstva_dlya_konturinga/19505/",
+        "note": "Dedicated retailer page active shade and direct original image link confirm Mon Secret 214Asia. Separate original linked per shade."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 800,
+    "height": 800,
+    "format": "PNG",
+    "bytes": 250341,
+    "sha256": "323c354d192cd8d0d61dd6d540c6fa479e70ebf6b2bf09324dac5d1b76df6867"
+  },
+  {
+    "index": 630,
+    "productId": "gc004662",
+    "variantId": "gc004662",
+    "productName": "Скульптор для лица Канада средство для контуринга Estrade Mon Secret 208 7 г",
+    "variant": "7 г",
+    "status": "verified",
+    "sourcePage": "https://www.parfum-lider.ru/catalog/makiyazh/m_litso/sredstva_dlya_konturinga/19504/",
+    "sourceImage": "https://www.parfum-lider.ru/upload/iblock/27e/s17e3sls2o2e24xpy8dacyzj8ply6w92.png",
+    "localFile": "materials/catalog-7b/originals/b013-b/Скульптор для лица Канада средство для контуринга Estrade Mon Secret 208 7 г 7 г--gc004662.png",
+    "verification": {
+      "identity": "Dedicated retailer page active shade and direct original image link confirm Mon Secret 208Canada. Separate original linked per shade.",
+      "volumeAndVariant": "7g matches catalog for208; same named powder family201/214 confirmed.",
+      "visualReview": "Whole closed round compact on white, exact colour, but original800square with object only about440px long; below800px object detail. Not enlarged to pass.",
+      "reviewMethod": "Full-source fit-contain overview viewed in view_image with alpha flattened on white; prepared review documented separately,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Скульптор для лица Канада средство для контуринга Estrade Mon Secret 208 7 г 7 г",
+        "url": "https://www.parfum-lider.ru/catalog/makiyazh/m_litso/sredstva_dlya_konturinga/19504/",
+        "note": "Dedicated retailer page active shade and direct original image link confirm Mon Secret 208Canada. Separate original linked per shade."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 800,
+    "height": 800,
+    "format": "PNG",
+    "bytes": 299992,
+    "sha256": "0acfaa8e64832f09d357b8f579fe3fa13855e10c136bd883cb0d67b2151068bb"
+  },
+  {
+    "index": 631,
+    "productId": "gc004757",
+    "variantId": "gc004757",
+    "productName": "Сыворотка для области вокруг глаз Genosys Eye Contour Cream 10 мл",
+    "variant": "10 мл",
+    "status": "skipped",
+    "sourcePage": "https://genosys.co.uk/skin-concern/anti-ageing/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog mixes serum name with Eye Contour Cream10ml. Official brand family has Eye Contour Serum10ml and Eye Contour Cream20ml/20g. Contradictory model/size means no exact package can be mapped without correction.",
+    "searches": [
+      {
+        "query": "Сыворотка для области вокруг глаз Genosys Eye Contour Cream 10 мл 10 мл",
+        "url": "https://genosys.co.uk/skin-concern/anti-ageing/",
+        "note": "Catalog mixes serum name with Eye Contour Cream10ml. Official brand family has Eye Contour Serum10ml and Eye Contour Cream20ml/20g. Contradictory model/size means no exact package can be mapped without correction."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 632,
+    "productId": "gc001480",
+    "variantId": "gc001480",
+    "productName": "Пудра-бронзатор универсальный Luxvisage Sunny Bunny 1",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1460216",
+    "sourceImage": "https://s.f.kz/prod/1461/1460216_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b013-b/Пудра-бронзатор универсальный Luxvisage Sunny Bunny 1 Стандарт--gc001480.jpg",
+    "verification": {
+      "identity": "Dedicated retailer title and numbered shade match exact Luxvisage Sunny Bunny01; source image in explicit1000 gallery link.",
+      "volumeAndVariant": "Catalog specifies no volume; exact named regular product and shade; no mini or decant substitution.",
+      "visualReview": "Actual source462x628, full open compact but below800px minimum.",
+      "reviewMethod": "Full-source fit-contain overview viewed in view_image with alpha flattened on white; prepared review documented separately,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Пудра-бронзатор универсальный Luxvisage Sunny Bunny 1 Стандарт",
+        "url": "https://www.flip.kz/catalog?prod=1460216",
+        "note": "Dedicated retailer title and numbered shade match exact Luxvisage Sunny Bunny01; source image in explicit1000 gallery link."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 462,
+    "height": 628,
+    "format": "JPEG",
+    "bytes": 95629,
+    "sha256": "7b0b77a322962001d34cab6f56eb37b91028c8e49d7e4f90ceddf808d0099845"
+  },
+  {
+    "index": 633,
+    "productId": "gc001801",
+    "variantId": "gc001801",
+    "productName": "Запеченный бронзер для дица SHIK Perfect bronzer 02",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=4457386",
+    "sourceImage": "https://s.f.kz/prod/4458/4457386_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b013-b/Запеченный бронзер для дица SHIK Perfect bronzer 02 Стандарт--gc001801.jpg",
+    "verification": {
+      "identity": "Dedicated retailer title and numbered shade match exact SHIK Perfect Bronzer02; source image in explicit1000 gallery link.",
+      "volumeAndVariant": "Catalog specifies no volume; exact named regular product and shade; no mini or decant substitution.",
+      "visualReview": "Primary gallery is advertising poster with model, promotional text and flag; not isolated product. No crop/removal permitted.",
+      "reviewMethod": "Full-source fit-contain overview viewed in view_image with alpha flattened on white; prepared review documented separately,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Запеченный бронзер для дица SHIK Perfect bronzer 02 Стандарт",
+        "url": "https://www.flip.kz/catalog?prod=4457386",
+        "note": "Dedicated retailer title and numbered shade match exact SHIK Perfect Bronzer02; source image in explicit1000 gallery link."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 750,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 153484,
+    "sha256": "161cea1d9130f63fe1ed146d1d3cb42f64448b3bed5bdc57a1005c1ae336580c"
+  },
+  {
+    "index": 634,
+    "productId": "gc002496",
+    "variantId": "gc002496",
+    "productName": "Бронзатор для лица загар бронзер Estrade Bronze d'or Bronzante №116 116 Звездный",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://olcha.uz/ru/product/view/bronzator-bronze-dor-116-zvezdnyi-zagar-a87cd6a5?region_id=qashqadaryo-region",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact Estrade Bronze dOr116 Star Tan confirmed by focused search and dedicated retailer source. Direct page retrieval is Cloudflare-blocked; no accessible original in quick pass, no policy/block circumvention.",
+    "searches": [
+      {
+        "query": "Бронзатор для лица загар бронзер Estrade Bronze d'or Bronzante №116 116 Звездный Стандарт",
+        "url": "https://olcha.uz/ru/product/view/bronzator-bronze-dor-116-zvezdnyi-zagar-a87cd6a5?region_id=qashqadaryo-region",
+        "note": "Exact Estrade Bronze dOr116 Star Tan confirmed by focused search and dedicated retailer source. Direct page retrieval is Cloudflare-blocked; no accessible original in quick pass, no policy/block circumvention."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 635,
+    "productId": "parent-0098",
+    "variantId": "gc002497",
+    "productName": "Бронзер Haus Labs",
+    "variant": "Bronzed Umber Light",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/power-sculpt-velvet-bronzer?variant=42749615243352",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Bronzer_Powder_Silo_Umber_dc4d42a0-6ae5-48d2-b39b-ab01c22a817b.png?v=1784303629",
+    "localFile": "materials/catalog-7b/originals/b013-b/Бронзер Haus Labs Bronzed Umber Light--gc002497.png",
+    "verification": {
+      "identity": "Official product data names Bronzed Umber Light and directly binds this primary image. Exact variant42749615243352, featured image45029733040216.",
+      "volumeAndVariant": "Catalog specifies no volume; exact named regular product and shade; no mini or decant substitution.",
+      "visualReview": "Full exact-shade product on white background,2000square, no watermark/graphic, all top/bottom edges intact. Actual object clearly exceeds800px; no shadow-based inflation.",
+      "reviewMethod": "Full-source fit-contain overview viewed in view_image with alpha flattened on white; prepared review documented separately,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Бронзер Haus Labs Bronzed Umber Light",
+        "url": "https://www.hauslabs.com/products/power-sculpt-velvet-bronzer?variant=42749615243352",
+        "note": "Official product data names Bronzed Umber Light and directly binds this primary image. Exact variant42749615243352, featured image45029733040216."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 1578995,
+    "sha256": "863001d9371832da0c74452f12b71b6a8daa3f06ba4a272e1938ed27e271b43c"
+  },
+  {
+    "index": 636,
+    "productId": "parent-0098",
+    "variantId": "gc002498",
+    "productName": "Бронзер Haus Labs",
+    "variant": "Soleil Sand Fair",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/power-sculpt-velvet-bronzer?variant=42749615276120",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Bronzer_Powder_Silo_Soleil_Sand_224f1688-7a4d-4c8a-a2a8-ee1e6138cf43.png?v=1784303629",
+    "localFile": "materials/catalog-7b/originals/b013-b/Бронзер Haus Labs Soleil Sand Fair--gc002498.png",
+    "verification": {
+      "identity": "Official product data names Soleil Sand Fair and directly binds this primary image. Exact variant42749615276120, featured image45029733007448.",
+      "volumeAndVariant": "Catalog specifies no volume; exact named regular product and shade; no mini or decant substitution.",
+      "visualReview": "Full exact-shade product on white background,2000square, no watermark/graphic, all top/bottom edges intact. Actual object clearly exceeds800px; no shadow-based inflation.",
+      "reviewMethod": "Full-source fit-contain overview viewed in view_image with alpha flattened on white; prepared review documented separately,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Бронзер Haus Labs Soleil Sand Fair",
+        "url": "https://www.hauslabs.com/products/power-sculpt-velvet-bronzer?variant=42749615276120",
+        "note": "Official product data names Soleil Sand Fair and directly binds this primary image. Exact variant42749615276120, featured image45029733007448."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 1506584,
+    "sha256": "6331bfa12d78e4766e29272f9600072fec5f6eb5034078395d92241274887231"
+  },
+  {
+    "index": 637,
+    "productId": "parent-0098",
+    "variantId": "gc002499",
+    "productName": "Бронзер Haus Labs",
+    "variant": "Terra Sol Light Medium",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/power-sculpt-velvet-bronzer?variant=42749615210584",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Bronzer_Powder_Silo_Terra_Sol_913d9426-4d6b-432e-b643-563894abc37f.png?v=1784303629",
+    "localFile": "materials/catalog-7b/originals/b013-b/Бронзер Haus Labs Terra Sol Light Medium--gc002499.png",
+    "verification": {
+      "identity": "Official product data names Terra Sol Light Medium and directly binds this primary image. Exact variant42749615210584, featured image45029733072984.",
+      "volumeAndVariant": "Catalog specifies no volume; exact named regular product and shade; no mini or decant substitution.",
+      "visualReview": "Full exact-shade product on white background,2000square, no watermark/graphic, all top/bottom edges intact. Actual object clearly exceeds800px; no shadow-based inflation.",
+      "reviewMethod": "Full-source fit-contain overview viewed in view_image with alpha flattened on white; prepared review documented separately,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Бронзер Haus Labs Terra Sol Light Medium",
+        "url": "https://www.hauslabs.com/products/power-sculpt-velvet-bronzer?variant=42749615210584",
+        "note": "Official product data names Terra Sol Light Medium and directly binds this primary image. Exact variant42749615210584, featured image45029733072984."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 1496429,
+    "sha256": "e5de0f28dc9b498e5d77a387f56c58ea274084414ea450eb6358c5814ad26d9b"
+  },
+  {
+    "index": 638,
+    "productId": "gc002500",
+    "variantId": "gc002500",
+    "productName": "Бронзер Hourglass Luminous Bronze Light",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.hourglasscosmetics.com/products/ambient-lighting-bronzer?variant=29474665332854",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0081/1660/0950/files/Cheeks-Main-Product-PDP---Ambient-Lighting-Bronzer_0003_AmbientLightingBronzer_Luminous_Open_7f82ec84-c7aa-44f1-b4c8-87c5e7e46871.png?v=1755084976",
+    "localFile": "materials/catalog-7b/originals/b013-b/Бронзер Hourglass Luminous Bronze Light Стандарт--gc002500.png",
+    "verification": {
+      "identity": "Official product data names Luminous Bronze Light / Full-size - 11 G and directly binds this primary image. Exact variant29474665332854, featured image40467908755654.",
+      "volumeAndVariant": "Full-size11g variant explicitly selected; miniature1.3g alternate excluded. Catalog gives no mini label.",
+      "visualReview": "Whole open square gold compact, Luminous Bronze Light marbled powder; white background, no clipping or graphic,2000square. Full object exceeds800px.",
+      "reviewMethod": "Full-source fit-contain overview viewed in view_image with alpha flattened on white; prepared review documented separately,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Бронзер Hourglass Luminous Bronze Light Стандарт",
+        "url": "https://www.hourglasscosmetics.com/products/ambient-lighting-bronzer?variant=29474665332854",
+        "note": "Official product data names Luminous Bronze Light / Full-size - 11 G and directly binds this primary image. Exact variant29474665332854, featured image40467908755654."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 532268,
+    "sha256": "8def3a5d66320738f1db7b15241a47018f9e4a0c00d19bf82e4b7ec852ff331c"
+  },
+  {
+    "index": 639,
+    "productId": "gc002501",
+    "variantId": "gc002501",
+    "productName": "Бронзер для лица 01 Gucci",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.gucci.com/us/en/pr/beauty/beauty-makeup/01-poudre-de-beaute-eclat-soleil-powder-p-6249759PBR20001",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Gucci Poudre De Beaute Eclat Soleil01 page confirmed exact numbered bronzer. Direct retrieval timed out after20seconds, no corresponding original recovered in focused pass. No similar shade used.",
+    "searches": [
+      {
+        "query": "Бронзер для лица 01 Gucci Стандарт",
+        "url": "https://www.gucci.com/us/en/pr/beauty/beauty-makeup/01-poudre-de-beaute-eclat-soleil-powder-p-6249759PBR20001",
+        "note": "Official Gucci Poudre De Beaute Eclat Soleil01 page confirmed exact numbered bronzer. Direct retrieval timed out after20seconds, no corresponding original recovered in focused pass. No similar shade used."
+      }
+    ],
+    "sharedImageWith": []
+  }
+]

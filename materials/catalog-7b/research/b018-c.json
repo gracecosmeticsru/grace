@@ -1,0 +1,417 @@
+[
+  {
+    "productId": "parent-0125",
+    "variantId": "gc002864",
+    "productName": "Карандаш для бровей Farres",
+    "brand": "Farres",
+    "variant": "03",
+    "sku": "GC002864",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/1"
+    ],
+    "index": 890,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": "https://www.reni5gorsk.ru/catalog_reni/farres/?show=all",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Actual family lookup and shared b018-b research show multiple Farres pencil lines MB010Slim, MB003wooden/comb and DoubleEnd using overlapping shade numbers with different colours. Catalogue only brand and03/04, no model/finish. No family inferred from shade number.",
+    "searches": [
+      {
+        "query": "Карандаш для бровей Farres 03",
+        "url": "https://www.reni5gorsk.ru/catalog_reni/farres/?show=all",
+        "note": "Actual family lookup and shared b018-b research show multiple Farres pencil lines MB010Slim, MB003wooden/comb and DoubleEnd using overlapping shade numbers with different colours. Catalogue only brand and03/04, no model/finish. No family inferred from shade number."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0125",
+    "variantId": "gc002865",
+    "productName": "Карандаш для бровей Farres",
+    "brand": "Farres",
+    "variant": "04",
+    "sku": "GC002865",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/1"
+    ],
+    "index": 891,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": "https://www.reni5gorsk.ru/catalog_reni/farres/?show=all",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Actual family lookup and shared b018-b research show multiple Farres pencil lines MB010Slim, MB003wooden/comb and DoubleEnd using overlapping shade numbers with different colours. Catalogue only brand and03/04, no model/finish. No family inferred from shade number.",
+    "searches": [
+      {
+        "query": "Карандаш для бровей Farres 04",
+        "url": "https://www.reni5gorsk.ru/catalog_reni/farres/?show=all",
+        "note": "Actual family lookup and shared b018-b research show multiple Farres pencil lines MB010Slim, MB003wooden/comb and DoubleEnd using overlapping shade numbers with different colours. Catalogue only brand and03/04, no model/finish. No family inferred from shade number."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc002866",
+    "variantId": "gc002866",
+    "productName": "карандаш для бровей open your eyes light brown рв-003",
+    "brand": "Бренд не подтверждён",
+    "variant": "Стандарт",
+    "sku": "GC002866",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/1"
+    ],
+    "index": 892,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": null,
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused Russian/English OpenYourEyes lightbrown PB/RB003/004 searches returned no identifiable exact cosmetics product; results were unrelated music/publications. Brand is explicitly unconfirmed in catalogue. No invented manufacturer or substituted pencil.",
+    "searches": [
+      {
+        "query": "карандаш для бровей open your eyes light brown рв-003 Стандарт",
+        "url": "web-search://OpenYourEyes-lightbrown-PB003-PB004",
+        "note": "Focused Russian/English OpenYourEyes lightbrown PB/RB003/004 searches returned no identifiable exact cosmetics product; results were unrelated music/publications. Brand is explicitly unconfirmed in catalogue. No invented manufacturer or substituted pencil.",
+        "responseReferences": [
+          "turn777search0",
+          "turn777search1"
+        ]
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc002867",
+    "variantId": "gc002867",
+    "productName": "карандаш для бровей open your eyes light brown рв-004",
+    "brand": "Бренд не подтверждён",
+    "variant": "Стандарт",
+    "sku": "GC002867",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/1"
+    ],
+    "index": 893,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": null,
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused Russian/English OpenYourEyes lightbrown PB/RB003/004 searches returned no identifiable exact cosmetics product; results were unrelated music/publications. Brand is explicitly unconfirmed in catalogue. No invented manufacturer or substituted pencil.",
+    "searches": [
+      {
+        "query": "карандаш для бровей open your eyes light brown рв-004 Стандарт",
+        "url": "web-search://OpenYourEyes-lightbrown-PB003-PB004",
+        "note": "Focused Russian/English OpenYourEyes lightbrown PB/RB003/004 searches returned no identifiable exact cosmetics product; results were unrelated music/publications. Brand is explicitly unconfirmed in catalogue. No invented manufacturer or substituted pencil.",
+        "responseReferences": [
+          "turn777search0",
+          "turn777search1"
+        ]
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0126",
+    "variantId": "gc002868",
+    "productName": "Карандаш для бровей Triumph",
+    "brand": "Triumph",
+    "variant": "002",
+    "sku": "GC002868",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/1"
+    ],
+    "index": 894,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": "https://semen.fedsp.com/catalog/health/dekorativnaya-kosmetika/tf-cw219-karandash-dlya-brovey-eyebrow-pencil-triumph-002-brown-korichnevyy-116896431",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused Triumph eyebrow family searches identify CW219 conventional002Brown/003SoftBrown and distinct CU18ArtBrow01Taupe/03Brunette/04GreyBrown. Catalogue only Triumph and number without model or automatic/conventional type. Multiple families and overlapping01/03 prevent exact-photo assignment; no inferred line.",
+    "searches": [
+      {
+        "query": "Карандаш для бровей Triumph 002",
+        "url": "https://semen.fedsp.com/catalog/health/dekorativnaya-kosmetika/tf-cw219-karandash-dlya-brovey-eyebrow-pencil-triumph-002-brown-korichnevyy-116896431",
+        "note": "Focused Triumph eyebrow family searches identify CW219 conventional002Brown/003SoftBrown and distinct CU18ArtBrow01Taupe/03Brunette/04GreyBrown. Catalogue only Triumph and number without model or automatic/conventional type. Multiple families and overlapping01/03 prevent exact-photo assignment; no inferred line."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0126",
+    "variantId": "gc002869",
+    "productName": "Карандаш для бровей Triumph",
+    "brand": "Triumph",
+    "variant": "003",
+    "sku": "GC002869",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/1"
+    ],
+    "index": 895,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": "https://semen.fedsp.com/catalog/health/dekorativnaya-kosmetika/tf-cw219-karandash-dlya-brovey-eyebrow-pencil-triumph-002-brown-korichnevyy-116896431",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused Triumph eyebrow family searches identify CW219 conventional002Brown/003SoftBrown and distinct CU18ArtBrow01Taupe/03Brunette/04GreyBrown. Catalogue only Triumph and number without model or automatic/conventional type. Multiple families and overlapping01/03 prevent exact-photo assignment; no inferred line.",
+    "searches": [
+      {
+        "query": "Карандаш для бровей Triumph 003",
+        "url": "https://semen.fedsp.com/catalog/health/dekorativnaya-kosmetika/tf-cw219-karandash-dlya-brovey-eyebrow-pencil-triumph-002-brown-korichnevyy-116896431",
+        "note": "Focused Triumph eyebrow family searches identify CW219 conventional002Brown/003SoftBrown and distinct CU18ArtBrow01Taupe/03Brunette/04GreyBrown. Catalogue only Triumph and number without model or automatic/conventional type. Multiple families and overlapping01/03 prevent exact-photo assignment; no inferred line."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0126",
+    "variantId": "gc002870",
+    "productName": "Карандаш для бровей Triumph",
+    "brand": "Triumph",
+    "variant": "01",
+    "sku": "GC002870",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/1"
+    ],
+    "index": 896,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": "https://semen.fedsp.com/catalog/health/dekorativnaya-kosmetika/tf-cw219-karandash-dlya-brovey-eyebrow-pencil-triumph-002-brown-korichnevyy-116896431",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused Triumph eyebrow family searches identify CW219 conventional002Brown/003SoftBrown and distinct CU18ArtBrow01Taupe/03Brunette/04GreyBrown. Catalogue only Triumph and number without model or automatic/conventional type. Multiple families and overlapping01/03 prevent exact-photo assignment; no inferred line.",
+    "searches": [
+      {
+        "query": "Карандаш для бровей Triumph 01",
+        "url": "https://semen.fedsp.com/catalog/health/dekorativnaya-kosmetika/tf-cw219-karandash-dlya-brovey-eyebrow-pencil-triumph-002-brown-korichnevyy-116896431",
+        "note": "Focused Triumph eyebrow family searches identify CW219 conventional002Brown/003SoftBrown and distinct CU18ArtBrow01Taupe/03Brunette/04GreyBrown. Catalogue only Triumph and number without model or automatic/conventional type. Multiple families and overlapping01/03 prevent exact-photo assignment; no inferred line."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0126",
+    "variantId": "gc002871",
+    "productName": "Карандаш для бровей Triumph",
+    "brand": "Triumph",
+    "variant": "03",
+    "sku": "GC002871",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/1"
+    ],
+    "index": 897,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": "https://semen.fedsp.com/catalog/health/dekorativnaya-kosmetika/tf-cw219-karandash-dlya-brovey-eyebrow-pencil-triumph-002-brown-korichnevyy-116896431",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused Triumph eyebrow family searches identify CW219 conventional002Brown/003SoftBrown and distinct CU18ArtBrow01Taupe/03Brunette/04GreyBrown. Catalogue only Triumph and number without model or automatic/conventional type. Multiple families and overlapping01/03 prevent exact-photo assignment; no inferred line.",
+    "searches": [
+      {
+        "query": "Карандаш для бровей Triumph 03",
+        "url": "https://semen.fedsp.com/catalog/health/dekorativnaya-kosmetika/tf-cw219-karandash-dlya-brovey-eyebrow-pencil-triumph-002-brown-korichnevyy-116896431",
+        "note": "Focused Triumph eyebrow family searches identify CW219 conventional002Brown/003SoftBrown and distinct CU18ArtBrow01Taupe/03Brunette/04GreyBrown. Catalogue only Triumph and number without model or automatic/conventional type. Multiple families and overlapping01/03 prevent exact-photo assignment; no inferred line."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0126",
+    "variantId": "gc002872",
+    "productName": "Карандаш для бровей Triumph",
+    "brand": "Triumph",
+    "variant": "04",
+    "sku": "GC002872",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/1"
+    ],
+    "index": 898,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": "https://semen.fedsp.com/catalog/health/dekorativnaya-kosmetika/tf-cw219-karandash-dlya-brovey-eyebrow-pencil-triumph-002-brown-korichnevyy-116896431",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused Triumph eyebrow family searches identify CW219 conventional002Brown/003SoftBrown and distinct CU18ArtBrow01Taupe/03Brunette/04GreyBrown. Catalogue only Triumph and number without model or automatic/conventional type. Multiple families and overlapping01/03 prevent exact-photo assignment; no inferred line.",
+    "searches": [
+      {
+        "query": "Карандаш для бровей Triumph 04",
+        "url": "https://semen.fedsp.com/catalog/health/dekorativnaya-kosmetika/tf-cw219-karandash-dlya-brovey-eyebrow-pencil-triumph-002-brown-korichnevyy-116896431",
+        "note": "Focused Triumph eyebrow family searches identify CW219 conventional002Brown/003SoftBrown and distinct CU18ArtBrow01Taupe/03Brunette/04GreyBrown. Catalogue only Triumph and number without model or automatic/conventional type. Multiple families and overlapping01/03 prevent exact-photo assignment; no inferred line."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc002873",
+    "variantId": "gc002873",
+    "productName": "Карандаш для бровей автоматический TF Cosmetics TF cocmetics 002",
+    "brand": "TF Cosmetics",
+    "variant": "Стандарт",
+    "sku": "GC002873",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/1"
+    ],
+    "index": 899,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": "https://semen.fedsp.com/catalog/health/dekorativnaya-kosmetika/tf-cu18-karandash-dlya-brovey-avtomaticheskiy-art-brow-02-blond-blonde-114508788",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Actual automatic TF002 query found CU18ArtBrow02Blonde while exact002 EyebrowPencilCW219 is a different conventional brown pencil. Catalogue omits model and says automatic002; no conflation of numbered lines or silent correction.",
+    "searches": [
+      {
+        "query": "Карандаш для бровей автоматический TF Cosmetics TF cocmetics 002 Стандарт",
+        "url": "https://semen.fedsp.com/catalog/health/dekorativnaya-kosmetika/tf-cu18-karandash-dlya-brovey-avtomaticheskiy-art-brow-02-blond-blonde-114508788",
+        "note": "Actual automatic TF002 query found CU18ArtBrow02Blonde while exact002 EyebrowPencilCW219 is a different conventional brown pencil. Catalogue omits model and says automatic002; no conflation of numbered lines or silent correction."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0127",
+    "variantId": "gc002973",
+    "productName": "Карандаш-лайнер для бровей с эффектом микроблейдинга Farres cosmetics",
+    "brand": "Farres",
+    "variant": "01",
+    "sku": "GC002973",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/1"
+    ],
+    "index": 900,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": "https://tideways.xozyayushka.az/4627152017647",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused query located exact FarresTattooMicroblading01 retailer page, but automatic approval review rejected page fetch before execution with blocked by policy and no detail. No original retained, no alternate-tool retry.",
+    "searches": [
+      {
+        "query": "Карандаш-лайнер для бровей с эффектом микроблейдинга Farres cosmetics 01",
+        "url": "https://tideways.xozyayushka.az/4627152017647",
+        "note": "Focused query located exact FarresTattooMicroblading01 retailer page, but automatic approval review rejected page fetch before execution with blocked by policy and no detail. No original retained, no alternate-tool retry."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  }
+]

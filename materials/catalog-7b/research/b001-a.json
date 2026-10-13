@@ -1,0 +1,543 @@
+[
+  {
+    "index": 1,
+    "productId": "gc000242",
+    "variantId": "gc000242",
+    "productName": "Крем-праймер дневной матирующий для комбинированной и жирной кожи Belita Pure Green 50 мл",
+    "variant": "50 мл",
+    "localFile": "materials/catalog-7b/originals/b001-a/Крем-праймер дневной матирующий для комбинированной и жирной кожи Belita Pure Green 50 мл 50 мл--gc000242-clean.jpg",
+    "width": 1023,
+    "height": 1023,
+    "format": "JPEG",
+    "bytes": 54837,
+    "sha256": "701dbf5d133a5a096c1c28ba03317ef461b5e5b8069d569f745a56b5d35dc608",
+    "sourceImage": "https://belcosmet.co.uk/cdn/shop/products/31760fc76a433103b28612f462ee5731.jpg?v=1613937810",
+    "status": "verified",
+    "sourcePage": "https://belcosmet.co.uk/products/mattifying-day-cream-primer-for-rash-prone-combination-and-oily-skin",
+    "verification": {
+      "identity": "Belita Pure Green day mattifying cream-primer; seller specifies 50 ml and barcode 4810151026653.",
+      "volumeAndVariant": "Belita Pure Green day mattifying cream-primer; seller specifies 50 ml and barcode 4810151026653.",
+      "visualReview": "White-background pink jar on matching Pure Green box, front text matches day mattifying primer; no watermark. Cosmobest watermarked candidate rejected.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Belita Pure Green 50 ml крем праймер",
+        "url": "https://belcosmet.co.uk/products/mattifying-day-cream-primer-for-rash-prone-combination-and-oily-skin",
+        "note": "Belita Pure Green day mattifying cream-primer; seller specifies 50 ml and barcode 4810151026653."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 2,
+    "productId": "gc000550",
+    "variantId": "gc000550",
+    "productName": "Выравнивающий праймер Catrice Prime And Fine Poreless Blur Primer 30 мл",
+    "variant": "30 мл",
+    "localFile": "materials/catalog-7b/originals/b001-a/Выравнивающий праймер Catrice Prime And Fine Poreless Blur Primer 30 мл 30 мл--gc000550.jpg",
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 42040,
+    "sha256": "c5290a3ef08b09366283f9ff54d3ce09cc866708e16b2b5d93e9cb5b8eb2c084",
+    "sourceImage": "https://acosmetics.gr/wp-content/uploads/2022/01/catrice_cosmetics_prime_and_fine_poreless_blur_primer_30ml-1000x1000-1.jpg",
+    "status": "verified",
+    "sourcePage": "https://acosmetics.gr/product/catrice-cosmetics-catrice-prime-fine-pore-refining-anti-shine-base-30ml/",
+    "verification": {
+      "identity": "Exact legacy Prime And Fine Poreless Blur Primer, 30 ml visible on tube. The Perfector successor was explicitly not substituted.",
+      "volumeAndVariant": "Exact legacy Prime And Fine Poreless Blur Primer, 30 ml visible on tube. The Perfector successor was explicitly not substituted.",
+      "visualReview": "Single pink tube, black cap, Prime And Fine and Goodbye Pores wording, 30 ml, white background, no watermark.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Catrice Prime And Fine Poreless Blur Primer 30 купить",
+        "url": "https://acosmetics.gr/product/catrice-cosmetics-catrice-prime-fine-pore-refining-anti-shine-base-30ml/",
+        "note": "Exact legacy Prime And Fine Poreless Blur Primer, 30 ml visible on tube. The Perfector successor was explicitly not substituted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 3,
+    "productId": "gc000848",
+    "variantId": "gc000848",
+    "productName": "База под макияж маскирующая покраснения Eveline Cosmetics Full HD 30 мл",
+    "variant": "30 мл",
+    "localFile": "materials/catalog-7b/originals/b001-a/База под макияж маскирующая покраснения Eveline Cosmetics Full HD 30 мл 30 мл--gc000848-original.jpg",
+    "width": 500,
+    "height": 700,
+    "format": "JPEG",
+    "bytes": 27576,
+    "sha256": "1f6bde8b9a10a44f04638104e6e19c9e208507935bfc00d62798bf32c76e754c",
+    "sourceImage": "https://content2.rozetka.com.ua/goods/images/original/303206083.jpg",
+    "status": "verified",
+    "sourcePage": "https://rozetka.com.ua/362253915/p362253915/",
+    "verification": {
+      "identity": "Exact green Base Full HD redness-concealing version; page specifies 30 ml.",
+      "volumeAndVariant": "Exact green Base Full HD redness-concealing version; page specifies 30 ml.",
+      "visualReview": "Green tube reads маскирующая покраснения, distinct from pink and gold versions; complete product on white background. Source original is 500x700, retain quality limit for preparation review.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Eveline Full HD база 30 маскирующая покраснения разглаживающая сияющая 4в1",
+        "url": "https://rozetka.com.ua/362253915/p362253915/",
+        "note": "Exact green Base Full HD redness-concealing version; page specifies 30 ml."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 4,
+    "productId": "gc000849",
+    "variantId": "gc000849",
+    "productName": "База под макияж разглаживающая и выравнивающая Eveline Cosmetics Full HD 30 мл",
+    "variant": "30 мл",
+    "localFile": "materials/catalog-7b/originals/b001-a/База под макияж разглаживающая и выравнивающая Eveline Cosmetics Full HD 30 мл 30 мл--gc000849-original.jpg",
+    "width": 500,
+    "height": 700,
+    "format": "JPEG",
+    "bytes": 27430,
+    "sha256": "673f2a61ba458fcc78f4029e6ef33fcf5c9fe06fde91e711b95661b3ea032fe7",
+    "sourceImage": "https://content1.rozetka.com.ua/goods/images/original/303206121.jpg",
+    "status": "verified",
+    "sourcePage": "https://rozetka.com.ua/362253918/p362253918/",
+    "verification": {
+      "identity": "Exact pink smoothing/evening Base Full HD; page specifies 30 ml.",
+      "volumeAndVariant": "Exact pink smoothing/evening Base Full HD; page specifies 30 ml.",
+      "visualReview": "Pink tube reads разглаживает кожу и выравнивает тон; no sibling substitution, complete product on white background. Source original is 500x700; preparation review must avoid apparent upscale blur.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Eveline Base Full HD разглаживающая 30 makeup",
+        "url": "https://rozetka.com.ua/362253918/p362253918/",
+        "note": "Exact pink smoothing/evening Base Full HD; page specifies 30 ml."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 5,
+    "productId": "gc000850",
+    "variantId": "gc000850",
+    "productName": "База под макияж сияющая матовая кожа 4 в 1 Eveline Cosmetics Full HD 30 мл",
+    "variant": "30 мл",
+    "localFile": "materials/catalog-7b/originals/b001-a/База под макияж сияющая матовая кожа 4 в 1 Eveline Cosmetics Full HD 30 мл 30 мл--gc000850.webp",
+    "width": 800,
+    "height": 800,
+    "format": "WEBP",
+    "bytes": 16370,
+    "sha256": "d4953d59064932b935934af829e9bb618da98f3f73a2d2d95046e18c37bf779e",
+    "sourceImage": "https://cosmart.kz/upload/dev2fun.imagecompress/webp/iblock/afc/rhi0jkejy44ka5f5qknxcg23uqs3zr00.webp",
+    "status": "verified",
+    "sourcePage": "https://cosmart.kz/catalog/makiyazh/litso/osnovy_pod_makiyazh/baza_pod_makiyazh_eveline_base_full_hd_siyayushchaya_matovaya_kozha_4v1_30_ml/",
+    "verification": {
+      "identity": "Exact gold 4-in-1 radiant matte Base Full HD, 30 ml on page, barcode 5901761990454.",
+      "volumeAndVariant": "Exact gold 4-in-1 radiant matte Base Full HD, 30 ml on page, barcode 5901761990454.",
+      "visualReview": "Gold tube reads сияющая матовая кожа, numbered 4-in-1 benefits, full cap and tube; white background, no watermark.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Eveline Base Full HD сияющая матовая 4 в 1 30 makeup",
+        "url": "https://cosmart.kz/catalog/makiyazh/litso/osnovy_pod_makiyazh/baza_pod_makiyazh_eveline_base_full_hd_siyayushchaya_matovaya_kozha_4v1_30_ml/",
+        "note": "Exact gold 4-in-1 radiant matte Base Full HD, 30 ml on page, barcode 5901761990454."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 6,
+    "productId": "gc001859",
+    "variantId": "gc001859",
+    "productName": "Увлажняющий крем-праймер для лица SHIK Face primer, 02",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": null,
+    "sourceImage": null,
+    "localFile": null,
+    "width": null,
+    "height": null,
+    "format": null,
+    "bytes": null,
+    "sha256": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "skipReason": "В каталоге задан оттенок 02, но объём Стандарт. Найдены страницы 02 50 мл; объём и упаковка конкретного GC001859 не подтверждены. Не назначать 50 мл по сходству названия.",
+    "searches": [
+      {
+        "query": "SHIK 02 крем-праймер официальный",
+        "url": "https://www.flip.kz/catalog?prod=2937863",
+        "note": "Подтверждает Face Primer 02 50 мл, но в каталоге Grace объёма нет."
+      },
+      {
+        "query": "SHIK Face Primer 02 крем",
+        "url": "https://cream-cosmi.ru/products/shik-krem-praimer-dlya-litsa-uvlazhnyaiuschii-02-face-primer-50-ml",
+        "note": "Второй источник для 50 мл; GC-артикул Grace не сопоставлен с заводским артикулом/штрихкодом."
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "productId": "gc002341",
+    "variantId": "gc002341",
+    "productName": "Увлажняющая база с эффектом Bielenda 30 г",
+    "variant": "30 г",
+    "status": "skipped",
+    "sourcePage": null,
+    "sourceImage": null,
+    "localFile": null,
+    "width": null,
+    "height": null,
+    "format": null,
+    "bytes": null,
+    "sha256": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "skipReason": "Название «Увлажняющая база с эффектом» обрывается до названия эффекта/серии. У Bielenda существуют Glass Skin, Magic Base и другие увлажняющие базы. Точную линейку по названию 30 г установить нельзя.",
+    "searches": [
+      {
+        "query": "Bielenda увлажняющая золотая жемчужная база 30 г",
+        "url": "https://bielenda.pl/en/catalog/make-up-academie",
+        "note": "Официальный каталог перечисляет несколько баз 30 г и отдельно Pearl Base rose и Lumiere Base pearl; недостаточное название Grace не различает их."
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "productId": "gc002416",
+    "variantId": "gc002416",
+    "productName": "Золотая база с эффектом Bielenda 30 г",
+    "variant": "30Г",
+    "status": "skipped",
+    "sourcePage": null,
+    "sourceImage": null,
+    "localFile": null,
+    "width": null,
+    "height": null,
+    "format": null,
+    "bytes": null,
+    "sha256": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "skipReason": "Название «Золотая база с эффектом» обрывается, серия и эффект отсутствуют. Найден кандидат Make-Up Academie Gold Flakes 24k 30 г / Gold 24k, однако соответствие GC002416 конкретной линейке или упаковке не подтверждено.",
+    "searches": [
+      {
+        "query": "Bielenda увлажняющая золотая жемчужная база 30 г",
+        "url": "https://bielenda.pl/en/catalog/make-up-academie",
+        "note": "Официальный каталог перечисляет несколько баз 30 г и отдельно Pearl Base rose и Lumiere Base pearl; недостаточное название Grace не различает их."
+      },
+      {
+        "query": "Bielenda золотая база с эффектом",
+        "url": "https://bielenda.pl/en/catalog/make-up-academie/1208-make-up-gold-24",
+        "note": "Найден оригинальный Gold Flakes 24k 30 г; кандидат не привязан без подтверждения серии."
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "productId": "gc002435",
+    "variantId": "gc002435",
+    "productName": "Жемчужная база под макияж Bielenda 30 г",
+    "variant": "30г",
+    "status": "skipped",
+    "sourcePage": null,
+    "sourceImage": null,
+    "localFile": null,
+    "width": null,
+    "height": null,
+    "format": null,
+    "bytes": null,
+    "sha256": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "skipReason": "В каталоге только «Жемчужная база» 30 г без цвета и серии. У производителя есть розовая Pearl Base и белая Lumiere Base 30 г. Розовая фотография-кандидат не принята, чтобы не подменить оттенок.",
+    "searches": [
+      {
+        "query": "Bielenda увлажняющая золотая жемчужная база 30 г",
+        "url": "https://bielenda.pl/en/catalog/make-up-academie",
+        "note": "Официальный каталог перечисляет несколько баз 30 г и отдельно Pearl Base rose и Lumiere Base pearl; недостаточное название Grace не различает их."
+      },
+      {
+        "query": "Bielenda Pearl Base 30",
+        "url": "https://bielenda.com/make-up-academie-pearl-base-rozowa-baza-pod-makijaz-korygujaca-30-g",
+        "note": "Розовая Pearl Base 30 г EAN5902169022594; белая Lumiere существует отдельно, поэтому розовую не назначаем."
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "productId": "gc003768",
+    "variantId": "gc003768",
+    "productName": "Увлажняющая основа под макияж Estrade Aqua Prime 20 мл",
+    "variant": "20 мл",
+    "localFile": "materials/catalog-7b/originals/b001-a/Увлажняющая основа под макияж Estrade Aqua Prime 20 мл 20 мл--gc003768-second.jpg",
+    "width": 550,
+    "height": 550,
+    "format": "JPEG",
+    "bytes": 23468,
+    "sha256": "69ce3f507b290795ae4b63fd2b384a8d7122908e6aa9b2e401d59b7f6ce687d8",
+    "sourceImage": "https://cdn.insales-shop.ru/images/products/1/3993/2323484569/57.jpg",
+    "status": "verified",
+    "sourcePage": "https://glowbeauty.kz/product/estrade-aqua-prime",
+    "verification": {
+      "identity": "Aqua Prime 20 ml, page product barcode 4690327068089; manufacturer Aqua Prime name on tube.",
+      "volumeAndVariant": "Aqua Prime 20 ml, page product barcode 4690327068089; manufacturer Aqua Prime name on tube.",
+      "visualReview": "Black-and-white Aqua Prime tube, all types of skin; white background, complete edges. Larger of two page originals retained (550x550); this modest resolution is explicitly flagged for later preparation QA.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Estrade Aqua Prime 20 мл фото купить",
+        "url": "https://glowbeauty.kz/product/estrade-aqua-prime",
+        "note": "Aqua Prime 20 ml, page product barcode 4690327068089; manufacturer Aqua Prime name on tube."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 11,
+    "productId": "gc003769",
+    "variantId": "gc003769",
+    "productName": "Сияющая основа под макияж Estrade Marry Me? 30 мл",
+    "variant": "30 мл",
+    "localFile": "materials/catalog-7b/originals/b001-a/Сияющая основа под макияж Estrade Marry Me- 30 мл 30 мл--gc003769-full.jpg",
+    "width": 1200,
+    "height": 1180,
+    "format": "JPEG",
+    "bytes": 66151,
+    "sha256": "fde1d712afc05cefed84f727ff75e18d31f84139a7c39b6dbba90095b5e837ae",
+    "sourceImage": "https://www.estrademakeup.ru/pictures/wr_wares/53_1_1.jpg",
+    "status": "verified",
+    "sourcePage": "https://www.estrademakeup.ru/products/face/marry-me",
+    "verification": {
+      "identity": "Official Marry Me glow primer photo. 30 ml cross-check: make4make Estrade catalog lists Marry Me 30 ml; do not use marketplace 20 ml listing.",
+      "volumeAndVariant": "Official Marry Me glow primer photo. 30 ml cross-check: make4make Estrade catalog lists Marry Me 30 ml; do not use marketplace 20 ml listing.",
+      "visualReview": "Pink closed upright tube labelled Marry Me with ring icon; white background, no watermark, full product.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Estrade Marry Me 30 официальный",
+        "url": "https://www.estrademakeup.ru/products/face/marry-me",
+        "note": "Official Marry Me glow primer photo. 30 ml cross-check: make4make Estrade catalog lists Marry Me 30 ml; do not use marketplace 20 ml listing."
+      },
+      {
+        "query": "Estrade Marry Me Matte Skin Stay Prime 20 30 мл",
+        "url": "https://make4make.ru/estrade/",
+        "note": "Independent size cross-check: Marry Me 30 ml and Stay Prime 20 ml."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 12,
+    "productId": "gc003770",
+    "variantId": "gc003770",
+    "productName": "Матирующая основа под макияж Estrade Matte Skin 20 мл",
+    "variant": "20 мл",
+    "localFile": "materials/catalog-7b/originals/b001-a/Матирующая основа под макияж Estrade Matte Skin 20 мл 20 мл--gc003770-glow.jpg",
+    "width": 800,
+    "height": 786,
+    "format": "JPEG",
+    "bytes": 28875,
+    "sha256": "c3a823420d9465d1f00738b7cd60030c8ded0e4524b5790838fcc0eadb5c2436",
+    "sourceImage": "https://cdn.insales-shop.ru/images/products/1/2956/620972940/1042.jpeg",
+    "status": "verified",
+    "sourcePage": "https://glowbeauty.kz/product/osnova-pod-makiyazh-estrade-matte-skin-primer-20-ml",
+    "verification": {
+      "identity": "Matte Skin primer 20 ml exact page; same black packaging verified against official Estrade Matte Skin page.",
+      "volumeAndVariant": "Matte Skin primer 20 ml exact page; same black packaging verified against official Estrade Matte Skin page.",
+      "visualReview": "Black closed upright tube labelled Matte Skin primer for oily skin with heart icon, white background, no watermark; official promotional image with pink panels and open tube excluded from selected file.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Estrade Matte Skin Stay Prime",
+        "url": "https://glowbeauty.kz/product/osnova-pod-makiyazh-estrade-matte-skin-primer-20-ml",
+        "note": "Matte Skin primer 20 ml exact page; same black packaging verified against official Estrade Matte Skin page."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 13,
+    "productId": "gc003771",
+    "variantId": "gc003771",
+    "productName": "Основа под макияж Защита и стойкость Estrade Stay Prime 20 мл",
+    "variant": "20 мл",
+    "localFile": "materials/catalog-7b/originals/b001-a/Основа под макияж Защита и стойкость Estrade Stay Prime 20 мл 20 мл--gc003771-full.jpg",
+    "width": 1200,
+    "height": 1180,
+    "format": "JPEG",
+    "bytes": 54180,
+    "sha256": "91ccb1524e2f6c3ba45dc2c43489b1dcc040f457133421638087a5427d738fe9",
+    "sourceImage": "https://www.estrademakeup.ru/pictures/wr_wares/52_1_1.jpg",
+    "status": "verified",
+    "sourcePage": "https://www.estrademakeup.ru/products/face/stay-prime-makeup-base",
+    "verification": {
+      "identity": "Official Stay Prime protection/lasting primer image. 20 ml cross-check in make4make Estrade catalog.",
+      "volumeAndVariant": "Official Stay Prime protection/lasting primer image. 20 ml cross-check in make4make Estrade catalog.",
+      "visualReview": "White closed upright tube labelled Stay Prime 16h protect with flame icon, black cap; white background, complete product, no watermark.",
+      "reviewMethod": "view_image of saved unchanged original; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Estrade Matte Skin Stay Prime",
+        "url": "https://www.estrademakeup.ru/products/face/stay-prime-makeup-base",
+        "note": "Official Stay Prime protection/lasting primer image. 20 ml cross-check in make4make Estrade catalog."
+      },
+      {
+        "query": "Estrade Marry Me Matte Skin Stay Prime 20 30 мл",
+        "url": "https://make4make.ru/estrade/",
+        "note": "Independent size cross-check: Marry Me 30 ml and Stay Prime 20 ml."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 14,
+    "productId": "parent-0001",
+    "variantId": "gc004372",
+    "productName": "Праймер база под макияж Charlotte Tilbury Hollywood Flawless Filter",
+    "variant": "2 Fair",
+    "status": "skipped",
+    "sourcePage": null,
+    "sourceImage": null,
+    "localFile": null,
+    "width": null,
+    "height": null,
+    "format": null,
+    "bytes": null,
+    "sha256": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "skipReason": "Оттенок 2 Fair задан, но объём не указан. Официальный бренд предлагает full-size и travel-size с разными упаковками. Нельзя определить, какая упаковка соответствует gc004372, без объёма/штрихкода Grace.",
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Hollywood Flawless Filter 2 Fair",
+        "url": "https://www.charlottetilbury.com/us/product/hollywood-flawless-filter-full-size-travel-size-duo",
+        "note": "Официальная страница full-size + travel-size показывает shade 2 Fair в обеих линейках; выбор по оттенку не определяет объём."
+      },
+      {
+        "query": "site:charlottetilbury.com Hollywood Flawless Filter 2 Fair Travel",
+        "url": "https://www.charlottetilbury.com/us/products/makeup/face/hollywood-flawless-filter",
+        "note": "Официальный каталог отдельно показывает стандартные и Travel версии; Grace хранит только оттенок."
+      }
+    ]
+  },
+  {
+    "index": 15,
+    "productId": "parent-0001",
+    "variantId": "gc004373",
+    "productName": "Праймер база под макияж Charlotte Tilbury Hollywood Flawless Filter",
+    "variant": "2.5 Fair",
+    "status": "skipped",
+    "sourcePage": null,
+    "sourceImage": null,
+    "localFile": null,
+    "width": null,
+    "height": null,
+    "format": null,
+    "bytes": null,
+    "sha256": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "skipReason": "Оттенок 2.5 Fair задан, но объём не указан. Официальный бренд предлагает full-size и travel-size с разными упаковками. Нельзя определить, какая упаковка соответствует gc004373, без объёма/штрихкода Grace.",
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Hollywood Flawless Filter 2.5 Fair",
+        "url": "https://www.charlottetilbury.com/us/product/hollywood-flawless-filter-full-size-travel-size-duo",
+        "note": "Официальная страница full-size + travel-size показывает shade 2.5 Fair в обеих линейках; выбор по оттенку не определяет объём."
+      },
+      {
+        "query": "site:charlottetilbury.com Hollywood Flawless Filter 2.5 Fair Travel",
+        "url": "https://www.charlottetilbury.com/us/products/makeup/face/hollywood-flawless-filter",
+        "note": "Официальный каталог отдельно показывает стандартные и Travel версии; Grace хранит только оттенок."
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "productId": "parent-0001",
+    "variantId": "gc004374",
+    "productName": "Праймер база под макияж Charlotte Tilbury Hollywood Flawless Filter",
+    "variant": "3 Fair",
+    "status": "skipped",
+    "sourcePage": null,
+    "sourceImage": null,
+    "localFile": null,
+    "width": null,
+    "height": null,
+    "format": null,
+    "bytes": null,
+    "sha256": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "skipReason": "Оттенок 3 Fair задан, но объём не указан. Официальный бренд предлагает full-size и travel-size с разными упаковками. Нельзя определить, какая упаковка соответствует gc004374, без объёма/штрихкода Grace.",
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Hollywood Flawless Filter 3 Fair",
+        "url": "https://www.charlottetilbury.com/us/product/hollywood-flawless-filter-full-size-travel-size-duo",
+        "note": "Официальная страница full-size + travel-size показывает shade 3 Fair в обеих линейках; выбор по оттенку не определяет объём."
+      },
+      {
+        "query": "site:charlottetilbury.com Hollywood Flawless Filter 3 Fair Travel",
+        "url": "https://www.charlottetilbury.com/us/products/makeup/face/hollywood-flawless-filter",
+        "note": "Официальный каталог отдельно показывает стандартные и Travel версии; Grace хранит только оттенок."
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "productId": "parent-0001",
+    "variantId": "gc004375",
+    "productName": "Праймер база под макияж Charlotte Tilbury Hollywood Flawless Filter",
+    "variant": "4 Medium",
+    "status": "skipped",
+    "sourcePage": null,
+    "sourceImage": null,
+    "localFile": null,
+    "width": null,
+    "height": null,
+    "format": null,
+    "bytes": null,
+    "sha256": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "skipReason": "Оттенок 4 Medium задан, но объём не указан. Официальный бренд предлагает full-size и travel-size с разными упаковками. Нельзя определить, какая упаковка соответствует gc004375, без объёма/штрихкода Grace.",
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Hollywood Flawless Filter 4 Medium",
+        "url": "https://www.charlottetilbury.com/us/product/hollywood-flawless-filter-full-size-travel-size-duo",
+        "note": "Официальная страница full-size + travel-size показывает shade 4 Medium в обеих линейках; выбор по оттенку не определяет объём."
+      },
+      {
+        "query": "site:charlottetilbury.com Hollywood Flawless Filter 4 Medium Travel",
+        "url": "https://www.charlottetilbury.com/us/products/makeup/face/hollywood-flawless-filter",
+        "note": "Официальный каталог отдельно показывает стандартные и Travel версии; Grace хранит только оттенок."
+      }
+    ]
+  }
+]

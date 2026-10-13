@@ -1,0 +1,830 @@
+[
+  {
+    "productId": "gc000816",
+    "variantId": "gc000816",
+    "productName": "Тушь для ресниц объем черная Eveline Cosmetics Variete Lashes Show 15 мл",
+    "brand": "Eveline Cosmetics",
+    "variant": "15 мл",
+    "sku": "GC000816",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 720,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://evelinecosmetics.com/products/lashes-show-mascara",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official product volume10ml conflicts with catalog15ml. No exact15ml image in quick family lookup; do not substitute current10ml.",
+    "searches": [
+      {
+        "query": "Eveline Variete Lashes Show15ml",
+        "url": "https://evelinecosmetics.com/products/lashes-show-mascara",
+        "note": "Official product volume10ml conflicts with catalog15ml. No exact15ml image in quick family lookup; do not substitute current10ml."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc000825",
+    "variantId": "gc000825",
+    "productName": "Тушь для ресниц черная Eveline Cosmetics Big Volume Explosion 12 мл",
+    "brand": "Eveline Cosmetics",
+    "variant": "12 мл",
+    "sku": "GC000825",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 721,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://evelinecosmetics.com/products/explosion-mascara-black",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0725/7659/8242/files/678249380d8f35.51176599.jpg?v=1736591678",
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Fetched official page explicitly Volume11ml, catalog12ml. Gold candidate original retained for audit only; no assumption that11ml packaging matches old12ml.",
+    "searches": [
+      {
+        "query": "Eveline Big Volume Explosion mascara12ml",
+        "url": "https://evelinecosmetics.com/products/explosion-mascara-black",
+        "note": "Fetched official page explicitly Volume11ml, catalog12ml. Gold candidate original retained for audit only; no assumption that11ml packaging matches old12ml."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateFile": "materials/catalog-7b/originals/b015-b/Тушь для ресниц черная Eveline Cosmetics Big Volume Explosion 12 мл 12 мл--gc000825.jpg",
+    "candidateSha256": "6805e03df963e34239137c9cc8445c17b57fecfde4ebf2091cb1b5eb87d04d90"
+  },
+  {
+    "productId": "gc000894",
+    "variantId": "gc000894",
+    "productName": "Тушь Объем и удлинение Eveline Cosmetics Extension Volume",
+    "brand": "Eveline Cosmetics",
+    "variant": "Стандарт",
+    "sku": "GC000894",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 722,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://evelinecosmetics.com/products/volume-definition-mascara/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Search found Extension Volume4D FalseDefinition and separate Lengthing/Curling lines. Catalog says only Extension Volume/volume+length, without4D model/subline. Exact package cannot be selected confidently from family.",
+    "searches": [
+      {
+        "query": "Eveline Extension Volume mascara official",
+        "url": "https://evelinecosmetics.com/products/volume-definition-mascara/",
+        "note": "Search found Extension Volume4D FalseDefinition and separate Lengthing/Curling lines. Catalog says only Extension Volume/volume+length, without4D model/subline. Exact package cannot be selected confidently from family."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc001416",
+    "variantId": "gc001416",
+    "productName": "Тушь разделение-объем-форма Luxvisage XXL",
+    "brand": "Luxvisage",
+    "variant": "Стандарт",
+    "sku": "GC001416",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 723,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://beloris.ru/item/tush-dlya-resnits-lux-visage-4",
+    "sourceImage": "https://static.beloris.ru/content/catalog_image/556/tmp/white_950_9501643638250_lyuks_vizag_tush_dlya_resnits_lux_visage_4.jpg",
+    "localFile": "materials/catalog-7b/originals/b015-b/Тушь разделение-объем-форма Luxvisage XXL Стандарт--gc001416.jpg",
+    "verification": {
+      "identity": "Beloris exact Luxvisage XXL Объем/Форма/Разделение.",
+      "volumeAndVariant": "Standard black9g exact named line; no other XXL line substituted.",
+      "visualReview": "Full-fit sources-overview.png inspected; source quality and final outcome detailed in review.md/results.json.",
+      "reviewMethod": "page identity plus exact selectedvariant where relevant; original pixels viewed in contain contact sheet and ready candidates individually",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тушь разделение-объем-форма Luxvisage XXL official exact family image",
+        "url": "https://beloris.ru/item/tush-dlya-resnits-lux-visage-4",
+        "note": "Beloris exact Luxvisage XXL Объем/Форма/Разделение. Standard black9g exact named line; no other XXL line substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 950,
+    "height": 950,
+    "bytes": 40229,
+    "sha256": "4eaeeba00d20eca7b387bf81bd25b64586e17a794da91aaef5b59018693b2ae5"
+  },
+  {
+    "productId": "gc001444",
+    "variantId": "gc001444",
+    "productName": "Тушь СУПЕРОБЪЕМ-Эффект Накладных Ресниц Luxvisage XXL",
+    "brand": "Luxvisage",
+    "variant": "Стандарт",
+    "sku": "GC001444",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 724,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://beloris.ru/item/tush-dlya-resnits-xxl-superobem",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact family page offers both black and brown; catalog omits shade. No shade inferred and no package substituted.",
+    "searches": [
+      {
+        "query": "Luxvisage XXL суперобъем эффект накладных ресниц",
+        "url": "https://beloris.ru/item/tush-dlya-resnits-xxl-superobem",
+        "note": "Exact family page offers both black and brown; catalog omits shade. No shade inferred and no package substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc001667",
+    "variantId": "gc001667",
+    "productName": "Тушь для ресниц коричневая REFY Lash Sculpt",
+    "brand": "REFY",
+    "variant": "Стандарт",
+    "sku": "GC001667",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 725,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://refybeauty.com/products/lash-sculpt?variant=55530270720386",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0368/0950/6955/files/LASH_SCULPT_-_FLAT_2.jpg?v=1759406137",
+    "localFile": "materials/catalog-7b/originals/b015-b/Тушь для ресниц коричневая REFY Lash Sculpt Стандарт--gc001667.jpg",
+    "verification": {
+      "identity": "REFY Lash Sculpt Brown; Shopify variant55530270720386 binds this exact image.",
+      "volumeAndVariant": "Official single standard10ml; brown variant selected. Closed body and black wand image is identical to black asset on official mappings.",
+      "visualReview": "Full-fit sources-overview.png inspected; source quality and final outcome detailed in review.md/results.json.",
+      "reviewMethod": "page identity plus exact selectedvariant where relevant; original pixels viewed in contain contact sheet and ready candidates individually",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тушь для ресниц коричневая REFY Lash Sculpt official exact family image",
+        "url": "https://refybeauty.com/products/lash-sculpt?variant=55530270720386",
+        "note": "REFY Lash Sculpt Brown; Shopify variant55530270720386 binds this exact image. Official single standard10ml; brown variant selected. Closed body and black wand image is identical to black asset on official mappings."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1080,
+    "height": 1300,
+    "bytes": 35303,
+    "sha256": "468f017a8f3d1d3efc570320e83a1198b72d09713d265285665040861ff9d6ce",
+    "sharedImageWith": [
+      "gc001668"
+    ]
+  },
+  {
+    "productId": "gc001668",
+    "variantId": "gc001668",
+    "productName": "Тушь для ресниц черная REFY Lash Sculpt",
+    "brand": "REFY",
+    "variant": "Стандарт",
+    "sku": "GC001668",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 726,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://refybeauty.com/products/lash-sculpt?variant=55530270687618",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0368/0950/6955/files/LASH_SCULPT_-_FLAT.jpg?v=1759406137",
+    "localFile": "materials/catalog-7b/originals/b015-b/Тушь для ресниц черная REFY Lash Sculpt Стандарт--gc001668.jpg",
+    "verification": {
+      "identity": "REFY Lash Sculpt Black; Shopify variant55530270687618 binds this exact image.",
+      "volumeAndVariant": "Official single standard10ml; black variant selected.",
+      "visualReview": "Full-fit sources-overview.png inspected; source quality and final outcome detailed in review.md/results.json.",
+      "reviewMethod": "page identity plus exact selectedvariant where relevant; original pixels viewed in contain contact sheet and ready candidates individually",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тушь для ресниц черная REFY Lash Sculpt official exact family image",
+        "url": "https://refybeauty.com/products/lash-sculpt?variant=55530270687618",
+        "note": "REFY Lash Sculpt Black; Shopify variant55530270687618 binds this exact image. Official single standard10ml; black variant selected."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1080,
+    "height": 1300,
+    "bytes": 35303,
+    "sha256": "468f017a8f3d1d3efc570320e83a1198b72d09713d265285665040861ff9d6ce",
+    "sharedImageWith": [
+      "gc001667"
+    ]
+  },
+  {
+    "productId": "gc001742",
+    "variantId": "gc001742",
+    "productName": "Тушь для ресниц Синяя Relouis Mascarad",
+    "brand": "Relouis",
+    "variant": "Стандарт",
+    "sku": "GC001742",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 727,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/product/mascarad/",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2017/10/Tush-dlya-resnits-superobemnaya-Mascsrad-_web-zelenaya-ALESE-3.jpg",
+    "localFile": "materials/catalog-7b/originals/b015-b/Тушь для ресниц Синяя Relouis Mascarad Стандарт--gc001742.jpg",
+    "verification": {
+      "identity": "Official Relouis Mascarad selected blue datatype0, barcode4810438018685; physical tube explicitly reads синяя.",
+      "volumeAndVariant": "Standard10g blue; first product-image-active belongs to selectedblue. Asset filename says zelenaya but actual pixels and page mapping prove blue; no filename guess.",
+      "visualReview": "Full-fit sources-overview.png inspected; source quality and final outcome detailed in review.md/results.json.",
+      "reviewMethod": "page identity plus exact selectedvariant where relevant; original pixels viewed in contain contact sheet and ready candidates individually",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тушь для ресниц Синяя Relouis Mascarad official exact family image",
+        "url": "https://relouis.by/product/mascarad/",
+        "note": "Official Relouis Mascarad selected blue datatype0, barcode4810438018685; physical tube explicitly reads синяя. Standard10g blue; first product-image-active belongs to selectedblue. Asset filename says zelenaya but actual pixels and page mapping prove blue; no filename guess."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1080,
+    "height": 1080,
+    "bytes": 49792,
+    "sha256": "4ae1b6c3e61d418f97e4bef77cf2377dd180741fc11efaa959accd515a194b4e"
+  },
+  {
+    "productId": "gc001785",
+    "variantId": "gc001785",
+    "productName": "Тушь для ресниц цветная синяя удлиняющая SHIK aspect violet eyelash mascara",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001785",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 728,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://t.me/s/shikcosmetics?before=6122",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog internally conflicts: синяя(blue) but productline says VIOLET. Official brand channel confirms VIOLET variant. Cannot assign purple image to blue text.",
+    "searches": [
+      {
+        "query": "SHIK aspect violet eyelash mascara",
+        "url": "https://t.me/s/shikcosmetics?before=6122",
+        "note": "Catalog internally conflicts: синяя(blue) but productline says VIOLET. Official brand channel confirms VIOLET variant. Cannot assign purple image to blue text."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc001839",
+    "variantId": "gc001839",
+    "productName": "Объёмная тушь для ресниц SHIK",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001839",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 729,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://shikstore.ru/en/product/extra-volume-eyelash-mascara",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official search found Extra Volume Eyelash Mascara black11.5g, but catalog has only Объемная тушь SHIK with no line/shade/size. Exact identity cannot be confirmed from generic label.",
+    "searches": [
+      {
+        "query": "site:shikstore.ru тушь VOLUME",
+        "url": "https://shikstore.ru/en/product/extra-volume-eyelash-mascara",
+        "note": "Official search found Extra Volume Eyelash Mascara black11.5g, but catalog has only Объемная тушь SHIK with no line/shade/size. Exact identity cannot be confirmed from generic label."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc001854",
+    "variantId": "gc001854",
+    "productName": "Тушь для ресниц Коричневая SHIK Eyelash mascara",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001854",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 730,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://www.promakeup.shop/magazin/vendor/shik/p/2",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Indexed retailer family lists brown Aspect and purple. Best retailer HTML fetch failed TLS; no source image bound to brown obtained in quick pass. Original catalogue does not state Aspect, no random variant substituted.",
+    "searches": [
+      {
+        "query": "SHIK Aspect Eyelash Mascara brown",
+        "url": "https://www.promakeup.shop/magazin/vendor/shik/p/2",
+        "note": "Indexed retailer family lists brown Aspect and purple. Best retailer HTML fetch failed TLS; no source image bound to brown obtained in quick pass. Original catalogue does not state Aspect, no random variant substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc001979",
+    "variantId": "gc001979",
+    "productName": "Тушь для ресниц Topface 3Dimension Volume Mascara",
+    "brand": "Topface",
+    "variant": "Стандарт",
+    "sku": "GC001979",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 731,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://topfaceegypt.com/products/topface-3dimension-volume-mascara",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0796/2361/8808/files/IMG_20260902_173131_479_jpg.jpg?v=1788359542",
+    "localFile": "materials/catalog-7b/originals/b015-b/Тушь для ресниц Topface 3Dimension Volume Mascara Стандарт--gc001979.jpg",
+    "verification": {
+      "identity": "Topface regionalstore exact3Dimension Volume Mascara/PT314.",
+      "volumeAndVariant": "Single standard mascara matching product line; no substitute shade selected.",
+      "visualReview": "Full-fit sources-overview.png inspected; source quality and final outcome detailed in review.md/results.json.",
+      "reviewMethod": "page identity plus exact selectedvariant where relevant; original pixels viewed in contain contact sheet and ready candidates individually",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тушь для ресниц Topface 3Dimension Volume Mascara official exact family image",
+        "url": "https://topfaceegypt.com/products/topface-3dimension-volume-mascara",
+        "note": "Topface regionalstore exact3Dimension Volume Mascara/PT314. Single standard mascara matching product line; no substitute shade selected."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 500,
+    "height": 500,
+    "bytes": 15578,
+    "sha256": "e28e2710b46fb8066a85e61f1e461b98a1ff85ad4565f6f5cba54d7337323865"
+  },
+  {
+    "productId": "gc002545",
+    "variantId": "gc002545",
+    "productName": "Водостойкая тушь для ресниц YSL Lash Clash 1 Black 9ml",
+    "brand": "Yves Saint Laurent",
+    "variant": "9мл",
+    "sku": "GC002545",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 732,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://www.sephora.es/p/lash-clash-waterproof-mascara---m%C3%A1scara-de-pestanas-negra-P10056931.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact indexed waterproof black9ml page found. Best retailer page fetch returned403; no reliable exact image retained in this bounded pass. Nonwaterproof black tube not substituted.",
+    "searches": [
+      {
+        "query": "YSL Lash Clash waterproof1Black9ml",
+        "url": "https://www.sephora.es/p/lash-clash-waterproof-mascara---m%C3%A1scara-de-pestanas-negra-P10056931.html",
+        "note": "Exact indexed waterproof black9ml page found. Best retailer page fetch returned403; no reliable exact image retained in this bounded pass. Nonwaterproof black tube not substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc003458",
+    "variantId": "gc003458",
+    "productName": "Мини тушь для ресниц Charlotte Tilbury «Exagger-Black» 2 мл",
+    "brand": "Charlotte Tilbury",
+    "variant": "2мл",
+    "sku": "GC003458",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 733,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/exagger-eyes-volume-mini-mascara",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Shared official-source lookup by parent shows EXAGGER-BLACK4MLTRAVEL; catalogue2ml conflicts.4ml mini or10ml full-size not substituted.",
+    "searches": [
+      {
+        "query": "Charlotte Tilbury ExaggerEyes mini Exagger-Black2ml",
+        "url": "https://www.charlottetilbury.com/us/product/exagger-eyes-volume-mini-mascara",
+        "note": "Shared official-source lookup by parent shows EXAGGER-BLACK4MLTRAVEL; catalogue2ml conflicts.4ml mini or10ml full-size not substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc003701",
+    "variantId": "gc003701",
+    "productName": "Объемная и удлиняющая тушь с эффектом Haus Labs 5X B Structural «Black Onyx»",
+    "brand": "Haus Labs",
+    "variant": "Стандарт",
+    "sku": "GC003701",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 734,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/b-structural-mascara?variant=42476098486360",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Mascara_Silo_07d56934-abe6-49f9-af7c-e097a4b5eb75.png?v=1784301937",
+    "localFile": "materials/catalog-7b/originals/b015-b/Объемная и удлиняющая тушь с эффектом Haus Labs 5X B Structural «Black Onyx» Стандарт--gc003701.png",
+    "verification": {
+      "identity": "Official Haus Labs B Structural Mascara; Black Onyx variant42476098486360.",
+      "volumeAndVariant": "Official single standard8ml; catalogue Black Onyx/5X B Structural matches; not sample.",
+      "visualReview": "Full-fit sources-overview.png inspected; source quality and final outcome detailed in review.md/results.json.",
+      "reviewMethod": "page identity plus exact selectedvariant where relevant; original pixels viewed in contain contact sheet and ready candidates individually",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Объемная и удлиняющая тушь с эффектом Haus Labs 5X B Structural «Black Onyx» official exact family image",
+        "url": "https://www.hauslabs.com/products/b-structural-mascara?variant=42476098486360",
+        "note": "Official Haus Labs B Structural Mascara; Black Onyx variant42476098486360. Official single standard8ml; catalogue Black Onyx/5X B Structural matches; not sample."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 2000,
+    "height": 2000,
+    "bytes": 344657,
+    "sha256": "da0836ab961c06844ef570ee9807a64eab8e9f8d8e539ce161a6204ab87d281d"
+  },
+  {
+    "productId": "gc003702",
+    "variantId": "gc003702",
+    "productName": "Объемная тушь Farm Stay Visible Difference Volume Up Mascara",
+    "brand": "Farm Stay",
+    "variant": "Стандарт",
+    "sku": "GC003702",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 735,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://en.fscos.com/product/farmstay-visible-difference-volume-up-mascara/185",
+    "sourceImage": "https://cafe24img.poxo.com/myungin75/web/product/big/202209/6e6959c81ca5d3d11a31e5667c2c7d33.jpg",
+    "localFile": "materials/catalog-7b/originals/b015-b/Объемная тушь Farm Stay Visible Difference Volume Up Mascara Стандарт--gc003702.jpg",
+    "verification": {
+      "identity": "Official Farmstay Visible Difference Volume Up Mascara.",
+      "volumeAndVariant": "Single standard product; exact visible yellow tube and named line.",
+      "visualReview": "Full-fit sources-overview.png inspected; source quality and final outcome detailed in review.md/results.json.",
+      "reviewMethod": "page identity plus exact selectedvariant where relevant; original pixels viewed in contain contact sheet and ready candidates individually",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Объемная тушь Farm Stay Visible Difference Volume Up Mascara official exact family image",
+        "url": "https://en.fscos.com/product/farmstay-visible-difference-volume-up-mascara/185",
+        "note": "Official Farmstay Visible Difference Volume Up Mascara. Single standard product; exact visible yellow tube and named line."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 700,
+    "height": 700,
+    "bytes": 19288,
+    "sha256": "c67aab61a0fb18eef94b7b517d590a7250ff83c09e29921e7ddd7f43077f665a"
+  },
+  {
+    "productId": "gc004999",
+    "variantId": "gc004999",
+    "productName": "Тушь ХХ для ресниц длина+объём+изгиб Luxvisage Lux Vizage",
+    "brand": "Luxvisage",
+    "variant": "Стандарт",
+    "sku": "GC004999",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 736,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://aifcosmetic.kz/wp-content/uploads/2025/05/catalog-LUXVISAGE.pdf",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Family catalogue found XXL Длина/Изгиб/Объем, while Grace says XX. Quick source search did not provide a standalone exact bound photograph; no other XXL formulation image reused.",
+    "searches": [
+      {
+        "query": "Luxvisage XXL длина изгиб объем",
+        "url": "https://aifcosmetic.kz/wp-content/uploads/2025/05/catalog-LUXVISAGE.pdf",
+        "note": "Family catalogue found XXL Длина/Изгиб/Объем, while Grace says XX. Quick source search did not provide a standalone exact bound photograph; no other XXL formulation image reused."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc005000",
+    "variantId": "gc005000",
+    "productName": "Тушь для ресниц Коричневая Art-Visage Chicago",
+    "brand": "Art-Visage",
+    "variant": "Стандарт",
+    "sku": "GC005000",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 737,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://art-visage.ru/cosmetics/eyes/chicago",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Indexed old official Chicago page mentions brown, but actual request redirects to Активатор роста тушь CHICAGO with one generic680px image and no brown selection. Cannot verify brown image/oldversion from currentpage.",
+    "searches": [
+      {
+        "query": "ART VISAGE тушь Chicago коричневая сайт",
+        "url": "https://art-visage.ru/cosmetics/eyes/chicago",
+        "note": "Indexed old official Chicago page mentions brown, but actual request redirects to Активатор роста тушь CHICAGO with one generic680px image and no brown selection. Cannot verify brown image/oldversion from currentpage."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc005001",
+    "variantId": "gc005001",
+    "productName": "Тушь для ресниц Черная Art-Visage Chicago 15 мл",
+    "brand": "Art-Visage",
+    "variant": "15 мл",
+    "sku": "GC005001",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 738,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://art-visage.ru/cosmetics/eyes/chicago",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Actual old official Chicago URL redirects to Активатор роста тушь CHICAGO with single generic680px image, no selected black15ml correspondence. Current growthactivator version not substituted.",
+    "searches": [
+      {
+        "query": "ART VISAGE тушь Chicago15ml black",
+        "url": "https://art-visage.ru/cosmetics/eyes/chicago",
+        "note": "Actual old official Chicago URL redirects to Активатор роста тушь CHICAGO with single generic680px image, no selected black15ml correspondence. Current growthactivator version not substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc005002",
+    "variantId": "gc005002",
+    "productName": "Тушь для ресниц черный Charlotte Tilbury Exagger Eyes Volume Full Sz Mascara",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC005002",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 739,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/exagger-eyes-volume-mascara",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/3J9BCViWBnbZLLxMfU7x09/58baec9e3b3d959d3dd2048cfe611541/043_240003_EXAGGEREYES_MASCARA_P_FULL_SIZE_OPEN_WITH_BRUSH_KK_2405.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b015-b/Тушь для ресниц черный Charlotte Tilbury Exagger Eyes Volume Full Sz Mascara Стандарт--gc005002.png",
+    "verification": {
+      "identity": "Official Charlotte Tilbury Exagger-Eyes Volume Mascara Exagger-Black.",
+      "volumeAndVariant": "Official full-size10ml explicitly matches catalogue Full Sz; mini4ml not used.",
+      "visualReview": "Full-fit sources-overview.png inspected; source quality and final outcome detailed in review.md/results.json.",
+      "reviewMethod": "page identity plus exact selectedvariant where relevant; original pixels viewed in contain contact sheet and ready candidates individually",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тушь для ресниц черный Charlotte Tilbury Exagger Eyes Volume Full Sz Mascara official exact family image",
+        "url": "https://www.charlottetilbury.com/us/product/exagger-eyes-volume-mascara",
+        "note": "Official Charlotte Tilbury Exagger-Eyes Volume Mascara Exagger-Black. Official full-size10ml explicitly matches catalogue Full Sz; mini4ml not used."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 900,
+    "height": 900,
+    "bytes": 918517,
+    "sha256": "9cde1a3aac7b2679f991a82ee7d83cc05b0ecd1e4e61ca8c6aa0b53819f506de"
+  }
+]

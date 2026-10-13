@@ -1,5 +1,20 @@
 {
   "version": "7",
   "dialect": "sqlite",
-  "entries": []
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791755448523,
+      "tag": "0000_friend_orders",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791755464683,
+      "tag": "0001_friend_order_notification",
+      "breakpoints": true
+    }
+  ]
 }

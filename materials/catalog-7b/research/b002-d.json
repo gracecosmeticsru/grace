@@ -1,0 +1,298 @@
+[
+  {
+    "index": 90,
+    "productId": "gc002211",
+    "variantId": "gc002211",
+    "productName": "Кушон для лица тональный экстрактом авокадо ZOZU C",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": null,
+    "sourceImage": null,
+    "verification": null,
+    "skipReason": "Название Grace заканчивается на ZOZU C, вариант Стандарт, объём и номер тона отсутствуют. Найдены разные Avocado/Beautecret кушоны, в том числе 01 Natural и Ivory, но буква C не сопоставлена ни одному подтверждённому оттенку/модели. Выбор фото означал бы догадку.",
+    "searches": [
+      {
+        "query": "\"ZOZU\" \"авокадо\" \"C\" тональный",
+        "url": "https://www.100sp.ru/good/1329326985",
+        "note": "Avocado cushion ivory 20g; does not resolve C in catalog."
+      },
+      {
+        "query": "\"ZOZU\" \"Кушон\" \"авокадо\" 20г натуральный",
+        "url": "https://rozetka.com.ua/406970859/p406970859/",
+        "note": "Avocado Beauty Cushion Cream 01 Natural 20g is a distinct shade."
+      },
+      {
+        "query": "\"ZOZU C\" кушон",
+        "url": "https://market.yandex.uz/card/zozu-kushon-dlya-litsa-3-v-1-s-ekstraktom-avokado-20-g/4296585319?showOriginalKmEmptyOffer=1",
+        "note": "Ivory 20g candidate confirms multiple tones; no exact C mapping established."
+      }
+    ]
+  },
+  {
+    "index": 91,
+    "productId": "gc003249",
+    "variantId": "gc003249",
+    "productName": "Кушон тональный Prada LC5",
+    "variant": "Стандарт",
+    "localFile": "materials/catalog-7b/originals/b002-d/Кушон тональный Prada LC5 Стандарт--gc003249.jpg",
+    "width": 2400,
+    "height": 3000,
+    "format": "JPEG",
+    "bytes": 259383,
+    "sha256": "f1767d640175f4bec8d3b547e01860d015ba88dc63f379f81b980725e09f88cb",
+    "status": "verified",
+    "sourceImage": "https://www.prada.com/content/dam/pradabkg_products/1/1A5/1A5003/2I00FBLC1/1A5003_2I00_FBLC1_P_GR012_SLF.jpg",
+    "skipReason": null,
+    "sourcePage": "https://www.prada.com/jp/en/p/prada-reveal-mesh-cushion-foundation/1A5003_2I00_FBLC1_P_GR012",
+    "verification": {
+      "identity": "Prada official full Reveal Mesh Cushion LC5 LIGHT COOL, product code 1A5003_2I00_FBLC1_P_GR012; image URL has that exact full-compact SKU. Refill 1A5004 was excluded.",
+      "volumeAndVariant": "Catalog LC5 is confirmed by official shade page; full compact 12g corroborated by Cosme full-product page 355550. Catalog variant remains Стандарт; 12g is source evidence only, not a catalog edit.",
+      "visualReview": "Complete open full compact with black fabric lid, silver triangle, pale green insert and Prada puff; no watermark or overlay. Neutral very light gray background, clear boundaries. Source collection candidate only: background needs review at later preparation stage, not ready to connect.",
+      "reviewMethod": "view_image of downloaded unchanged source bytes; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "\"Prada\" \"LC5\" \"Reveal Mesh\" site:prada.com",
+        "url": "https://www.prada.com/jp/en/p/prada-reveal-mesh-cushion-foundation/1A5003_2I00_FBLC1_P_GR012",
+        "note": "Official exact LC5 full cushion; saved page prada.txt and original 2400x3000."
+      },
+      {
+        "query": "Prada LC5 cushion full product versus refill",
+        "url": "https://www.cosme.com/products/detail.php?product_id=355550",
+        "note": "Full compact LC5 12g. Page 364112 is refill and explicitly links to this full product; refill photo not used."
+      }
+    ]
+  },
+  {
+    "index": 92,
+    "productId": "gc003278",
+    "variantId": "gc003278",
+    "productName": "Лёгкая тональная основа с высоким фактором ma:nyo SPF50+ PA++++ 50 мл",
+    "variant": "50 мл",
+    "status": "verified",
+    "sourcePage": "https://hollyshop.ru/catalog/product/toniruyushchiy_solntsezashchitnyy_krem_manyo_foundanation_free_sun_cream/",
+    "sourceImage": "https://hollyshop.ru/upload/iblock/768/ydluqq2gwh7oplygg4ugwvs5q35dscuv/Manyo_Foundanation_Free_Sun_Cream.jpg",
+    "verification": {
+      "identity": "The distinctive Grace wording Лёгкая тональная основа с высоким фактором, brand ma:nyo, SPF50+ PA++++ and 50ml jointly match the Hollyshop non-Moisture Foundation-Free Sun Cream listing. Identity was resolved from this combined title evidence, not brand/SPF alone. Moisture is a separately named formula and was excluded.",
+      "volumeAndVariant": "Hollyshop explicitly states 50ml and SPF50+ PA++++; catalog keeps its existing 50 мл label. English model name and source barcode are evidence only; no catalog text or INCI transfer.",
+      "visualReview": "Saved unchanged 1000x1000 original inspected: complete peach tube with green ma:nyo/Foundation-Free Sun Cream/50+ lettering, white cap, centered on white, no overlay or watermark. Label does not say Moisture; its separate packaging was not substituted.",
+      "reviewMethod": "view_image of downloaded unchanged source bytes; 2026-09-24",
+      "sourceBytesUnmodified": true,
+      "identityMethod": "matching distinctive catalog title+brand+SPF+volume"
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "\"Легкая тональная основа\" \"manyo\"",
+        "url": "https://hollyshop.ru/catalog/product/toniruyushchiy_solntsezashchitnyy_krem_manyo_foundanation_free_sun_cream/",
+        "note": "Exact distinctive Russian title plus brand, SPF50+ PA++++ and 50ml jointly establish the non-Moisture source match; clean original downloaded and viewed."
+      },
+      {
+        "query": "site:manyoglobal.com \"Foundation-Free\" \"50ml\"",
+        "url": "https://manyoglobal.com/goods/goods_view.php?goodsNo=1876",
+        "note": "Search index confirms Foundation-Free Sun Cream 50ml; direct download failed certificate expiry and was not bypassed."
+      },
+      {
+        "query": "site:manyo-japanese.com \"モイスチャー\" \"50ml\" ファンデフリー",
+        "url": "https://manyo-japanese.com/Product/Detail/view/pid/346",
+        "note": "Official separate Foundation Free Sun Cream Moisture 50ml; page saved."
+      },
+      {
+        "query": "\"ma:nyo\" \"Foundation-Free Sun Cream Moisture\" \"50\" SPF50",
+        "url": "https://www.yesstyle.com/en/ma-nyo-foundation-free-sun-cream-moisture-50ml/info.html/pid.1123070498",
+        "note": "Moisture also has 50ml SPF50+PA++++ but a separately named formula. It was excluded after comparison with the distinctive Russian non-Moisture catalog-title match."
+      }
+    ],
+    "localFile": "materials/catalog-7b/originals/b002-d/Лёгкая тональная основа с высоким фактором ma-nyo SPF50+ PA++++ 50 мл 50 мл--gc003278.jpg",
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 28430,
+    "sha256": "2c8bb8816b03078c1c19b895041bb2546bbcac34a1100a5f1c756e45d5fc0414"
+  },
+  {
+    "index": 93,
+    "productId": "parent-0007",
+    "variantId": "gc003445",
+    "productName": "Матовая тональная основа Dior Forever No Transfer 24H",
+    "variant": "0N",
+    "localFile": "materials/catalog-7b/originals/b002-d/Матовая тональная основа Dior Forever No Transfer 24H 0N--gc003445.jpg",
+    "width": 1850,
+    "height": 1850,
+    "format": "JPEG",
+    "bytes": 72039,
+    "sha256": "1fba049bc359518d99cad5bd8d6f1d48ae25f584c01fcfcb822adab841f6f80f",
+    "status": "verified",
+    "sourceImage": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BGXS_DEV/on/demandware.static/-/Sites-master_dior/en_MY/v1777449302509/Y0996397/Y0996397_C023500100_E01_GHC.jpg?sw=1850&sh=1850",
+    "skipReason": null,
+    "sourcePage": "https://bgxs-061.my.commercecloud.salesforce.com/s/dior_my/products/dior-forever-foundation-Y0996397.html",
+    "verification": {
+      "identity": "Legacy Dior Forever Clean Matte, 24h Wear No Transfer. Public Dior MY storefront and selected-variant response identify C023500100. New Forever Skin Wear was excluded.",
+      "volumeAndVariant": "Selected API record: 0N Neutral - 30 mL; own exact image alt and SKU URL match shade. Grace has no stated volume; 30mL is source verification, not a catalog update.",
+      "visualReview": "Saved original inspected individually: full frosted rectangular FOREVER bottle, black cap, silver Dior lettering, centered on near-white/light-gray studio background with shadow, no watermark or text overlay. Legacy packaging confirmed. Image tone differs per selected shade; background requires later preparation review.",
+      "reviewMethod": "view_image of downloaded unchanged source bytes; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "\"Dior Forever\" \"No Transfer\" \"0N\" 30ml",
+        "url": "https://bgxs-061.my.commercecloud.salesforce.com/s/dior_my/products/dior-forever-foundation-Y0996397.html",
+        "note": "Public legacy Dior MY page found via web search. Product HTML saved in diorofficial.txt; all four shades mapped independently."
+      },
+      {
+        "query": "Dior Forever legacy selected shade 0N",
+        "url": "https://bgxs-061.my.commercecloud.salesforce.com/on/demandware.store/Sites-dior_my-Site/en_MY/Product-Variation?dwvar_Y0996397_color=0N&pid=Y0996397&quantity=1",
+        "note": "Selected response saved dior-0N.json; exact C023500100, 30mL, image alt and source URL returned by storefront."
+      },
+      {
+        "query": "\"Dior Forever\" \"No Transfer\" 24h matte 30ml",
+        "url": "https://parisparfumerie.com/products/dior-forever-clean-matte-foundation-24h-wear-no-transfer-concentrated-in-skincare",
+        "note": "Retailer offers all target shades, but inspected 1.5N original is held in a hand over a busy background, rejected; clean official originals chosen."
+      },
+      {
+        "query": "Dior Forever old versus Skin Wear",
+        "url": "https://www.dior.com/en_us/beauty/products/dior-forever-skin-wear-E000001234.html",
+        "note": "New Skin Wear packaging/formula must not replace legacy Forever. No image from new line used."
+      }
+    ]
+  },
+  {
+    "index": 94,
+    "productId": "parent-0007",
+    "variantId": "gc003446",
+    "productName": "Матовая тональная основа Dior Forever No Transfer 24H",
+    "variant": "1.5N",
+    "localFile": "materials/catalog-7b/originals/b002-d/Матовая тональная основа Dior Forever No Transfer 24H 1.5N--gc003446.jpg",
+    "width": 1850,
+    "height": 1850,
+    "format": "JPEG",
+    "bytes": 72629,
+    "sha256": "4985004464f7eadff87a3e93e6eb9bd6b4429fa9acf51d3463e7cb9270859a1e",
+    "status": "verified",
+    "sourceImage": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BGXS_DEV/on/demandware.static/-/Sites-master_dior/en_MY/v1777449302509/Y0996397/Y0996397_C023500015_E01_GHC.jpg?sw=1850&sh=1850",
+    "skipReason": null,
+    "sourcePage": "https://bgxs-061.my.commercecloud.salesforce.com/s/dior_my/products/dior-forever-foundation-Y0996397.html",
+    "verification": {
+      "identity": "Legacy Dior Forever Clean Matte, 24h Wear No Transfer. Public Dior MY storefront and selected-variant response identify C023500015. New Forever Skin Wear was excluded.",
+      "volumeAndVariant": "Selected API record: 1,5N Neutral - 30 mL; own exact image alt and SKU URL match shade. Grace has no stated volume; 30mL is source verification, not a catalog update.",
+      "visualReview": "Saved original inspected individually: full frosted rectangular FOREVER bottle, black cap, silver Dior lettering, centered on near-white/light-gray studio background with shadow, no watermark or text overlay. Legacy packaging confirmed. Image tone differs per selected shade; background requires later preparation review.",
+      "reviewMethod": "view_image of downloaded unchanged source bytes; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "\"Dior Forever\" \"No Transfer\" \"1.5N\" 30ml",
+        "url": "https://bgxs-061.my.commercecloud.salesforce.com/s/dior_my/products/dior-forever-foundation-Y0996397.html",
+        "note": "Public legacy Dior MY page found via web search. Product HTML saved in diorofficial.txt; all four shades mapped independently."
+      },
+      {
+        "query": "Dior Forever legacy selected shade 1.5N",
+        "url": "https://bgxs-061.my.commercecloud.salesforce.com/on/demandware.store/Sites-dior_my-Site/en_MY/Product-Variation?dwvar_Y0996397_color=1_5N&pid=Y0996397&quantity=1",
+        "note": "Selected response saved dior-1_5N.json; exact C023500015, 30mL, image alt and source URL returned by storefront."
+      },
+      {
+        "query": "\"Dior Forever\" \"No Transfer\" 24h matte 30ml",
+        "url": "https://parisparfumerie.com/products/dior-forever-clean-matte-foundation-24h-wear-no-transfer-concentrated-in-skincare",
+        "note": "Retailer offers all target shades, but inspected 1.5N original is held in a hand over a busy background, rejected; clean official originals chosen."
+      },
+      {
+        "query": "Dior Forever old versus Skin Wear",
+        "url": "https://www.dior.com/en_us/beauty/products/dior-forever-skin-wear-E000001234.html",
+        "note": "New Skin Wear packaging/formula must not replace legacy Forever. No image from new line used."
+      }
+    ]
+  },
+  {
+    "index": 95,
+    "productId": "parent-0007",
+    "variantId": "gc003447",
+    "productName": "Матовая тональная основа Dior Forever No Transfer 24H",
+    "variant": "1N",
+    "localFile": "materials/catalog-7b/originals/b002-d/Матовая тональная основа Dior Forever No Transfer 24H 1N--gc003447.jpg",
+    "width": 1850,
+    "height": 1850,
+    "format": "JPEG",
+    "bytes": 72243,
+    "sha256": "09f06b31cc513bac73f03d304e4365acc1e9f214b944bc0479e1f7fcf5f3b078",
+    "status": "verified",
+    "sourceImage": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BGXS_DEV/on/demandware.static/-/Sites-master_dior/en_MY/v1777449302509/Y0996397/Y0996397_C023500010_E01_GHC.jpg?sw=1850&sh=1850",
+    "skipReason": null,
+    "sourcePage": "https://bgxs-061.my.commercecloud.salesforce.com/s/dior_my/products/dior-forever-foundation-Y0996397.html",
+    "verification": {
+      "identity": "Legacy Dior Forever Clean Matte, 24h Wear No Transfer. Public Dior MY storefront and selected-variant response identify C023500010. New Forever Skin Wear was excluded.",
+      "volumeAndVariant": "Selected API record: 1N Neutral - 30 mL; own exact image alt and SKU URL match shade. Grace has no stated volume; 30mL is source verification, not a catalog update.",
+      "visualReview": "Saved original inspected individually: full frosted rectangular FOREVER bottle, black cap, silver Dior lettering, centered on near-white/light-gray studio background with shadow, no watermark or text overlay. Legacy packaging confirmed. Image tone differs per selected shade; background requires later preparation review.",
+      "reviewMethod": "view_image of downloaded unchanged source bytes; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "\"Dior Forever\" \"No Transfer\" \"1N\" 30ml",
+        "url": "https://bgxs-061.my.commercecloud.salesforce.com/s/dior_my/products/dior-forever-foundation-Y0996397.html",
+        "note": "Public legacy Dior MY page found via web search. Product HTML saved in diorofficial.txt; all four shades mapped independently."
+      },
+      {
+        "query": "Dior Forever legacy selected shade 1N",
+        "url": "https://bgxs-061.my.commercecloud.salesforce.com/on/demandware.store/Sites-dior_my-Site/en_MY/Product-Variation?dwvar_Y0996397_color=1N&pid=Y0996397&quantity=1",
+        "note": "Selected response saved dior-1N.json; exact C023500010, 30mL, image alt and source URL returned by storefront."
+      },
+      {
+        "query": "\"Dior Forever\" \"No Transfer\" 24h matte 30ml",
+        "url": "https://parisparfumerie.com/products/dior-forever-clean-matte-foundation-24h-wear-no-transfer-concentrated-in-skincare",
+        "note": "Retailer offers all target shades, but inspected 1.5N original is held in a hand over a busy background, rejected; clean official originals chosen."
+      },
+      {
+        "query": "Dior Forever old versus Skin Wear",
+        "url": "https://www.dior.com/en_us/beauty/products/dior-forever-skin-wear-E000001234.html",
+        "note": "New Skin Wear packaging/formula must not replace legacy Forever. No image from new line used."
+      }
+    ]
+  },
+  {
+    "index": 96,
+    "productId": "parent-0007",
+    "variantId": "gc003448",
+    "productName": "Матовая тональная основа Dior Forever No Transfer 24H",
+    "variant": "2N",
+    "localFile": "materials/catalog-7b/originals/b002-d/Матовая тональная основа Dior Forever No Transfer 24H 2N--gc003448.jpg",
+    "width": 1850,
+    "height": 1850,
+    "format": "JPEG",
+    "bytes": 72776,
+    "sha256": "353b5e8f9fca16672e1cf47515e5fd9f3b20b3134b2237d5fb1944168bc20dd8",
+    "status": "verified",
+    "sourceImage": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BGXS_DEV/on/demandware.static/-/Sites-master_dior/en_MY/v1777449302509/Y0996397/Y0996397_C023500020_E01_GHC.jpg?sw=1850&sh=1850",
+    "skipReason": null,
+    "sourcePage": "https://bgxs-061.my.commercecloud.salesforce.com/s/dior_my/products/dior-forever-foundation-Y0996397.html",
+    "verification": {
+      "identity": "Legacy Dior Forever Clean Matte, 24h Wear No Transfer. Public Dior MY storefront and selected-variant response identify C023500020. New Forever Skin Wear was excluded.",
+      "volumeAndVariant": "Selected API record: 2N Neutral - 30 mL; own exact image alt and SKU URL match shade. Grace has no stated volume; 30mL is source verification, not a catalog update.",
+      "visualReview": "Saved original inspected individually: full frosted rectangular FOREVER bottle, black cap, silver Dior lettering, centered on near-white/light-gray studio background with shadow, no watermark or text overlay. Legacy packaging confirmed. Image tone differs per selected shade; background requires later preparation review.",
+      "reviewMethod": "view_image of downloaded unchanged source bytes; 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "\"Dior Forever\" \"No Transfer\" \"2N\" 30ml",
+        "url": "https://bgxs-061.my.commercecloud.salesforce.com/s/dior_my/products/dior-forever-foundation-Y0996397.html",
+        "note": "Public legacy Dior MY page found via web search. Product HTML saved in diorofficial.txt; all four shades mapped independently."
+      },
+      {
+        "query": "Dior Forever legacy selected shade 2N",
+        "url": "https://bgxs-061.my.commercecloud.salesforce.com/on/demandware.store/Sites-dior_my-Site/en_MY/Product-Variation?dwvar_Y0996397_color=2N&pid=Y0996397&quantity=1",
+        "note": "Selected response saved dior-2N.json; exact C023500020, 30mL, image alt and source URL returned by storefront."
+      },
+      {
+        "query": "\"Dior Forever\" \"No Transfer\" 24h matte 30ml",
+        "url": "https://parisparfumerie.com/products/dior-forever-clean-matte-foundation-24h-wear-no-transfer-concentrated-in-skincare",
+        "note": "Retailer offers all target shades, but inspected 1.5N original is held in a hand over a busy background, rejected; clean official originals chosen."
+      },
+      {
+        "query": "Dior Forever old versus Skin Wear",
+        "url": "https://www.dior.com/en_us/beauty/products/dior-forever-skin-wear-E000001234.html",
+        "note": "New Skin Wear packaging/formula must not replace legacy Forever. No image from new line used."
+      }
+    ]
+  }
+]

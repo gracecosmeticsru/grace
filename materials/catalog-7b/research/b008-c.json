@@ -1,0 +1,442 @@
+[
+  {
+    "productId": "gc004424",
+    "variantId": "gc004424",
+    "productName": "Пудра рассыпчатая Фиксирующая Golden Rose Long Wear Finishing Powder",
+    "brand": "Golden Rose",
+    "variant": "Стандарт",
+    "sku": "GC004424",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 390,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://goldenrose.com/en/product/287/face-powder-long-wear-finishing-powder/2",
+    "sourceImage": "https://goldenrose.com/img/product/zoom/3416.jpg",
+    "localFile": "materials/catalog-7b/originals/b008-c/Пудра рассыпчатая Фиксирующая Golden Rose Long Wear Finishing Powder Стандарт--gc004424.jpg",
+    "verification": {
+      "identity": "Manufacturer page identifies single Translucent shade; main cloud-zoom href3416 matches actual Long Wear Finishing Powder packshot.",
+      "volumeAndVariant": "Exact Long Wear Finishing Powder translucent, not Banana or Longstay compact; no catalog volume.",
+      "visualReview": "Entire black lid, clear loose-powder pot and white powder on white background, manufacturer logo only, natural soft reflection; source sheet uses contain, no clipped edges.",
+      "reviewMethod": "Actual downloaded images viewed in sources-overview.png, contained not cropped; original dimensions/hashes retained.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Golden Rose Long Wear Finishing Powder official",
+        "url": "https://goldenrose.com/en/product/287/face-powder-long-wear-finishing-powder/2",
+        "note": "Manufacturer page identifies single Translucent shade; main cloud-zoom href3416 matches actual Long Wear Finishing Powder packshot."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Manufacturer page identifies single Translucent shade; main cloud-zoom href3416 matches actual Long Wear Finishing Powder packshot.",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 93320,
+    "sha256": "0b293bd00f43d2024306193fc251280d8e6263fab68aeb6e2500f21975a5b30a"
+  },
+  {
+    "productId": "gc004425",
+    "variantId": "gc004425",
+    "productName": "Пудра рассыпчатая Laura Mercier",
+    "brand": "Laura Mercier",
+    "variant": "Стандарт",
+    "sku": "GC004425",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 391,
+    "batch": 8,
+    "status": "skipped",
+    "sourcePage": "https://www.lauramercier.com/collections/setting-powder-f39bc0",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official collection distinguishes Original, Ultra-Blur, Light Catcher, Tone-Up, mini/full/jumbo and multiple shades. Catalog only says loose Laura Mercier powder / Standard; exact formula, shade and size cannot be identified.",
+    "searches": [
+      {
+        "query": "site:lauramercier.com translucent loose setting powder shades",
+        "url": "https://www.lauramercier.com/collections/setting-powder-f39bc0",
+        "note": "Official collection distinguishes Original, Ultra-Blur, Light Catcher, Tone-Up, mini/full/jumbo and multiple shades. Catalog only says loose Laura Mercier powder / Standard; exact formula, shade and size cannot be identified."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc004426",
+    "variantId": "gc004426",
+    "productName": "Пудра светоотражающая Hourglass Diffused Light 10 г",
+    "brand": "Hourglass",
+    "variant": "Стандарт",
+    "sku": "GC004426",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 392,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://www.hourglasscosmetics.com/products/ambient-lighting-finishing-powder?variant=29474685550710",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0081/1660/0950/files/Cheeks-Main-Product-PDP---Ambient-Lighting-Finishing-Powder_0007_AmbientLightingPowder_DiffusedLight_Open_5ad85755-fa75-45e8-96d4-e173b512ea70.png?v=1755085713",
+    "localFile": "materials/catalog-7b/originals/b008-c/Пудра светоотражающая Hourglass Diffused Light 10 г Стандарт--gc004426.png",
+    "verification": {
+      "identity": "Official product JSON exact variant 29474685550710 Diffused Light - Warm Pale Yellow / Full-size - .35 OZ / 10 G uniquely maps featured_image 40467940114630.",
+      "volumeAndVariant": "Exact Diffused Light full-size10g; travel1.3g excluded.",
+      "visualReview": "Exact open brown compact with corresponding warm pale-yellow/cool-white powder, whole object on white. No watermark or promotional text; native transparency will flatten normally.",
+      "reviewMethod": "Actual downloaded images viewed in sources-overview.png, contained not cropped; original dimensions/hashes retained.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:hourglasscosmetics.com ambient lighting powder diffused light ethereal light 10g",
+        "url": "https://www.hourglasscosmetics.com/products/ambient-lighting-finishing-powder?variant=29474685550710",
+        "note": "Official product JSON exact variant 29474685550710 Diffused Light - Warm Pale Yellow / Full-size - .35 OZ / 10 G uniquely maps featured_image 40467940114630."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official product JSON exact variant 29474685550710 Diffused Light - Warm Pale Yellow / Full-size - .35 OZ / 10 G uniquely maps featured_image 40467940114630.",
+    "width": 2000,
+    "height": 2000,
+    "bytes": 516154,
+    "sha256": "08875d8264cccb57c265aa5bf1d2ee60d7b3da1b6b5da4f945bbea4c9dedc624"
+  },
+  {
+    "productId": "gc004427",
+    "variantId": "gc004427",
+    "productName": "Пудра светоотражающая Hourglass Ethereal Light 10 г",
+    "brand": "Hourglass",
+    "variant": "Стандарт",
+    "sku": "GC004427",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 393,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://www.hourglasscosmetics.com/products/ambient-lighting-finishing-powder?variant=29474685517942",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0081/1660/0950/files/Cheeks-Main-Product-PDP---Ambient-Lighting-Finishing-Powder_0004_AmbientLightingPowder_EtherealLight_Open_e5f5d019-c283-4e97-85b4-aa51355c3a9d.png?v=1755085689",
+    "localFile": "materials/catalog-7b/originals/b008-c/Пудра светоотражающая Hourglass Ethereal Light 10 г Стандарт--gc004427.png",
+    "verification": {
+      "identity": "Official product JSON exact variant 29474685517942 Ethereal Light - Cool Translucent / Full-size - .35 OZ / 10 G uniquely maps featured_image 40467938934982.",
+      "volumeAndVariant": "Exact Ethereal Light full-size10g; travel1.3g excluded.",
+      "visualReview": "Exact open brown compact with corresponding warm pale-yellow/cool-white powder, whole object on white. No watermark or promotional text; native transparency will flatten normally.",
+      "reviewMethod": "Actual downloaded images viewed in sources-overview.png, contained not cropped; original dimensions/hashes retained.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:hourglasscosmetics.com ambient lighting powder diffused light ethereal light 10g",
+        "url": "https://www.hourglasscosmetics.com/products/ambient-lighting-finishing-powder?variant=29474685517942",
+        "note": "Official product JSON exact variant 29474685517942 Ethereal Light - Cool Translucent / Full-size - .35 OZ / 10 G uniquely maps featured_image 40467938934982."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official product JSON exact variant 29474685517942 Ethereal Light - Cool Translucent / Full-size - .35 OZ / 10 G uniquely maps featured_image 40467938934982.",
+    "width": 2000,
+    "height": 2000,
+    "bytes": 545049,
+    "sha256": "29f873495bafb2a93c0cba008bb4d9ff14b17d4ad62898d43d9e5a4eac89678e"
+  },
+  {
+    "productId": "gc004428",
+    "variantId": "gc004428",
+    "productName": "Пудра Enough 21 Collagen Whitening Moisture Two Way Cake SPF30 PA+++ 21 Enough",
+    "brand": "Enough",
+    "variant": "Стандарт",
+    "sku": "GC004428",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 394,
+    "batch": 8,
+    "status": "skipped",
+    "sourcePage": "https://www.hwahae.com/en/products/ENOUGH-Collagen-Whitening-Moisture-Two-Way-Cake-SPF30-PAPLUS-PLUS-PLUS-No-21-Transparent-Beige/2018546",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Search text confirms exact21/SPF30/PA+++ but source page requires bot verification and returns no usable photo. Other visible retailer results show SPF28/PA++, not the catalog formula; not substituted.",
+    "searches": [
+      {
+        "query": "Enough Collagen Whitening Moisture Two Way Cake 21 SPF30 PA+++",
+        "url": "https://www.hwahae.com/en/products/ENOUGH-Collagen-Whitening-Moisture-Two-Way-Cake-SPF30-PAPLUS-PLUS-PLUS-No-21-Transparent-Beige/2018546",
+        "note": "Search text confirms exact21/SPF30/PA+++ but source page requires bot verification and returns no usable photo. Other visible retailer results show SPF28/PA++, not the catalog formula; not substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0053",
+    "variantId": "gc004430",
+    "productName": "Пудра-вуаль Charlotte Tilbury",
+    "brand": "Charlotte Tilbury",
+    "variant": "0 light",
+    "sku": "GC004430",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 395,
+    "batch": 8,
+    "status": "skipped",
+    "sourcePage": "https://www.charlottetilbury.com/hk/products/makeup/face/powder",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official powder collection and Airbrush Flawless Finish HTML inspected (ct.html/ct-data.json). Same shade numbers exist in pressed/loose families and compact/refill/mini formats. Catalog says only powder-veil, without model/size. The0Light sibling suggests Airbrush, but does not prove every catalog variant packaging; no guessed family or size attached.",
+    "searches": [
+      {
+        "query": "Charlotte Tilbury пудра-вуаль 0 fair airbrush",
+        "url": "https://www.charlottetilbury.com/hk/products/makeup/face/powder",
+        "note": "Official powder collection and Airbrush Flawless Finish HTML inspected (ct.html/ct-data.json). Same shade numbers exist in pressed/loose families and compact/refill/mini formats. Catalog says only powder-veil, without model/size. The0Light sibling suggests Airbrush, but does not prove every catalog variant packaging; no guessed family or size attached."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0053",
+    "variantId": "gc004431",
+    "productName": "Пудра-вуаль Charlotte Tilbury",
+    "brand": "Charlotte Tilbury",
+    "variant": "1 fair",
+    "sku": "GC004431",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 396,
+    "batch": 8,
+    "status": "skipped",
+    "sourcePage": "https://www.charlottetilbury.com/hk/products/makeup/face/powder",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official powder collection and Airbrush Flawless Finish HTML inspected (ct.html/ct-data.json). Same shade numbers exist in pressed/loose families and compact/refill/mini formats. Catalog says only powder-veil, without model/size. The0Light sibling suggests Airbrush, but does not prove every catalog variant packaging; no guessed family or size attached.",
+    "searches": [
+      {
+        "query": "Charlotte Tilbury пудра-вуаль 0 fair airbrush",
+        "url": "https://www.charlottetilbury.com/hk/products/makeup/face/powder",
+        "note": "Official powder collection and Airbrush Flawless Finish HTML inspected (ct.html/ct-data.json). Same shade numbers exist in pressed/loose families and compact/refill/mini formats. Catalog says only powder-veil, without model/size. The0Light sibling suggests Airbrush, but does not prove every catalog variant packaging; no guessed family or size attached."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0053",
+    "variantId": "gc004432",
+    "productName": "Пудра-вуаль Charlotte Tilbury",
+    "brand": "Charlotte Tilbury",
+    "variant": "2 medium",
+    "sku": "GC004432",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 397,
+    "batch": 8,
+    "status": "skipped",
+    "sourcePage": "https://www.charlottetilbury.com/hk/products/makeup/face/powder",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official powder collection and Airbrush Flawless Finish HTML inspected (ct.html/ct-data.json). Same shade numbers exist in pressed/loose families and compact/refill/mini formats. Catalog says only powder-veil, without model/size. The0Light sibling suggests Airbrush, but does not prove every catalog variant packaging; no guessed family or size attached.",
+    "searches": [
+      {
+        "query": "Charlotte Tilbury пудра-вуаль 0 fair airbrush",
+        "url": "https://www.charlottetilbury.com/hk/products/makeup/face/powder",
+        "note": "Official powder collection and Airbrush Flawless Finish HTML inspected (ct.html/ct-data.json). Same shade numbers exist in pressed/loose families and compact/refill/mini formats. Catalog says only powder-veil, without model/size. The0Light sibling suggests Airbrush, but does not prove every catalog variant packaging; no guessed family or size attached."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0053",
+    "variantId": "gc004433",
+    "productName": "Пудра-вуаль Charlotte Tilbury",
+    "brand": "Charlotte Tilbury",
+    "variant": "2 Medium/Moyen",
+    "sku": "GC004433",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 398,
+    "batch": 8,
+    "status": "skipped",
+    "sourcePage": "https://www.charlottetilbury.com/hk/products/makeup/face/powder",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official powder collection and Airbrush Flawless Finish HTML inspected (ct.html/ct-data.json). Same shade numbers exist in pressed/loose families and compact/refill/mini formats. Catalog says only powder-veil, without model/size. The0Light sibling suggests Airbrush, but does not prove every catalog variant packaging; no guessed family or size attached.",
+    "searches": [
+      {
+        "query": "Charlotte Tilbury пудра-вуаль 0 fair airbrush",
+        "url": "https://www.charlottetilbury.com/hk/products/makeup/face/powder",
+        "note": "Official powder collection and Airbrush Flawless Finish HTML inspected (ct.html/ct-data.json). Same shade numbers exist in pressed/loose families and compact/refill/mini formats. Catalog says only powder-veil, without model/size. The0Light sibling suggests Airbrush, but does not prove every catalog variant packaging; no guessed family or size attached."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0054",
+    "variantId": "gc004469",
+    "productName": "Рассыпчатая пудра Chanel Universelle Libre",
+    "brand": "Chanel",
+    "variant": "10",
+    "sku": "GC004469",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 399,
+    "batch": 8,
+    "status": "skipped",
+    "sourcePage": "https://www.chanel.com/us/makeup/p/132210/poudre-universelle-libre-natural-finish-loose-powder/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official named loose-powder page confirms exact shade 10. Direct HTML403 Access Denied; accessible web image links resolve only to swatch-132210/132220 images, not full product packaging. Quick pass stopped without wrong product or on-the-go/refill substitution.",
+    "searches": [
+      {
+        "query": "site:chanel.com poudre universelle libre 10 20 loose powder",
+        "url": "https://www.chanel.com/us/makeup/p/132210/poudre-universelle-libre-natural-finish-loose-powder/",
+        "note": "Official named loose-powder page confirms exact shade 10. Direct HTML403 Access Denied; accessible web image links resolve only to swatch-132210/132220 images, not full product packaging. Quick pass stopped without wrong product or on-the-go/refill substitution."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0054",
+    "variantId": "gc004470",
+    "productName": "Рассыпчатая пудра Chanel Universelle Libre",
+    "brand": "Chanel",
+    "variant": "20",
+    "sku": "GC004470",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 400,
+    "batch": 8,
+    "status": "skipped",
+    "sourcePage": "https://www.chanel.com/fr/maquillage/p/132220/poudre-universelle-libre-poudre-libre-fini-naturel/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official named loose-powder page confirms exact shade 20. Direct HTML403 Access Denied; accessible web image links resolve only to swatch-132210/132220 images, not full product packaging. Quick pass stopped without wrong product or on-the-go/refill substitution.",
+    "searches": [
+      {
+        "query": "site:chanel.com poudre universelle libre 10 20 loose powder",
+        "url": "https://www.chanel.com/fr/maquillage/p/132220/poudre-universelle-libre-poudre-libre-fini-naturel/",
+        "note": "Official named loose-powder page confirms exact shade 20. Direct HTML403 Access Denied; accessible web image links resolve only to swatch-132210/132220 images, not full product packaging. Quick pass stopped without wrong product or on-the-go/refill substitution."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  }
+]

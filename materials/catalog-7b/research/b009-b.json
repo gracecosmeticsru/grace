@@ -1,0 +1,902 @@
+[
+  {
+    "productId": "gc005029",
+    "variantId": "gc005029",
+    "productName": "Увлажняющая коллагеновая пудра со сменным блоком Enough Collagen",
+    "brand": "Enough",
+    "variant": "Стандарт",
+    "sku": "GC005029",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 420,
+    "batch": 9,
+    "status": "skipped",
+    "sourcePage": "https://enoughvietnam.com/products/phan-phu-nen-2-loi-collagen-enough-collagen-twoway-cake",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalogue has neither shade nor exact Collagen version. Source distinguishes 13,21,23; search also identifies 3X versus Hydro versions. No shade or package version guessed.",
+    "searches": [
+      {
+        "query": "Enough Collagen powder moisture two way cake 13 21 refill",
+        "url": "https://enoughvietnam.com/products/phan-phu-nen-2-loi-collagen-enough-collagen-twoway-cake",
+        "note": "Catalogue has neither shade nor exact Collagen version. Source distinguishes 13,21,23; search also identifies 3X versus Hydro versions. No shade or package version guessed."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc000553",
+    "variantId": "gc000553",
+    "productName": "Румяна Catrice Blush Box Glowing+Multicolour 010 Dolce Vita",
+    "brand": "Catrice",
+    "variant": "Стандарт",
+    "sku": "GC000553",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 421,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://www.watsons.sa/products/catrice-blush-box-glowing-multicolour-powder-blush-5-5g?variant=50927605186791",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0673/2074/2119/files/ASW200005630_101.jpg?v=1746101551",
+    "localFile": "materials/catalog-7b/originals/b009-b/Румяна Catrice Blush Box Glowing+Multicolour 010 Dolce Vita Стандарт--gc000553.jpg",
+    "verification": {
+      "identity": "Watsons Shopify product9177289720039 exact shade 010 Dolce Vita maps featured_image and variant_ids to its own photo.",
+      "volumeAndVariant": "Exact 010 Dolce Vita,5.5g full compact; catalogue has no conflicting size.",
+      "visualReview": "Full open square compact on white; distinct peach and mauve multicolour powders match exact variants. No watermark, clipping or scene.",
+      "reviewMethod": "view_image originals-overview.jpg and full Relouis71/Goddess/Catrice010 original; prepared-overview.png reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Catrice Blush Box Glowing Multicolour 010 Dolce Vita 020 wine",
+        "url": "https://www.watsons.sa/products/catrice-blush-box-glowing-multicolour-powder-blush-5-5g?variant=50927605186791",
+        "note": "Watsons Shopify product9177289720039 exact shade 010 Dolce Vita maps featured_image and variant_ids to its own photo. Original HTML/ShopifyJSON retained in artifacts/step-7b/b009-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2918,
+    "height": 2918,
+    "bytes": 308931,
+    "sha256": "5fb3c6fb8e0adb1a9abc68862250cf746f2829fa83438359924c90f68c66a669"
+  },
+  {
+    "productId": "gc000554",
+    "variantId": "gc000554",
+    "productName": "Румяна Catrice Blush Box Glowing+Multicolour 020",
+    "brand": "Catrice",
+    "variant": "Стандарт",
+    "sku": "GC000554",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 422,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://www.watsons.sa/products/catrice-blush-box-glowing-multicolour-powder-blush-5-5g?variant=50927605219559",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0673/2074/2119/files/ASW200005631_101.jpg?v=1746101551",
+    "localFile": "materials/catalog-7b/originals/b009-b/Румяна Catrice Blush Box Glowing+Multicolour 020 Стандарт--gc000554.jpg",
+    "verification": {
+      "identity": "Watsons Shopify product9177289720039 exact shade 020 It's Wine O'Clock maps featured_image and variant_ids to its own photo.",
+      "volumeAndVariant": "Exact 020 It's Wine O'Clock,5.5g full compact; catalogue has no conflicting size.",
+      "visualReview": "Full open square compact on white; distinct peach and mauve multicolour powders match exact variants. No watermark, clipping or scene.",
+      "reviewMethod": "view_image originals-overview.jpg and full Relouis71/Goddess/Catrice010 original; prepared-overview.png reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Catrice Blush Box Glowing Multicolour 010 Dolce Vita 020 wine",
+        "url": "https://www.watsons.sa/products/catrice-blush-box-glowing-multicolour-powder-blush-5-5g?variant=50927605219559",
+        "note": "Watsons Shopify product9177289720039 exact shade 020 It's Wine O'Clock maps featured_image and variant_ids to its own photo. Original HTML/ShopifyJSON retained in artifacts/step-7b/b009-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2926,
+    "height": 2926,
+    "bytes": 314072,
+    "sha256": "cf9a41d4f88f684f53ecaf920e9c84a28b3860023ad10e787456dfa06ac9e963"
+  },
+  {
+    "productId": "gc000648",
+    "variantId": "gc000648",
+    "productName": "Румяна Dior Backstage Rosy Glow BLUSH ColorAwakening Universal PINK",
+    "brand": "Dior",
+    "variant": "Стандарт",
+    "sku": "GC000648",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 423,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://www.edgars.co.za/products/dior-backstage-rosy-glow-powder-c34436003?variant=48729030689051",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0854/9947/8299/files/3348901665810001-Pink1.jpg?v=1731927871",
+    "localFile": "materials/catalog-7b/originals/b009-b/Румяна Dior Backstage Rosy Glow BLUSH ColorAwakening Universal PINK Стандарт--gc000648.jpg",
+    "verification": {
+      "identity": "Edgars RosyGlow Color-AwakeningBlush exact001Pink variant48729030689051 linked to3348901665810 image. Older ColourAwakening packaging selected instead of new pH formula.",
+      "volumeAndVariant": "Exact001Pink, catalogue no size. Clear square compact matches older line named in catalogue.",
+      "visualReview": "Entire transparent pink compact on opaque light-grey rectangular staged background with strong cast shadow. Reject grey scene; white outer padding does not make scene transparent.",
+      "reviewMethod": "view_image originals-overview.jpg and full Relouis71/Goddess/Catrice010 original; prepared-overview.png reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Dior Backstage Rosy Glow 001 pink color awakening blush",
+        "url": "https://www.edgars.co.za/products/dior-backstage-rosy-glow-powder-c34436003?variant=48729030689051",
+        "note": "Edgars RosyGlow Color-AwakeningBlush exact001Pink variant48729030689051 linked to3348901665810 image. Older ColourAwakening packaging selected instead of new pH formula. Original HTML/ShopifyJSON retained in artifacts/step-7b/b009-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1200,
+    "bytes": 45372,
+    "sha256": "438730f4e25602c01b20adfa379c2315ca0b6ed3916a01a455f62b2f5030b2bb"
+  },
+  {
+    "productId": "gc000999",
+    "variantId": "gc000999",
+    "productName": "Набор Румяна 02 + Бальзам 01 Givenchy",
+    "brand": "Givenchy",
+    "variant": "Стандарт",
+    "sku": "GC000999",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/more/2"
+    ],
+    "index": 424,
+    "batch": 9,
+    "status": "skipped",
+    "sourcePage": "https://www.givenchybeauty.com/gb/gifts/save-on-sets/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact two-item set not confirmed. Official set results include different combinations and individual Prisme Libre02 and Rose Perfecto001; catalogue lacks line, size and set packaging. No unrelated set or individual product substituted.",
+    "searches": [
+      {
+        "query": "Givenchy blush 02 balm 01 set",
+        "url": "https://www.givenchybeauty.com/gb/gifts/save-on-sets/",
+        "note": "Exact two-item set not confirmed. Official set results include different combinations and individual Prisme Libre02 and Rose Perfecto001; catalogue lacks line, size and set packaging. No unrelated set or individual product substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc001024",
+    "variantId": "gc001024",
+    "productName": "Румяна для лица Gucci 01 «Silky Rose»",
+    "brand": "Gucci",
+    "variant": "Стандарт",
+    "sku": "GC001024",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 425,
+    "batch": 9,
+    "status": "skipped",
+    "sourcePage": "https://www.gucci.com/us/en/pr/beauty/beauty-makeup/01-gucci-blush-de-beaute-p-7026019PRD9901",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact 01 Silky Rose identified in official Gucci search result and retailer family. Shared family fetch of official07 timed out; gallery image retrieval failed; AdoreBeauty family page403. No usable original for this exact shade recovered in quick pass; shade not substituted.",
+    "searches": [
+      {
+        "query": "Gucci blush 01 Silky Rose 03 Radiant Pink 07 True Pink",
+        "url": "https://www.gucci.com/us/en/pr/beauty/beauty-makeup/01-gucci-blush-de-beaute-p-7026019PRD9901",
+        "note": "Exact 01 Silky Rose identified in official Gucci search result and retailer family. Shared family fetch of official07 timed out; gallery image retrieval failed; AdoreBeauty family page403. No usable original for this exact shade recovered in quick pass; shade not substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc001025",
+    "variantId": "gc001025",
+    "productName": "Румяна для лица Gucci 03 «Radiant Pink»",
+    "brand": "Gucci",
+    "variant": "Стандарт",
+    "sku": "GC001025",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 426,
+    "batch": 9,
+    "status": "skipped",
+    "sourcePage": "https://www.gucci.com/ca/fr/pr/beauty/beauty-makeup/03-gucci-blush-de-beaute-p-7026019PRD99003",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact 03 Radiant Pink identified in official Gucci search result and retailer family. Shared family fetch of official07 timed out; gallery image retrieval failed; AdoreBeauty family page403. No usable original for this exact shade recovered in quick pass; shade not substituted.",
+    "searches": [
+      {
+        "query": "Gucci blush 01 Silky Rose 03 Radiant Pink 07 True Pink",
+        "url": "https://www.gucci.com/ca/fr/pr/beauty/beauty-makeup/03-gucci-blush-de-beaute-p-7026019PRD99003",
+        "note": "Exact 03 Radiant Pink identified in official Gucci search result and retailer family. Shared family fetch of official07 timed out; gallery image retrieval failed; AdoreBeauty family page403. No usable original for this exact shade recovered in quick pass; shade not substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc001026",
+    "variantId": "gc001026",
+    "productName": "Румяна для лица Gucci 07 «True Pink»",
+    "brand": "Gucci",
+    "variant": "Стандарт",
+    "sku": "GC001026",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 427,
+    "batch": 9,
+    "status": "skipped",
+    "sourcePage": "https://www.gucci.com/us/en/pr/beauty/beauty-makeup/07-gucci-blush-de-beaute-p-7026019PRD9907",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact 07 True Pink identified in official Gucci search result and retailer family. Shared family fetch of official07 timed out; gallery image retrieval failed; AdoreBeauty family page403. No usable original for this exact shade recovered in quick pass; shade not substituted.",
+    "searches": [
+      {
+        "query": "Gucci blush 01 Silky Rose 03 Radiant Pink 07 True Pink",
+        "url": "https://www.gucci.com/us/en/pr/beauty/beauty-makeup/07-gucci-blush-de-beaute-p-7026019PRD9907",
+        "note": "Exact 07 True Pink identified in official Gucci search result and retailer family. Shared family fetch of official07 timed out; gallery image retrieval failed; AdoreBeauty family page403. No usable original for this exact shade recovered in quick pass; shade not substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc001616",
+    "variantId": "gc001616",
+    "productName": "Румяна двойные PATRICK TA JUST ENOUGH 6,4 г",
+    "brand": "PATRICK TA",
+    "variant": "Стандарт",
+    "sku": "GC001616",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 428,
+    "batch": 9,
+    "status": "skipped",
+    "sourcePage": "https://patrickta.com/products/creme-powder-blush-duos?variant=40300235554897",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official product and brand Q&A explicitly state all duos contain 6g creme plus4g powder. Catalogue explicitly says6.4g; treating this as6+4g would be a guess. Exact catalogue size not confirmed.",
+    "searches": [
+      {
+        "query": "Patrick Ta Just Enough 6.4 g blush",
+        "url": "https://patrickta.com/products/creme-powder-blush-duos?variant=40300235554897",
+        "note": "Official product and brand Q&A explicitly state all duos contain 6g creme plus4g powder. Catalogue explicitly says6.4g; treating this as6+4g would be a guess. Exact catalogue size not confirmed."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc001737",
+    "variantId": "gc001737",
+    "productName": "Румяна тон71 Relouis Pro Blush",
+    "brand": "Relouis",
+    "variant": "Стандарт",
+    "sku": "GC001737",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 429,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/en/product/relouis-pro-blush/",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2017/10/RePRO-RM-71.jpg",
+    "localFile": "materials/catalog-7b/originals/b009-b/Румяна тон71 Relouis Pro Blush Стандарт--gc001737.jpg",
+    "verification": {
+      "identity": "Official Relouis ProBlush product page shade 71 selects product-images-0 with RePRO-RM-71.jpg full photo; separate Rumajna thumbnail is not used.",
+      "volumeAndVariant": "Exact shade71, compact full product; no catalogue size.",
+      "visualReview": "Full round black compact with transparent labelled lid, individual powder shade. Pure white field and intact edges, no watermark;1080-square original.",
+      "reviewMethod": "view_image originals-overview.jpg and full Relouis71/Goddess/Catrice010 original; prepared-overview.png reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Relouis Pro Blush 71 72 73 74",
+        "url": "https://relouis.by/en/product/relouis-pro-blush/",
+        "note": "Official Relouis ProBlush product page shade 71 selects product-images-0 with RePRO-RM-71.jpg full photo; separate Rumajna thumbnail is not used. Original HTML/ShopifyJSON retained in artifacts/step-7b/b009-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1080,
+    "bytes": 90966,
+    "sha256": "552741f550343f38f9e6a046488b66da0ed1d055fcfcca8caf641935a0c0fa55"
+  },
+  {
+    "productId": "gc001738",
+    "variantId": "gc001738",
+    "productName": "Румяна тон72 Relouis Pro Blush",
+    "brand": "Relouis",
+    "variant": "Стандарт",
+    "sku": "GC001738",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 430,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/en/product/relouis-pro-blush/",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2017/10/RePRO-RM-72.jpg",
+    "localFile": "materials/catalog-7b/originals/b009-b/Румяна тон72 Relouis Pro Blush Стандарт--gc001738.jpg",
+    "verification": {
+      "identity": "Official Relouis ProBlush product page shade 72 selects product-images-1 with RePRO-RM-72.jpg full photo; separate Rumajna thumbnail is not used.",
+      "volumeAndVariant": "Exact shade72, compact full product; no catalogue size.",
+      "visualReview": "Full round black compact with transparent labelled lid, individual powder shade. Pure white field and intact edges, no watermark;1080-square original.",
+      "reviewMethod": "view_image originals-overview.jpg and full Relouis71/Goddess/Catrice010 original; prepared-overview.png reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Relouis Pro Blush 71 72 73 74",
+        "url": "https://relouis.by/en/product/relouis-pro-blush/",
+        "note": "Official Relouis ProBlush product page shade 72 selects product-images-1 with RePRO-RM-72.jpg full photo; separate Rumajna thumbnail is not used. Original HTML/ShopifyJSON retained in artifacts/step-7b/b009-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1080,
+    "bytes": 89529,
+    "sha256": "241f77da7ae75a56479ca7de84160872c64b21b957043532a9008409c2b3e341"
+  },
+  {
+    "productId": "gc001739",
+    "variantId": "gc001739",
+    "productName": "Румяна тон73 Relouis Pro Blush",
+    "brand": "Relouis",
+    "variant": "Стандарт",
+    "sku": "GC001739",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 431,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/en/product/relouis-pro-blush/",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2017/10/RePRO-RM-73.jpg",
+    "localFile": "materials/catalog-7b/originals/b009-b/Румяна тон73 Relouis Pro Blush Стандарт--gc001739.jpg",
+    "verification": {
+      "identity": "Official Relouis ProBlush product page shade 73 selects product-images-2 with RePRO-RM-73.jpg full photo; separate Rumajna thumbnail is not used.",
+      "volumeAndVariant": "Exact shade73, compact full product; no catalogue size.",
+      "visualReview": "Full round black compact with transparent labelled lid, individual powder shade. Pure white field and intact edges, no watermark;1080-square original.",
+      "reviewMethod": "view_image originals-overview.jpg and full Relouis71/Goddess/Catrice010 original; prepared-overview.png reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Relouis Pro Blush 71 72 73 74",
+        "url": "https://relouis.by/en/product/relouis-pro-blush/",
+        "note": "Official Relouis ProBlush product page shade 73 selects product-images-2 with RePRO-RM-73.jpg full photo; separate Rumajna thumbnail is not used. Original HTML/ShopifyJSON retained in artifacts/step-7b/b009-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1080,
+    "bytes": 99143,
+    "sha256": "e07d62baaf67e52e5c3540847b58ecda05fdb449dcc3115a6922d42987103510"
+  },
+  {
+    "productId": "gc001740",
+    "variantId": "gc001740",
+    "productName": "Румяна тон74 Relouis Pro Blush",
+    "brand": "Relouis",
+    "variant": "Стандарт",
+    "sku": "GC001740",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 432,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/en/product/relouis-pro-blush/",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2017/10/RePRO-RM-74.jpg",
+    "localFile": "materials/catalog-7b/originals/b009-b/Румяна тон74 Relouis Pro Blush Стандарт--gc001740.jpg",
+    "verification": {
+      "identity": "Official Relouis ProBlush product page shade 74 selects product-images-3 with RePRO-RM-74.jpg full photo; separate Rumajna thumbnail is not used.",
+      "volumeAndVariant": "Exact shade74, compact full product; no catalogue size.",
+      "visualReview": "Full round black compact with transparent labelled lid, individual powder shade. Pure white field and intact edges, no watermark;1080-square original.",
+      "reviewMethod": "view_image originals-overview.jpg and full Relouis71/Goddess/Catrice010 original; prepared-overview.png reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Relouis Pro Blush 71 72 73 74",
+        "url": "https://relouis.by/en/product/relouis-pro-blush/",
+        "note": "Official Relouis ProBlush product page shade 74 selects product-images-3 with RePRO-RM-74.jpg full photo; separate Rumajna thumbnail is not used. Original HTML/ShopifyJSON retained in artifacts/step-7b/b009-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1080,
+    "bytes": 99949,
+    "sha256": "906ea1d3c81490b6a4642d7b35bf6ca5b053e0356e4461f90833b55dac830db1"
+  },
+  {
+    "productId": "gc001756",
+    "variantId": "gc001756",
+    "productName": "Бронзер Revolution Blushing Heart Summer of Love",
+    "brand": "Revolution",
+    "variant": "Стандарт",
+    "sku": "GC001756",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/8"
+    ],
+    "index": 433,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://www.netmeds.com/product/makeup-revolution-heart-bronzer-summer-of-love-10-gm-lui5ne-8308910",
+    "sourceImage": "https://gdn.pixelbin.io/v2/plain-cake-860195/netmed/wrkr/products/assets/item/free/original/FzWhCvzWL1-makeup_revolution_heart_bronzer_summer_of_love_10_gm_0_0.jpg",
+    "localFile": "materials/catalog-7b/originals/b009-b/Бронзер Revolution Blushing Heart Summer of Love Стандарт--gc001756.jpg",
+    "verification": {
+      "identity": "Netmeds exact SummerOfLove10gm product page links original packaged heart bronzer image.",
+      "volumeAndVariant": "SummerOfLove bronze,10g; exact package text, not HotSummerOfLove striped alternative.",
+      "visualReview": "Complete closed square retail box on white,600px canvas insufficient for800px object standard.",
+      "reviewMethod": "view_image originals-overview.jpg and full Relouis71/Goddess/Catrice010 original; prepared-overview.png reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Revolution Blushing Hearts Summer of Love Goddess of Love highlighter",
+        "url": "https://www.netmeds.com/product/makeup-revolution-heart-bronzer-summer-of-love-10-gm-lui5ne-8308910",
+        "note": "Netmeds exact SummerOfLove10gm product page links original packaged heart bronzer image. Original HTML/ShopifyJSON retained in artifacts/step-7b/b009-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 600,
+    "height": 600,
+    "bytes": 23086,
+    "sha256": "f7b3b517a635eee6f512a0d49220da8a5f6c00f43cb59a98730fafe39d097e8b"
+  },
+  {
+    "productId": "gc001762",
+    "variantId": "gc001762",
+    "productName": "Хайлайтер Revolution Blushing Hearts Goddess of Love Highlighter",
+    "brand": "Revolution",
+    "variant": "Стандарт",
+    "sku": "GC001762",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/9"
+    ],
+    "index": 434,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://revolutionbeauty.pk/products/i-heart-revolution-blushing-hearts-goddess-of-love-highlighter",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/7420/4205/products/BlushingHearts-GoddessofLoveHighlighter2.jpg?v=1746093779",
+    "localFile": "materials/catalog-7b/originals/b009-b/Хайлайтер Revolution Blushing Hearts Goddess of Love Highlighter Стандарт--gc001762.jpg",
+    "verification": {
+      "identity": "RevolutionBeautyPakistan exact GoddessOfLoveHighlighter Shopify product gallery first image, no shade ambiguity.",
+      "volumeAndVariant": "Exact GoddessOfLove, full heart compact and its matching lid; no catalogue size.",
+      "visualReview": "Whole open heart-shaped highlighter and matching lid on white, no watermark or cropped object.1785x2000 original. Product name printed on actual lid.",
+      "reviewMethod": "view_image originals-overview.jpg and full Relouis71/Goddess/Catrice010 original; prepared-overview.png reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Revolution Blushing Hearts Summer of Love Goddess of Love highlighter",
+        "url": "https://revolutionbeauty.pk/products/i-heart-revolution-blushing-hearts-goddess-of-love-highlighter",
+        "note": "RevolutionBeautyPakistan exact GoddessOfLoveHighlighter Shopify product gallery first image, no shade ambiguity. Original HTML/ShopifyJSON retained in artifacts/step-7b/b009-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1785,
+    "height": 2000,
+    "bytes": 192745,
+    "sha256": "ac075de08d09a62275cd87b89636d56ab379990b4ad857644f5897388c458b52"
+  },
+  {
+    "productId": "gc001765",
+    "variantId": "gc001765",
+    "productName": "Кремовые румяна ROSE INC Azalea",
+    "brand": "ROSE INC",
+    "variant": "Стандарт",
+    "sku": "GC001765",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 435,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://www.roseinc.com/products/cream-blush?variant=40549025579196",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0100/9257/6804/products/Blush-Divine-Lip-Cheek-Color-AZALEA_AP_08799ad1-fe78-4dfe-a767-b0e1ed0c7c90.jpg?v=1759120577",
+    "localFile": "materials/catalog-7b/originals/b009-b/Кремовые румяна ROSE INC Azalea Стандарт--gc001765.jpg",
+    "verification": {
+      "identity": "Official RoseInc CreamBlushRefillableCheekLipColor Shopify exact Azalea variant40549025579196 has unique featured_image with matching alt text. Full compact product, not refill listing.",
+      "volumeAndVariant": "Exact Azalea,4.5g; no catalogue size. Other shades not reused.",
+      "visualReview": "Opaque grey studio scene and horizon/reflection; detached coloured refill posed in front of empty compact. Source has no alpha and is unsuitable for uniform white packshot. No retouching or background synthesis.",
+      "reviewMethod": "view_image originals-overview.jpg and full Relouis71/Goddess/Catrice010 original; prepared-overview.png reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "ROSE INC blush divine Azalea Camellia Hibiscus Hydrangea Ophelia",
+        "url": "https://www.roseinc.com/products/cream-blush?variant=40549025579196",
+        "note": "Official RoseInc CreamBlushRefillableCheekLipColor Shopify exact Azalea variant40549025579196 has unique featured_image with matching alt text. Full compact product, not refill listing. Original HTML/ShopifyJSON retained in artifacts/step-7b/b009-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 107657,
+    "sha256": "665cca76a6e48d08928bc8a8048b6608e70e63c0a86bffdf0721fb4620958eb3"
+  },
+  {
+    "productId": "gc001766",
+    "variantId": "gc001766",
+    "productName": "Кремовые румяна ROSE INC Camellia",
+    "brand": "ROSE INC",
+    "variant": "Стандарт",
+    "sku": "GC001766",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 436,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://www.roseinc.com/products/cream-blush?variant=41910818832572",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0100/9257/6804/products/22_Blush_Camellia_AP_fcd18918-1b30-4bd2-a6a2-0f0a0e845582.jpg?v=1759120577",
+    "localFile": "materials/catalog-7b/originals/b009-b/Кремовые румяна ROSE INC Camellia Стандарт--gc001766.jpg",
+    "verification": {
+      "identity": "Official RoseInc CreamBlushRefillableCheekLipColor Shopify exact Camellia variant41910818832572 has unique featured_image with matching alt text. Full compact product, not refill listing.",
+      "volumeAndVariant": "Exact Camellia,4.5g; no catalogue size. Other shades not reused.",
+      "visualReview": "Opaque grey studio scene and horizon/reflection; detached coloured refill posed in front of empty compact. Source has no alpha and is unsuitable for uniform white packshot. No retouching or background synthesis.",
+      "reviewMethod": "view_image originals-overview.jpg and full Relouis71/Goddess/Catrice010 original; prepared-overview.png reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "ROSE INC blush divine Azalea Camellia Hibiscus Hydrangea Ophelia",
+        "url": "https://www.roseinc.com/products/cream-blush?variant=41910818832572",
+        "note": "Official RoseInc CreamBlushRefillableCheekLipColor Shopify exact Camellia variant41910818832572 has unique featured_image with matching alt text. Full compact product, not refill listing. Original HTML/ShopifyJSON retained in artifacts/step-7b/b009-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 102859,
+    "sha256": "9a5025a880acac4d27648d807ef62a8bb478bc7d6cf99169dbd010618af8552f"
+  },
+  {
+    "productId": "gc001767",
+    "variantId": "gc001767",
+    "productName": "Кремовые румяна ROSE INC Hibiscus",
+    "brand": "ROSE INC",
+    "variant": "Стандарт",
+    "sku": "GC001767",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 437,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://www.roseinc.com/products/cream-blush?variant=41910850486460",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0100/9257/6804/products/22_Blush_Hibiscus_AP_a40cbde2-0b1d-4884-90e9-ba303874d4d3.jpg?v=1759120577",
+    "localFile": "materials/catalog-7b/originals/b009-b/Кремовые румяна ROSE INC Hibiscus Стандарт--gc001767.jpg",
+    "verification": {
+      "identity": "Official RoseInc CreamBlushRefillableCheekLipColor Shopify exact Hibiscus variant41910850486460 has unique featured_image with matching alt text. Full compact product, not refill listing.",
+      "volumeAndVariant": "Exact Hibiscus,4.5g; no catalogue size. Other shades not reused.",
+      "visualReview": "Opaque grey studio scene and horizon/reflection; detached coloured refill posed in front of empty compact. Source has no alpha and is unsuitable for uniform white packshot. No retouching or background synthesis.",
+      "reviewMethod": "view_image originals-overview.jpg and full Relouis71/Goddess/Catrice010 original; prepared-overview.png reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "ROSE INC blush divine Azalea Camellia Hibiscus Hydrangea Ophelia",
+        "url": "https://www.roseinc.com/products/cream-blush?variant=41910850486460",
+        "note": "Official RoseInc CreamBlushRefillableCheekLipColor Shopify exact Hibiscus variant41910850486460 has unique featured_image with matching alt text. Full compact product, not refill listing. Original HTML/ShopifyJSON retained in artifacts/step-7b/b009-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 98830,
+    "sha256": "cd6d1ca5f04029b9ea4a6ae87c5c0a9f8fda8c1912f9febff83759bbd8918b2f"
+  },
+  {
+    "productId": "gc001768",
+    "variantId": "gc001768",
+    "productName": "Кремовые румяна ROSE INC Hydrangea",
+    "brand": "ROSE INC",
+    "variant": "Стандарт",
+    "sku": "GC001768",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 438,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://www.roseinc.com/products/cream-blush?variant=41910855368892",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0100/9257/6804/products/22_Blush_Hydrangea_AP_9085780e-b75a-43e8-8be5-8e1772b8e1b2.jpg?v=1759120577",
+    "localFile": "materials/catalog-7b/originals/b009-b/Кремовые румяна ROSE INC Hydrangea Стандарт--gc001768.jpg",
+    "verification": {
+      "identity": "Official RoseInc CreamBlushRefillableCheekLipColor Shopify exact Hydrangea variant41910855368892 has unique featured_image with matching alt text. Full compact product, not refill listing.",
+      "volumeAndVariant": "Exact Hydrangea,4.5g; no catalogue size. Other shades not reused.",
+      "visualReview": "Opaque grey studio scene and horizon/reflection; detached coloured refill posed in front of empty compact. Source has no alpha and is unsuitable for uniform white packshot. No retouching or background synthesis.",
+      "reviewMethod": "view_image originals-overview.jpg and full Relouis71/Goddess/Catrice010 original; prepared-overview.png reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "ROSE INC blush divine Azalea Camellia Hibiscus Hydrangea Ophelia",
+        "url": "https://www.roseinc.com/products/cream-blush?variant=41910855368892",
+        "note": "Official RoseInc CreamBlushRefillableCheekLipColor Shopify exact Hydrangea variant41910855368892 has unique featured_image with matching alt text. Full compact product, not refill listing. Original HTML/ShopifyJSON retained in artifacts/step-7b/b009-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 99942,
+    "sha256": "5b2300ac0917a0e965f6357f4484520e1b819e31d2d8382069060c9466ae3916"
+  },
+  {
+    "productId": "gc001769",
+    "variantId": "gc001769",
+    "productName": "Кремовые румяна ROSE INC Ophelia",
+    "brand": "ROSE INC",
+    "variant": "Стандарт",
+    "sku": "GC001769",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 439,
+    "batch": 9,
+    "status": "verified",
+    "sourcePage": "https://www.roseinc.com/products/cream-blush?variant=40549025611964",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0100/9257/6804/products/Blush-Divine-Lip-Cheek-Color-OPHELIA_AP_f854f77b-4bed-4664-99de-e3b47b1842ac.jpg?v=1759120577",
+    "localFile": "materials/catalog-7b/originals/b009-b/Кремовые румяна ROSE INC Ophelia Стандарт--gc001769.jpg",
+    "verification": {
+      "identity": "Official RoseInc CreamBlushRefillableCheekLipColor Shopify exact Ophelia variant40549025611964 has unique featured_image with matching alt text. Full compact product, not refill listing.",
+      "volumeAndVariant": "Exact Ophelia,4.5g; no catalogue size. Other shades not reused.",
+      "visualReview": "Opaque grey studio scene and horizon/reflection; detached coloured refill posed in front of empty compact. Source has no alpha and is unsuitable for uniform white packshot. No retouching or background synthesis.",
+      "reviewMethod": "view_image originals-overview.jpg and full Relouis71/Goddess/Catrice010 original; prepared-overview.png reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "ROSE INC blush divine Azalea Camellia Hibiscus Hydrangea Ophelia",
+        "url": "https://www.roseinc.com/products/cream-blush?variant=40549025611964",
+        "note": "Official RoseInc CreamBlushRefillableCheekLipColor Shopify exact Ophelia variant40549025611964 has unique featured_image with matching alt text. Full compact product, not refill listing. Original HTML/ShopifyJSON retained in artifacts/step-7b/b009-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 110249,
+    "sha256": "a07903dfcbf82c89bc9d031cee1cb7f532bd278e04ce88a6074ecfea05a2f109"
+  }
+]

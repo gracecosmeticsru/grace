@@ -1,21 +1,17 @@
 "use client";
-import {Heart,ImageOff,ArrowUpRight} from 'lucide-react';
-import {useShop} from './store-shell';
-import type {Product} from '@/lib/catalog-types';
-import {productPrice} from '@/lib/pricing';
-export function ProductImage({product,large=false}:{product:Product;large?:boolean}){
- return product.image?<img src={product.image} alt={product.name} className="real-product-image" loading={large?'eager':'lazy'}/>:<div className={'image-placeholder '+(large?'large':'')}><ImageOff strokeWidth={1}/><span>Фото пока нет</span></div>;
+import {ImageOff} from 'lucide-react';
+import {useEffect,useRef,useState} from 'react';
+import type {Product,Variant} from '@/lib/catalog-types';
+import {defaultCardVariant} from '@/lib/home-variants';
+import {productMedia} from '@/lib/product-media';
+import {variantProductName} from '@/lib/variant-product';
+import VariantProductCard from './variant-product-card';
+export function ProductImage({product,variant,large=false}:{product:Product;variant:Variant;large?:boolean}){
+ const media=productMedia(product,variant);const [failed,setFailed]=useState('');const image=useRef<HTMLImageElement>(null);const source=media?.src;
+ useEffect(()=>{if(source&&image.current?.complete&&image.current.naturalWidth===0)setFailed(source);},[source]);
+ return media&&failed!==media.src?<img ref={image} src={media.src} alt={variantProductName(product,variant)} className={'real-product-image'+(media.prepared?' prepared-product-image':'')} loading={large?'eager':'lazy'} decoding="async" onError={()=>setFailed(media.src)}/>:<div className={'image-placeholder '+(large?'large':'')}><ImageOff strokeWidth={1}/><span>Фото пока нет</span></div>;
 }
-export default function ProductCard({product:p}:{product:Product}){
- const {favorites,toggleFavorite}=useShop();const saved=favorites.includes(p.id);
- const options=p.variants.some(v=>v.type==='Оттенок')?'Оттенки':p.decant?'Объёмы':'Варианты';
- const brandIndex=p.brand?p.name.toLowerCase().indexOf(p.brand.toLowerCase()):-1;
- const short=brandIndex<0?p.name:(p.name.slice(0,brandIndex)+p.name.slice(brandIndex+p.brand.length)).trim();
- return <article className="product-card">
-  <a href={'/product/'+p.id} className="product-card-link" aria-label={'Открыть товар: '+p.name}>
-   <div className="product-visual"><ProductImage product={p}/>{p.decant&&<span className="product-badge">РАСПИВ</span>}<span className="quick-view">Смотреть товар <ArrowUpRight size={16}/></span></div>
-   <div className="product-copy"><span className="product-brand">{p.brand||'Grace Cosmetics'}</span><span className="product-name">{short}</span><span className="product-options">{p.variants.length>1?`${options}: ${p.variants.length}`:p.variants[0]?.label!=='Стандарт'?p.variants[0]?.label:'Один вариант'}</span><span className="product-price">{productPrice(p.variants)}</span></div>
-  </a>
-  <button className={'favorite-button '+(saved?'is-saved':'')} onClick={()=>toggleFavorite(p.id)} aria-label={(saved?'Убрать из избранного: ':'В избранное: ')+p.name} aria-pressed={saved}><Heart size={21} fill={saved?'currentColor':'none'} strokeWidth={1.6}/></button>
- </article>;
+export default function ProductCard({product,promotion}:{product:Product;promotion?:string}){
+ const variant=defaultCardVariant(product);
+ return variant?<VariantProductCard product={product} variant={variant} promotion={promotion}/>:null;
 }

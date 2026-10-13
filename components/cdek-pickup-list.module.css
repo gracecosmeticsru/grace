@@ -1,0 +1,23 @@
+.field { display: grid; gap: 8px; margin: 16px 0; min-width: 0; }
+.field label { font-size: 14px; font-weight: 550; }
+.field input { width: 100%; min-width: 0; min-height: 48px; padding: 10px 12px; font: inherit; font-size: 16px; color: inherit; background: white; border: 1px solid #cfc5dc; border-radius: 9px; scroll-margin-top: 120px; }
+.field input[aria-invalid="true"] { border-color: #a4454b; }
+.search { display: flex; gap: 8px; }
+.search input { flex: 1; width: 0; }
+.search button { flex: none; padding-inline: 14px; min-height: 48px; }
+.hint { font-size: 12px; line-height: 1.5; color: var(--muted-foreground); margin: 0; }
+.error { color: #9a343c; font-size: 13px; margin: 0; }
+.chosen { font-size: 14px; margin: 5px 0; font-weight: 550; }
+.selected { background: #f3eff8; padding: 10px 12px; border-radius: 8px; font-size: 13px; margin: 4px 0; overflow-wrap: anywhere; }
+.list { list-style: none; display: grid; gap: 6px; margin: 0; padding: 0; }
+.list button { display: grid; gap: 3px; width: 100%; min-height: 48px; text-align: left; padding: 10px 12px; border: 1px solid #e5dfee; border-radius: 9px; background: white; color: inherit; cursor: pointer; overflow-wrap: anywhere; }
+.list strong { font-size: 14px; line-height: 1.45; font-weight: 550; }
+.list span { font-size: 12px; line-height: 1.5; color: var(--muted-foreground); }
+.list button[aria-pressed="true"] { background: #f3eff8; border-color: var(--grace-action); }
+.field button:focus-visible, .field input:focus-visible { outline: 2px solid var(--grace-action); outline-offset: 2px; }
+.field button:disabled { opacity: .5; cursor: default; }
+.pages { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.pages button, .failure button { min-height: 44px; padding: 8px 14px; border: 1px solid #cfc5dc; border-radius: 8px; background: white; font: inherit; font-size: 13px; cursor: pointer; }
+.pages span { font-size: 13px; }
+.failure { padding: 12px; background: #f6f2f8; border-radius: 9px; font-size: 13px; }
+.failure p { margin: 0 0 8px; }

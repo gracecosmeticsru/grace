@@ -1,0 +1,569 @@
+[
+  {
+    "index": 670,
+    "productId": "parent-0103",
+    "variantId": "gc002811",
+    "productName": "Жидкий хайлайтер Rare Beauty",
+    "variant": "Enlighten",
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/positive-light-liquid-luminizer-1?variant=43734829203591",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-PL-LIQUID-LUMINIZER-ENLIGHTEN-1440x1952.jpg?v=1762283296",
+    "localFile": "materials/catalog-7b/originals/b014-b/Жидкий хайлайтер Rare Beauty Enlighten--gc002811.jpg",
+    "verification": {
+      "identity": "Official Shopify product Positive Light Liquid Luminizer Enlighten, variant 43734829203591, directly bound primary image. Image ID 32464755949703.",
+      "volumeAndVariant": "Exact regular product and named shade; no miniature, decant or limited-edition substitute. Catalog gives no extra size.",
+      "visualReview": "Exact Enlighten bottle but opaque beige lifestyle scene, horizon and long hard shadow. Does not satisfy white isolated photo requirement.",
+      "reviewMethod": "Full original/fit-contain sheet viewed with alpha flattened on white, actual product bounds assessed excluding shadow,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Жидкий хайлайтер Rare Beauty Enlighten",
+        "url": "https://www.rarebeauty.com/products/positive-light-liquid-luminizer-1?variant=43734829203591",
+        "note": "Official Shopify product Positive Light Liquid Luminizer Enlighten, variant 43734829203591, directly bound primary image. Image ID 32464755949703."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 46875,
+    "sha256": "7e9ad2e14e3a8e3a014f50f3c69bf0680dcf48b7b283a21b4462cab1d16dfd66"
+  },
+  {
+    "index": 671,
+    "productId": "gc002813",
+    "variantId": "gc002813",
+    "productName": "Жидкий хайлайтер для лица Charlotte Tilbury «Spotlight»",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/hollywood-beauty-light-wand-highlighter",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/VFAutDxoMYkLFGg4ij3ds/d79216924776b898f759472fa64e6868/HOLLYWOOD-BEAUTY-LIGHT-WAND---PACKSHO---CLOSED.png",
+    "localFile": "materials/catalog-7b/originals/b014-b/Жидкий хайлайтер для лица Charlotte Tilbury «Spotlight» Стандарт--gc002813.png",
+    "verification": {
+      "identity": "Official product page exact Beauty Light Wand Spotlight with directly linked original product packshot; model and swatch-only images excluded.",
+      "volumeAndVariant": "Official regular Spotlight is12ml, exact explicit gc002814; gc002813 names same regular Spotlight without volume. Both use identical official regular source, no mini substitution.",
+      "visualReview": "Full Spotlight tube on alpha. Original1000square, opacity>=240 bbox(417,114)-(583,882) gives actual768px product height. Shadow does not count toward800px. Blocked.",
+      "reviewMethod": "Full original/fit-contain sheet viewed with alpha flattened on white, actual product bounds assessed excluding shadow,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Жидкий хайлайтер для лица Charlotte Tilbury «Spotlight» Стандарт",
+        "url": "https://www.charlottetilbury.com/uk/product/hollywood-beauty-light-wand-highlighter",
+        "note": "Official product page exact Beauty Light Wand Spotlight with directly linked original product packshot; model and swatch-only images excluded."
+      }
+    ],
+    "sharedImageWith": [
+      "gc002814"
+    ],
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 209961,
+    "sha256": "5c32f948c594114cf166efd383b72e1c88eb8536f8e5c859420b209c48d9876c"
+  },
+  {
+    "index": 672,
+    "productId": "gc002814",
+    "variantId": "gc002814",
+    "productName": "Жидкий хайлайтер для лица Charlotte Tilbury «Spotlight» 12 мл",
+    "variant": "12 мл",
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/hollywood-beauty-light-wand-highlighter",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/VFAutDxoMYkLFGg4ij3ds/d79216924776b898f759472fa64e6868/HOLLYWOOD-BEAUTY-LIGHT-WAND---PACKSHO---CLOSED.png",
+    "localFile": "materials/catalog-7b/originals/b014-b/Жидкий хайлайтер для лица Charlotte Tilbury «Spotlight» 12 мл 12 мл--gc002814.png",
+    "verification": {
+      "identity": "Official product page exact Beauty Light Wand Spotlight with directly linked original product packshot; model and swatch-only images excluded.",
+      "volumeAndVariant": "Official regular Spotlight is12ml, exact explicit gc002814; gc002813 names same regular Spotlight without volume. Both use identical official regular source, no mini substitution.",
+      "visualReview": "Full Spotlight tube on alpha. Original1000square, opacity>=240 bbox(417,114)-(583,882) gives actual768px product height. Shadow does not count toward800px. Blocked.",
+      "reviewMethod": "Full original/fit-contain sheet viewed with alpha flattened on white, actual product bounds assessed excluding shadow,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Жидкий хайлайтер для лица Charlotte Tilbury «Spotlight» 12 мл 12 мл",
+        "url": "https://www.charlottetilbury.com/uk/product/hollywood-beauty-light-wand-highlighter",
+        "note": "Official product page exact Beauty Light Wand Spotlight with directly linked original product packshot; model and swatch-only images excluded."
+      }
+    ],
+    "sharedImageWith": [
+      "gc002813"
+    ],
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 209961,
+    "sha256": "5c32f948c594114cf166efd383b72e1c88eb8536f8e5c859420b209c48d9876c"
+  },
+  {
+    "index": 673,
+    "productId": "parent-0104",
+    "variantId": "gc003235",
+    "productName": "Кремовый хайлайтер Pixi",
+    "variant": "GildedGold",
+    "status": "verified",
+    "sourcePage": "https://ae.pixibeauty.com/products/on-the-glow-superglow?variant=40798558027843",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/1603/1117/files/PDP_OTG-SUPERGLOW-GildedGold.jpg?v=1758934711",
+    "localFile": "materials/catalog-7b/originals/b014-b/Кремовый хайлайтер Pixi GildedGold--gc003235.jpg",
+    "verification": {
+      "identity": "Official Shopify product On-the-Glow SuperGlow GildedGold, variant 40798558027843, directly bound primary image. Image ID 71069931471224.",
+      "volumeAndVariant": "Exact regular product and named shade; no miniature, decant or limited-edition substitute. Catalog gives no extra size.",
+      "visualReview": "Exact-shade official image is600square, with oversized texture, shade-caption graphic and cropped lower stick/cap. Too small and promotional; blocked.",
+      "reviewMethod": "Full original/fit-contain sheet viewed with alpha flattened on white, actual product bounds assessed excluding shadow,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовый хайлайтер Pixi GildedGold",
+        "url": "https://ae.pixibeauty.com/products/on-the-glow-superglow?variant=40798558027843",
+        "note": "Official Shopify product On-the-Glow SuperGlow GildedGold, variant 40798558027843, directly bound primary image. Image ID 71069931471224."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 600,
+    "height": 600,
+    "format": "JPEG",
+    "bytes": 41718,
+    "sha256": "2406f20f927d8817b4447a8b96a08bd9e2d29a92a5f0fef153bff83000ea464b"
+  },
+  {
+    "index": 674,
+    "productId": "parent-0104",
+    "variantId": "gc003236",
+    "productName": "Кремовый хайлайтер Pixi",
+    "variant": "IcePearl",
+    "status": "verified",
+    "sourcePage": "https://ae.pixibeauty.com/products/on-the-glow-superglow?variant=40798558093379",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/1603/1117/files/PDP_OTG-SUPERGLOW-IcePearl.jpg?v=1758934711",
+    "localFile": "materials/catalog-7b/originals/b014-b/Кремовый хайлайтер Pixi IcePearl--gc003236.jpg",
+    "verification": {
+      "identity": "Official Shopify product On-the-Glow SuperGlow IcePearl, variant 40798558093379, directly bound primary image. Image ID 71069901193592.",
+      "volumeAndVariant": "Exact regular product and named shade; no miniature, decant or limited-edition substitute. Catalog gives no extra size.",
+      "visualReview": "Exact-shade official image is600square, with oversized texture, shade-caption graphic and cropped lower stick/cap. Too small and promotional; blocked.",
+      "reviewMethod": "Full original/fit-contain sheet viewed with alpha flattened on white, actual product bounds assessed excluding shadow,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовый хайлайтер Pixi IcePearl",
+        "url": "https://ae.pixibeauty.com/products/on-the-glow-superglow?variant=40798558093379",
+        "note": "Official Shopify product On-the-Glow SuperGlow IcePearl, variant 40798558093379, directly bound primary image. Image ID 71069901193592."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 600,
+    "height": 600,
+    "format": "JPEG",
+    "bytes": 28787,
+    "sha256": "b55f9271230cfed81ad99ef0a9e0d4f309db41337efe90980715694935aa5f12"
+  },
+  {
+    "index": 675,
+    "productId": "parent-0104",
+    "variantId": "gc003237",
+    "productName": "Кремовый хайлайтер Pixi",
+    "variant": "NaturaleLustre",
+    "status": "skipped",
+    "sourcePage": "https://ae.pixibeauty.com/products/on-the-glow-superglow",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official regular SuperGlow variant list contains NaturaLustre, but catalog says NaturaleLustre. Possible typo recorded, not silently corrected. Moreover official exact-family image is only 600px promotional composition. No compliant exact named source accepted.",
+    "searches": [
+      {
+        "query": "Кремовый хайлайтер Pixi NaturaleLustre",
+        "url": "https://ae.pixibeauty.com/products/on-the-glow-superglow",
+        "note": "Official regular SuperGlow variant list contains NaturaLustre, but catalog says NaturaleLustre. Possible typo recorded, not silently corrected. Moreover official exact-family image is only 600px promotional composition. No compliant exact named source accepted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 676,
+    "productId": "parent-0104",
+    "variantId": "gc003238",
+    "productName": "Кремовый хайлайтер Pixi",
+    "variant": "PetalDewl",
+    "status": "skipped",
+    "sourcePage": "https://ae.pixibeauty.com/products/on-the-glow-superglow",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official regular SuperGlow variant list contains PetalDew, but catalog says PetalDewl. Possible typo recorded, not silently corrected. Moreover official family image is only 600px promotional composition. No compliant exact named source accepted.",
+    "searches": [
+      {
+        "query": "Кремовый хайлайтер Pixi PetalDewl",
+        "url": "https://ae.pixibeauty.com/products/on-the-glow-superglow",
+        "note": "Official regular SuperGlow variant list contains PetalDew, but catalog says PetalDewl. Possible typo recorded, not silently corrected. Moreover official family image is only 600px promotional composition. No compliant exact named source accepted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 677,
+    "productId": "gc004434",
+    "variantId": "gc004434",
+    "productName": "Пудра-хайлайтер для лица Gucci 03 WARM GOLD",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.gucci.com/ca/en/pr/beauty/beauty-makeup/03-gucci-glow-highlighter-powder-p-8051799PRD99003",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact regular Gucci Glow Highlighter Powder03 Warm Gold found by focused web search. Direct official page timed out after20seconds. The separate red limited-edition compact was excluded. No original recovered in quick pass.",
+    "searches": [
+      {
+        "query": "Пудра-хайлайтер для лица Gucci 03 WARM GOLD Стандарт",
+        "url": "https://www.gucci.com/ca/en/pr/beauty/beauty-makeup/03-gucci-glow-highlighter-powder-p-8051799PRD99003",
+        "note": "Exact regular Gucci Glow Highlighter Powder03 Warm Gold found by focused web search. Direct official page timed out after20seconds. The separate red limited-edition compact was excluded. No original recovered in quick pass."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 678,
+    "productId": "gc004734",
+    "variantId": "gc004734",
+    "productName": "Стик хайлайтер Chanel Baume Essentiel Multi-use Glow Stick Transparent 8 г",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.chanel.com/th/makeup/p/169050/baume-essentiel-multi-use-glow-stick/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Baume Essentiel Transparent8g ref169050 found by focused search. Direct official request returned503; no original retrieved. No alternative shade or size substituted.",
+    "searches": [
+      {
+        "query": "Стик хайлайтер Chanel Baume Essentiel Multi-use Glow Stick Transparent 8 г Стандарт",
+        "url": "https://www.chanel.com/th/makeup/p/169050/baume-essentiel-multi-use-glow-stick/",
+        "note": "Official Baume Essentiel Transparent8g ref169050 found by focused search. Direct official request returned503; no original retrieved. No alternative shade or size substituted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 679,
+    "productId": "gc005205",
+    "variantId": "gc005205",
+    "productName": "Флюид хайлайтер Chanel Pearly Glow 30 мл",
+    "variant": "30мл",
+    "status": "skipped",
+    "sourcePage": "https://www.chanel.com/br/maquiagem/p/186340/les-beiges-fluido-iluminador-iluminador-liquido-para-um-glow-saudavel-e-luminoso-para-rosto-e-corpo/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Les Beiges fluid highlighter ref186340 Pearly Glow30ml found by search. Page request returned403. No original retrieved and no restriction bypass attempted.",
+    "searches": [
+      {
+        "query": "Флюид хайлайтер Chanel Pearly Glow 30 мл 30мл",
+        "url": "https://www.chanel.com/br/maquiagem/p/186340/les-beiges-fluido-iluminador-iluminador-liquido-para-um-glow-saudavel-e-luminoso-para-rosto-e-corpo/",
+        "note": "Official Les Beiges fluid highlighter ref186340 Pearly Glow30ml found by search. Page request returned403. No original retrieved and no restriction bypass attempted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 680,
+    "productId": "gc005206",
+    "variantId": "gc005206",
+    "productName": "Флюид хайлайтер Chanel Sunkissed 30 мл",
+    "variant": "30мл",
+    "status": "skipped",
+    "sourcePage": "https://www.chanel.com/br/maquiagem/p/186340/les-beiges-fluido-iluminador-iluminador-liquido-para-um-glow-saudavel-e-luminoso-para-rosto-e-corpo/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Les Beiges fluid highlighter family search confirms Sunkissed30ml and Pearly Glow30ml as separate shades. Family page returned403, so Sunkissed-specific gallery could not be retrieved. Pearly Glow image was not substituted.",
+    "searches": [
+      {
+        "query": "Флюид хайлайтер Chanel Sunkissed 30 мл 30мл",
+        "url": "https://www.chanel.com/br/maquiagem/p/186340/les-beiges-fluido-iluminador-iluminador-liquido-para-um-glow-saudavel-e-luminoso-para-rosto-e-corpo/",
+        "note": "Official Les Beiges fluid highlighter family search confirms Sunkissed30ml and Pearly Glow30ml as separate shades. Family page returned403, so Sunkissed-specific gallery could not be retrieved. Pearly Glow image was not substituted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 681,
+    "productId": "gc005213",
+    "variantId": "gc005213",
+    "productName": "Хайлайтер Charlotte Tilbury Glow Glide Architect «Pillow Talk Glow»",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/hollywood-highlighter-pillow-talk-glow",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/1gtIQHI6dLInmp2HQZ6Hr0/0e7ebc0b1102d6f7a4bc9671db25dcf8/Hollywood-Highlighter-Pillowtalk-Glow-Packshots.png",
+    "localFile": "materials/catalog-7b/originals/b014-b/Хайлайтер Charlotte Tilbury Glow Glide Architect «Pillow Talk Glow» Стандарт--gc005213.png",
+    "verification": {
+      "identity": "Official product page exact Hollywood Glow Glide Face Architect Pillow Talk Glow with directly linked original product packshot; model and swatch-only images excluded.",
+      "volumeAndVariant": "Regular7g Glow Glide Architect Pillow Talk Glow; not liquid Beauty Light Wand.",
+      "visualReview": "Whole rose-gold open compact on alpha. Original1000square, opacity>=240 bbox(140,118)-(860,883) gives actual765px long side. Shadow cannot supply missing detail. Blocked.",
+      "reviewMethod": "Full original/fit-contain sheet viewed with alpha flattened on white, actual product bounds assessed excluding shadow,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Хайлайтер Charlotte Tilbury Glow Glide Architect «Pillow Talk Glow» Стандарт",
+        "url": "https://www.charlottetilbury.com/us/product/hollywood-highlighter-pillow-talk-glow",
+        "note": "Official product page exact Hollywood Glow Glide Face Architect Pillow Talk Glow with directly linked original product packshot; model and swatch-only images excluded."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 970083,
+    "sha256": "b9cd801e58c37a69d4c18147296576183fc1ab866ff0163732ff043dae2e5f7e"
+  },
+  {
+    "index": 682,
+    "productId": "gc005214",
+    "variantId": "gc005214",
+    "productName": "Хайлайтер Charlotte Tilbury Pillow Talk 12 мл",
+    "variant": "12мл",
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/ca/product/beauty-light-wand-pillow-talk-light",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/6OKsaiYMotd66WfUcMOkbx/9285dc045c3bd95d153401d0c66c4ac6/PILLOW-TALK_BEAUTY-LIGHT-WAND_LIGHT.png",
+    "localFile": "materials/catalog-7b/originals/b014-b/Хайлайтер Charlotte Tilbury Pillow Talk 12 мл 12мл--gc005214.png",
+    "verification": {
+      "identity": "Official product page exact Beauty Light Wand Pillow Talk Original with directly linked original product packshot; model and swatch-only images excluded.",
+      "volumeAndVariant": "Official Pillow Talk Original Beauty Light Wand12ml matches liquid catalog variant; Medium alternate excluded.",
+      "visualReview": "Full original Pillow Talk tube on alpha, not the swatch-only alternate. Original1000square, opacity>=240 bbox(417,120)-(584,884) gives actual764px height; shadow excluded. Blocked.",
+      "reviewMethod": "Full original/fit-contain sheet viewed with alpha flattened on white, actual product bounds assessed excluding shadow,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Хайлайтер Charlotte Tilbury Pillow Talk 12 мл 12мл",
+        "url": "https://www.charlottetilbury.com/ca/product/beauty-light-wand-pillow-talk-light",
+        "note": "Official product page exact Beauty Light Wand Pillow Talk Original with directly linked original product packshot; model and swatch-only images excluded."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 204153,
+    "sha256": "5d745b72fca1acace47ac7ceb6f5fb4b3ca8d1c2fcaad786b8e952888842db8d"
+  },
+  {
+    "index": 683,
+    "productId": "gc005215",
+    "variantId": "gc005215",
+    "productName": "Хайлайтер Fenty Beauty Diamond Bomb «Pink Ice» 04",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://fentybeauty.com/en-mg/products/diamond-bomb-all-over-diamond-veil-pink-ice?variant=43962644103213",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0341/3458/9485/files/FB_FALL25_T2PRODUCT_ECOMM_LE-DIAMOND-COLLECTION_DIAMOND-BOMB_PINK-ICE_1200X1500_72DPI.jpg?v=1753918000",
+    "localFile": "materials/catalog-7b/originals/b014-b/Хайлайтер Fenty Beauty Diamond Bomb «Pink Ice» 04 Стандарт--gc005215.jpg",
+    "verification": {
+      "identity": "Official Shopify product Diamond Bomb All-Over Diamond Veil — Pink Ice, variant 43962644103213, directly bound primary image.",
+      "volumeAndVariant": "Exact regular product and named shade; no miniature, decant or limited-edition substitute. Catalog gives no extra size.",
+      "visualReview": "Exact Diamond Bomb shade compact, but opaque gray textured ground and hard cast shadow. Whole object visible; unsuitable background, no retouching attempted.",
+      "reviewMethod": "Full original/fit-contain sheet viewed with alpha flattened on white, actual product bounds assessed excluding shadow,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Хайлайтер Fenty Beauty Diamond Bomb «Pink Ice» 04 Стандарт",
+        "url": "https://fentybeauty.com/en-mg/products/diamond-bomb-all-over-diamond-veil-pink-ice?variant=43962644103213",
+        "note": "Official Shopify product Diamond Bomb All-Over Diamond Veil — Pink Ice, variant 43962644103213, directly bound primary image."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1500,
+    "format": "JPEG",
+    "bytes": 152533,
+    "sha256": "d6db8d80cf16642981571adf51df82f4c7ecbabf73d0fa1f5bc34460382a55df"
+  },
+  {
+    "index": 684,
+    "productId": "gc005216",
+    "variantId": "gc005216",
+    "productName": "Хайлайтер Fenty Beauty By Rihanna Diamond Bomb 'Rose Rave' 02",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://fentybeauty.com/en-mg/products/diamond-bomb-all-over-diamond-veil-rose-rave-1?variant=44208927375405",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FB40013_FB8031.jpg?v=1762198018",
+    "localFile": "materials/catalog-7b/originals/b014-b/Хайлайтер Fenty Beauty By Rihanna Diamond Bomb 'Rose Rave' 02 Стандарт--gc005216.jpg",
+    "verification": {
+      "identity": "Official Shopify product Diamond Bomb All-Over Diamond Veil — Rosé Rave, variant 44208927375405, directly bound primary image.",
+      "volumeAndVariant": "Exact regular product and named shade; no miniature, decant or limited-edition substitute. Catalog gives no extra size.",
+      "visualReview": "Exact Diamond Bomb shade compact, but opaque gray textured ground and hard cast shadow. Whole object visible; unsuitable background, no retouching attempted.",
+      "reviewMethod": "Full original/fit-contain sheet viewed with alpha flattened on white, actual product bounds assessed excluding shadow,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Хайлайтер Fenty Beauty By Rihanna Diamond Bomb 'Rose Rave' 02 Стандарт",
+        "url": "https://fentybeauty.com/en-mg/products/diamond-bomb-all-over-diamond-veil-rose-rave-1?variant=44208927375405",
+        "note": "Official Shopify product Diamond Bomb All-Over Diamond Veil — Rosé Rave, variant 44208927375405, directly bound primary image."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1500,
+    "format": "JPEG",
+    "bytes": 171482,
+    "sha256": "92460c3dfbcfd30d09fba0fbc4d66207e9588a92231af945c587861348aabe87"
+  },
+  {
+    "index": 685,
+    "productId": "gc005217",
+    "variantId": "gc005217",
+    "productName": "Хайлайтер Fenty Beauty Diamond Bomb All-Over Veil «How Many Carats?!» 01",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://fentybeauty.com/en-mg/products/diamond-bomb-all-over-diamond-veil-how-many-carats?variant=44179497418797",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FB40013_FB8003.jpg?v=1762198501",
+    "localFile": "materials/catalog-7b/originals/b014-b/Хайлайтер Fenty Beauty Diamond Bomb All-Over Veil «How Many Carats-!» 01 Стандарт--gc005217.jpg",
+    "verification": {
+      "identity": "Official Shopify product Diamond Bomb All-Over Diamond Veil — How Many Carats?!, variant 44179497418797, directly bound primary image.",
+      "volumeAndVariant": "Exact regular product and named shade; no miniature, decant or limited-edition substitute. Catalog gives no extra size.",
+      "visualReview": "Exact Diamond Bomb shade compact, but opaque gray textured ground and hard cast shadow. Whole object visible; unsuitable background, no retouching attempted.",
+      "reviewMethod": "Full original/fit-contain sheet viewed with alpha flattened on white, actual product bounds assessed excluding shadow,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Хайлайтер Fenty Beauty Diamond Bomb All-Over Veil «How Many Carats?!» 01 Стандарт",
+        "url": "https://fentybeauty.com/en-mg/products/diamond-bomb-all-over-diamond-veil-how-many-carats?variant=44179497418797",
+        "note": "Official Shopify product Diamond Bomb All-Over Diamond Veil — How Many Carats?!, variant 44179497418797, directly bound primary image."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1500,
+    "format": "JPEG",
+    "bytes": 153039,
+    "sha256": "4c524506a7ad88e093a1e11d5b763105ef6069547912ea756629a3e60744178d"
+  },
+  {
+    "index": 686,
+    "productId": "gc005211",
+    "variantId": "gc005211",
+    "productName": "Хайлайтер Haus Labs «Peach Quartz»",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/bio-radiant-gel-powder-highlighter?variant=39921119658072",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Highlighter_Powder_Silo_Peach_Quartz_c5ef75d8-2ae0-480e-a7e6-ecc887dbbec7.png?v=1784303632",
+    "localFile": "materials/catalog-7b/originals/b014-b/Хайлайтер Haus Labs «Peach Quartz» Стандарт--gc005211.png",
+    "verification": {
+      "identity": "Official Shopify product Bio-Radiant Gel-Powder Highlighter Peach Quartz, variant 39921119658072, directly bound primary image. Image ID 45029735071832.",
+      "volumeAndVariant": "Exact regular product and named shade; no miniature, decant or limited-edition substitute. Catalog gives no extra size.",
+      "visualReview": "Whole peach powder compact, iridescent lid, white background. 2000px canvas; actual compact about1172px wide by1171px tall. Full corners and lid intact; no watermark, no extra graphic, no shadow inflation.",
+      "reviewMethod": "Full original/fit-contain sheet viewed with alpha flattened on white, actual product bounds assessed excluding shadow,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Хайлайтер Haus Labs «Peach Quartz» Стандарт",
+        "url": "https://www.hauslabs.com/products/bio-radiant-gel-powder-highlighter?variant=39921119658072",
+        "note": "Official Shopify product Bio-Radiant Gel-Powder Highlighter Peach Quartz, variant 39921119658072, directly bound primary image. Image ID 45029735071832."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 1963848,
+    "sha256": "441d80d45c700f9e69fe39a2817d990c8f62a97c8669eabc0d6c2436155e78dd"
+  },
+  {
+    "index": 687,
+    "productId": "gc005218",
+    "variantId": "gc005218",
+    "productName": "Хайлайтер Influence Beauty Illuminati 02",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://influence.me/catalog/khaylaytery/illuminati/",
+    "sourceImage": "https://influence.me/upload/dev2fun.imagecompress/webp/iblock/7f5/7p1wdszqw73hcfom76yo24bbeuhdceuz.webp",
+    "localFile": "materials/catalog-7b/originals/b014-b/Хайлайтер Influence Beauty Illuminati 02 Стандарт--gc005218.webp",
+    "verification": {
+      "identity": "Official offer 1017 directly binds original gallery image. Illuminati tone02, SKU INF21013202, pink; default tone01 image excluded.",
+      "volumeAndVariant": "Exact regular product and named shade; no miniature, decant or limited-edition substitute. Catalog gives no extra size.",
+      "visualReview": "Whole triangular closed compact with printed packaging label; exact pink shade. Alpha1500x1340, nonwhite actualbbox(3,5)-(1490,1333), all edges surrounded by white/transparent pixels. No added logo, watermark or promotional text.",
+      "reviewMethod": "Full original/fit-contain sheet viewed with alpha flattened on white, actual product bounds assessed excluding shadow,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Хайлайтер Influence Beauty Illuminati 02 Стандарт",
+        "url": "https://influence.me/catalog/khaylaytery/illuminati/",
+        "note": "Official offer 1017 directly binds original gallery image. Illuminati tone02, SKU INF21013202, pink; default tone01 image excluded."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1500,
+    "height": 1340,
+    "format": "WEBP",
+    "bytes": 136688,
+    "sha256": "aec9cc1ef577f73d622da8b747bf0700d3882378db59b22ee0094a3d1b091979"
+  },
+  {
+    "index": 688,
+    "productId": "gc005219",
+    "variantId": "gc005219",
+    "productName": "Хайлайтер с сияющими частицами Lunar 01",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://influence.me/catalog/khaylaytery/lunar/",
+    "sourceImage": "https://influence.me/upload/dev2fun.imagecompress/webp/iblock/9ad/nhm1rmy3qv7iycj9rxee0v118cueyz43.webp",
+    "localFile": "materials/catalog-7b/originals/b014-b/Хайлайтер с сияющими частицами Lunar 01 Стандарт--gc005219.webp",
+    "verification": {
+      "identity": "Official offer 1020 directly binds original gallery image. Lunar silver01, SKU INF21013301. Catalog uses line name Lunar as brand; matching product label itself reads LUNAR/INFLUENCE BEAUTY. No catalog edit made.",
+      "volumeAndVariant": "Exact regular product and named shade; no miniature, decant or limited-edition substitute. Catalog gives no extra size.",
+      "visualReview": "Exact silver Lunar octagonal compact on white,1500square. Full fit-contain visual inspection plus independent parent review confirms closed contour, all rounded corners and outer light rim intact. Natural straight edges tightly touch original frame; edge statistics alone did not prove clipping. Preserve entire source frame without cropping or repair; downscale and add white border.",
+      "reviewMethod": "Full original/fit-contain sheet viewed with alpha flattened on white, actual product bounds assessed excluding shadow,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Хайлайтер с сияющими частицами Lunar 01 Стандарт",
+        "url": "https://influence.me/catalog/khaylaytery/lunar/",
+        "note": "Official offer 1020 directly binds original gallery image. Lunar silver01, SKU INF21013301. Catalog uses line name Lunar as brand; matching product label itself reads LUNAR/INFLUENCE BEAUTY. No catalog edit made."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1500,
+    "height": 1500,
+    "format": "WEBP",
+    "bytes": 240188,
+    "sha256": "3ca9e4866388551ef9985e2b2f443600f8e53c688c56d71451440614305942d4"
+  },
+  {
+    "index": 689,
+    "productId": "gc005220",
+    "variantId": "gc005220",
+    "productName": "Хайлайтер Yves Saint Laurent 02 Hypnotic Honey",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.yslbeautyus.com/makeup/face/highlighter/hyper-luminize-highlighter/WW-51401YSL.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Hyper Luminize Highlighter family lists shade02 Hypnotic Honey; Sephora search also confirms golden shade identity. Official retrieval returned403 and no original recovered in quick pass. No access bypass attempted.",
+    "searches": [
+      {
+        "query": "Хайлайтер Yves Saint Laurent 02 Hypnotic Honey Стандарт",
+        "url": "https://www.yslbeautyus.com/makeup/face/highlighter/hyper-luminize-highlighter/WW-51401YSL.html",
+        "note": "Official Hyper Luminize Highlighter family lists shade02 Hypnotic Honey; Sephora search also confirms golden shade identity. Official retrieval returned403 and no original recovered in quick pass. No access bypass attempted."
+      }
+    ],
+    "sharedImageWith": []
+  }
+]

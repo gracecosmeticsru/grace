@@ -1,0 +1,2 @@
+Shortest path (3 hops):
+  VariantProductCard() <--imports [EXTRACTED]-- product-card.tsx <--imports_from [EXTRACTED]-- product-rail.tsx --contains [EXTRACTED]--> ProductRail()

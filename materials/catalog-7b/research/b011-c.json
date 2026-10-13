@@ -1,0 +1,464 @@
+[
+  {
+    "productId": "gc004546",
+    "variantId": "gc004546",
+    "productName": "Румяна Tom Ford «Love Scene 01»",
+    "brand": "Tom Ford",
+    "variant": "Стандарт",
+    "sku": "GC004546",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 540,
+    "batch": 11,
+    "status": "skipped",
+    "sourcePage": "https://www.galerieslafayette.ae/ae/en/product/beauty/makeup/face/blushes/tom-ford/love-scene-powder-blush/901101628.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact TomFord LoveScene01 limited edition located at GaleriesLafayette. Direct source page failed TLS certificate expiry validation. No security bypass or long alternate-source search.",
+    "searches": [
+      {
+        "query": "Tom Ford Love Scene blush 01",
+        "url": "https://www.galerieslafayette.ae/ae/en/product/beauty/makeup/face/blushes/tom-ford/love-scene-powder-blush/901101628.html",
+        "note": "Exact TomFord LoveScene01 limited edition located at GaleriesLafayette. Direct source page failed TLS certificate expiry validation. No security bypass or long alternate-source search."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc004547",
+    "variantId": "gc004547",
+    "productName": "Румяна Too Faced Candy Clouds",
+    "brand": "Too Faced",
+    "variant": "Стандарт",
+    "sku": "GC004547",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 541,
+    "batch": 11,
+    "status": "skipped",
+    "sourcePage": "https://www.toofaced.com/product/23479/111688/face-makeup/blush/cloud-crush-blurring-blush",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official CandyClouds5g powder product confirmed in indexed page, distinct from SuperCandyClouds whipped lip&cheek. Direct page403, no source original retained in quick pass.",
+    "searches": [
+      {
+        "query": "site:toofaced.com cloud crush blush Candy Clouds",
+        "url": "https://www.toofaced.com/product/23479/111688/face-makeup/blush/cloud-crush-blurring-blush",
+        "note": "Exact official CandyClouds5g powder product confirmed in indexed page, distinct from SuperCandyClouds whipped lip&cheek. Direct page403, no source original retained in quick pass."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc004548",
+    "variantId": "gc004548",
+    "productName": "Румяна Yves Saint Laurent 06 Rose Haze 6 г",
+    "brand": "Yves Saint Laurent",
+    "variant": "Стандарт",
+    "sku": "GC004548",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 542,
+    "batch": 11,
+    "status": "skipped",
+    "sourcePage": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/make-me-blush-24h-buildable-blurring-powder-blush/WW-51348YSL.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official shade list confirms06RoseHaze. Default gallery belongs to another shade; exact downloadable source not confirmed in quick pass. Earlier b009-c full-image download for same family was policy-blocked; not retried by alternate route.",
+    "searches": [
+      {
+        "query": "YSL Make Me Blush06 Rose Haze6g",
+        "url": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/make-me-blush-24h-buildable-blurring-powder-blush/WW-51348YSL.html",
+        "note": "Official shade list confirms06RoseHaze. Default gallery belongs to another shade; exact downloadable source not confirmed in quick pass. Earlier b009-c full-image download for same family was policy-blocked; not retried by alternate route."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc004549",
+    "variantId": "gc004549",
+    "productName": "Румяна Yves Saint Laurent 12 Honey Moon",
+    "brand": "Yves Saint Laurent",
+    "variant": "Стандарт",
+    "sku": "GC004549",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 543,
+    "batch": 11,
+    "status": "skipped",
+    "sourcePage": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/make-me-blush-24h-buildable-blurring-powder-blush/WW-51348YSL.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official shade list confirms12Honeymoon. Default gallery belongs to another shade; exact downloadable source not confirmed in quick pass. Earlier b009-c full-image download for same family was policy-blocked; not retried by alternate route.",
+    "searches": [
+      {
+        "query": "YSL Make Me Blush12 Honey Moon",
+        "url": "https://www.yslbeautyus.com/makeup/face/blush-bronzer/make-me-blush-24h-buildable-blurring-powder-blush/WW-51348YSL.html",
+        "note": "Official shade list confirms12Honeymoon. Default gallery belongs to another shade; exact downloadable source not confirmed in quick pass. Earlier b009-c full-image download for same family was policy-blocked; not retried by alternate route."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0079",
+    "variantId": "gc004550",
+    "productName": "Румяна в стике Charlotte Tilbury",
+    "brand": "Charlotte Tilbury",
+    "variant": "Peachy Glow",
+    "sku": "GC004550",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 544,
+    "batch": 11,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/unreal-blush-stick-peachy-glow",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/3KYtBh1tAcCaGAD2VkBzBq/8d7907bd7d1d371fc39aa6778407aa9e/PeachyGlow_Open__1_.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b011-c/Румяна в стике Charlotte Tilbury Peachy Glow--gc004550.png",
+    "verification": {
+      "identity": "Exact official dedicated Peachy Glow product page; shade-specific og:image; full HTML retained.",
+      "volumeAndVariant": "Exact named shade and product family; full format, no miniature substituted. Catalog has no numeric volume.",
+      "visualReview": "Complete open product and cap, clean white backdrop with soft physical shadow, no watermark, unclipped matching shade.",
+      "reviewMethod": "Original source reviewed in full-fit contain contact sheet sources-overview.png; retained HTML or uniquely associated official product JSON.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Румяна в стике Charlotte Tilbury Peachy Glow",
+        "url": "https://www.charlottetilbury.com/uk/product/unreal-blush-stick-peachy-glow",
+        "note": "Exact official dedicated Peachy Glow product page; shade-specific og:image; full HTML retained."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Exact official dedicated Peachy Glow product page; shade-specific og:image; full HTML retained.",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 99705,
+    "sha256": "6214a34f42fe897e87a48d9726c6f27f93f7b5eddbad53c685ce22f8705161fc"
+  },
+  {
+    "productId": "parent-0079",
+    "variantId": "gc004551",
+    "productName": "Румяна в стике Charlotte Tilbury",
+    "brand": "Charlotte Tilbury",
+    "variant": "Pinky Glow",
+    "sku": "GC004551",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 545,
+    "batch": 11,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/unreal-blush-stick-pinky-glow",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/2Ly4VwyLOiUorJ5NTbXbR7/8154fca935ee0de67f84120d572412fc/PinkyGlow_Open.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b011-c/Румяна в стике Charlotte Tilbury Pinky Glow--gc004551.png",
+    "verification": {
+      "identity": "Exact official dedicated Pinky Glow product page; shade-specific og:image; full HTML retained.",
+      "volumeAndVariant": "Exact named shade and product family; full format, no miniature substituted. Catalog has no numeric volume.",
+      "visualReview": "Complete open product and cap, clean white backdrop with soft physical shadow, no watermark, unclipped matching shade.",
+      "reviewMethod": "Original source reviewed in full-fit contain contact sheet sources-overview.png; retained HTML or uniquely associated official product JSON.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Румяна в стике Charlotte Tilbury Pinky Glow",
+        "url": "https://www.charlottetilbury.com/uk/product/unreal-blush-stick-pinky-glow",
+        "note": "Exact official dedicated Pinky Glow product page; shade-specific og:image; full HTML retained."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Exact official dedicated Pinky Glow product page; shade-specific og:image; full HTML retained.",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 314998,
+    "sha256": "9aeb0c318c180dc3326be0ee06935f5063469acba2a9b8b08eb51ce4f05c0d92"
+  },
+  {
+    "productId": "parent-0079",
+    "variantId": "gc004552",
+    "productName": "Румяна в стике Charlotte Tilbury",
+    "brand": "Charlotte Tilbury",
+    "variant": "Rosy Glow",
+    "sku": "GC004552",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 546,
+    "batch": 11,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/unreal-blush-stick-rosy-glow",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/plIEGwnFNIyYbQ0M2Clnc/fee298d332d56f15c071fab01fd11ac5/RosyGlow_Open__1_.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b011-c/Румяна в стике Charlotte Tilbury Rosy Glow--gc004552.png",
+    "verification": {
+      "identity": "Exact official dedicated Rosy Glow product page; shade-specific og:image; full HTML retained.",
+      "volumeAndVariant": "Exact named shade and product family; full format, no miniature substituted. Catalog has no numeric volume.",
+      "visualReview": "Complete open product and cap, clean white backdrop with soft physical shadow, no watermark, unclipped matching shade.",
+      "reviewMethod": "Original source reviewed in full-fit contain contact sheet sources-overview.png; retained HTML or uniquely associated official product JSON.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Румяна в стике Charlotte Tilbury Rosy Glow",
+        "url": "https://www.charlottetilbury.com/uk/product/unreal-blush-stick-rosy-glow",
+        "note": "Exact official dedicated Rosy Glow product page; shade-specific og:image; full HTML retained."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Exact official dedicated Rosy Glow product page; shade-specific og:image; full HTML retained.",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 100652,
+    "sha256": "78f3f0a35b126b638bc615beeed9c6d10148b106d325dc93a7e75626031796c2"
+  },
+  {
+    "productId": "gc000062",
+    "variantId": "gc000062",
+    "productName": "Румяна в стике Dior 107 Dragonfruit",
+    "brand": "Dior",
+    "variant": "Стандарт",
+    "sku": "GC000062",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 547,
+    "batch": 11,
+    "status": "verified",
+    "sourcePage": "https://shop-beauty.dior.com.kw/products/dior-backstage-rosy-glow-stick?variant=46419968721046",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0405/6006/6710/files/Y0000048_E000001725_E01_GHC.jpg?v=1781184212",
+    "localFile": "materials/catalog-7b/originals/b011-c/Румяна в стике Dior 107 Dragonfruit Стандарт--gc000062.jpg",
+    "verification": {
+      "identity": "Official Dior107Dragonfruit variant46419968721046 uniquely bound to featured image42170491535510; source JSON retained b010-c.",
+      "volumeAndVariant": "Exact named shade and product family; full format, no miniature substituted. Catalog has no numeric volume.",
+      "visualReview": "Whole stick and cap on opaque light-grey studio background with distinct cast shadows, unsuitable for quick white preparation.",
+      "reviewMethod": "Original source reviewed in full-fit contain contact sheet sources-overview.png; retained HTML or uniquely associated official product JSON.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Dior Румяна в стике Dior 107 Dragonfruit Стандарт",
+        "url": "https://shop-beauty.dior.com.kw/products/dior-backstage-rosy-glow-stick?variant=46419968721046",
+        "note": "Official Dior107Dragonfruit variant46419968721046 uniquely bound to featured image42170491535510; source JSON retained b010-c."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official Dior107Dragonfruit variant46419968721046 uniquely bound to featured image42170491535510; source JSON retained b010-c.",
+    "width": 1850,
+    "height": 2000,
+    "bytes": 189161,
+    "sha256": "6ee308a52c3aa1ddb4ae6fbde2ca9994acacb4aff6df1ca26eeba6985be2f07d"
+  },
+  {
+    "productId": "parent-0080",
+    "variantId": "gc004553",
+    "productName": "Румяна в стике Westman Atelier",
+    "brand": "Westman Atelier",
+    "variant": "coquette",
+    "sku": "GC004553",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 548,
+    "batch": 11,
+    "status": "skipped",
+    "sourcePage": "https://www.westman-atelier.com/products/baby-cheeks-blush-stick-coquette",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official dedicated Coquette product located. Source JSON failed expired TLS certificate validation; no original image retained, no certificate bypass.",
+    "searches": [
+      {
+        "query": "Westman Atelier Baby Cheeks Coquette",
+        "url": "https://www.westman-atelier.com/products/baby-cheeks-blush-stick-coquette",
+        "note": "Exact official dedicated Coquette product located. Source JSON failed expired TLS certificate validation; no original image retained, no certificate bypass."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0080",
+    "variantId": "gc004554",
+    "productName": "Румяна в стике Westman Atelier",
+    "brand": "Westman Atelier",
+    "variant": "petal",
+    "sku": "GC004554",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 549,
+    "batch": 11,
+    "status": "skipped",
+    "sourcePage": "https://www.westman-atelier.com/en-nr/products/baby-cheeks-blush-stick-petal",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official dedicated Petal product located. Source JSON failed expired TLS certificate validation; no original image retained, no certificate bypass.",
+    "searches": [
+      {
+        "query": "Westman Atelier Baby Cheeks Petal",
+        "url": "https://www.westman-atelier.com/en-nr/products/baby-cheeks-blush-stick-petal",
+        "note": "Exact official dedicated Petal product located. Source JSON failed expired TLS certificate validation; no original image retained, no certificate bypass."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0081",
+    "variantId": "gc004555",
+    "productName": "Румяна для лица Charlotte Tilbury",
+    "brand": "Charlotte Tilbury",
+    "variant": "Ecstasy",
+    "sku": "GC004555",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 550,
+    "batch": 11,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/cheek-to-chic-ecstasy",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/2bpkp44VQom7quSsOJwGg9/de68f7d9834dd47eee31e871799aba87/CHEEK-TO-CHIC-ECSTASY-PACKSHOT__1_.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b011-c/Румяна для лица Charlotte Tilbury Ecstasy--gc004555.png",
+    "verification": {
+      "identity": "Exact official dedicated Ecstasy product page; shade-specific og:image; full HTML retained.",
+      "volumeAndVariant": "Exact named shade and product family; full format, no miniature substituted. Catalog has no numeric volume.",
+      "visualReview": "Complete open product and cap, clean white backdrop with soft physical shadow, no watermark, unclipped matching shade.",
+      "reviewMethod": "Original source reviewed in full-fit contain contact sheet sources-overview.png; retained HTML or uniquely associated official product JSON.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Румяна для лица Charlotte Tilbury Ecstasy",
+        "url": "https://www.charlottetilbury.com/uk/product/cheek-to-chic-ecstasy",
+        "note": "Exact official dedicated Ecstasy product page; shade-specific og:image; full HTML retained."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Exact official dedicated Ecstasy product page; shade-specific og:image; full HTML retained.",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 740266,
+    "sha256": "d8212970e85995ba4c5ac7c1dc200b324cb92b0df0d181bf74c0b4e9152270bb"
+  }
+]

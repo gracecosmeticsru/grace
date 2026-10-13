@@ -1,0 +1,587 @@
+[
+  {
+    "index": 320,
+    "productId": "gc003104",
+    "variantId": "gc003104",
+    "productName": "Корректор-консилер NARS «Medium 1»",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.sephora.com/contentimages/pdf/NARS_Medium.pdf",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "NARS Medium1 Custard exists in Radiant Creamy tube and Soft Matte pot. Catalog omits the formula/model, so exact packaging cannot be established; no guess.",
+    "searches": [
+      {
+        "query": "NARS Medium1 concealer corrector",
+        "url": "https://www.sephora.com/contentimages/pdf/NARS_Medium.pdf",
+        "note": "NARS Medium1 Custard exists in Radiant Creamy tube and Soft Matte pot. Catalog omits the formula/model, so exact packaging cannot be established; no guess."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 321,
+    "productId": "gc003228",
+    "variantId": "gc003228",
+    "productName": "Кремовый корректор Charlotte Tilbury Magic Vanish 1 Fair",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/magic-vanish-colour-corrector-fair",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/hTecvkEI6dLQWNH4Jg4fT/006a3913b240dc9589bda8745a9951b3/COLOUR-CORRECTOR-FAIR-PACKSHOT__1___1_.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b007-b/Кремовый корректор Charlotte Tilbury Magic Vanish 1 Fair Стандарт--gc003228.png",
+    "verification": {
+      "identity": "Official Charlotte Tilbury Magic Vanish Fair page with product image filename explicitly COLOUR-CORRECTOR-FAIR; exact requested1Fair.",
+      "volumeAndVariant": "Catalog specifies no size; standard named full product, no decant or mini substitution.",
+      "visualReview": "Whole rose-gold corrector compact on white; source canvas1000 but product only about600px tall; fails visible resolution.",
+      "reviewMethod": "Original contact sheet/full images and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовый корректор Charlotte Tilbury Magic Vanish 1 Fair Стандарт",
+        "url": "https://www.charlottetilbury.com/uk/product/magic-vanish-colour-corrector-fair",
+        "note": "Official Charlotte Tilbury Magic Vanish Fair page with product image filename explicitly COLOUR-CORRECTOR-FAIR; exact requested1Fair."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 413833,
+    "sha256": "fea46c437c16d7a976e7fea5a560dea436c68f3ca3bd7b3042a60d6f047da551"
+  },
+  {
+    "index": 322,
+    "productId": "gc004730",
+    "variantId": "gc004730",
+    "productName": "Корректор консилер Tarte dark circle defense «light-medium peach»",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://buraaqcosmetics.pk/products/tarte-dark-circle-defense-color-corrector-light-medium-peach-2-3g",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0693/0939/9082/files/3a0b50a698393b4d1f204fd4faa7f10c.jpg?v=1781091558",
+    "localFile": "materials/catalog-7b/originals/b007-b/Корректор консилер Tarte dark circle defense «light-medium peach» Стандарт--gc004730.jpg",
+    "verification": {
+      "identity": "Dedicated retailer page explicitly Dark Circle Defense Color Corrector Light Medium Peach2.3g, its Shopify primary photo; original square compact formula, not Shape Tape.",
+      "volumeAndVariant": "Catalog specifies no size; standard named full product, no decant or mini substitution.",
+      "visualReview": "Whole rose-gold square compact, white background, no watermark; source500px square insufficient.",
+      "reviewMethod": "Original contact sheet/full images and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Корректор консилер Tarte dark circle defense «light-medium peach» Стандарт",
+        "url": "https://buraaqcosmetics.pk/products/tarte-dark-circle-defense-color-corrector-light-medium-peach-2-3g",
+        "note": "Dedicated retailer page explicitly Dark Circle Defense Color Corrector Light Medium Peach2.3g, its Shopify primary photo; original square compact formula, not Shape Tape."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 500,
+    "height": 500,
+    "format": "JPEG",
+    "bytes": 23472,
+    "sha256": "0e9e386d4995012ecefff1b4c973b96b0cf3b86b6927a7021db2e66157a1fc6e"
+  },
+  {
+    "index": 323,
+    "productId": "gc000072",
+    "variantId": "gc000072",
+    "productName": "Пудра для лица The Ordinary 100% Niacinamide Powder",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://theordinary.com/en-ca/100-niacinamide-powder-serum-100391.html?dwvar_100391_size=20g&quantity=1",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Search confirms exact20g Niacinamide Powder. Live official product URL redirects to the niacinamide category with serum images; no exact powder image available in retrieved page. Quick pass stopped without substituting serum.",
+    "searches": [
+      {
+        "query": "site:theordinary.com 100% Niacinamide Powder",
+        "url": "https://theordinary.com/en-ca/100-niacinamide-powder-serum-100391.html?dwvar_100391_size=20g&quantity=1",
+        "note": "Search confirms exact20g Niacinamide Powder. Live official product URL redirects to the niacinamide category with serum images; no exact powder image available in retrieved page. Quick pass stopped without substituting serum."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 324,
+    "productId": "gc000252",
+    "variantId": "gc000252",
+    "productName": "Безупречное очищение Маска-пудра для лица Кислородная матир Belita White Detox 75 мл",
+    "variant": "75 мл",
+    "status": "skipped",
+    "sourcePage": "https://www.technodom.kz/p/maska-pudra-dlya-licza-01-white-detox-75-ml-belita-213711",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact White Detox mask-powder75ml found and confirmed in search source. Direct source retrieval returns403; original image inaccessible in this focused pass.",
+    "searches": [
+      {
+        "query": "Белита White Detox Маска-пудра75мл",
+        "url": "https://www.technodom.kz/p/maska-pudra-dlya-licza-01-white-detox-75-ml-belita-213711",
+        "note": "Exact White Detox mask-powder75ml found and confirmed in search source. Direct source retrieval returns403; original image inaccessible in this focused pass."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 325,
+    "productId": "gc000309",
+    "variantId": "gc000309",
+    "productName": "Рисовая пудра-фиксатор Belor Design",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://beloris.ru/item/risovaya-pudra-fiksator-final-touch",
+    "sourceImage": "https://static.beloris.ru/content/catalog_image/483140/tmp/1280_12801541162_1720514525_belor_dizayn_risovaya_pudra_fiksator_final_touch.png.jpg",
+    "localFile": "materials/catalog-7b/originals/b007-b/Рисовая пудра-фиксатор Belor Design Стандарт--gc000309.jpg",
+    "verification": {
+      "identity": "Belor Design Final Touch rice fixing powder, universal translucent shade, confirmed by dedicated page. Exact source main gallery is advertising graphic.",
+      "volumeAndVariant": "Catalog specifies no size; standard named full product, no decant or mini substitution.",
+      "visualReview": "Advertising text panels plus BELORIS watermark; not a clean product photo, blocked without crop/removal.",
+      "reviewMethod": "Original contact sheet/full images and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Рисовая пудра-фиксатор Belor Design Стандарт",
+        "url": "https://beloris.ru/item/risovaya-pudra-fiksator-final-touch",
+        "note": "Belor Design Final Touch rice fixing powder, universal translucent shade, confirmed by dedicated page. Exact source main gallery is advertising graphic."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1023,
+    "height": 1025,
+    "format": "JPEG",
+    "bytes": 70828,
+    "sha256": "304354d13fc824f0584208eb0ea1f13fa964d9554ad710588b9193f13b7d6d23"
+  },
+  {
+    "index": 326,
+    "productId": "gc000551",
+    "variantId": "gc000551",
+    "productName": "Пудра компактная прозрачный Catrice All Matt Plus Shine Control Powder, 001",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.catrice.eu/en-my/p/228434/all-matt-plus-shine-control-powder",
+    "sourceImage": "https://i8.amplience.net/i/Cosnova/4975215?w=2046&h=2046&fmt=auto",
+    "localFile": "materials/catalog-7b/originals/b007-b/Пудра компактная прозрачный Catrice All Matt Plus Shine Control Powder, 001 Стандарт--gc000551.png",
+    "verification": {
+      "identity": "Official Catrice All Matt Plus Shine Control Powder001Universal product page, primary Front View Full Open image, explicit2046px srcset URL.",
+      "volumeAndVariant": "Catalog specifies no size; standard named full product, no decant or mini substitution.",
+      "visualReview": "Transparent-background open compact, no watermark; rim reaches the top border with an apparently truncated top arc, conservatively blocked for uncertain full edge.",
+      "reviewMethod": "Original contact sheet/full images and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Пудра компактная прозрачный Catrice All Matt Plus Shine Control Powder, 001 Стандарт",
+        "url": "https://www.catrice.eu/en-my/p/228434/all-matt-plus-shine-control-powder",
+        "note": "Official Catrice All Matt Plus Shine Control Powder001Universal product page, primary Front View Full Open image, explicit2046px srcset URL."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2046,
+    "height": 2046,
+    "format": "PNG",
+    "bytes": 3987192,
+    "sha256": "11e5b082e628d1a3f79a02994065751f79e8038fd0d57a0687acb621d2b1b2f8"
+  },
+  {
+    "index": 327,
+    "productId": "gc000552",
+    "variantId": "gc000552",
+    "productName": "Пудра рассыпчатая прозрачный Catrice Invisible Matte Loose Powder, 001",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.catrice.eu/en-gb/p/939974/invisible-matte-loose-powder",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official product route reports product no longer available and shows category replacements.001 Universal identity confirmed by search, but no corresponding original retrieved; not replaced with Nude Illusion or other current powder.",
+    "searches": [
+      {
+        "query": "Catrice Invisible Matte Loose Powder001",
+        "url": "https://www.catrice.eu/en-gb/p/939974/invisible-matte-loose-powder",
+        "note": "Official product route reports product no longer available and shows category replacements.001 Universal identity confirmed by search, but no corresponding original retrieved; not replaced with Nude Illusion or other current powder."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 328,
+    "productId": "gc000576",
+    "variantId": "gc000576",
+    "productName": "Карандаш для глаз Charlotte Tilbury The Classic Eye Powder Pencil",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.nordstrom.com/s/charlotte-tilbury-the-classic-eye-powder-eyeliner-pencil/3849009?color=CLASSIC+BLACK",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog has no shade. Focused search finds Classic Black and other brown shades; selected source explicitly Classic Black cannot be safely mapped to unspecified variant.",
+    "searches": [
+      {
+        "query": "Charlotte Tilbury The Classic Eye Powder Pencil shades",
+        "url": "https://www.nordstrom.com/s/charlotte-tilbury-the-classic-eye-powder-eyeliner-pencil/3849009?color=CLASSIC+BLACK",
+        "note": "Catalog has no shade. Focused search finds Classic Black and other brown shades; selected source explicitly Classic Black cannot be safely mapped to unspecified variant."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 329,
+    "productId": "gc000827",
+    "variantId": "gc000827",
+    "productName": "Пудра для лица матирующая Eveline Cosmetics Botanic Expert Tea Tree 002 Ivory 9 г",
+    "variant": "9 г",
+    "status": "verified",
+    "sourcePage": "https://www.podrygka.ru/catalog/makiyazh/litso/pudra/204579-pudra-kompaktnaya-dlya-litsa-eveline-botanic-expert-3-v-1-antibakterialnaya-matiruyushchaya-ton-002-/",
+    "sourceImage": "https://www.podrygka.ru/upload/resized/iblock/935/935fbb1300c40248d237eb33dbae9fed.jpg/1200x1200.webp",
+    "localFile": "materials/catalog-7b/originals/b007-b/Пудра для лица матирующая Eveline Cosmetics Botanic Expert Tea Tree 002 Ivory 9 г 9 г--gc000827.webp",
+    "verification": {
+      "identity": "Dedicated Podrygka page title and active-gallery image confirm Botanic Expert Tea Tree shade002; separate exact image for each colour.",
+      "volumeAndVariant": "Catalog9g; focused retailer/search listings confirm9g Botanic Expert shades002/003/004. Current official14g product with nr01/02 is a different source and was not substituted.",
+      "visualReview": "Full compact, correct colour, white background; actual source845px, compact only about634px, insufficient detail.",
+      "reviewMethod": "Original contact sheet/full images and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Пудра для лица матирующая Eveline Cosmetics Botanic Expert Tea Tree 002 Ivory 9 г 9 г",
+        "url": "https://www.podrygka.ru/catalog/makiyazh/litso/pudra/204579-pudra-kompaktnaya-dlya-litsa-eveline-botanic-expert-3-v-1-antibakterialnaya-matiruyushchaya-ton-002-/",
+        "note": "Dedicated Podrygka page title and active-gallery image confirm Botanic Expert Tea Tree shade002; separate exact image for each colour."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 845,
+    "height": 845,
+    "format": "WEBP",
+    "bytes": 100446,
+    "sha256": "5a942da12e418c9581bdd30de2276d8483e02b32ae472d418200f20a4d128a83"
+  },
+  {
+    "index": 330,
+    "productId": "gc000828",
+    "variantId": "gc000828",
+    "productName": "Пудра для лица матирующая Eveline Cosmetics Botanic Expert Tea Tree 003 Light 9 г",
+    "variant": "9 г",
+    "status": "verified",
+    "sourcePage": "https://www.podrygka.ru/catalog/makiyazh/litso/pudra/204580-pudra-kompaktnaya-dlya-litsa-eveline-botanic-expert-3-v-1-antibakterialnaya-matiruyushchaya-ton-003-/",
+    "sourceImage": "https://www.podrygka.ru/upload/resized/iblock/d88/d88db8e2171eda5eec589e38c4bd8c05.jpg/1200x1200.webp",
+    "localFile": "materials/catalog-7b/originals/b007-b/Пудра для лица матирующая Eveline Cosmetics Botanic Expert Tea Tree 003 Light 9 г 9 г--gc000828.webp",
+    "verification": {
+      "identity": "Dedicated Podrygka page title and active-gallery image confirm Botanic Expert Tea Tree shade003; separate exact image for each colour.",
+      "volumeAndVariant": "Catalog9g; focused retailer/search listings confirm9g Botanic Expert shades002/003/004. Current official14g product with nr01/02 is a different source and was not substituted.",
+      "visualReview": "Full compact, correct colour, white background; actual source845px, compact only about634px, insufficient detail.",
+      "reviewMethod": "Original contact sheet/full images and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Пудра для лица матирующая Eveline Cosmetics Botanic Expert Tea Tree 003 Light 9 г 9 г",
+        "url": "https://www.podrygka.ru/catalog/makiyazh/litso/pudra/204580-pudra-kompaktnaya-dlya-litsa-eveline-botanic-expert-3-v-1-antibakterialnaya-matiruyushchaya-ton-003-/",
+        "note": "Dedicated Podrygka page title and active-gallery image confirm Botanic Expert Tea Tree shade003; separate exact image for each colour."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 845,
+    "height": 845,
+    "format": "WEBP",
+    "bytes": 102228,
+    "sha256": "37c12186ca0215beb52b923a1b691921d0e30e9f1d83cb54546dea5f551145ca"
+  },
+  {
+    "index": 331,
+    "productId": "gc000829",
+    "variantId": "gc000829",
+    "productName": "Пудра для лица матирующая Eveline Cosmetics Botanic Expert Tea Tree 004 9 9 г",
+    "variant": "9 г",
+    "status": "verified",
+    "sourcePage": "https://www.podrygka.ru/catalog/makiyazh/litso/pudra/204581-pudra-kompaktnaya-dlya-litsa-eveline-botanic-expert-3-v-1-antibakterialnaya-matiruyushchaya-ton-004-/",
+    "sourceImage": "https://www.podrygka.ru/upload/resized/iblock/f91/f9196c5203b5bffcc2bdc7c000e0e8bc.jpg/1200x1200.webp",
+    "localFile": "materials/catalog-7b/originals/b007-b/Пудра для лица матирующая Eveline Cosmetics Botanic Expert Tea Tree 004 9 9 г 9 г--gc000829.webp",
+    "verification": {
+      "identity": "Dedicated Podrygka page title and active-gallery image confirm Botanic Expert Tea Tree shade004; separate exact image for each colour.",
+      "volumeAndVariant": "Catalog9g; focused retailer/search listings confirm9g Botanic Expert shades002/003/004. Current official14g product with nr01/02 is a different source and was not substituted.",
+      "visualReview": "Full compact, correct colour, white background; actual source845px, compact only about634px, insufficient detail.",
+      "reviewMethod": "Original contact sheet/full images and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Пудра для лица матирующая Eveline Cosmetics Botanic Expert Tea Tree 004 9 9 г 9 г",
+        "url": "https://www.podrygka.ru/catalog/makiyazh/litso/pudra/204581-pudra-kompaktnaya-dlya-litsa-eveline-botanic-expert-3-v-1-antibakterialnaya-matiruyushchaya-ton-004-/",
+        "note": "Dedicated Podrygka page title and active-gallery image confirm Botanic Expert Tea Tree shade004; separate exact image for each colour."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 845,
+    "height": 845,
+    "format": "WEBP",
+    "bytes": 104108,
+    "sha256": "0c5d1f148eb6c7b28763028d01ecff005b6d5b03bb012b090bc0c5f46c10e3e7"
+  },
+  {
+    "index": 332,
+    "productId": "parent-0041",
+    "variantId": "gc000886",
+    "productName": "Минеральная компактная пудра для лица Eveline Cosmetics",
+    "variant": "10",
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=2524101",
+    "sourceImage": "https://s.f.kz/prod/2525/2524101_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b007-b/Минеральная компактная пудра для лица Eveline Cosmetics 10--gc000886.jpg",
+    "verification": {
+      "identity": "Dedicated Flip retailer page identifies mineral compact Variete, exact numbered10Ivory/11LightBeige, full named formulation; source gallery at explicit1000 URL decodes smaller.",
+      "volumeAndVariant": "Catalog specifies no size; standard named full product, no decant or mini substitution.",
+      "visualReview": "Closed gold compact on white; actual560px despite1000 URL; insufficient.",
+      "reviewMethod": "Original contact sheet/full images and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Минеральная компактная пудра для лица Eveline Cosmetics 10",
+        "url": "https://www.flip.kz/catalog?prod=2524101",
+        "note": "Dedicated Flip retailer page identifies mineral compact Variete, exact numbered10Ivory/11LightBeige, full named formulation; source gallery at explicit1000 URL decodes smaller."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 560,
+    "height": 560,
+    "format": "JPEG",
+    "bytes": 84112,
+    "sha256": "43ea292b3257fe38baec9c4ea28f7adb8bf2246bee2735520fec771d75fb166f"
+  },
+  {
+    "index": 333,
+    "productId": "parent-0041",
+    "variantId": "gc000887",
+    "productName": "Минеральная компактная пудра для лица Eveline Cosmetics",
+    "variant": "11",
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=2524110",
+    "sourceImage": "https://s.f.kz/prod/2525/2524110_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b007-b/Минеральная компактная пудра для лица Eveline Cosmetics 11--gc000887.jpg",
+    "verification": {
+      "identity": "Dedicated Flip retailer page identifies mineral compact Variete, exact numbered10Ivory/11LightBeige, full named formulation; source gallery at explicit1000 URL decodes smaller.",
+      "volumeAndVariant": "Catalog specifies no size; standard named full product, no decant or mini substitution.",
+      "visualReview": "Closed gold compact on white; actual580px despite1000 URL; insufficient.",
+      "reviewMethod": "Original contact sheet/full images and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Минеральная компактная пудра для лица Eveline Cosmetics 11",
+        "url": "https://www.flip.kz/catalog?prod=2524110",
+        "note": "Dedicated Flip retailer page identifies mineral compact Variete, exact numbered10Ivory/11LightBeige, full named formulation; source gallery at explicit1000 URL decodes smaller."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 580,
+    "height": 580,
+    "format": "JPEG",
+    "bytes": 101204,
+    "sha256": "a83ac7ef1fac8d631d445ae659193b4e4611d8fab4f4b804fe093c254951885d"
+  },
+  {
+    "index": 334,
+    "productId": "parent-0042",
+    "variantId": "gc001005",
+    "productName": "Пудра для лица Golden Rose TERRACOTTA STARDUST",
+    "variant": "108",
+    "status": "verified",
+    "sourcePage": "https://goldenrose-germany.de/products/terracotta-stardust?variant=53967856533772",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/108ts.jpg?v=1736096378",
+    "localFile": "materials/catalog-7b/originals/b007-b/Пудра для лица Golden Rose TERRACOTTA STARDUST 108--gc001005.jpg",
+    "verification": {
+      "identity": "Golden Rose Germany official regional shop JSON explicitly maps 108 Shimmer Highlighter, variant53967856533772, to this featured image.",
+      "volumeAndVariant": "Catalog specifies no size; standard named full product, no decant or mini substitution.",
+      "visualReview": "Whole open black compact, champagne Stardust108, white background and small natural base shadow; no watermark or clipping.",
+      "reviewMethod": "Original contact sheet/full images and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Пудра для лица Golden Rose TERRACOTTA STARDUST 108",
+        "url": "https://goldenrose-germany.de/products/terracotta-stardust?variant=53967856533772",
+        "note": "Golden Rose Germany official regional shop JSON explicitly maps 108 Shimmer Highlighter, variant53967856533772, to this featured image."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 85291,
+    "sha256": "0f26563a44cf79304ad687852db644b63e7eaf73fc0b0c2de138ad3b5d5f87b7"
+  },
+  {
+    "index": 335,
+    "productId": "parent-0042",
+    "variantId": "gc001006",
+    "productName": "Пудра для лица Golden Rose TERRACOTTA STARDUST",
+    "variant": "109",
+    "status": "verified",
+    "sourcePage": "https://goldenrose-germany.de/products/terracotta-stardust?variant=53967856566540",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/109ts.jpg?v=1736096364",
+    "localFile": "materials/catalog-7b/originals/b007-b/Пудра для лица Golden Rose TERRACOTTA STARDUST 109--gc001006.jpg",
+    "verification": {
+      "identity": "Golden Rose Germany official regional shop JSON explicitly maps 109 Light Pink Highlighter, variant53967856566540, to this featured image.",
+      "volumeAndVariant": "Catalog specifies no size; standard named full product, no decant or mini substitution.",
+      "visualReview": "Whole open black compact, pale-pink Stardust109, white background and small natural base shadow; no watermark or clipping.",
+      "reviewMethod": "Original contact sheet/full images and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Пудра для лица Golden Rose TERRACOTTA STARDUST 109",
+        "url": "https://goldenrose-germany.de/products/terracotta-stardust?variant=53967856566540",
+        "note": "Golden Rose Germany official regional shop JSON explicitly maps 109 Light Pink Highlighter, variant53967856566540, to this featured image."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 67858,
+    "sha256": "37acafa6c2fe9c0b7dbd90d6b9d684aacc7182fceaa6ac0f4d11424e40bc9152"
+  },
+  {
+    "index": 336,
+    "productId": "parent-0043",
+    "variantId": "gc001012",
+    "productName": "Пудра Golden Rose Silky Touch",
+    "variant": "01",
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com/en/product/7/face-powder-silky-touch-compact-powder/1",
+    "sourceImage": "https://www.goldenrose.com/img/product/zoom/54.jpg",
+    "localFile": "materials/catalog-7b/originals/b007-b/Пудра Golden Rose Silky Touch 01--gc001012.jpg",
+    "verification": {
+      "identity": "Official brand HTML colour selector maps shade01 to zoom image54.jpg; actual open compact colour differs appropriately across01/02/03.",
+      "volumeAndVariant": "Catalog specifies no size; standard named full product, no decant or mini substitution.",
+      "visualReview": "Whole open black compact with transparent lid, SilkyTouch01pale ivory; white background, no watermark, edges intact.",
+      "reviewMethod": "Original contact sheet/full images and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Пудра Golden Rose Silky Touch 01",
+        "url": "https://www.goldenrose.com/en/product/7/face-powder-silky-touch-compact-powder/1",
+        "note": "Official brand HTML colour selector maps shade01 to zoom image54.jpg; actual open compact colour differs appropriately across01/02/03."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 70247,
+    "sha256": "6c6ce526332e7f2d2de0a4f97cc104cd63aeabbf7a5b502b68dbb7f1b3ceb4f4"
+  },
+  {
+    "index": 337,
+    "productId": "parent-0043",
+    "variantId": "gc001013",
+    "productName": "Пудра Golden Rose Silky Touch",
+    "variant": "02",
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com/en/product/7/face-powder-silky-touch-compact-powder/1",
+    "sourceImage": "https://www.goldenrose.com/img/product/zoom/55.jpg",
+    "localFile": "materials/catalog-7b/originals/b007-b/Пудра Golden Rose Silky Touch 02--gc001013.jpg",
+    "verification": {
+      "identity": "Official brand HTML colour selector maps shade02 to zoom image55.jpg; actual open compact colour differs appropriately across01/02/03.",
+      "volumeAndVariant": "Catalog specifies no size; standard named full product, no decant or mini substitution.",
+      "visualReview": "Whole open black compact with transparent lid, SilkyTouch02pink beige; white background, no watermark, edges intact.",
+      "reviewMethod": "Original contact sheet/full images and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Пудра Golden Rose Silky Touch 02",
+        "url": "https://www.goldenrose.com/en/product/7/face-powder-silky-touch-compact-powder/1",
+        "note": "Official brand HTML colour selector maps shade02 to zoom image55.jpg; actual open compact colour differs appropriately across01/02/03."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 70400,
+    "sha256": "28ef949a3e4efafa93d475c4082098d65b127f7041614652fcf2fdd9bdc896e3"
+  },
+  {
+    "index": 338,
+    "productId": "parent-0043",
+    "variantId": "gc001014",
+    "productName": "Пудра Golden Rose Silky Touch",
+    "variant": "03",
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com/en/product/7/face-powder-silky-touch-compact-powder/1",
+    "sourceImage": "https://www.goldenrose.com/img/product/zoom/56.jpg",
+    "localFile": "materials/catalog-7b/originals/b007-b/Пудра Golden Rose Silky Touch 03--gc001014.jpg",
+    "verification": {
+      "identity": "Official brand HTML colour selector maps shade03 to zoom image56.jpg; actual open compact colour differs appropriately across01/02/03.",
+      "volumeAndVariant": "Catalog specifies no size; standard named full product, no decant or mini substitution.",
+      "visualReview": "Whole open black compact with transparent lid, SilkyTouch03peach beige; white background, no watermark, edges intact.",
+      "reviewMethod": "Original contact sheet/full images and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Пудра Golden Rose Silky Touch 03",
+        "url": "https://www.goldenrose.com/en/product/7/face-powder-silky-touch-compact-powder/1",
+        "note": "Official brand HTML colour selector maps shade03 to zoom image56.jpg; actual open compact colour differs appropriately across01/02/03."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 70098,
+    "sha256": "384e12306334b948e8b528467192c8b0cbe17002c9adf45d4f519a469632eb09"
+  },
+  {
+    "index": 339,
+    "productId": "parent-0044",
+    "variantId": "gc001456",
+    "productName": "Пудра для бровей Luxvisage Brow Powder",
+    "variant": "1",
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/kk/catalog?prod=1475378",
+    "sourceImage": "https://s.f.kz/prod/1476/1475378_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b007-b/Пудра для бровей Luxvisage Brow Powder 1--gc001456.jpg",
+    "verification": {
+      "identity": "Dedicated Flip Luxvisage Brow Powder01LightTaupe page, primary image in explicit1000px gallery URL.",
+      "volumeAndVariant": "Catalog specifies no size; standard named full product, no decant or mini substitution.",
+      "visualReview": "Compact body nearly800px wide, but rim reaches both canvas edges and reflection extends below; insufficient certainty of intact rim/source body800px independent of reflection. Conservatively blocked.",
+      "reviewMethod": "Original contact sheet/full images and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Пудра для бровей Luxvisage Brow Powder 1",
+        "url": "https://www.flip.kz/kk/catalog?prod=1475378",
+        "note": "Dedicated Flip Luxvisage Brow Powder01LightTaupe page, primary image in explicit1000px gallery URL."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 802,
+    "height": 879,
+    "format": "JPEG",
+    "bytes": 194227,
+    "sha256": "3a6dcaf15405f1394145af5f88a80b2c8d46bbd8970a1dc503b47442f1586484"
+  }
+]

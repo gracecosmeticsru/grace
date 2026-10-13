@@ -1,0 +1,423 @@
+[
+  {
+    "title": "Pineapple Shea Sugar Scrub",
+    "source": "https://www.treehutshea.com/products/pineapple-shea-sugar-scrub",
+    "images": {
+      "id": 48708716232925,
+      "src": "https://cdn.shopify.com/s/files/1/0543/1594/2065/files/Raven_-_1x1_Size-5.png?v=1789049951",
+      "alt": null,
+      "width": 1080,
+      "height": 1080
+    },
+    "variants": {
+      "id": 42483226575069,
+      "title": "Default Title",
+      "image_id": null
+    },
+    "fetched": "2026-09-22T23:48:48.9786164+03:00"
+  },
+  {
+    "title": "Brazilian Bum Bum® Cream",
+    "source": "https://soldejaneiro.com/products/brazilian-bum-bum-cream",
+    "images": [
+      {
+        "id": 36627083755622,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/01_SDJ_PPage_DTC_BB_BC_240ML_OVERHEAD_RGB_1452X1452_cb5b3d96-578a-4163-8c34-8c815fc465eb.jpg?v=1788873312",
+        "alt": null,
+        "width": 1452,
+        "height": 1452
+      },
+      {
+        "id": 35025403445350,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/2_PRODUCTHERO_GOOP_eae405af-e440-4a2e-a91e-7f1b5a6fc527.webp?v=1771356225",
+        "alt": "Brazilian Bum Bum Cream container with label on a yellow background",
+        "width": 1600,
+        "height": 1600
+      },
+      {
+        "id": 35025403281510,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/3_CLINICALBEFOREANDAFTER.webp?v=1771356156",
+        "alt": "Before and after comparison of cellulite reduction on a person's thigh.",
+        "width": 1600,
+        "height": 1600
+      },
+      {
+        "id": 35025403248742,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/5_INGREDIENTBENEFIT.webp?v=1771619149",
+        "alt": "Skincare mask with ingredients like guarana extract, cupuácu butter, and plant squalane on a yellow background.",
+        "width": 1600,
+        "height": 1600
+      },
+      {
+        "id": 35025403314278,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/4_TEXTURE.webp?v=1771356156",
+        "alt": "Person applying fast-absorbing body cream to their shoulder with a blue background",
+        "width": 1600,
+        "height": 1600
+      },
+      {
+        "id": 35025403347046,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/6_CLAIM.webp?v=1771355652",
+        "alt": "confidence at your finger tips 100% saw more radiant skin",
+        "width": 1600,
+        "height": 1600
+      },
+      {
+        "id": 35025403084902,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/7_SCENTNOTES_ee602b77-4cca-4ce8-b996-6cc000b672e5.webp?v=1771619149",
+        "alt": "cheirosa 62 scent pistachio salted caramel vanilla",
+        "width": 1600,
+        "height": 1600
+      },
+      {
+        "id": 35025402986598,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/8_FAMILYSCENT_ac84e511-d3ba-482b-91e9-1d5b7ef671e6.webp?v=1771356156",
+        "alt": "Bottle of Brazilian Bum Bum 62 with vanilla bean and orange peel on a white background\n\nMaximum cheirosa layer for a longer-lasting fragrance experience",
+        "width": 1600,
+        "height": 1600
+      },
+      {
+        "id": 35025403215974,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/12_SKINPAYOFF.webp?v=1771355531",
+        "alt": "GIve in to the craving",
+        "width": 1600,
+        "height": 1600
+      },
+      {
+        "id": 35025403379814,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/9_ROUTINE_DTC.webp?v=1771356225",
+        "alt": "Promotional graphic for Sol de Janeiro Brazilian Play body wash, cream, and scrub with product images and text.",
+        "width": 1600,
+        "height": 1600
+      },
+      {
+        "id": 35025403150438,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/16_SKINPAYOFF.webp?v=1771355498",
+        "alt": "Woman holding a Brazilian Bum Bum Cream container on a beach with text 'Uplifting Since 2015'.",
+        "width": 1600,
+        "height": 1600
+      },
+      {
+        "id": 35025403117670,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/13_ALLSIZES.webp?v=1771355439",
+        "alt": "Bottle of Brazilian Bum Bum Cream with text on a yellow background\n\nBum bums come in all sizes, travel friendly jars & more",
+        "width": 1600,
+        "height": 1600
+      },
+      {
+        "id": 35025403019366,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/15_PETACALLOUT.webp?v=1771355352",
+        "alt": "formulated without parabens, phthalates mineral oil dermatologist tested peta-certified animal test-free and vegan",
+        "width": 1600,
+        "height": 1600
+      },
+      {
+        "id": 35025403183206,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/14_REFILL.webp?v=1771355470",
+        "alt": "Two hands holding yellow containers with text about refill options on a yellow background\n\nChoose a refill for 89% les plastic packaging compared to 240ml size. Refills sold separately",
+        "width": 1600,
+        "height": 1600
+      },
+      {
+        "id": 35025402953830,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/10_BADALADA.webp?v=1771355318",
+        "alt": "Tow ways to be inconic lucuisious cream, visiblity firmes and tighens and guarana extract & nourishing plant squalane, cheirosa 62 scent. Badalada - weightless lotion, 24-hour hydration, 7 hyaluronic acid blend & sugarcane, cheirosa 62 scent",
+        "width": 1600,
+        "height": 1600
+      },
+      {
+        "id": 35025403052134,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/11_TOTALCATEGORY_aa62e01d-b405-4659-9f77-2e5ef80d1ad1.webp?v=1771355379",
+        "alt": "Stack of colorful skincare containers with text highlighting their benefits on a light background",
+        "width": 1600,
+        "height": 1600
+      },
+      {
+        "id": 36625764909158,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/01_SDJ_PPage_DTC_BB_BC_25ML_OVERHEAD_RGB_1452X1452_1db7e6c6-7c24-4cba-be62-f3503a2cdfaf.jpg?v=1788858791",
+        "alt": null,
+        "width": 1452,
+        "height": 1452
+      },
+      {
+        "id": 36625889820774,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/01_SDJ_PPage_DTC_BB_BC_150ML_OVERHEAD_RGB_1452X1452_46fa2a13-2999-4696-9233-24924f4a60ad.jpg?v=1788861015",
+        "alt": null,
+        "width": 1452,
+        "height": 1452
+      },
+      {
+        "id": 36625932583014,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/01_SDJ_PPage_DTC_BB_BC_75ML_OVERHEAD_RGB_1452X1452_7c2cc7d8-2ea3-4724-b7b5-f0120fb14919.jpg?v=1788860979",
+        "alt": null,
+        "width": 1452,
+        "height": 1452
+      },
+      {
+        "id": 36627103645798,
+        "src": "https://cdn.shopify.com/s/files/1/2826/2250/files/01_SDJ_PPage_DTC_BB_BC_REFILL_240ML_OVERHEAD_RGB_1452X1452_a8b71f10-d540-4255-a58e-d2a5e015f9db.jpg?v=1788873371",
+        "alt": null,
+        "width": 1452,
+        "height": 1452
+      }
+    ],
+    "variants": [
+      {
+        "id": 7006559436844,
+        "title": "240ml",
+        "image_id": 36627083755622
+      },
+      {
+        "id": 41847958405222,
+        "title": "150ml",
+        "image_id": 36625889820774
+      },
+      {
+        "id": 7439362457644,
+        "title": "75ml",
+        "image_id": 36625932583014
+      },
+      {
+        "id": 9497228050476,
+        "title": "25ml",
+        "image_id": 36625764909158
+      },
+      {
+        "id": 40129485832294,
+        "title": "240ml Refill",
+        "image_id": 36627103645798
+      }
+    ],
+    "fetched": "2026-09-22T23:48:49.5304156+03:00"
+  },
+  {
+    "title": "Radiance Cleansing Balm",
+    "source": "https://beautyofjoseon.com/products/radiance-cleansing-balm",
+    "images": [
+      {
+        "id": 55253269021044,
+        "src": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/radiance-cleansing-balm-1-front.webp?v=1770286511",
+        "alt": "Beauty of Joseon Radiance Cleansing Balm",
+        "width": 3000,
+        "height": 3000
+      },
+      {
+        "id": 55253269053812,
+        "src": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/radiance-cleansing-balm-3.webp?v=1770286541",
+        "alt": "Beauty of Joseon Radiance Cleansing Balm",
+        "width": 3000,
+        "height": 3000
+      },
+      {
+        "id": 55253269184884,
+        "src": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/radiance-cleansing-balm-4.webp?v=1770286572",
+        "alt": "Beauty of Joseon Radiance Cleansing Balm",
+        "width": 3000,
+        "height": 3000
+      },
+      {
+        "id": 55253268955508,
+        "src": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/radiance-cleansing-balm-5.webp?v=1770286482",
+        "alt": "Beauty of Joseon Radiance Cleansing Balm",
+        "width": 3000,
+        "height": 3000
+      },
+      {
+        "id": 55253269217652,
+        "src": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/radiance-cleansing-balm-6.webp?v=1770286602",
+        "alt": "Beauty of Joseon Radiance Cleansing Balm",
+        "width": 3000,
+        "height": 3000
+      },
+      {
+        "id": 55253269381492,
+        "src": "https://cdn.shopify.com/s/files/1/0558/4135/7989/files/radiance-cleansing-balm-7.webp?v=1770286635",
+        "alt": "Beauty of Joseon Radiance Cleansing Balm",
+        "width": 3000,
+        "height": 3000
+      }
+    ],
+    "variants": {
+      "id": 55073186251124,
+      "title": "100 ml (3.38 FL. OZ.)",
+      "image_id": null
+    },
+    "fetched": "2026-09-22T23:48:50.3965377+03:00"
+  },
+  {
+    "title": "Green Relief Amino Gel Cleanser",
+    "source": "https://doctoraltheaglobal.com/products/green-relief-amino-gel-cleanser",
+    "images": [
+      {
+        "id": 49659449508085,
+        "src": "https://cdn.shopify.com/s/files/1/0082/1346/3093/files/1b3c480be77cef520e1bc24a4a94a1c2.jpg?v=1789024158",
+        "alt": null,
+        "width": 1400,
+        "height": 1400
+      },
+      {
+        "id": 48887416914165,
+        "src": "https://cdn.shopify.com/s/files/1/0082/1346/3093/files/251215________-01_d6d01808-4a74-48d2-97b0-d2f53f04b8a0.jpg?v=1782883470",
+        "alt": null,
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 48887416946933,
+        "src": "https://cdn.shopify.com/s/files/1/0082/1346/3093/files/251215________-02.jpg?v=1782883470",
+        "alt": null,
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 48887416979701,
+        "src": "https://cdn.shopify.com/s/files/1/0082/1346/3093/files/251215________-03_c97dfb54-4db8-49fe-96d6-bd21b3f0bd4d.jpg?v=1782883470",
+        "alt": null,
+        "width": 700,
+        "height": 699
+      },
+      {
+        "id": 48887417012469,
+        "src": "https://cdn.shopify.com/s/files/1/0082/1346/3093/files/251215________-04_e31995b9-45f6-4525-a837-7d0402c1ee82.jpg?v=1782883470",
+        "alt": null,
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 48887417045237,
+        "src": "https://cdn.shopify.com/s/files/1/0082/1346/3093/files/251215________-05_6af2d44d-80f2-4a45-9f64-07f7f76a450c.jpg?v=1782883470",
+        "alt": null,
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 48887417110773,
+        "src": "https://cdn.shopify.com/s/files/1/0082/1346/3093/files/251212_172edbbc-20b7-45ea-af8f-e62d05d14942.jpg?v=1782883470",
+        "alt": null,
+        "width": 700,
+        "height": 700
+      },
+      {
+        "id": 48887417078005,
+        "src": "https://cdn.shopify.com/s/files/1/0082/1346/3093/files/251215________-06_dbf6f935-ecfd-4ceb-b342-3ebecca04c49.jpg?v=1782883470",
+        "alt": null,
+        "width": 700,
+        "height": 700
+      }
+    ],
+    "variants": {
+      "id": 44169112420597,
+      "title": "Default Title",
+      "image_id": null
+    },
+    "fetched": "2026-09-22T23:48:50.8177546+03:00"
+  },
+  {
+    "title": "Honey Milk 5-in-1 Styling Cream",
+    "source": "https://gisou.com/products/honey-milk-5-in-1-styling-cream",
+    "images": [
+      {
+        "id": 68312006295882,
+        "src": "https://cdn.shopify.com/s/files/1/0361/1987/1619/files/PDP_PG_Stylincream_02_96b9c233-47c3-47ee-b3b5-ac81a8c75d33.jpg?v=1767965663",
+        "alt": null,
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "id": 68276335345994,
+        "src": "https://cdn.shopify.com/s/files/1/0361/1987/1619/files/PDP_PG_Stylingcream_mini_02.jpg?v=1767965663",
+        "alt": null,
+        "width": 4000,
+        "height": 4000
+      },
+      {
+        "id": 65729062502730,
+        "src": "https://cdn.shopify.com/s/files/1/0361/1987/1619/files/PDP_PG_Stylincream_08_dc2ad1d8-cdbb-4d5d-964e-a6a22daf07bc.jpg?v=1755862596",
+        "alt": "Honey Milk 5-in-1 Styling Cream with Mirsalehi Honey, hyaluronic acid and hydrolyzed milk protein for hydration, strength and glossy shine.",
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "id": 65575075873098,
+        "src": "https://cdn.shopify.com/s/files/1/0361/1987/1619/files/PDP_PG_Stylincream_07.jpg?v=1755862596",
+        "alt": "Negin Mirsalehi sitting on an oversized Honey Milk 5-in-1 Styling Cream bottle, showcasing voluminous, glossy hair with smoothness, hydration and glazed shine.",
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "id": 65575075840330,
+        "src": "https://cdn.shopify.com/s/files/1/0361/1987/1619/files/PDP_PG_Stylincream_06.jpg?v=1755862596",
+        "alt": "Honey Milk 5-in-1 Styling Cream with application guidance to apply to damp hair for styling and flexible hold.",
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "id": 65575075807562,
+        "src": "https://cdn.shopify.com/s/files/1/0361/1987/1619/files/PDP_PG_Stylincream_05.jpg?v=1755268140",
+        "alt": null,
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "id": 65575075774794,
+        "src": "https://cdn.shopify.com/s/files/1/0361/1987/1619/files/PDP_PG_Stylincream_04.jpg?v=1755268140",
+        "alt": null,
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "id": 65575075742026,
+        "src": "https://cdn.shopify.com/s/files/1/0361/1987/1619/files/PDP_PG_Stylincream_03.jpg?v=1755268140",
+        "alt": null,
+        "width": 2000,
+        "height": 2000
+      }
+    ],
+    "variants": [
+      {
+        "id": 53718956900682,
+        "title": "150ml",
+        "image_id": 68312006295882
+      },
+      {
+        "id": 53718986785098,
+        "title": "50ml",
+        "image_id": 68276335345994
+      }
+    ],
+    "fetched": "2026-09-22T23:48:51.3524196+03:00"
+  },
+  {
+    "title": "Crème de Douche | Ayurvédique Oriental - Ambre Vanille Patchouli",
+    "source": "https://www.lasultanedesaba.com/products/creme-de-douche-ayurvedique-oriental-ambre-vanille-patchouli",
+    "images": [
+      {
+        "id": 79860307263815,
+        "src": "https://cdn.shopify.com/s/files/1/0045/5294/9795/files/cremedouche_epices_AR003445_1.png?v=1789569051",
+        "alt": null,
+        "width": 1800,
+        "height": 1935
+      },
+      {
+        "id": 79860307296583,
+        "src": "https://cdn.shopify.com/s/files/1/0045/5294/9795/files/cremedouche_epices_AR003445_2.jpg?v=1789569050",
+        "alt": null,
+        "width": 1800,
+        "height": 1935
+      },
+      {
+        "id": 79860307329351,
+        "src": "https://cdn.shopify.com/s/files/1/0045/5294/9795/files/cremedouche_epices_AR003445_3.jpg?v=1789569051",
+        "alt": null,
+        "width": 1800,
+        "height": 1935
+      }
+    ],
+    "variants": {
+      "id": 30285488554019,
+      "title": "200 ml",
+      "image_id": null
+    },
+    "fetched": "2026-09-22T23:48:51.7874216+03:00"
+  }
+]

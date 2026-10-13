@@ -1,0 +1,819 @@
+[
+  {
+    "productId": "gc002790",
+    "variantId": "gc002790",
+    "productName": "Жидкая матовая помада для губ Charlotte Tilbury «Pillow Talk Blur»",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC002790",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 1001,
+    "batch": 21,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-lip-pillow-talk",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/7bRMJZEkmpR6OSnqGaASXu/db287fa15bf48c85692403bdc5a947c6/025_220001_LIP_BLUR_P_AFF_PACKSHOT_0006_PT_JB_2302.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b021-a/Жидкая матовая помада для губ Charlotte Tilbury «Pillow Talk Blur» Стандарт--gc002790.png",
+    "verification": {
+      "identity": "Exact official AirbrushFlawlessLipBlur PillowTalkBlur6.8ml standard; noMedium shade substitution.",
+      "volumeAndVariant": "Exact official AirbrushFlawlessLipBlur PillowTalkBlur6.8ml standard; noMedium shade substitution.",
+      "visualReview": "All4 originals inspected as full-fit contact; mini also fullsize2000 source viewed. Quality/version decisions recorded in review.md/results.json.",
+      "reviewMethod": "Official specificproductpage and original packshot; alpha240 measures body withoutshadow.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Жидкая матовая помада для губ Charlotte Tilbury «Pillow Talk Blur» Стандарт",
+        "url": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-lip-pillow-talk",
+        "note": "Exact official AirbrushFlawlessLipBlur PillowTalkBlur6.8ml standard; noMedium shade substitution."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1000,
+    "height": 1000,
+    "bytes": 172803,
+    "sha256": "0dbf1ec74b579fa633c3ffdcce716035c1fe61371b67dd655abf23aebdcb7ef1"
+  },
+  {
+    "productId": "gc002976",
+    "variantId": "gc002976",
+    "productName": "Карандаш-помада 2 в 1",
+    "brand": "Бренд не подтверждён",
+    "variant": "Стандарт",
+    "sku": "GC002976",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 1002,
+    "batch": 21,
+    "status": "skipped",
+    "sourcePage": "https://www.sophin-cosmetics.ru/ru/accessories/pomada-karandash-dlya-gub-ton-04/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Search found Sophin andMIXIT2in1 pencil-lipsticks with multiple tones. Grace has no brand, tone, model or amount. Generic2in1 label cannot identify an exact cosmetic.",
+    "searches": [
+      {
+        "query": "карандаш помада2в1",
+        "url": "https://www.sophin-cosmetics.ru/ru/accessories/pomada-karandash-dlya-gub-ton-04/",
+        "note": "Search found Sophin andMIXIT2in1 pencil-lipsticks with multiple tones. Grace has no brand, tone, model or amount. Generic2in1 label cannot identify an exact cosmetic."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc003200",
+    "variantId": "gc003200",
+    "productName": "Кремовая помада для губ Charlotte Tilbury «Pillow Talk» 3,5 г",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC003200",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 1003,
+    "batch": 21,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/matte-revolution-lipstick-pillowtalk",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/6QLItVWaR3INrE5B8MMObK/26b202e539ef21b432b9336e6300c986/039_220108_PILLOW_TALK_PLUMP_P_MATTE_REV_ORIGINAL_OPEN_RJ_2402.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b021-a/Кремовая помада для губ Charlotte Tilbury «Pillow Talk» 3,5 г Стандарт--gc003200.png",
+    "verification": {
+      "identity": "Exact official PillowTalkOriginal3.5g, description explicitly easy-to-blend cream texture; matte finish does not contradict catalogue creamy texture. NotFair/Medium/Intense.",
+      "volumeAndVariant": "Exact official PillowTalkOriginal3.5g, description explicitly easy-to-blend cream texture; matte finish does not contradict catalogue creamy texture. NotFair/Medium/Intense.",
+      "visualReview": "All4 originals inspected as full-fit contact; mini also fullsize2000 source viewed. Quality/version decisions recorded in review.md/results.json.",
+      "reviewMethod": "Official specificproductpage and original packshot; alpha240 measures body withoutshadow.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовая помада для губ Charlotte Tilbury «Pillow Talk» 3,5 г Стандарт",
+        "url": "https://www.charlottetilbury.com/us/product/matte-revolution-lipstick-pillowtalk",
+        "note": "Exact official PillowTalkOriginal3.5g, description explicitly easy-to-blend cream texture; matte finish does not contradict catalogue creamy texture. NotFair/Medium/Intense."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1000,
+    "height": 1000,
+    "bytes": 261584,
+    "sha256": "4ca1a7b83853a168c18e01ccc73d24cbb93740a21c14a61748599a322032957d"
+  },
+  {
+    "productId": "gc003580",
+    "variantId": "gc003580",
+    "productName": "Набор для губ карандаш+помада мини Charlotte Tilbury «Pillow Talk»",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC003580",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/more/2"
+    ],
+    "index": 1004,
+    "batch": 21,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/mini-pillow-talk-lip-kit",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/5Xeq3WmQt9nx9R4V5U021K/c485a69e5006cb79fd43e658969273c8/pdp-pt-lipkit-original-shadow.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b021-a/Набор для губ карандаш+помада мини Charlotte Tilbury «Pillow Talk» Стандарт--gc003580.png",
+    "verification": {
+      "identity": "Official MiniPillowTalkOriginal page and product photo; family, two mini products and original shade match. BUT page text liner0.8g versus visible image box0.6g: exact edition unconfirmed; retained only for blocked review, not publishing.",
+      "volumeAndVariant": "Official MiniPillowTalkOriginal page and product photo; family, two mini products and original shade match. BUT page text liner0.8g versus visible image box0.6g: exact edition unconfirmed; retained only for blocked review, not publishing.",
+      "visualReview": "All4 originals inspected as full-fit contact; mini also fullsize2000 source viewed. Quality/version decisions recorded in review.md/results.json.",
+      "reviewMethod": "Official specificproductpage and original packshot; alpha240 measures body withoutshadow.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Набор для губ карандаш+помада мини Charlotte Tilbury «Pillow Talk» Стандарт",
+        "url": "https://www.charlottetilbury.com/us/product/mini-pillow-talk-lip-kit",
+        "note": "Official MiniPillowTalkOriginal page and product photo; family, two mini products and original shade match. BUT page text liner0.8g versus visible image box0.6g: exact edition unconfirmed; retained only for blocked review, not publishing."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 2000,
+    "height": 2000,
+    "bytes": 948937,
+    "sha256": "aecdd7e11fd0cff49edb5bdccbd57468464392a614d5dad61cf982957450737a"
+  },
+  {
+    "productId": "gc003582",
+    "variantId": "gc003582",
+    "productName": "Набор для губ полноразмерные продукты карандаш помада жидкая п Charlotte Tilbury «Pillow talk»",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC003582",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/more/2"
+    ],
+    "index": 1005,
+    "batch": 21,
+    "status": "skipped",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/pillow-talk-lip-wardrobe-kit",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official PillowTalkWardrobe has fullsizeHappikiss plus travel liner/matte/gloss, not allfullsize described in Grace; current build-your-own kit is configurable. Truncated Grace contents do not confirm exact set/version, so no guessed bundle photograph.",
+    "searches": [
+      {
+        "query": "CharlotteTilbury PillowTalk fullsize pencil lipstick liquid lipstick kit",
+        "url": "https://www.charlottetilbury.com/uk/product/pillow-talk-lip-wardrobe-kit",
+        "note": "Official PillowTalkWardrobe has fullsizeHappikiss plus travel liner/matte/gloss, not allfullsize described in Grace; current build-your-own kit is configurable. Truncated Grace contents do not confirm exact set/version, so no guessed bundle photograph."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc003630",
+    "variantId": "gc003630",
+    "productName": "Набор помад для губ Charlotte Tilbury",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC003630",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/more/2"
+    ],
+    "index": 1006,
+    "batch": 21,
+    "status": "skipped",
+    "sourcePage": "https://www.charlottetilbury.com/uk/products/gifts/lip",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official gift range includes multiple duos, trios, mini/fullsize and shade combinations. Grace title onlybrand+lipstickset: number, shades, sizes and edition missing. No random set substitution.",
+    "searches": [
+      {
+        "query": "CharlotteTilbury lipstick gift set",
+        "url": "https://www.charlottetilbury.com/uk/products/gifts/lip",
+        "note": "Official gift range includes multiple duos, trios, mini/fullsize and shade combinations. Grace title onlybrand+lipstickset: number, shades, sizes and edition missing. No random set substitution."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc003636",
+    "variantId": "gc003636",
+    "productName": "Набор с помадами в виде губы Charlotte Tilbury",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC003636",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/more/2"
+    ],
+    "index": 1007,
+    "batch": 21,
+    "status": "skipped",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/hot-lips-bag-lipstick-trio",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Found official lip-shaped HotLipsBag3fullsize set and separate minilipstick collectibletin sets. Grace says shapedlike lips but lacks count, shades and edition; bag/tin/currentminiglosstrio cannot be assumed equivalent.",
+    "searches": [
+      {
+        "query": "CharlotteTilbury lipstickset lipshapedbox",
+        "url": "https://www.charlottetilbury.com/uk/product/hot-lips-bag-lipstick-trio",
+        "note": "Found official lip-shaped HotLipsBag3fullsize set and separate minilipstick collectibletin sets. Grace says shapedlike lips but lacks count, shades and edition; bag/tin/currentminiglosstrio cannot be assumed equivalent."
+      },
+      {
+        "query": "CharlotteTilbury mini lipstick lipshapedtin",
+        "url": "https://www.womanandhome.com/beauty/charlotte-tilbury-gift-sets/",
+        "note": "Published list describes lipshapedtin with3miniIconBaby/90sPink/RoseToFame, distinct from3fullsizeHotLipsbag; catalogue incomplete."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc004340",
+    "variantId": "gc004340",
+    "productName": "Помада для губ Charlotte Tilbury Naughty Talk 3,5 г",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC004340",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 1008,
+    "batch": 21,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/k-i-s-s-i-n-g-naughty-talk-1",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/4Dg1MJD6QP3pg6rafht935/24f5825ab221c1e5c6c969bfcfb9889d/KISSING_Naughty_Talk_-_Packshot.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b021-a/Помада для губ Charlotte Tilbury Naughty Talk 3,5 г Стандарт--gc004340.png",
+    "verification": {
+      "identity": "Official KISSING NaughtyTalk PillowTalkLoveEffect neutralnude satin lipstick; SKU LSLN35DX1R3.5g, exactname. NoNaughtyTalk blush substitution.",
+      "volumeAndVariant": "Official KISSING NaughtyTalk PillowTalkLoveEffect neutralnude satin lipstick; SKU LSLN35DX1R3.5g, exactname. NoNaughtyTalk blush substitution.",
+      "visualReview": "All4 originals inspected as full-fit contact; mini also fullsize2000 source viewed. Quality/version decisions recorded in review.md/results.json.",
+      "reviewMethod": "Official specificproductpage and original packshot; alpha240 measures body withoutshadow.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Помада для губ Charlotte Tilbury Naughty Talk 3,5 г Стандарт",
+        "url": "https://www.charlottetilbury.com/uk/product/k-i-s-s-i-n-g-naughty-talk-1",
+        "note": "Official KISSING NaughtyTalk PillowTalkLoveEffect neutralnude satin lipstick; SKU LSLN35DX1R3.5g, exactname. NoNaughtyTalk blush substitution."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1000,
+    "height": 1000,
+    "bytes": 271900,
+    "sha256": "7acfc9644fbafe794b3b3f28a8ffd4da8fc40b2905d658356d39a750490b7669"
+  },
+  {
+    "productId": "parent-0139",
+    "variantId": "gc004341",
+    "productName": "Помада для губ жидкая Golden Rose Soft & Matte Creamy Lipcolor",
+    "brand": "Golden Rose",
+    "variant": "101",
+    "sku": "GC004341",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 1009,
+    "batch": 21,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/soft-matte-creamy-lipcolor?variant=39960383455421",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/101_4a0be405-2655-48e7-8339-817c865f2b55.jpg?v=1756457137",
+    "localFile": null,
+    "verification": null,
+    "skipReason": "ExactSoftMatteCreamyLipcolor shade101 selectedvariant39960383455421 featured_image native dimensions370x370. Native original src, not a resizedthumb, under800pixelminimum before any physicalobjectmeasurement. FamilyJSON retained; no download/upscale or othercolour substitution.",
+    "searches": [
+      {
+        "query": "GoldenRoseSoftMatteCreamyLipcolor 101",
+        "url": "https://goldenrose-germany.de/products/soft-matte-creamy-lipcolor?variant=39960383455421",
+        "note": "ExactSoftMatteCreamyLipcolor shade101 selectedvariant39960383455421 featured_image native dimensions370x370. Native original src, not a resizedthumb, under800pixelminimum before any physicalobjectmeasurement. FamilyJSON retained; no download/upscale or othercolour substitution."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sourceMetadata": {
+      "variantId": 39960383455421,
+      "imageId": 48853209678092,
+      "width": 370,
+      "height": 370,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/101_4a0be405-2655-48e7-8339-817c865f2b55.jpg?v=1756457137",
+      "evidence": "artifacts/step-7b/b021-a/golden.txt"
+    }
+  },
+  {
+    "productId": "parent-0139",
+    "variantId": "gc004342",
+    "productName": "Помада для губ жидкая Golden Rose Soft & Matte Creamy Lipcolor",
+    "brand": "Golden Rose",
+    "variant": "103",
+    "sku": "GC004342",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 1010,
+    "batch": 21,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/soft-matte-creamy-lipcolor?variant=39960383619261",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/103_9f985726-f647-4326-9b96-ee606c3694c2.jpg?v=1756457137",
+    "localFile": null,
+    "verification": null,
+    "skipReason": "ExactSoftMatteCreamyLipcolor shade103 selectedvariant39960383619261 featured_image native dimensions370x370. Native original src, not a resizedthumb, under800pixelminimum before any physicalobjectmeasurement. FamilyJSON retained; no download/upscale or othercolour substitution.",
+    "searches": [
+      {
+        "query": "GoldenRoseSoftMatteCreamyLipcolor 103",
+        "url": "https://goldenrose-germany.de/products/soft-matte-creamy-lipcolor?variant=39960383619261",
+        "note": "ExactSoftMatteCreamyLipcolor shade103 selectedvariant39960383619261 featured_image native dimensions370x370. Native original src, not a resizedthumb, under800pixelminimum before any physicalobjectmeasurement. FamilyJSON retained; no download/upscale or othercolour substitution."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sourceMetadata": {
+      "variantId": 39960383619261,
+      "imageId": 48853209743628,
+      "width": 370,
+      "height": 370,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/103_9f985726-f647-4326-9b96-ee606c3694c2.jpg?v=1756457137",
+      "evidence": "artifacts/step-7b/b021-a/golden.txt"
+    }
+  },
+  {
+    "productId": "parent-0139",
+    "variantId": "gc004343",
+    "productName": "Помада для губ жидкая Golden Rose Soft & Matte Creamy Lipcolor",
+    "brand": "Golden Rose",
+    "variant": "104",
+    "sku": "GC004343",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 1011,
+    "batch": 21,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/soft-matte-creamy-lipcolor?variant=39960383684797",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/104_72ba6de5-fec3-4cdf-bd59-2695128fdc7b.jpg?v=1756457137",
+    "localFile": null,
+    "verification": null,
+    "skipReason": "ExactSoftMatteCreamyLipcolor shade104 selectedvariant39960383684797 featured_image native dimensions370x370. Native original src, not a resizedthumb, under800pixelminimum before any physicalobjectmeasurement. FamilyJSON retained; no download/upscale or othercolour substitution.",
+    "searches": [
+      {
+        "query": "GoldenRoseSoftMatteCreamyLipcolor 104",
+        "url": "https://goldenrose-germany.de/products/soft-matte-creamy-lipcolor?variant=39960383684797",
+        "note": "ExactSoftMatteCreamyLipcolor shade104 selectedvariant39960383684797 featured_image native dimensions370x370. Native original src, not a resizedthumb, under800pixelminimum before any physicalobjectmeasurement. FamilyJSON retained; no download/upscale or othercolour substitution."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sourceMetadata": {
+      "variantId": 39960383684797,
+      "imageId": 48853209776396,
+      "width": 370,
+      "height": 370,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/104_72ba6de5-fec3-4cdf-bd59-2695128fdc7b.jpg?v=1756457137",
+      "evidence": "artifacts/step-7b/b021-a/golden.txt"
+    }
+  },
+  {
+    "productId": "parent-0139",
+    "variantId": "gc004344",
+    "productName": "Помада для губ жидкая Golden Rose Soft & Matte Creamy Lipcolor",
+    "brand": "Golden Rose",
+    "variant": "107",
+    "sku": "GC004344",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 1012,
+    "batch": 21,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/soft-matte-creamy-lipcolor?variant=39960383881405",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/107_405b7c5d-c59c-4166-bc0a-5f4350131a03.jpg?v=1756457137",
+    "localFile": null,
+    "verification": null,
+    "skipReason": "ExactSoftMatteCreamyLipcolor shade107 selectedvariant39960383881405 featured_image native dimensions370x370. Native original src, not a resizedthumb, under800pixelminimum before any physicalobjectmeasurement. FamilyJSON retained; no download/upscale or othercolour substitution.",
+    "searches": [
+      {
+        "query": "GoldenRoseSoftMatteCreamyLipcolor 107",
+        "url": "https://goldenrose-germany.de/products/soft-matte-creamy-lipcolor?variant=39960383881405",
+        "note": "ExactSoftMatteCreamyLipcolor shade107 selectedvariant39960383881405 featured_image native dimensions370x370. Native original src, not a resizedthumb, under800pixelminimum before any physicalobjectmeasurement. FamilyJSON retained; no download/upscale or othercolour substitution."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sourceMetadata": {
+      "variantId": 39960383881405,
+      "imageId": 48853209874700,
+      "width": 370,
+      "height": 370,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/107_405b7c5d-c59c-4166-bc0a-5f4350131a03.jpg?v=1756457137",
+      "evidence": "artifacts/step-7b/b021-a/golden.txt"
+    }
+  },
+  {
+    "productId": "parent-0139",
+    "variantId": "gc004345",
+    "productName": "Помада для губ жидкая Golden Rose Soft & Matte Creamy Lipcolor",
+    "brand": "Golden Rose",
+    "variant": "108",
+    "sku": "GC004345",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 1013,
+    "batch": 21,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/soft-matte-creamy-lipcolor?variant=39960383979709",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/108_edfab570-ea03-49cd-8d13-4b919c2d1e01.jpg?v=1756457137",
+    "localFile": null,
+    "verification": null,
+    "skipReason": "ExactSoftMatteCreamyLipcolor shade108 selectedvariant39960383979709 featured_image native dimensions370x370. Native original src, not a resizedthumb, under800pixelminimum before any physicalobjectmeasurement. FamilyJSON retained; no download/upscale or othercolour substitution.",
+    "searches": [
+      {
+        "query": "GoldenRoseSoftMatteCreamyLipcolor 108",
+        "url": "https://goldenrose-germany.de/products/soft-matte-creamy-lipcolor?variant=39960383979709",
+        "note": "ExactSoftMatteCreamyLipcolor shade108 selectedvariant39960383979709 featured_image native dimensions370x370. Native original src, not a resizedthumb, under800pixelminimum before any physicalobjectmeasurement. FamilyJSON retained; no download/upscale or othercolour substitution."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sourceMetadata": {
+      "variantId": 39960383979709,
+      "imageId": 48853209907468,
+      "width": 370,
+      "height": 370,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/108_edfab570-ea03-49cd-8d13-4b919c2d1e01.jpg?v=1756457137",
+      "evidence": "artifacts/step-7b/b021-a/golden.txt"
+    }
+  },
+  {
+    "productId": "parent-0139",
+    "variantId": "gc004346",
+    "productName": "Помада для губ жидкая Golden Rose Soft & Matte Creamy Lipcolor",
+    "brand": "Golden Rose",
+    "variant": "110",
+    "sku": "GC004346",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 1014,
+    "batch": 21,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/soft-matte-creamy-lipcolor?variant=39960384078013",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/110_94507322-65ea-4412-9355-b8dbf09831fe.jpg?v=1756457137",
+    "localFile": null,
+    "verification": null,
+    "skipReason": "ExactSoftMatteCreamyLipcolor shade110 selectedvariant39960384078013 featured_image native dimensions370x370. Native original src, not a resizedthumb, under800pixelminimum before any physicalobjectmeasurement. FamilyJSON retained; no download/upscale or othercolour substitution.",
+    "searches": [
+      {
+        "query": "GoldenRoseSoftMatteCreamyLipcolor 110",
+        "url": "https://goldenrose-germany.de/products/soft-matte-creamy-lipcolor?variant=39960384078013",
+        "note": "ExactSoftMatteCreamyLipcolor shade110 selectedvariant39960384078013 featured_image native dimensions370x370. Native original src, not a resizedthumb, under800pixelminimum before any physicalobjectmeasurement. FamilyJSON retained; no download/upscale or othercolour substitution."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sourceMetadata": {
+      "variantId": 39960384078013,
+      "imageId": 48853209973004,
+      "width": 370,
+      "height": 370,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/110_94507322-65ea-4412-9355-b8dbf09831fe.jpg?v=1756457137",
+      "evidence": "artifacts/step-7b/b021-a/golden.txt"
+    }
+  },
+  {
+    "productId": "parent-0139",
+    "variantId": "gc004347",
+    "productName": "Помада для губ жидкая Golden Rose Soft & Matte Creamy Lipcolor",
+    "brand": "Golden Rose",
+    "variant": "111",
+    "sku": "GC004347",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 1015,
+    "batch": 21,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/soft-matte-creamy-lipcolor?variant=39960383520957",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/111_96ce633d-e448-4101-a812-c338bbbde8d5.jpg?v=1756457137",
+    "localFile": null,
+    "verification": null,
+    "skipReason": "ExactSoftMatteCreamyLipcolor shade111 selectedvariant39960383520957 featured_image native dimensions370x370. Native original src, not a resizedthumb, under800pixelminimum before any physicalobjectmeasurement. FamilyJSON retained; no download/upscale or othercolour substitution.",
+    "searches": [
+      {
+        "query": "GoldenRoseSoftMatteCreamyLipcolor 111",
+        "url": "https://goldenrose-germany.de/products/soft-matte-creamy-lipcolor?variant=39960383520957",
+        "note": "ExactSoftMatteCreamyLipcolor shade111 selectedvariant39960383520957 featured_image native dimensions370x370. Native original src, not a resizedthumb, under800pixelminimum before any physicalobjectmeasurement. FamilyJSON retained; no download/upscale or othercolour substitution."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sourceMetadata": {
+      "variantId": 39960383520957,
+      "imageId": 48853210005772,
+      "width": 370,
+      "height": 370,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/111_96ce633d-e448-4101-a812-c338bbbde8d5.jpg?v=1756457137",
+      "evidence": "artifacts/step-7b/b021-a/golden.txt"
+    }
+  },
+  {
+    "productId": "parent-0139",
+    "variantId": "gc004348",
+    "productName": "Помада для губ жидкая Golden Rose Soft & Matte Creamy Lipcolor",
+    "brand": "Golden Rose",
+    "variant": "112",
+    "sku": "GC004348",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 1016,
+    "batch": 21,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/soft-matte-creamy-lipcolor?variant=39960383553725",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/112_2bd301d8-d06c-4ff2-b6d9-6fff7897c625.jpg?v=1756457137",
+    "localFile": null,
+    "verification": null,
+    "skipReason": "ExactSoftMatteCreamyLipcolor shade112 selectedvariant39960383553725 featured_image native dimensions370x370. Native original src, not a resizedthumb, under800pixelminimum before any physicalobjectmeasurement. FamilyJSON retained; no download/upscale or othercolour substitution.",
+    "searches": [
+      {
+        "query": "GoldenRoseSoftMatteCreamyLipcolor 112",
+        "url": "https://goldenrose-germany.de/products/soft-matte-creamy-lipcolor?variant=39960383553725",
+        "note": "ExactSoftMatteCreamyLipcolor shade112 selectedvariant39960383553725 featured_image native dimensions370x370. Native original src, not a resizedthumb, under800pixelminimum before any physicalobjectmeasurement. FamilyJSON retained; no download/upscale or othercolour substitution."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sourceMetadata": {
+      "variantId": 39960383553725,
+      "imageId": 48853210038540,
+      "width": 370,
+      "height": 370,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/112_2bd301d8-d06c-4ff2-b6d9-6fff7897c625.jpg?v=1756457137",
+      "evidence": "artifacts/step-7b/b021-a/golden.txt"
+    }
+  },
+  {
+    "productId": "parent-0140",
+    "variantId": "gc004349",
+    "productName": "Помада для губ Prada",
+    "brand": "Prada",
+    "variant": "B101",
+    "sku": "GC004349",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 1017,
+    "batch": 21,
+    "status": "skipped",
+    "sourcePage": "https://www.prada-beauty.com/makeup/lipstick/prada-monochrome-soft-matte-lipstick-brown-series/MPL01743.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed MonochromeSoftMatte listsB101Tiepolo andB107Sedona; directrequest403. These codes also exist in refill packages, and Grace omits line/pack size. No exact accessible photograph of the correct package obtained in quick pass.",
+    "searches": [
+      {
+        "query": "Prada lipstickB101B107",
+        "url": "https://www.prada-beauty.com/makeup/lipstick/prada-monochrome-soft-matte-lipstick-brown-series/MPL01743.html",
+        "note": "Official indexed MonochromeSoftMatte listsB101Tiepolo andB107Sedona; directrequest403. These codes also exist in refill packages, and Grace omits line/pack size. No exact accessible photograph of the correct package obtained in quick pass."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0140",
+    "variantId": "gc004350",
+    "productName": "Помада для губ Prada",
+    "brand": "Prada",
+    "variant": "B107",
+    "sku": "GC004350",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 1018,
+    "batch": 21,
+    "status": "skipped",
+    "sourcePage": "https://www.prada-beauty.com/makeup/lipstick/prada-monochrome-soft-matte-lipstick-brown-series/MPL01743.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed MonochromeSoftMatte listsB101Tiepolo andB107Sedona; directrequest403. These codes also exist in refill packages, and Grace omits line/pack size. No exact accessible photograph of the correct package obtained in quick pass.",
+    "searches": [
+      {
+        "query": "Prada lipstickB101B107",
+        "url": "https://www.prada-beauty.com/makeup/lipstick/prada-monochrome-soft-matte-lipstick-brown-series/MPL01743.html",
+        "note": "Official indexed MonochromeSoftMatte listsB101Tiepolo andB107Sedona; directrequest403. These codes also exist in refill packages, and Grace omits line/pack size. No exact accessible photograph of the correct package obtained in quick pass."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc004351",
+    "variantId": "gc004351",
+    "productName": "Помада-бальзам Yves Saint Laurent Loveshine Candy Glaze 21 Shimmer Nude 3,2 г",
+    "brand": "Yves Saint Laurent",
+    "variant": "Стандарт",
+    "sku": "GC004351",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 1019,
+    "batch": 21,
+    "status": "skipped",
+    "sourcePage": "https://www.yslbeauty.sa/en/makeup/lips/lipstick/loveshine-candy-glaze-holiday-edition/F8456500.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact21ShimmerNude officialHolidayEdition found, goldcase; officialrequest403. RetailerOunass exact21 page labels3.4g versus Grace3.2g. No verified exact3.2g photo obtained; genericCandyGlaze shades not substituted.",
+    "searches": [
+      {
+        "query": "YSL Loveshine CandyGlaze21ShimmerNude3.2g",
+        "url": "https://www.yslbeauty.sa/en/makeup/lips/lipstick/loveshine-candy-glaze-holiday-edition/F8456500.html",
+        "note": "Exact21ShimmerNude officialHolidayEdition found, goldcase; officialrequest403. RetailerOunass exact21 page labels3.4g versus Grace3.2g. No verified exact3.2g photo obtained; genericCandyGlaze shades not substituted."
+      },
+      {
+        "query": "YSL21ShimmerNude size",
+        "url": "https://bahrain.ounass.com/shop-ysl-beauty-21-shimmer-nude-loveshine-candy-glaze-lip-gloss-stick-3-4g-for-women-219132333_242.html",
+        "note": "Retailer exact21 listing3.4g, cannot silently override catalogue3.2g."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  }
+]

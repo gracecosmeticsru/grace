@@ -1,0 +1,574 @@
+[
+  {
+    "index": 301,
+    "productId": "parent-0035",
+    "variantId": "gc003077",
+    "productName": "Консилер Tarte Shape Tape",
+    "variant": "8B",
+    "status": "verified",
+    "sourcePage": "https://tartecosmetics.com/en-kr/products/shape-tape-concealer?variant=52789613821974",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0898/4972/4950/files/unique__846733030309__shape-tape-contour-concealer-8B-porcelain-beige__01.jpg?v=1762804790",
+    "localFile": "materials/catalog-7b/originals/b007-a/Консилер Tarte Shape Tape 8B--gc003077.jpg",
+    "width": 2000,
+    "height": 2667,
+    "format": "JPEG",
+    "bytes": 174290,
+    "sha256": "7ecf06811a9c1d98300714a6c8877ac0dd8c5f1e41ecfe8286e4db89c2f0f7d2",
+    "verification": {
+      "identity": "Official ordinary Tarte Shape Tape contour concealer, not Ultra Creamy; shade8B porcelain beige mapped through variant featured_image.",
+      "volumeAndVariant": "Exact source variant 52789613821974, title 8B porcelain beige. Catalog has no separate volume field; matching named source presentation retained.",
+      "visualReview": "Full-fit source contact sheet reviewed: complete correct Shape Tape bottle with wand on white, no watermark. Prepared output reviewed.",
+      "reviewMethod": "Exact source metadata plus real original/prepared visual review",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:tartecosmetics.com shape tape concealer (reuse official source with8B variant)",
+        "url": "https://tartecosmetics.com/en-kr/products/shape-tape-concealer",
+        "note": "Official ordinary Tarte Shape Tape contour concealer, not Ultra Creamy; shade8B porcelain beige mapped through variant featured_image. Exact source variant 52789613821974, title 8B porcelain beige. Catalog has no separate volume field; matching named source presentation retained."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 302,
+    "productId": "gc003078",
+    "variantId": "gc003078",
+    "productName": "Консилер для лица консилер Charlotte Tilbury Beautiful Skin 1Fair",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/beautiful-skin-radiant-concealer-1-fair",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/GE6LoKowvWhYqOxTaAA07/1ff04358a17102b8316444b5334e018d/BSC-Packshot-1-Open.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b007-a/Консилер для лица консилер Charlotte Tilbury Beautiful Skin 1Fair Стандарт--gc003078.png",
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 323026,
+    "sha256": "bd54cdbb6e48b0be0c5866c03381c0c545e832c59d806bb0762477a3be441426",
+    "verification": {
+      "identity": "Official Charlotte Tilbury Beautiful Skin Radiant Concealer1Fair; exact shade page og:image and packaging agree.",
+      "volumeAndVariant": "Exact source variant 1 Fair, title 1 Fair. Official standard7.2ml presentation, exact named shade; catalog has no separate volume.",
+      "visualReview": "Full source and contact sheet reviewed: complete1Fair bottle and applicator. Transparent PNG shadow flattens to white with soft natural halo; prepared output reviewed.",
+      "reviewMethod": "Exact source metadata plus real original/prepared visual review",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury beautiful skin concealer 1 fair 3.5 fair official",
+        "url": "https://www.charlottetilbury.com/us/product/beautiful-skin-radiant-concealer-1-fair",
+        "note": "Official Charlotte Tilbury Beautiful Skin Radiant Concealer1Fair; exact shade page og:image and packaging agree. Exact source variant 1 Fair, title 1 Fair. Official standard7.2ml presentation, exact named shade; catalog has no separate volume."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 303,
+    "productId": "gc003079",
+    "variantId": "gc003079",
+    "productName": "Консилер для лица консилер Charlotte Tilbury Beautiful Skin 3.5Fair",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/beautiful-skin-radiant-concealer-3-5-fair",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/4WptTMvLAobVKel3aG5OKW/9098b3a2f84a456704f3ce92388ff07b/BSC-Packshot-3.5-Open.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b007-a/Консилер для лица консилер Charlotte Tilbury Beautiful Skin 3.5Fair Стандарт--gc003079.png",
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 323103,
+    "sha256": "7b4a579105a3531d7c1b65c164447f361a9a22ddc8ec4f1818842df99db52cef",
+    "verification": {
+      "identity": "Official Charlotte Tilbury Beautiful Skin Radiant Concealer3.5Fair; exact shade page og:image and packaging agree.",
+      "volumeAndVariant": "Exact source variant 3.5 Fair, title 3.5 Fair. Official standard7.2ml presentation, exact named shade; catalog has no separate volume.",
+      "visualReview": "Full-fit contact sheet reviewed: complete3.5Fair bottle and applicator. Transparent PNG flattened white; prepared output reviewed.",
+      "reviewMethod": "Exact source metadata plus real original/prepared visual review",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury beautiful skin concealer 1 fair 3.5 fair official",
+        "url": "https://www.charlottetilbury.com/us/product/beautiful-skin-radiant-concealer-3-5-fair",
+        "note": "Official Charlotte Tilbury Beautiful Skin Radiant Concealer3.5Fair; exact shade page og:image and packaging agree. Exact source variant 3.5 Fair, title 3.5 Fair. Official standard7.2ml presentation, exact named shade; catalog has no separate volume."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 304,
+    "productId": "parent-0036",
+    "variantId": "gc003080",
+    "productName": "Консилер для лица консилер Estrade Good morning!",
+    "variant": "21",
+    "status": "skipped",
+    "sourcePage": "https://makeupgrim.com/ua/konsiler-good-morning/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Family search confirms Good Morning21 Ivory and22 Light Beige; selected retailer makeupgrim page returnedHTTP403. No original attributable to exact shade obtained in bounded lookup; skipped without assigning default or neighboring shade.",
+    "searches": [
+      {
+        "query": "Estrade Good morning консилер 21 22",
+        "url": "https://makeupgrim.com/ua/konsiler-good-morning/",
+        "note": "Family search confirms Good Morning21 Ivory and22 Light Beige; selected retailer makeupgrim page returnedHTTP403. No original attributable to exact shade obtained in bounded lookup; skipped without assigning default or neighboring shade."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 305,
+    "productId": "parent-0036",
+    "variantId": "gc003081",
+    "productName": "Консилер для лица консилер Estrade Good morning!",
+    "variant": "22",
+    "status": "skipped",
+    "sourcePage": "https://makeupgrim.com/ua/konsiler-good-morning/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Family search confirms Good Morning21 Ivory and22 Light Beige; selected retailer makeupgrim page returnedHTTP403. No original attributable to exact shade obtained in bounded lookup; skipped without assigning default or neighboring shade.",
+    "searches": [
+      {
+        "query": "Estrade Good morning консилер 21 22",
+        "url": "https://makeupgrim.com/ua/konsiler-good-morning/",
+        "note": "Family search confirms Good Morning21 Ivory and22 Light Beige; selected retailer makeupgrim page returnedHTTP403. No original attributable to exact shade obtained in bounded lookup; skipped without assigning default or neighboring shade."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 306,
+    "productId": "parent-0037",
+    "variantId": "gc003082",
+    "productName": "Консилер для лица консилер Seventeen Ideal Cover Liquid Concealer",
+    "variant": "02",
+    "status": "verified",
+    "sourcePage": "https://seventeencosmetics.com/en/catalogue/ideal-cover-concealer_41/?vid=43",
+    "sourceImage": "https://seventeencosmetics.com/media/images/products/2022/06/5201641704615_01.jpg",
+    "localFile": "materials/catalog-7b/originals/b007-a/Консилер для лица консилер Seventeen Ideal Cover Liquid Concealer 02--gc003082.jpg",
+    "width": 800,
+    "height": 800,
+    "format": "JPEG",
+    "bytes": 28133,
+    "sha256": "bc030fac8d946b6968322998337d5ead40a62af2c0756294535ee6b28d08efc6",
+    "verification": {
+      "identity": "Official Seventeen Ideal Cover Liquid Concealer; shade selector vid and matching JSON-LD sku/image map the correct tube.",
+      "volumeAndVariant": "Exact source variant 5118902, title Ideal Cover Concealer. Source3ml standard presentation; catalog has no explicit volume.",
+      "visualReview": "Full-fit contact sheet reviewed: correct full tube on white, but visible object701px below800 threshold. Retained only, preparation blocked.",
+      "reviewMethod": "Exact source metadata plus real original/prepared visual review",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:seventeencosmetics.com Ideal Cover02",
+        "url": "https://seventeencosmetics.com/en/catalogue/ideal-cover-liquid-concealer_41/?vid=47",
+        "note": "Official Seventeen Ideal Cover Liquid Concealer; shade selector vid and matching JSON-LD sku/image map the correct tube. Exact source variant 5118902, title Ideal Cover Concealer. Source3ml standard presentation; catalog has no explicit volume."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 307,
+    "productId": "parent-0037",
+    "variantId": "gc003083",
+    "productName": "Консилер для лица консилер Seventeen Ideal Cover Liquid Concealer",
+    "variant": "03",
+    "status": "verified",
+    "sourcePage": "https://seventeencosmetics.com/en/catalogue/ideal-cover-concealer_41/?vid=44",
+    "sourceImage": "https://seventeencosmetics.com/media/images/products/2022/06/5201641704622_01.jpg",
+    "localFile": "materials/catalog-7b/originals/b007-a/Консилер для лица консилер Seventeen Ideal Cover Liquid Concealer 03--gc003083.jpg",
+    "width": 800,
+    "height": 800,
+    "format": "JPEG",
+    "bytes": 26393,
+    "sha256": "e2cc28e248231056dcc4b41ee7f9f296f6bb4a2dff16588e1572cec717fbb1fe",
+    "verification": {
+      "identity": "Official Seventeen Ideal Cover Liquid Concealer; shade selector vid and matching JSON-LD sku/image map the correct tube.",
+      "volumeAndVariant": "Exact source variant 5118903, title Ideal Cover Concealer. Source3ml standard presentation; catalog has no explicit volume.",
+      "visualReview": "Full-fit contact sheet reviewed: correct full tube on white, but visible object701px below800 threshold. Retained only, preparation blocked.",
+      "reviewMethod": "Exact source metadata plus real original/prepared visual review",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:seventeencosmetics.com Ideal Cover02",
+        "url": "https://seventeencosmetics.com/en/catalogue/ideal-cover-liquid-concealer_41/?vid=47",
+        "note": "Official Seventeen Ideal Cover Liquid Concealer; shade selector vid and matching JSON-LD sku/image map the correct tube. Exact source variant 5118903, title Ideal Cover Concealer. Source3ml standard presentation; catalog has no explicit volume."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 308,
+    "productId": "parent-0038",
+    "variantId": "gc003084",
+    "productName": "Консилер для лица консилер Vivienne Sabo Retouche",
+    "variant": "01",
+    "status": "verified",
+    "sourcePage": "https://viviennesabo.ru/catalog/konsiler/retouche/",
+    "sourceImage": "https://viviennesabo.ru/upload/dev2fun.imagecompress/webp/iblock/dea/u8f3y9amhlzxptkkm3i2cpzxfa02yobd.webp",
+    "localFile": "materials/catalog-7b/originals/b007-a/Консилер для лица консилер Vivienne Sabo Retouche 01--gc003084.webp",
+    "width": 1200,
+    "height": 1200,
+    "format": "WEBP",
+    "bytes": 9424,
+    "sha256": "e21e6908b0a14af07204f57dabcb7ee38ca0d83656503754090e17d37d04282e",
+    "verification": {
+      "identity": "Official Vivienne Sabo Retouche; each offer CODE retouche-01/02/03 maps its own DETAIL_PICTURE, rather than default hero.",
+      "volumeAndVariant": "Exact source variant retouche-01, title Retouche 01. Catalog has no separate volume field; matching named source presentation retained.",
+      "visualReview": "All3 full-fit originals viewed: correct tube, but opaque RGB gray textured floor/background and shadow; preparation blocked without retouching.",
+      "reviewMethod": "Exact source metadata plus real original/prepared visual review",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Vivienne Sabo Retouche консилер01 02 03 официальный",
+        "url": "https://viviennesabo.ru/catalog/konsiler/retouche/",
+        "note": "Official Vivienne Sabo Retouche; each offer CODE retouche-01/02/03 maps its own DETAIL_PICTURE, rather than default hero. Exact source variant retouche-01, title Retouche 01. Catalog has no separate volume field; matching named source presentation retained."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 309,
+    "productId": "parent-0038",
+    "variantId": "gc003085",
+    "productName": "Консилер для лица консилер Vivienne Sabo Retouche",
+    "variant": "02",
+    "status": "verified",
+    "sourcePage": "https://viviennesabo.ru/catalog/konsiler/retouche/",
+    "sourceImage": "https://viviennesabo.ru/upload/dev2fun.imagecompress/webp/iblock/336/8qt38uib35r6rkf7wac5p6r2ielnnw42.webp",
+    "localFile": "materials/catalog-7b/originals/b007-a/Консилер для лица консилер Vivienne Sabo Retouche 02--gc003085.webp",
+    "width": 1200,
+    "height": 1200,
+    "format": "WEBP",
+    "bytes": 9374,
+    "sha256": "62678814fee7a8311d2531abff43629871c771fd6c388e8f97a985305a61aa0b",
+    "verification": {
+      "identity": "Official Vivienne Sabo Retouche; each offer CODE retouche-01/02/03 maps its own DETAIL_PICTURE, rather than default hero.",
+      "volumeAndVariant": "Exact source variant retouche-02, title Retouche 02. Catalog has no separate volume field; matching named source presentation retained.",
+      "visualReview": "All3 full-fit originals viewed: correct tube, but opaque RGB gray textured floor/background and shadow; preparation blocked without retouching.",
+      "reviewMethod": "Exact source metadata plus real original/prepared visual review",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Vivienne Sabo Retouche консилер01 02 03 официальный",
+        "url": "https://viviennesabo.ru/catalog/konsiler/retouche/",
+        "note": "Official Vivienne Sabo Retouche; each offer CODE retouche-01/02/03 maps its own DETAIL_PICTURE, rather than default hero. Exact source variant retouche-02, title Retouche 02. Catalog has no separate volume field; matching named source presentation retained."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 310,
+    "productId": "parent-0038",
+    "variantId": "gc003086",
+    "productName": "Консилер для лица консилер Vivienne Sabo Retouche",
+    "variant": "03",
+    "status": "verified",
+    "sourcePage": "https://viviennesabo.ru/catalog/konsiler/retouche/",
+    "sourceImage": "https://viviennesabo.ru/upload/dev2fun.imagecompress/webp/iblock/44b/nkd8kt69hvr17nz8waqzxp86nq2kkpjg.webp",
+    "localFile": "materials/catalog-7b/originals/b007-a/Консилер для лица консилер Vivienne Sabo Retouche 03--gc003086.webp",
+    "width": 1200,
+    "height": 1200,
+    "format": "WEBP",
+    "bytes": 9064,
+    "sha256": "c34a83701b0c2d1cbcfa6070d14e179dc7c0410940edb10df05a93717d987979",
+    "verification": {
+      "identity": "Official Vivienne Sabo Retouche; each offer CODE retouche-01/02/03 maps its own DETAIL_PICTURE, rather than default hero.",
+      "volumeAndVariant": "Exact source variant retouche-03, title Retouche 03. Catalog has no separate volume field; matching named source presentation retained.",
+      "visualReview": "All3 full-fit originals viewed: correct tube, but opaque RGB gray textured floor/background and shadow; preparation blocked without retouching.",
+      "reviewMethod": "Exact source metadata plus real original/prepared visual review",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Vivienne Sabo Retouche консилер01 02 03 официальный",
+        "url": "https://viviennesabo.ru/catalog/konsiler/retouche/",
+        "note": "Official Vivienne Sabo Retouche; each offer CODE retouche-01/02/03 maps its own DETAIL_PICTURE, rather than default hero. Exact source variant retouche-03, title Retouche 03. Catalog has no separate volume field; matching named source presentation retained."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 311,
+    "productId": "parent-0039",
+    "variantId": "gc003087",
+    "productName": "Консилер матовый консилер Seventeen Matt Concealer Extra Coverage",
+    "variant": "00",
+    "status": "verified",
+    "sourcePage": "https://seventeencosmetics.com/en/catalogue/matt-concealer_50/?vid=51",
+    "sourceImage": "https://seventeencosmetics.com/media/images/products/2021/04/seventeen_matt_concealer_00.jpg",
+    "localFile": "materials/catalog-7b/originals/b007-a/Консилер матовый консилер Seventeen Matt Concealer Extra Coverage 00--gc003087.jpg",
+    "width": 1200,
+    "height": 1200,
+    "format": "JPEG",
+    "bytes": 124270,
+    "sha256": "5460290ba1e758ad44357b922c632b3aea33bb8af6b520c8ede6576e936c707f",
+    "verification": {
+      "identity": "Official Seventeen Matt Concealer Extra Coverage; shade selector vid and matching JSON-LD sku/image map the correct tube.",
+      "volumeAndVariant": "Exact source variant 5118600, title Matt Concealer. Catalog has no separate volume field; matching named source presentation retained.",
+      "visualReview": "Full-fit original and prepared sheets reviewed: complete correct tone tube, white background, no watermark, source visible object exceeds1000px.",
+      "reviewMethod": "Exact source metadata plus real original/prepared visual review",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Seventeen Matt Concealer Extra Coverage00 01 0A",
+        "url": "https://seventeencosmetics.com/en/catalogue/matt-concealer_50/?vid=52",
+        "note": "Official Seventeen Matt Concealer Extra Coverage; shade selector vid and matching JSON-LD sku/image map the correct tube. Exact source variant 5118600, title Matt Concealer. Catalog has no separate volume field; matching named source presentation retained."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 312,
+    "productId": "parent-0039",
+    "variantId": "gc003088",
+    "productName": "Консилер матовый консилер Seventeen Matt Concealer Extra Coverage",
+    "variant": "01",
+    "status": "verified",
+    "sourcePage": "https://seventeencosmetics.com/en/catalogue/matt-concealer_50/?vid=52",
+    "sourceImage": "https://seventeencosmetics.com/media/images/products/2021/04/seventeen_matt_concealer_01.jpg",
+    "localFile": "materials/catalog-7b/originals/b007-a/Консилер матовый консилер Seventeen Matt Concealer Extra Coverage 01--gc003088.jpg",
+    "width": 1200,
+    "height": 1200,
+    "format": "JPEG",
+    "bytes": 126008,
+    "sha256": "be09d23259ebd280a346c3bed3fc8b47c7f3c5258eee0db5d5dc01173e471f8f",
+    "verification": {
+      "identity": "Official Seventeen Matt Concealer Extra Coverage; shade selector vid and matching JSON-LD sku/image map the correct tube.",
+      "volumeAndVariant": "Exact source variant 5118601, title Matt Concealer. Catalog has no separate volume field; matching named source presentation retained.",
+      "visualReview": "Full-fit original and prepared sheets reviewed: complete correct tone tube, white background, no watermark, source visible object exceeds1000px.",
+      "reviewMethod": "Exact source metadata plus real original/prepared visual review",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Seventeen Matt Concealer Extra Coverage00 01 0A",
+        "url": "https://seventeencosmetics.com/en/catalogue/matt-concealer_50/?vid=52",
+        "note": "Official Seventeen Matt Concealer Extra Coverage; shade selector vid and matching JSON-LD sku/image map the correct tube. Exact source variant 5118601, title Matt Concealer. Catalog has no separate volume field; matching named source presentation retained."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 313,
+    "productId": "parent-0039",
+    "variantId": "gc003089",
+    "productName": "Консилер матовый консилер Seventeen Matt Concealer Extra Coverage",
+    "variant": "0A",
+    "status": "skipped",
+    "sourcePage": "https://seventeencosmetics.com/en/catalogue/matt-concealer_50/?vid=52",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official current Matt Concealer source lists shades00 through04 and maps their product images, but has no0A. Retailer Kloishop lists0A among options, without a retrieved exact0A packshot. No neighboring shade or guessed image URL substituted.",
+    "searches": [
+      {
+        "query": "Seventeen Matt Concealer Extra Coverage00 01 0A",
+        "url": "https://seventeencosmetics.com/en/catalogue/matt-concealer_50/?vid=52",
+        "note": "Official current Matt Concealer source lists shades00 through04 and maps their product images, but has no0A. Retailer Kloishop lists0A among options, without a retrieved exact0A packshot. No neighboring shade or guessed image URL substituted."
+      },
+      {
+        "query": "Seventeen Matt Concealer Extra Coverage00 01 0A",
+        "url": "https://kloishop.com/product/%CE%BCatt-concealer-extra-coverage/?lang=en",
+        "note": "Indexed retailer option list includes0A, but no exact packshot retrieved during quick pass."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 314,
+    "productId": "gc003090",
+    "variantId": "gc003090",
+    "productName": "Консилер-корректор Rare Beauty 110N 7,5 мл",
+    "variant": "7.5ML",
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/liquid-touch-brightening-concealer?variant=43735291789447",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/products/Concealer-110N-SKU.jpg?v=1666328782",
+    "localFile": "materials/catalog-7b/originals/b007-a/Консилер-корректор Rare Beauty 110N 7,5 мл 7.5ML--gc003090.jpg",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 26710,
+    "sha256": "6ac550d6e241d54b9e0811411f977fe6b0223c7b20dbacf4e88b45ac08df61fa",
+    "verification": {
+      "identity": "Official Rare Beauty Liquid Touch Brightening Concealer; exact110N/130N selected Shopify variant featured_image maps the requested tone.",
+      "volumeAndVariant": "Exact source variant 43735291789447, title 110N. Standard7.5ml confirmed by Sephora shade listing110N/130N; catalog7.5ml matches.",
+      "visualReview": "Both originals viewed: correct tone tube in beige architectural scene, horizon and long cast shadow. Preparation blocked; no retouching.",
+      "reviewMethod": "Exact source metadata plus real original/prepared visual review",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com concealer110N 130N",
+        "url": "https://www.rarebeauty.com/products/liquid-touch-brightening-concealer.js",
+        "note": "Official Rare Beauty Liquid Touch Brightening Concealer; exact110N/130N selected Shopify variant featured_image maps the requested tone. Exact source variant 43735291789447, title 110N. Standard7.5ml confirmed by Sephora shade listing110N/130N; catalog7.5ml matches."
+      },
+      {
+        "query": "Rare Beauty liquid touch brightening concealer110N 130N7.5ml Sephora",
+        "url": "https://www.sephora.es/p/liquid-touch---brightening-concealer-P10017091.html",
+        "note": "Retailer confirms110N and130N are7.5ml; official selected variant provides exact source photo."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 315,
+    "productId": "gc003091",
+    "variantId": "gc003091",
+    "productName": "Консилер-корректор Rare Beauty 130N 7,5 мл",
+    "variant": "7.5ML",
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/liquid-touch-brightening-concealer?variant=43735290740871",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/products/Concealer-130N-SKU_787d23c8-6bbe-4dbe-9118-acbbd85ba152.jpg?v=1666328782",
+    "localFile": "materials/catalog-7b/originals/b007-a/Консилер-корректор Rare Beauty 130N 7,5 мл 7.5ML--gc003091.jpg",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 28518,
+    "sha256": "d44fc7113cce1eda7ad24ec8592b36a0e279ba40350a25828c847a8bc296e450",
+    "verification": {
+      "identity": "Official Rare Beauty Liquid Touch Brightening Concealer; exact110N/130N selected Shopify variant featured_image maps the requested tone.",
+      "volumeAndVariant": "Exact source variant 43735290740871, title 130N. Standard7.5ml confirmed by Sephora shade listing110N/130N; catalog7.5ml matches.",
+      "visualReview": "Both originals viewed: correct tone tube in beige architectural scene, horizon and long cast shadow. Preparation blocked; no retouching.",
+      "reviewMethod": "Exact source metadata plus real original/prepared visual review",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com concealer110N 130N",
+        "url": "https://www.rarebeauty.com/products/liquid-touch-brightening-concealer.js",
+        "note": "Official Rare Beauty Liquid Touch Brightening Concealer; exact110N/130N selected Shopify variant featured_image maps the requested tone. Exact source variant 43735290740871, title 130N. Standard7.5ml confirmed by Sephora shade listing110N/130N; catalog7.5ml matches."
+      },
+      {
+        "query": "Rare Beauty liquid touch brightening concealer110N 130N7.5ml Sephora",
+        "url": "https://www.sephora.es/p/liquid-touch---brightening-concealer-P10017091.html",
+        "note": "Retailer confirms110N and130N are7.5ml; official selected variant provides exact source photo."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 316,
+    "productId": "parent-0040",
+    "variantId": "gc003100",
+    "productName": "Корректирующий консилер Dior FLASH PERFECTOR",
+    "variant": "0N",
+    "status": "skipped",
+    "sourcePage": "https://www.dior.com/en_us/beauty/products/dior-backstage-flash-perfector-concealer-Y0262001.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed Backstage Flash Perfector page lists0N and1N, but direct selected source retrieval returnedHTTP403. No original with exact selected shade mapping retained; no default3C or unrelated Forever Skin Correct image substituted.",
+    "searches": [
+      {
+        "query": "Dior Backstage Flash Perfector concealer0N 1N",
+        "url": "https://www.dior.com/en_us/beauty/products/dior-backstage-flash-perfector-concealer-Y0262001.html",
+        "note": "Official indexed Backstage Flash Perfector page lists0N and1N, but direct selected source retrieval returnedHTTP403. No original with exact selected shade mapping retained; no default3C or unrelated Forever Skin Correct image substituted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 317,
+    "productId": "parent-0040",
+    "variantId": "gc003101",
+    "productName": "Корректирующий консилер Dior FLASH PERFECTOR",
+    "variant": "1N",
+    "status": "skipped",
+    "sourcePage": "https://www.dior.com/en_us/beauty/products/dior-backstage-flash-perfector-concealer-Y0262001.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed Backstage Flash Perfector page lists0N and1N, but direct selected source retrieval returnedHTTP403. No original with exact selected shade mapping retained; no default3C or unrelated Forever Skin Correct image substituted.",
+    "searches": [
+      {
+        "query": "Dior Backstage Flash Perfector concealer0N 1N",
+        "url": "https://www.dior.com/en_us/beauty/products/dior-backstage-flash-perfector-concealer-Y0262001.html",
+        "note": "Official indexed Backstage Flash Perfector page lists0N and1N, but direct selected source retrieval returnedHTTP403. No original with exact selected shade mapping retained; no default3C or unrelated Forever Skin Correct image substituted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 318,
+    "productId": "gc003102",
+    "variantId": "gc003102",
+    "productName": "Корректор для лица консилер Golden Rose Nude Look Highlighting Glow Pen",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com/en/product/355/face-blushon-highlighter-nude-look-highlighting-glow-pen/2",
+    "sourceImage": "https://www.goldenrose.com/img/product/zoom/3967.jpg",
+    "localFile": "materials/catalog-7b/originals/b007-a/Корректор для лица консилер Golden Rose Nude Look Highlighting Glow Pen Стандарт--gc003102.jpg",
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 80391,
+    "sha256": "5e70076fb52895de95a2b6a04561ee181bd588df4f8cb53814e9fe613e6515e2",
+    "verification": {
+      "identity": "Official Golden Rose Nude Look Highlighting Glow Pen; universal Nude Radiance shade, full closed and open views of the same pen, not Retouching Face Pen.",
+      "volumeAndVariant": "Exact source variant Nude Radiance, title Nude Look Highlighting Glow Pen. Official source lists a single universal Nude Radiance shade; no unresolved shade selection.",
+      "visualReview": "Full original and prepared image reviewed: product label Highlighting Glow Pen Nude Radiance readable, two complete views of same pen on white, no watermark.",
+      "reviewMethod": "Exact source metadata plus real original/prepared visual review",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Golden Rose Nude Look Highlighting Glow Pen official",
+        "url": "https://www.goldenrose.com/en/product/355/face-blushon-highlighter-nude-look-highlighting-glow-pen/2",
+        "note": "Official Golden Rose Nude Look Highlighting Glow Pen; universal Nude Radiance shade, full closed and open views of the same pen, not Retouching Face Pen. Exact source variant Nude Radiance, title Nude Look Highlighting Glow Pen. Official source lists a single universal Nude Radiance shade; no unresolved shade selection."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 319,
+    "productId": "gc003103",
+    "variantId": "gc003103",
+    "productName": "Корректор основа 3 в 1 для выравнивания тона кожи под макияж JOMTAM",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.flip.kz/catalog?prod=5736653",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Family lookup returns different three-color versions, including whitening and green versions at Flip, and distinct barcodes6974772944982/6941349345121 at Rozetka. Catalog omits full line, barcode, size and shade composition. Exact version cannot be established; did not choose arbitrary similar40g bottle.",
+    "searches": [
+      {
+        "query": "JOMTAM корректор основа3 в1 выравнивания тона кожи",
+        "url": "https://www.flip.kz/catalog?prod=5736653",
+        "note": "Family lookup returns different three-color versions, including whitening and green versions at Flip, and distinct barcodes6974772944982/6941349345121 at Rozetka. Catalog omits full line, barcode, size and shade composition. Exact version cannot be established; did not choose arbitrary similar40g bottle."
+      },
+      {
+        "query": "JOMTAM корректор основа3 в1 выравнивания тона кожи",
+        "url": "https://www.flip.kz/catalog?prod=5720764",
+        "note": "Distinct green three-color version."
+      },
+      {
+        "query": "JOMTAM корректор основа3 в1 выравнивания тона кожи",
+        "url": "https://rozetka.com.ua/jomtam-6974772944982/p444958826/",
+        "note": "Three-color isolation40g, barcode6974772944982."
+      },
+      {
+        "query": "JOMTAM корректор основа3 в1 выравнивания тона кожи",
+        "url": "https://rozetka.com.ua/ua/412917522/p412917522/",
+        "note": "Different listed barcode6941349345121; catalogue gives no barcode."
+      }
+    ],
+    "sharedImageWith": []
+  }
+]

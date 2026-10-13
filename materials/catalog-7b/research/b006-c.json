@@ -1,0 +1,347 @@
+[
+  {
+    "index": 290,
+    "productId": "gc003066",
+    "variantId": "gc003066",
+    "productName": "Консилер JEV",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://mekka.shop/jev-konsiller-original/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog only says JEV concealer, with no model or shade. Focused search finds Full Coverage in four different shades01-04; assigning any numbered colour would be a guess.",
+    "searches": [
+      {
+        "query": "\"JEV\" \"консилер\"",
+        "url": "https://mekka.shop/jev-konsiller-original/",
+        "note": "Retailer family page explicitly lists01 light beige,02 medium,03 pink medium,04 dark; catalog has no matching shade identifier."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 291,
+    "productId": "parent-0033",
+    "variantId": "gc003067",
+    "productName": "Консилер PATRICK TA Major Skin Soft Blur Brightening",
+    "variant": "1 fair rosy",
+    "status": "verified",
+    "sourcePage": "https://patrickta.com/products/major-skin-soft-blur-brightening-concealer?variant=62930209243505",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0099/0602/8608/files/Major-Skin-Soft-Blur-Brightening-Concealer---01-Fair-Rosy-1.jpg?v=1787328612",
+    "localFile": "materials/catalog-7b/originals/b006-c/Консилер PATRICK TA Major Skin Soft Blur Brightening 1 fair rosy--gc003067.jpg",
+    "verification": {
+      "identity": "Official Patrick Ta product JSON directly binds shade Fair Rosy 1, variant62930209243505, to featured_image81318710903153; identical tone words and number reordered from catalog.",
+      "volumeAndVariant": "Catalog specifies no size; official standard full product, no mini/decant substituted.",
+      "visualReview": "Full rose-gold rectangular tube and wand; exact individual shade photo, no watermark, no clipping. Opaque grey background produces a conspicuous hard-edged grey halo after standard preparation. Candidate blocked after full prepared-image visual inspection; no retouching.",
+      "reviewMethod": "Original images/contact sheet and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:patrickta.com Major Skin Soft Blur Brightening Concealer",
+        "url": "https://patrickta.com/products/major-skin-soft-blur-brightening-concealer?variant=62930209243505",
+        "note": "Official Patrick Ta product JSON directly binds shade Fair Rosy 1, variant62930209243505, to featured_image81318710903153; identical tone words and number reordered from catalog."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "JPEG",
+    "bytes": 69966,
+    "sha256": "0489d5c0664e26cbab4e7b33ce16efce5d430db4a87086d4f3f9f7c39768efcd"
+  },
+  {
+    "index": 292,
+    "productId": "parent-0033",
+    "variantId": "gc003068",
+    "productName": "Консилер PATRICK TA Major Skin Soft Blur Brightening",
+    "variant": "1 light neutral",
+    "status": "verified",
+    "sourcePage": "https://patrickta.com/products/major-skin-soft-blur-brightening-concealer?variant=62930209374577",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0099/0602/8608/files/Major-Skin-Soft-Blur-Brightening-Concealer---05-Light-Neutral-1.jpg?v=1787328611",
+    "localFile": "materials/catalog-7b/originals/b006-c/Консилер PATRICK TA Major Skin Soft Blur Brightening 1 light neutral--gc003068.jpg",
+    "verification": {
+      "identity": "Official Patrick Ta product JSON directly binds shade Light Neutral 1, variant62930209374577, to featured_image81318710509937; identical tone words and number reordered from catalog.",
+      "volumeAndVariant": "Catalog specifies no size; official standard full product, no mini/decant substituted.",
+      "visualReview": "Full rose-gold rectangular tube and wand; exact individual shade photo, no watermark, no clipping. Opaque grey background produces a conspicuous hard-edged grey halo after standard preparation. Candidate blocked after full prepared-image visual inspection; no retouching.",
+      "reviewMethod": "Original images/contact sheet and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:patrickta.com Major Skin Soft Blur Brightening Concealer",
+        "url": "https://patrickta.com/products/major-skin-soft-blur-brightening-concealer?variant=62930209374577",
+        "note": "Official Patrick Ta product JSON directly binds shade Light Neutral 1, variant62930209374577, to featured_image81318710509937; identical tone words and number reordered from catalog."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "JPEG",
+    "bytes": 67309,
+    "sha256": "a12c6b2e83449aa42387f4dbea083e884f9ea0b7db6063ad2ad6df036ea88fa2"
+  },
+  {
+    "index": 293,
+    "productId": "parent-0033",
+    "variantId": "gc003069",
+    "productName": "Консилер PATRICK TA Major Skin Soft Blur Brightening",
+    "variant": "2 light peachy neutral",
+    "status": "verified",
+    "sourcePage": "https://patrickta.com/products/major-skin-soft-blur-brightening-concealer?variant=62930209407345",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0099/0602/8608/files/Major-Skin-Soft-Blur-Brightening-Concealer---06-Light-Peachy-Neutral-2.jpg?v=1787328611",
+    "localFile": "materials/catalog-7b/originals/b006-c/Консилер PATRICK TA Major Skin Soft Blur Brightening 2 light peachy neutral--gc003069.jpg",
+    "verification": {
+      "identity": "Official Patrick Ta product JSON directly binds shade Light Peachy Neutral 2, variant62930209407345, to featured_image81318710411633; identical tone words and number reordered from catalog.",
+      "volumeAndVariant": "Catalog specifies no size; official standard full product, no mini/decant substituted.",
+      "visualReview": "Full rose-gold rectangular tube and wand; exact individual shade photo, no watermark, no clipping. Opaque grey background produces a conspicuous hard-edged grey halo after standard preparation. Candidate blocked after full prepared-image visual inspection; no retouching.",
+      "reviewMethod": "Original images/contact sheet and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:patrickta.com Major Skin Soft Blur Brightening Concealer",
+        "url": "https://patrickta.com/products/major-skin-soft-blur-brightening-concealer?variant=62930209407345",
+        "note": "Official Patrick Ta product JSON directly binds shade Light Peachy Neutral 2, variant62930209407345, to featured_image81318710411633; identical tone words and number reordered from catalog."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "JPEG",
+    "bytes": 69534,
+    "sha256": "f0514984a3266c0ce98938c62c9b9570c5e441c94e38cd7384760a2cac10a950"
+  },
+  {
+    "index": 294,
+    "productId": "parent-0033",
+    "variantId": "gc003070",
+    "productName": "Консилер PATRICK TA Major Skin Soft Blur Brightening",
+    "variant": "4 fair rosy neutral",
+    "status": "verified",
+    "sourcePage": "https://patrickta.com/products/major-skin-soft-blur-brightening-concealer?variant=62930209341809",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0099/0602/8608/files/Major-Skin-Soft-Blur-Brightening-Concealer-04-Fair-Rosy-Neutral-4.jpg?v=1787328612",
+    "localFile": "materials/catalog-7b/originals/b006-c/Консилер PATRICK TA Major Skin Soft Blur Brightening 4 fair rosy neutral--gc003070.jpg",
+    "verification": {
+      "identity": "Official Patrick Ta product JSON directly binds shade Fair Rosy Neutral 4, variant62930209341809, to featured_image81318710378865; identical tone words and number reordered from catalog.",
+      "volumeAndVariant": "Catalog specifies no size; official standard full product, no mini/decant substituted.",
+      "visualReview": "Full rose-gold rectangular tube and wand; exact individual shade photo, no watermark, no clipping. Opaque grey background produces a conspicuous hard-edged grey halo after standard preparation. Candidate blocked after full prepared-image visual inspection; no retouching.",
+      "reviewMethod": "Original images/contact sheet and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:patrickta.com Major Skin Soft Blur Brightening Concealer",
+        "url": "https://patrickta.com/products/major-skin-soft-blur-brightening-concealer?variant=62930209341809",
+        "note": "Official Patrick Ta product JSON directly binds shade Fair Rosy Neutral 4, variant62930209341809, to featured_image81318710378865; identical tone words and number reordered from catalog."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "JPEG",
+    "bytes": 69856,
+    "sha256": "9804549b1ef15b4b659e9b2f8cf9726a49be23e576d1ddf02f66eb2edd538004"
+  },
+  {
+    "index": 295,
+    "productId": "gc003071",
+    "variantId": "gc003071",
+    "productName": "Консилер PATRICK TA Major Skin Soft Blur Brightening 2 fair neutral",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://patrickta.com/products/major-skin-soft-blur-brightening-concealer?variant=62930209276273",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0099/0602/8608/files/Major-Skin-Soft-Blur-Brightening-Concealer---02-Fair-Neutral-2.jpg?v=1787328611",
+    "localFile": "materials/catalog-7b/originals/b006-c/Консилер PATRICK TA Major Skin Soft Blur Brightening 2 fair neutral Стандарт--gc003071.jpg",
+    "verification": {
+      "identity": "Official Patrick Ta product JSON directly binds shade Fair Neutral 2, variant62930209276273, to featured_image81318710477169; identical tone words and number reordered from catalog.",
+      "volumeAndVariant": "Catalog specifies no size; official standard full product, no mini/decant substituted.",
+      "visualReview": "Full rose-gold rectangular tube and wand; exact individual shade photo, no watermark, no clipping. Opaque grey background produces a conspicuous hard-edged grey halo after standard preparation. Candidate blocked after full prepared-image visual inspection; no retouching.",
+      "reviewMethod": "Original images/contact sheet and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:patrickta.com Major Skin Soft Blur Brightening Concealer",
+        "url": "https://patrickta.com/products/major-skin-soft-blur-brightening-concealer?variant=62930209276273",
+        "note": "Official Patrick Ta product JSON directly binds shade Fair Neutral 2, variant62930209276273, to featured_image81318710477169; identical tone words and number reordered from catalog."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "JPEG",
+    "bytes": 69598,
+    "sha256": "48ffa2e0be3fe9810ba8dddd33d06aa44a131b221a79c595565794efd836d49e"
+  },
+  {
+    "index": 296,
+    "productId": "gc003072",
+    "variantId": "gc003072",
+    "productName": "Консилер PATRICK TA Major Skin Soft Blur Brightening 3 fair golden",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://patrickta.com/products/major-skin-soft-blur-brightening-concealer?variant=62930209309041",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0099/0602/8608/files/Major-Skin-Soft-Blur-Brightening-Concealer---03-Fair-Golden-3.jpg?v=1787328611",
+    "localFile": "materials/catalog-7b/originals/b006-c/Консилер PATRICK TA Major Skin Soft Blur Brightening 3 fair golden Стандарт--gc003072.jpg",
+    "verification": {
+      "identity": "Official Patrick Ta product JSON directly binds shade Fair Golden 3, variant62930209309041, to featured_image81318711132529; identical tone words and number reordered from catalog.",
+      "volumeAndVariant": "Catalog specifies no size; official standard full product, no mini/decant substituted.",
+      "visualReview": "Full rose-gold rectangular tube and wand; exact individual shade photo, no watermark, no clipping. Opaque grey background produces a conspicuous hard-edged grey halo after standard preparation. Candidate blocked after full prepared-image visual inspection; no retouching.",
+      "reviewMethod": "Original images/contact sheet and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:patrickta.com Major Skin Soft Blur Brightening Concealer",
+        "url": "https://patrickta.com/products/major-skin-soft-blur-brightening-concealer?variant=62930209309041",
+        "note": "Official Patrick Ta product JSON directly binds shade Fair Golden 3, variant62930209309041, to featured_image81318711132529; identical tone words and number reordered from catalog."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "JPEG",
+    "bytes": 69439,
+    "sha256": "b652dacb8980e4c751b04e9fe8921f039ad4a91d2f70b55e9211599db34c6f86"
+  },
+  {
+    "index": 297,
+    "productId": "parent-0034",
+    "variantId": "gc003073",
+    "productName": "Консилер Rare Beauty Positive Light Under Eye Brightener 4 мл",
+    "variant": "Light Medium",
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/positive-light-under-eye-brightener-1?variant=43734834741383",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/products/positive-light-under-eye-brightener-light-medium-1440x1952.jpg?v=1670461878",
+    "localFile": "materials/catalog-7b/originals/b006-c/Консилер Rare Beauty Positive Light Under Eye Brightener 4 мл Light Medium--gc003073.jpg",
+    "verification": {
+      "identity": "Official Rare Beauty public JSON binds Light Medium to variant43734834741383 and its featured image.",
+      "volumeAndVariant": "Official details explicitly Net Wt0.13fl.oz /4mL, matching catalog4ml; shade names exact.",
+      "visualReview": "Exact product but photographed on beige two-plane scene with long strong opaque cast shadow. Alternative official PNG is only cream swatch. Retained for evidence; blocked, not retouched.",
+      "reviewMethod": "Original images/contact sheet and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com Positive Light Under Eye Brightener",
+        "url": "https://www.rarebeauty.com/products/positive-light-under-eye-brightener-1?variant=43734834741383",
+        "note": "Official Rare Beauty public JSON binds Light Medium to variant43734834741383 and its featured image."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 38577,
+    "sha256": "18ba4fabebc2a4e358faad218de936f2d9b83c45546094bc297c080b7999f8be"
+  },
+  {
+    "index": 298,
+    "productId": "parent-0034",
+    "variantId": "gc003074",
+    "productName": "Консилер Rare Beauty Positive Light Under Eye Brightener 4 мл",
+    "variant": "Light",
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/positive-light-under-eye-brightener-1?variant=40268344361095",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/products/positive-light-under-eye-brightener-light-1440x1952.jpg?v=1762283713",
+    "localFile": "materials/catalog-7b/originals/b006-c/Консилер Rare Beauty Positive Light Under Eye Brightener 4 мл Light--gc003074.jpg",
+    "verification": {
+      "identity": "Official Rare Beauty public JSON binds Light to variant40268344361095 and its featured image.",
+      "volumeAndVariant": "Official details explicitly Net Wt0.13fl.oz /4mL, matching catalog4ml; shade names exact.",
+      "visualReview": "Exact product but photographed on beige two-plane scene with long strong opaque cast shadow. Alternative official PNG is only cream swatch. Retained for evidence; blocked, not retouched.",
+      "reviewMethod": "Original images/contact sheet and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com Positive Light Under Eye Brightener",
+        "url": "https://www.rarebeauty.com/products/positive-light-under-eye-brightener-1?variant=40268344361095",
+        "note": "Official Rare Beauty public JSON binds Light to variant40268344361095 and its featured image."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 35316,
+    "sha256": "a8c51bb4c2ea3355fc81417c2f58fedc65ec901157d7043b1744addc1d481706"
+  },
+  {
+    "index": 299,
+    "productId": "parent-0035",
+    "variantId": "gc003075",
+    "productName": "Консилер Tarte Shape Tape",
+    "variant": "12N",
+    "status": "verified",
+    "sourcePage": "https://tartecosmetics.com/en-kr/products/shape-tape-concealer?variant=52789613756438",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0898/4972/4950/files/unique__846733017997__shape-tape-contour-concealer-12N-fair-neutral__01.jpg?v=1762804790",
+    "localFile": "materials/catalog-7b/originals/b006-c/Консилер Tarte Shape Tape 12N--gc003075.jpg",
+    "verification": {
+      "identity": "Official Tarte public product JSON verified directly: 12N fair neutral, variant52789613756438, featured image59512028528662. Source located by sibling b006-a and independently read/visually reviewed here.",
+      "volumeAndVariant": "Catalog has no size; standard Shape Tape Contour Concealer shown, original formula not Ultra Creamy; exact12N/22N shade. Same source as prior catalog rows describing10ml, no mini packaging.",
+      "visualReview": "Full original purple/gold-capped tube plus wand on white; visible shade matches official variant-bound asset; no watermark, clipping or extra props, natural small base shadow retained.",
+      "reviewMethod": "Original images/contact sheet and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Tarte Shape Tape concealer 12N 22N official",
+        "url": "https://tartecosmetics.com/en-kr/products/shape-tape-concealer?variant=52789613756438",
+        "note": "Official Tarte public product JSON verified directly: 12N fair neutral, variant52789613756438, featured image59512028528662. Source located by sibling b006-a and independently read/visually reviewed here."
+      }
+    ],
+    "sharedImageWith": [
+      "gc001912"
+    ],
+    "width": 2000,
+    "height": 2667,
+    "format": "JPEG",
+    "bytes": 175981,
+    "sha256": "c86132ac60f3c0657e7e35d1fcadd04477af749f84de395aecbed605c2c8cf05"
+  },
+  {
+    "index": 300,
+    "productId": "parent-0035",
+    "variantId": "gc003076",
+    "productName": "Консилер Tarte Shape Tape",
+    "variant": "22N",
+    "status": "verified",
+    "sourcePage": "https://tartecosmetics.com/en-kr/products/shape-tape-concealer?variant=52789613592598",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0898/4972/4950/files/unique__846733018000__shape-tape-contour-concealer-22N-light-neutral__01.jpg?v=1762804790",
+    "localFile": "materials/catalog-7b/originals/b006-c/Консилер Tarte Shape Tape 22N--gc003076.jpg",
+    "verification": {
+      "identity": "Official Tarte public product JSON verified directly: 22N light neutral, variant52789613592598, featured image59512028069910. Source located by sibling b006-a and independently read/visually reviewed here.",
+      "volumeAndVariant": "Catalog has no size; standard Shape Tape Contour Concealer shown, original formula not Ultra Creamy; exact12N/22N shade. Same source as prior catalog rows describing10ml, no mini packaging.",
+      "visualReview": "Full original purple/gold-capped tube plus wand on white; visible shade matches official variant-bound asset; no watermark, clipping or extra props, natural small base shadow retained.",
+      "reviewMethod": "Original images/contact sheet and prepared-image view_image,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Tarte Shape Tape concealer 12N 22N official",
+        "url": "https://tartecosmetics.com/en-kr/products/shape-tape-concealer?variant=52789613592598",
+        "note": "Official Tarte public product JSON verified directly: 22N light neutral, variant52789613592598, featured image59512028069910. Source located by sibling b006-a and independently read/visually reviewed here."
+      }
+    ],
+    "sharedImageWith": [
+      "gc001916"
+    ],
+    "width": 2000,
+    "height": 2667,
+    "format": "JPEG",
+    "bytes": 181196,
+    "sha256": "b2867379cf53dd2a6aa52fa7ff33be3d96204f9f769b38f6a3825b61cf37c07e"
+  }
+]

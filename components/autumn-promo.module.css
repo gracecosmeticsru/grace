@@ -1,0 +1,11 @@
+.promo{display:grid;grid-template-columns:28% 1fr;min-height:180px;overflow:hidden;border:1px solid #e5d5c7;border-radius:4px;background:#f2e7dc;color:#352721}
+.image{position:relative;min-width:0;overflow:hidden}
+.image img{position:absolute;width:100%;height:100%;object-fit:cover;object-position:55% 54%}
+.copy{padding:23px 32px;align-self:center}
+.kicker{font-size:10px;line-height:1.4;letter-spacing:.12em;color:#754b3d}
+.copy h2{font:400 clamp(25px,2.3vw,34px)/1.15 Georgia,'Times New Roman',serif;letter-spacing:-.025em;margin:9px 0 12px}
+.read{display:inline-flex;align-items:center;gap:14px;min-height:28px;font-size:13px;font-weight:600}
+.promo:hover .read{text-decoration:underline;text-underline-offset:5px}
+.promo:focus-visible{outline:2px solid var(--ring);outline-offset:4px}
+@media(max-width:760px){.promo{grid-template-columns:27% 1fr;min-height:140px}.copy{padding:16px}.kicker{font-size:8px;letter-spacing:.07em}.copy h2{font-size:21px;line-height:1.14;margin:7px 0 9px}.read{font-size:12px;gap:8px;min-height:24px}}
+@media(max-width:360px){.copy{padding:13px}.copy h2{font-size:19px}.kicker{font-size:7px}}

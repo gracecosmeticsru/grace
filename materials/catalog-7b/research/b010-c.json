@@ -1,0 +1,495 @@
+[
+  {
+    "productId": "parent-0070",
+    "variantId": "gc003216",
+    "productName": "Кремовые румяна в стике Dior Backstage Rosy Glow Stick",
+    "brand": "Dior",
+    "variant": "077",
+    "sku": "GC003216",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 490,
+    "batch": 10,
+    "status": "verified",
+    "sourcePage": "https://shop-beauty.dior.com.kw/products/dior-backstage-rosy-glow-stick?variant=45041002545302",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0405/6006/6710/files/Y0000048_E000000446_E01_GHC.jpg?v=1750057002",
+    "localFile": "materials/catalog-7b/originals/b010-c/Кремовые румяна в стике Dior Backstage Rosy Glow Stick 077--gc003216.jpg",
+    "verification": {
+      "identity": "Official DIOR BACKSTAGE ROSY GLOW STICK exact 077 Candy; variant45041002545302 uniquely binds featured_image38017166344342.",
+      "volumeAndVariant": "Exact077Candy/103Toffee numbered full Dior Backstage Rosy Glow Stick; no lip product substituted.",
+      "visualReview": "Full stick and cap side by side on opaque pale-grey background with cast shadows. Correct exact shade, no clipping, but unsuitable opaque background.",
+      "reviewMethod": "Originals viewed together in fit-contain sources-overview.png; exact official JSON variant associations retained.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:shop-beauty.dior.com.kw Rosy Glow Stick",
+        "url": "https://shop-beauty.dior.com.kw/products/dior-backstage-rosy-glow-stick?variant=45041002545302",
+        "note": "Official DIOR BACKSTAGE ROSY GLOW STICK exact 077 Candy; variant45041002545302 uniquely binds featured_image38017166344342."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official DIOR BACKSTAGE ROSY GLOW STICK exact 077 Candy; variant45041002545302 uniquely binds featured_image38017166344342.",
+    "width": 1850,
+    "height": 2000,
+    "bytes": 171945,
+    "sha256": "784397514a4e658ccd7d9db309327ad9e238058815732daa580d0927c28d15bc"
+  },
+  {
+    "productId": "parent-0070",
+    "variantId": "gc003217",
+    "productName": "Кремовые румяна в стике Dior Backstage Rosy Glow Stick",
+    "brand": "Dior",
+    "variant": "103",
+    "sku": "GC003217",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 491,
+    "batch": 10,
+    "status": "verified",
+    "sourcePage": "https://shop-beauty.dior.com.kw/products/dior-backstage-rosy-glow-stick?variant=45041002578070",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0405/6006/6710/files/Y0000048_E000000451_E01_GHC.jpg?v=1750056959",
+    "localFile": "materials/catalog-7b/originals/b010-c/Кремовые румяна в стике Dior Backstage Rosy Glow Stick 103--gc003217.jpg",
+    "verification": {
+      "identity": "Official DIOR BACKSTAGE ROSY GLOW STICK exact 103 Toffee; variant45041002578070 uniquely binds featured_image38017166770326.",
+      "volumeAndVariant": "Exact077Candy/103Toffee numbered full Dior Backstage Rosy Glow Stick; no lip product substituted.",
+      "visualReview": "Full stick and cap side by side on opaque pale-grey background with cast shadows. Correct exact shade, no clipping, but unsuitable opaque background.",
+      "reviewMethod": "Originals viewed together in fit-contain sources-overview.png; exact official JSON variant associations retained.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:shop-beauty.dior.com.kw Rosy Glow Stick",
+        "url": "https://shop-beauty.dior.com.kw/products/dior-backstage-rosy-glow-stick?variant=45041002578070",
+        "note": "Official DIOR BACKSTAGE ROSY GLOW STICK exact 103 Toffee; variant45041002578070 uniquely binds featured_image38017166770326."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official DIOR BACKSTAGE ROSY GLOW STICK exact 103 Toffee; variant45041002578070 uniquely binds featured_image38017166770326.",
+    "width": 1850,
+    "height": 2000,
+    "bytes": 166186,
+    "sha256": "4864b1046a4f6335df847058c5ede4769610539ef874b8bf4cc3fd8a4f323003"
+  },
+  {
+    "productId": "gc003218",
+    "variantId": "gc003218",
+    "productName": "Кремовые румяна-стик Makeup by Mario Dusty Rose 4 г",
+    "brand": "Makeup by Mario",
+    "variant": "Стандарт",
+    "sku": "GC003218",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 492,
+    "batch": 10,
+    "status": "skipped",
+    "sourcePage": "https://www.makeupbymario.com/en-to/products/mini-soft-pop-blush-stick",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact mini family located but source product JSON returns404 at indexed locale and canonical base. Catalog specifies4g and Dusty Rose; full-size or other shade not substituted. Quick source pass stopped.",
+    "searches": [
+      {
+        "query": "site:makeupbymario.com Mini Soft Pop Blush Stick",
+        "url": "https://www.makeupbymario.com/en-to/products/mini-soft-pop-blush-stick",
+        "note": "Exact mini family located but source product JSON returns404 at indexed locale and canonical base. Catalog specifies4g and Dusty Rose; full-size or other shade not substituted. Quick source pass stopped."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc003219",
+    "variantId": "gc003219",
+    "productName": "Кремовые румяна-стик Makeup by Mario Pale Petal 4 г",
+    "brand": "Makeup by Mario",
+    "variant": "Стандарт",
+    "sku": "GC003219",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 493,
+    "batch": 10,
+    "status": "skipped",
+    "sourcePage": "https://www.makeupbymario.com/en-to/products/mini-soft-pop-blush-stick",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact mini family located but source product JSON returns404 at indexed locale and canonical base. Catalog specifies4g and Pale Petal; full-size or other shade not substituted. Quick source pass stopped.",
+    "searches": [
+      {
+        "query": "site:makeupbymario.com Mini Soft Pop Blush Stick",
+        "url": "https://www.makeupbymario.com/en-to/products/mini-soft-pop-blush-stick",
+        "note": "Exact mini family located but source product JSON returns404 at indexed locale and canonical base. Catalog specifies4g and Pale Petal; full-size or other shade not substituted. Quick source pass stopped."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0071",
+    "variantId": "gc003408",
+    "productName": "Масло для губ Summer Fridays",
+    "brand": "Summer Fridays",
+    "variant": "blush dreams",
+    "sku": "GC003408",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/lips/2"
+    ],
+    "index": 494,
+    "batch": 10,
+    "status": "verified",
+    "sourcePage": "https://summerfridays.com/products/dream-lip-oil-blush-dreams",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/2382/2877/files/Dream-Lip-Oil-Square-Blush-Dreams.jpg?v=1736358356",
+    "localFile": "materials/catalog-7b/originals/b010-c/Масло для губ Summer Fridays blush dreams--gc003408.jpg",
+    "verification": {
+      "identity": "Official single-variant product Dream Lip Oil Blush Dreams, variant40321574010957; first full gallery image, no arbitrary multi-variant default.",
+      "volumeAndVariant": "Exact Dream Lip Oil shade from dedicated single-variant product page. No catalog volume supplied.",
+      "visualReview": "Full matching bottle and wand in beige gradient room scene with floor/shadow. No watermark or clipping; staged background unsuitable.",
+      "reviewMethod": "Originals viewed together in fit-contain sources-overview.png; exact official JSON variant associations retained.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:summerfridays.com Dream Lip Oil Blush Dreams Soft Mauve",
+        "url": "https://summerfridays.com/products/dream-lip-oil-blush-dreams",
+        "note": "Official single-variant product Dream Lip Oil Blush Dreams, variant40321574010957; first full gallery image, no arbitrary multi-variant default."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official single-variant product Dream Lip Oil Blush Dreams, variant40321574010957; first full gallery image, no arbitrary multi-variant default.",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 32779,
+    "sha256": "f47667a6a2643ca65779e670406725d10760d1862f841c0c426422c1b8be7a3b"
+  },
+  {
+    "productId": "parent-0071",
+    "variantId": "gc003409",
+    "productName": "Масло для губ Summer Fridays",
+    "brand": "Summer Fridays",
+    "variant": "soft mauve",
+    "sku": "GC003409",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/lips/2"
+    ],
+    "index": 495,
+    "batch": 10,
+    "status": "verified",
+    "sourcePage": "https://summerfridays.com/products/dream-lip-oil-mauve",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/2382/2877/files/Dream-Lip-Oil-Square-Soft-Mauve.jpg?v=1736359464",
+    "localFile": "materials/catalog-7b/originals/b010-c/Масло для губ Summer Fridays soft mauve--gc003409.jpg",
+    "verification": {
+      "identity": "Official single-variant product Dream Lip Oil Soft Mauve, variant40321585643597; first full gallery image, no arbitrary multi-variant default.",
+      "volumeAndVariant": "Exact Dream Lip Oil shade from dedicated single-variant product page. No catalog volume supplied.",
+      "visualReview": "Full matching bottle and wand in beige gradient room scene with floor/shadow. No watermark or clipping; staged background unsuitable.",
+      "reviewMethod": "Originals viewed together in fit-contain sources-overview.png; exact official JSON variant associations retained.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:summerfridays.com Dream Lip Oil Blush Dreams Soft Mauve",
+        "url": "https://summerfridays.com/products/dream-lip-oil-mauve",
+        "note": "Official single-variant product Dream Lip Oil Soft Mauve, variant40321585643597; first full gallery image, no arbitrary multi-variant default."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official single-variant product Dream Lip Oil Soft Mauve, variant40321585643597; first full gallery image, no arbitrary multi-variant default.",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 32342,
+    "sha256": "4870bae642fdbe27484800abc202f493c790790e36010bee22646fcd9cc2d06f"
+  },
+  {
+    "productId": "parent-0072",
+    "variantId": "gc003449",
+    "productName": "Матовые кремово-пудровые румяна Rare Beauty Soft Pinch Matte Bouncy 6,4 г",
+    "brand": "Rare Beauty",
+    "variant": "Divine",
+    "sku": "GC003449",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 496,
+    "batch": 10,
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-matte-bouncy-blush?variant=43734837723271",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-SP-MATTE-BOUNCY-BLUSH-DIVINE.jpg?v=1767911200",
+    "localFile": "materials/catalog-7b/originals/b010-c/Матовые кремово-пудровые румяна Rare Beauty Soft Pinch Matte Bouncy 6,4 г Divine--gc003449.jpg",
+    "verification": {
+      "identity": "Official Soft Pinch Matte Bouncy Blush exact Divine; variant43734837723271 uniquely binds featured_image38515037405319.",
+      "volumeAndVariant": "Exact Divine/Happy/Hope Soft Pinch Matte Bouncy6.4g full product; official product web text explicitly Net Wt0.22oz6.4g. Mini excluded.",
+      "visualReview": "Full open compact in beige wall/floor scene with hard cast shadow. Exact shade visible, but background unsuitable for quick white preparation.",
+      "reviewMethod": "Originals viewed together in fit-contain sources-overview.png; exact official JSON variant associations retained.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com/products/soft-pinch-matte-bouncy-blush 6.4",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-matte-bouncy-blush?variant=43734837723271",
+        "note": "Official Soft Pinch Matte Bouncy Blush exact Divine; variant43734837723271 uniquely binds featured_image38515037405319."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official Soft Pinch Matte Bouncy Blush exact Divine; variant43734837723271 uniquely binds featured_image38515037405319.",
+    "width": 1440,
+    "height": 1952,
+    "bytes": 93686,
+    "sha256": "bd76049bd136ea7a08bc7097ebbf91e3a6cf4c57602c9766b0f85068fbb72d34"
+  },
+  {
+    "productId": "parent-0072",
+    "variantId": "gc003450",
+    "productName": "Матовые кремово-пудровые румяна Rare Beauty Soft Pinch Matte Bouncy 6,4 г",
+    "brand": "Rare Beauty",
+    "variant": "Happy",
+    "sku": "GC003450",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 497,
+    "batch": 10,
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-matte-bouncy-blush?variant=43734837461127",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-SP-MATTE-BOUNCY-BLUSH-HAPPY.jpg?v=1742429182",
+    "localFile": "materials/catalog-7b/originals/b010-c/Матовые кремово-пудровые румяна Rare Beauty Soft Pinch Matte Bouncy 6,4 г Happy--gc003450.jpg",
+    "verification": {
+      "identity": "Official Soft Pinch Matte Bouncy Blush exact Happy; variant43734837461127 uniquely binds featured_image33509043273863.",
+      "volumeAndVariant": "Exact Divine/Happy/Hope Soft Pinch Matte Bouncy6.4g full product; official product web text explicitly Net Wt0.22oz6.4g. Mini excluded.",
+      "visualReview": "Full open compact in beige wall/floor scene with hard cast shadow. Exact shade visible, but background unsuitable for quick white preparation.",
+      "reviewMethod": "Originals viewed together in fit-contain sources-overview.png; exact official JSON variant associations retained.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com/products/soft-pinch-matte-bouncy-blush 6.4",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-matte-bouncy-blush?variant=43734837461127",
+        "note": "Official Soft Pinch Matte Bouncy Blush exact Happy; variant43734837461127 uniquely binds featured_image33509043273863."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official Soft Pinch Matte Bouncy Blush exact Happy; variant43734837461127 uniquely binds featured_image33509043273863.",
+    "width": 1440,
+    "height": 1952,
+    "bytes": 92648,
+    "sha256": "97b700d9fc35e75e66961eb2a0cb1d5e4f12b84e14c16b244402c0369b5d4b9a"
+  },
+  {
+    "productId": "parent-0072",
+    "variantId": "gc003451",
+    "productName": "Матовые кремово-пудровые румяна Rare Beauty Soft Pinch Matte Bouncy 6,4 г",
+    "brand": "Rare Beauty",
+    "variant": "Hope",
+    "sku": "GC003451",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/6"
+    ],
+    "index": 498,
+    "batch": 10,
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-matte-bouncy-blush?variant=42263642898567",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-SP-MATTE-BOUNCY-BLUSH-HOPE.jpg?v=1762301246",
+    "localFile": "materials/catalog-7b/originals/b010-c/Матовые кремово-пудровые румяна Rare Beauty Soft Pinch Matte Bouncy 6,4 г Hope--gc003451.jpg",
+    "verification": {
+      "identity": "Official Soft Pinch Matte Bouncy Blush exact Hope; variant42263642898567 uniquely binds featured_image33509024759943.",
+      "volumeAndVariant": "Exact Divine/Happy/Hope Soft Pinch Matte Bouncy6.4g full product; official product web text explicitly Net Wt0.22oz6.4g. Mini excluded.",
+      "visualReview": "Full open compact in beige wall/floor scene with hard cast shadow. Exact shade visible, but background unsuitable for quick white preparation.",
+      "reviewMethod": "Originals viewed together in fit-contain sources-overview.png; exact official JSON variant associations retained.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com/products/soft-pinch-matte-bouncy-blush 6.4",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-matte-bouncy-blush?variant=42263642898567",
+        "note": "Official Soft Pinch Matte Bouncy Blush exact Hope; variant42263642898567 uniquely binds featured_image33509024759943."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official Soft Pinch Matte Bouncy Blush exact Hope; variant42263642898567 uniquely binds featured_image33509024759943.",
+    "width": 1440,
+    "height": 1952,
+    "bytes": 94370,
+    "sha256": "d0064b44d28fda57aab3187165947646f6fba6d23cab8797e86a41772b89a261"
+  },
+  {
+    "productId": "gc003556",
+    "variantId": "gc003556",
+    "productName": "Набор жидкие румяна кремовые румяна масло для губ Rare Beauty",
+    "brand": "Rare Beauty",
+    "variant": "Стандарт",
+    "sku": "GC003556",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/more/2"
+    ],
+    "index": 499,
+    "batch": 10,
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-cheek-lip-trio",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-HOL25-SOFT-PINCH-CHEEK-LIP-TRIO-BOX-PRODUCT.jpg?v=1756226299",
+    "localFile": "materials/catalog-7b/originals/b010-c/Набор жидкие румяна кремовые румяна масло для губ Rare Beauty Стандарт--gc003556.jpg",
+    "verification": {
+      "identity": "Official single-variant product Soft Pinch Cheek & Lip Trio, variant42925873463431; first full gallery image, no arbitrary multi-variant default.",
+      "volumeAndVariant": "Official single-variant Soft Pinch Cheek & Lip Trio contains full Matte Bouncy6.4g plus mini Liquid Blush3.2ml and mini Tinted Lip Oil2ml in Worth, matching three named item types. No alternate custom set substituted.",
+      "visualReview": "Full gift carton and three products on beige background with studio shadow. Scene unsuitable; no published photo or shade inference added to catalog.",
+      "reviewMethod": "Originals viewed together in fit-contain sources-overview.png; exact official JSON variant associations retained.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Rare Beauty set liquid blush bouncy blush lip oil",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-cheek-lip-trio",
+        "note": "Official single-variant product Soft Pinch Cheek & Lip Trio, variant42925873463431; first full gallery image, no arbitrary multi-variant default."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "identity": "Official single-variant product Soft Pinch Cheek & Lip Trio, variant42925873463431; first full gallery image, no arbitrary multi-variant default.",
+    "width": 1440,
+    "height": 1952,
+    "bytes": 83651,
+    "sha256": "911c0e124e6990ebeaf4f4155d539fd365a37db4b1be1781d131729747bee01d"
+  },
+  {
+    "productId": "gc003564",
+    "variantId": "gc003564",
+    "productName": "Набор от парфюма по1. и 1 румяна Glossier Sephora 3 5 мл",
+    "brand": "Glossier",
+    "variant": "1.5 мл",
+    "sku": "GC003564",
+    "format": null,
+    "decant": false,
+    "paths": [],
+    "index": 500,
+    "batch": 10,
+    "status": "skipped",
+    "sourcePage": "https://www.kohls.com/feature/beautyrewards.jsp",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Sephora-at-Kohls birthday page lists You/Doux/Fleur three1.5ml fragrances plus4ml Cloud PaintPuff. Catalog title says3 5ml and one blush, only variant1.5ml; exact set edition and conflicting4/5ml detail unresolved. No different gift set guessed.",
+    "searches": [
+      {
+        "query": "Glossier Birthday Gift 1.5 mL 5 mL",
+        "url": "https://www.kohls.com/feature/beautyrewards.jsp",
+        "note": "Official Sephora-at-Kohls birthday page lists You/Doux/Fleur three1.5ml fragrances plus4ml Cloud PaintPuff. Catalog title says3 5ml and one blush, only variant1.5ml; exact set edition and conflicting4/5ml detail unresolved. No different gift set guessed."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  }
+]

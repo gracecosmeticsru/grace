@@ -1,0 +1,620 @@
+[
+  {
+    "index": 470,
+    "productId": "parent-0064",
+    "variantId": "gc002800",
+    "productName": "Жидкие румяна для лица Charlotte Tilbury",
+    "variant": "Peachgasm",
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/beauty-light-wand-blush-peachgasm",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/5QN7GedMp9AEsYosgQsC6O/81167d08e52c75faac6294f63c81557e/039_220181_PILLOW_TALK_PLUMP_P_PEACHGASM_BLW_CLOSED_RJ_2404.png",
+    "localFile": "materials/catalog-7b/originals/b010-b/Жидкие румяна для лица Charlotte Tilbury Peachgasm--gc002800.png",
+    "verification": {
+      "identity": "Dedicated official Charlotte Tilbury shade page and exact packshot alt/filename match Peachgasm. Original PNG URL fetched without thumbnail resize parameters.",
+      "volumeAndVariant": "Catalog specifies no volume; exact regular named product and shade, no decant/mini substitution.",
+      "visualReview": "Complete closed blush tube on white after alpha flatten; source1000 square, actual tube about770px tall excluding soft shadow, below800px visible-object rule. Do not count shadow as detail.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Жидкие румяна для лица Charlotte Tilbury Peachgasm",
+        "url": "https://www.charlottetilbury.com/uk/product/beauty-light-wand-blush-peachgasm",
+        "note": "Dedicated official Charlotte Tilbury shade page and exact packshot alt/filename match Peachgasm. Original PNG URL fetched without thumbnail resize parameters."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 201666,
+    "sha256": "6534d05ee40bf50fd7de114ef754d1b326bb58418197fe39df2c295f317228fc"
+  },
+  {
+    "index": 471,
+    "productId": "parent-0064",
+    "variantId": "gc002801",
+    "productName": "Жидкие румяна для лица Charlotte Tilbury",
+    "variant": "Pink pop",
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/de/product/matte-beauty-blush-wand-pink-pop",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/0ECqPlTFYaVMAWCHtofId/1cd1045cf7caffba4f2296cfebcf6059/Matte_Beauty_Blush_Wand_Pink_Pop_Closed.png",
+    "localFile": "materials/catalog-7b/originals/b010-b/Жидкие румяна для лица Charlotte Tilbury Pink pop--gc002801.png",
+    "verification": {
+      "identity": "Dedicated official Charlotte Tilbury shade page and exact packshot alt/filename match Pink pop. Original PNG URL fetched without thumbnail resize parameters.",
+      "volumeAndVariant": "Catalog specifies no volume; exact regular named product and shade, no decant/mini substitution.",
+      "visualReview": "Complete closed blush tube on white after alpha flatten; source1000 square, actual tube about770px tall excluding soft shadow, below800px visible-object rule. Do not count shadow as detail.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Жидкие румяна для лица Charlotte Tilbury Pink pop",
+        "url": "https://www.charlottetilbury.com/de/product/matte-beauty-blush-wand-pink-pop",
+        "note": "Dedicated official Charlotte Tilbury shade page and exact packshot alt/filename match Pink pop. Original PNG URL fetched without thumbnail resize parameters."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 172202,
+    "sha256": "baa3c18247b035734ce805975fb996b8c430cc5d8116eb19a76a29490924aaa3"
+  },
+  {
+    "index": 472,
+    "productId": "parent-0064",
+    "variantId": "gc002802",
+    "productName": "Жидкие румяна для лица Charlotte Tilbury",
+    "variant": "Pinkgasm",
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/beauty-light-wand-blush-pinkgasm",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/3zgTWuuxB1Ei6Rw4MffN1a/c62b9f33d73e550f25fccf3cde11370a/039_220183_PILLOW_TALK_PLUMP_P_PINKGASM_BLW_CLOSED_RJ_2404.png",
+    "localFile": "materials/catalog-7b/originals/b010-b/Жидкие румяна для лица Charlotte Tilbury Pinkgasm--gc002802.png",
+    "verification": {
+      "identity": "Dedicated official Charlotte Tilbury shade page and exact packshot alt/filename match Pinkgasm. Original PNG URL fetched without thumbnail resize parameters.",
+      "volumeAndVariant": "Catalog specifies no volume; exact regular named product and shade, no decant/mini substitution.",
+      "visualReview": "Complete closed blush tube on white after alpha flatten; source1000 square, actual tube about770px tall excluding soft shadow, below800px visible-object rule. Do not count shadow as detail.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Жидкие румяна для лица Charlotte Tilbury Pinkgasm",
+        "url": "https://www.charlottetilbury.com/uk/product/beauty-light-wand-blush-pinkgasm",
+        "note": "Dedicated official Charlotte Tilbury shade page and exact packshot alt/filename match Pinkgasm. Original PNG URL fetched without thumbnail resize parameters."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 205887,
+    "sha256": "b4275a245c26b89ad7b3305ea01fdf38002cde30077557d34c4f1fa173345c71"
+  },
+  {
+    "index": 473,
+    "productId": "parent-0065",
+    "variantId": "gc002803",
+    "productName": "Жидкие румяна мини Rare Beauty",
+    "variant": "Happy",
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush-mini?variant=43734836117639",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-MINI-SOFT-PINCH-LIQUID-BLUSH-HAPPY-PRODUCT-BOX.jpg?v=1712037928",
+    "localFile": "materials/catalog-7b/originals/b010-b/Жидкие румяна мини Rare Beauty Happy--gc002803.jpg",
+    "verification": {
+      "identity": "Official product JSON maps Happy, variant 43734836117639, uniquely to featured image 31385697976455.",
+      "volumeAndVariant": "Official Mini product family explicitly selected, separate shorter miniature packaging with mini box; not full-size Soft Pinch Liquid Blush.",
+      "visualReview": "Exact Rare Beauty mini bottle with box or cream compact on beige studio wall/floor with long cast shadow. Not a white-background catalog source, blocked.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Жидкие румяна мини Rare Beauty Happy",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush-mini?variant=43734836117639",
+        "note": "Official product JSON maps Happy, variant 43734836117639, uniquely to featured image 31385697976455."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 113395,
+    "sha256": "47de4c6003249b518c9c6f1becccd03f254cd3e695aea0d57c35f97b8d59bd80"
+  },
+  {
+    "index": 474,
+    "productId": "parent-0065",
+    "variantId": "gc002804",
+    "productName": "Жидкие румяна мини Rare Beauty",
+    "variant": "Hope",
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush-mini?variant=40569308545159",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-MINI-SOFT-PINCH-LIQUID-BLUSH-HOPE-PRODUCT-BOX.jpg?v=1762289029",
+    "localFile": "materials/catalog-7b/originals/b010-b/Жидкие румяна мини Rare Beauty Hope--gc002804.jpg",
+    "verification": {
+      "identity": "Official product JSON maps Hope, variant 40569308545159, uniquely to featured image 31385516802183.",
+      "volumeAndVariant": "Official Mini product family explicitly selected, separate shorter miniature packaging with mini box; not full-size Soft Pinch Liquid Blush.",
+      "visualReview": "Exact Rare Beauty mini bottle with box or cream compact on beige studio wall/floor with long cast shadow. Not a white-background catalog source, blocked.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Жидкие румяна мини Rare Beauty Hope",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush-mini?variant=40569308545159",
+        "note": "Official product JSON maps Hope, variant 40569308545159, uniquely to featured image 31385516802183."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 102347,
+    "sha256": "910908ede1d676890bab5a61de8ffdfbf927d9d0aceff6f15868a539e632cd19"
+  },
+  {
+    "index": 475,
+    "productId": "gc003201",
+    "variantId": "gc003201",
+    "productName": "Кремовы румяна Haus Labs «Glassy Lilac»",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/color-fuse-glassy-blush-balm-stick?variant=41671922450520",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Blush_Balm_Silo_Glassy_Lilac_45b3a53c-0cb1-4ff9-9906-f9367a1df74f.png?v=1784303637",
+    "localFile": "materials/catalog-7b/originals/b010-b/Кремовы румяна Haus Labs «Glassy Lilac» Стандарт--gc003201.png",
+    "verification": {
+      "identity": "Official product JSON maps Glassy Lilac, variant 41671922450520, uniquely to featured image 45029738741848.",
+      "volumeAndVariant": "Catalog specifies no volume; exact regular named product and shade, no decant/mini substitution.",
+      "visualReview": "Full uncapped glassy blush stick, exact shade, transparent background flattened on white. All casing and rounded tip intact, no graphic badge/watermark; sufficient original product detail.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовы румяна Haus Labs «Glassy Lilac» Стандарт",
+        "url": "https://www.hauslabs.com/products/color-fuse-glassy-blush-balm-stick?variant=41671922450520",
+        "note": "Official product JSON maps Glassy Lilac, variant 41671922450520, uniquely to featured image 45029738741848."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 601907,
+    "sha256": "23ff86b4f84703fc8b0e1f6a70763ba30d490b860d087419a7454d412b6abede"
+  },
+  {
+    "index": 476,
+    "productId": "parent-0066",
+    "variantId": "gc003202",
+    "productName": "Кремовые румяна Haus Labs",
+    "variant": "Glassy Cayenne",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/color-fuse-glassy-blush-balm-stick?variant=42838560276568",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Blush_Balm_Silo_Glassy_Cayenne_00b73475-e8be-4756-8588-83d325bd0add.png?v=1784303637",
+    "localFile": "materials/catalog-7b/originals/b010-b/Кремовые румяна Haus Labs Glassy Cayenne--gc003202.png",
+    "verification": {
+      "identity": "Official product JSON maps Glassy Cayenne, variant 42838560276568, uniquely to featured image 45029738610776.",
+      "volumeAndVariant": "Catalog specifies no volume; exact regular named product and shade, no decant/mini substitution.",
+      "visualReview": "Full uncapped glassy blush stick, exact shade, transparent background flattened on white. All casing and rounded tip intact, no graphic badge/watermark; sufficient original product detail.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовые румяна Haus Labs Glassy Cayenne",
+        "url": "https://www.hauslabs.com/products/color-fuse-glassy-blush-balm-stick?variant=42838560276568",
+        "note": "Official product JSON maps Glassy Cayenne, variant 42838560276568, uniquely to featured image 45029738610776."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 543281,
+    "sha256": "f556f9a209884a280d09192f76b6cb9cffb84ecc2b0d3862c7780f98731b1005"
+  },
+  {
+    "index": 477,
+    "productId": "parent-0066",
+    "variantId": "gc003203",
+    "productName": "Кремовые румяна Haus Labs",
+    "variant": "Glassy Cinnamon",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/color-fuse-glassy-blush-balm-stick?variant=42838560211032",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Blush_Balm_Silo_Glassy_Cinnamon_d3d7fffc-4951-4e98-8187-14b39005d691.png?v=1784303637",
+    "localFile": "materials/catalog-7b/originals/b010-b/Кремовые румяна Haus Labs Glassy Cinnamon--gc003203.png",
+    "verification": {
+      "identity": "Official product JSON maps Glassy Cinnamon, variant 42838560211032, uniquely to featured image 45029738545240.",
+      "volumeAndVariant": "Catalog specifies no volume; exact regular named product and shade, no decant/mini substitution.",
+      "visualReview": "Full uncapped glassy blush stick, exact shade, transparent background flattened on white. All casing and rounded tip intact, no graphic badge/watermark; sufficient original product detail.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовые румяна Haus Labs Glassy Cinnamon",
+        "url": "https://www.hauslabs.com/products/color-fuse-glassy-blush-balm-stick?variant=42838560211032",
+        "note": "Official product JSON maps Glassy Cinnamon, variant 42838560211032, uniquely to featured image 45029738545240."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 529542,
+    "sha256": "6dac0d5a3000cd21ede09cb1542803041b4c415edb5b4073605cc18146a21062"
+  },
+  {
+    "index": 478,
+    "productId": "parent-0066",
+    "variantId": "gc003204",
+    "productName": "Кремовые румяна Haus Labs",
+    "variant": "Glassy Ginger",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/color-fuse-glassy-blush-balm-stick?variant=42838560243800",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Blush_Balm_Silo_Glassy_Ginger_0d589419-5607-4470-8654-7fe69acdcaae.png?v=1784303637",
+    "localFile": "materials/catalog-7b/originals/b010-b/Кремовые румяна Haus Labs Glassy Ginger--gc003204.png",
+    "verification": {
+      "identity": "Official product JSON maps Glassy Ginger, variant 42838560243800, uniquely to featured image 45029738578008.",
+      "volumeAndVariant": "Catalog specifies no volume; exact regular named product and shade, no decant/mini substitution.",
+      "visualReview": "Full uncapped glassy blush stick, exact shade, transparent background flattened on white. All casing and rounded tip intact, no graphic badge/watermark; sufficient original product detail.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовые румяна Haus Labs Glassy Ginger",
+        "url": "https://www.hauslabs.com/products/color-fuse-glassy-blush-balm-stick?variant=42838560243800",
+        "note": "Official product JSON maps Glassy Ginger, variant 42838560243800, uniquely to featured image 45029738578008."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 549788,
+    "sha256": "dd63c7b5b58f4c82c77e0925154d8b939516ba0e0a993d9de1d1696666fcef6f"
+  },
+  {
+    "index": 479,
+    "productId": "parent-0066",
+    "variantId": "gc003205",
+    "productName": "Кремовые румяна Haus Labs",
+    "variant": "Glassy Hibiscus",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/color-fuse-glassy-blush-balm-stick?variant=41671922417752",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Blush_Balm_Silo_Glassy_Hibiscus_9ef12b0d-b84e-4bd6-b235-43c078048277.png?v=1784303637",
+    "localFile": "materials/catalog-7b/originals/b010-b/Кремовые румяна Haus Labs Glassy Hibiscus--gc003205.png",
+    "verification": {
+      "identity": "Official product JSON maps Glassy Hibiscus, variant 41671922417752, uniquely to featured image 45029738643544.",
+      "volumeAndVariant": "Catalog specifies no volume; exact regular named product and shade, no decant/mini substitution.",
+      "visualReview": "Full uncapped glassy blush stick, exact shade, transparent background flattened on white. All casing and rounded tip intact, no graphic badge/watermark; sufficient original product detail.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовые румяна Haus Labs Glassy Hibiscus",
+        "url": "https://www.hauslabs.com/products/color-fuse-glassy-blush-balm-stick?variant=41671922417752",
+        "note": "Official product JSON maps Glassy Hibiscus, variant 41671922417752, uniquely to featured image 45029738643544."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 599866,
+    "sha256": "48b0f5dbaba184cd0b57b23e6932be1caf0197f6cbcc6457469e15c931a5e13c"
+  },
+  {
+    "index": 480,
+    "productId": "parent-0066",
+    "variantId": "gc003206",
+    "productName": "Кремовые румяна Haus Labs",
+    "variant": "Glassy Pomelo",
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/color-fuse-glassy-blush-balm-stick?variant=41671922384984",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Blush_Balm_Silo_Glassy_Pomelo_73df0f0d-7641-41e1-8813-810536ebe0f1.png?v=1784303637",
+    "localFile": "materials/catalog-7b/originals/b010-b/Кремовые румяна Haus Labs Glassy Pomelo--gc003206.png",
+    "verification": {
+      "identity": "Official product JSON maps Glassy Pomelo, variant 41671922384984, uniquely to featured image 45029738676312.",
+      "volumeAndVariant": "Catalog specifies no volume; exact regular named product and shade, no decant/mini substitution.",
+      "visualReview": "Full uncapped glassy blush stick, exact shade, transparent background flattened on white. All casing and rounded tip intact, no graphic badge/watermark; sufficient original product detail.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовые румяна Haus Labs Glassy Pomelo",
+        "url": "https://www.hauslabs.com/products/color-fuse-glassy-blush-balm-stick?variant=41671922384984",
+        "note": "Official product JSON maps Glassy Pomelo, variant 41671922384984, uniquely to featured image 45029738676312."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 587435,
+    "sha256": "6fab64da0926a10f51a5bd5fa1e3ce034586714b8e64823d2c26efa74fab9454"
+  },
+  {
+    "index": 481,
+    "productId": "parent-0067",
+    "variantId": "gc003207",
+    "productName": "Кремовые румяна Pixi",
+    "variant": "Fleur",
+    "status": "verified",
+    "sourcePage": "https://www.pixibeauty.com/products/on-the-glow-blush?variant=31296550371424",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/1463/5858/files/PDP_OTG-BLUSH-Fleur.jpg?v=1776370060",
+    "localFile": "materials/catalog-7b/originals/b010-b/Кремовые румяна Pixi Fleur--gc003207.jpg",
+    "verification": {
+      "identity": "Official product JSON maps Fleur, variant 31296550371424, uniquely to featured image 31382868164704.",
+      "volumeAndVariant": "Catalog specifies no volume; exact regular named product and shade, no decant/mini substitution.",
+      "visualReview": "Official600px square advertising crop: both stick and lid run out of bottom/side canvas, with printed shade label and smear. Below800px and not whole packaging, blocked.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовые румяна Pixi Fleur",
+        "url": "https://www.pixibeauty.com/products/on-the-glow-blush?variant=31296550371424",
+        "note": "Official product JSON maps Fleur, variant 31296550371424, uniquely to featured image 31382868164704."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 600,
+    "height": 600,
+    "format": "JPEG",
+    "bytes": 55233,
+    "sha256": "c67ee1b0e2d572227078494f4abae72f74bbe9b5a68c8928eef347fa91697670"
+  },
+  {
+    "index": 482,
+    "productId": "parent-0067",
+    "variantId": "gc003208",
+    "productName": "Кремовые румяна Pixi",
+    "variant": "Juicy",
+    "status": "verified",
+    "sourcePage": "https://www.pixibeauty.com/products/on-the-glow-blush?variant=31296550338656",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/1463/5858/files/PDP_OTG-BLUSH-Juicy.jpg?v=1776370060",
+    "localFile": "materials/catalog-7b/originals/b010-b/Кремовые румяна Pixi Juicy--gc003208.jpg",
+    "verification": {
+      "identity": "Official product JSON maps Juicy, variant 31296550338656, uniquely to featured image 31382870851680.",
+      "volumeAndVariant": "Catalog specifies no volume; exact regular named product and shade, no decant/mini substitution.",
+      "visualReview": "Official600px square advertising crop: both stick and lid run out of bottom/side canvas, with printed shade label and smear. Below800px and not whole packaging, blocked.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовые румяна Pixi Juicy",
+        "url": "https://www.pixibeauty.com/products/on-the-glow-blush?variant=31296550338656",
+        "note": "Official product JSON maps Juicy, variant 31296550338656, uniquely to featured image 31382870851680."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 600,
+    "height": 600,
+    "format": "JPEG",
+    "bytes": 59391,
+    "sha256": "1ae9994f9768685329e947f0e6e5fc516ad9edab7e631afbd668ce4c0e22c1ba"
+  },
+  {
+    "index": 483,
+    "productId": "parent-0067",
+    "variantId": "gc003209",
+    "productName": "Кремовые румяна Pixi",
+    "variant": "Ruby",
+    "status": "verified",
+    "sourcePage": "https://www.pixibeauty.com/products/on-the-glow-blush?variant=31323633320032",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/1463/5858/files/PDP_OTG-BLUSH-Ruby.jpg?v=1776370060",
+    "localFile": "materials/catalog-7b/originals/b010-b/Кремовые румяна Pixi Ruby--gc003209.jpg",
+    "verification": {
+      "identity": "Official product JSON maps Ruby, variant 31323633320032, uniquely to featured image 31382871933024.",
+      "volumeAndVariant": "Catalog specifies no volume; exact regular named product and shade, no decant/mini substitution.",
+      "visualReview": "Official600px square advertising crop: both stick and lid run out of bottom/side canvas, with printed shade label and smear. Below800px and not whole packaging, blocked.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовые румяна Pixi Ruby",
+        "url": "https://www.pixibeauty.com/products/on-the-glow-blush?variant=31323633320032",
+        "note": "Official product JSON maps Ruby, variant 31323633320032, uniquely to featured image 31382871933024."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 600,
+    "height": 600,
+    "format": "JPEG",
+    "bytes": 68780,
+    "sha256": "ca57b518b7ef4ed2dfa4565ff4dd338bdb17258745fff3fd34378752d2bbf348"
+  },
+  {
+    "index": 484,
+    "productId": "parent-0068",
+    "variantId": "gc003210",
+    "productName": "Кремовые румяна Rare Beauty",
+    "variant": "Nearly Maure",
+    "status": "skipped",
+    "sourcePage": "https://www.rarebeauty.com/products/stay-vulnerable-melting-blush",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog shade Nearly Maure has no exact official match. Official JSON has Nearly Mauve and Nearly Rose, but no Nearly Maure/Rosel; likely typo cannot be silently corrected in an exact-image pass. The available family photos also use a beige studio scene. No shade guessed.",
+    "searches": [
+      {
+        "query": "Кремовые румяна Rare Beauty Nearly Maure",
+        "url": "https://www.rarebeauty.com/products/stay-vulnerable-melting-blush",
+        "note": "Catalog shade Nearly Maure has no exact official match. Official JSON has Nearly Mauve and Nearly Rose, but no Nearly Maure/Rosel; likely typo cannot be silently corrected in an exact-image pass. The available family photos also use a beige studio scene. No shade guessed."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 485,
+    "productId": "parent-0068",
+    "variantId": "gc003211",
+    "productName": "Кремовые румяна Rare Beauty",
+    "variant": "Nearly Neutral",
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/stay-vulnerable-melting-blush?variant=34777542000775",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/products/Melting-Blush-NearlyNeutral-SKU.jpg?v=1762269531",
+    "localFile": "materials/catalog-7b/originals/b010-b/Кремовые румяна Rare Beauty Nearly Neutral--gc003211.jpg",
+    "verification": {
+      "identity": "Official product JSON maps Nearly Neutral, variant 34777542000775, uniquely to featured image 17693080092807.",
+      "volumeAndVariant": "Catalog specifies no volume; exact regular named product and shade, no decant/mini substitution.",
+      "visualReview": "Exact Rare Beauty mini bottle with box or cream compact on beige studio wall/floor with long cast shadow. Not a white-background catalog source, blocked.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовые румяна Rare Beauty Nearly Neutral",
+        "url": "https://www.rarebeauty.com/products/stay-vulnerable-melting-blush?variant=34777542000775",
+        "note": "Official product JSON maps Nearly Neutral, variant 34777542000775, uniquely to featured image 17693080092807."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 65141,
+    "sha256": "bc2cb10e90671069677ba355a7a5fa8faffa401a47af83123b94ce443cd1dfca"
+  },
+  {
+    "index": 486,
+    "productId": "parent-0068",
+    "variantId": "gc003212",
+    "productName": "Кремовые румяна Rare Beauty",
+    "variant": "Nearly Rosel",
+    "status": "skipped",
+    "sourcePage": "https://www.rarebeauty.com/products/stay-vulnerable-melting-blush",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog shade Nearly Rosel has no exact official match. Official JSON has Nearly Mauve and Nearly Rose, but no Nearly Maure/Rosel; likely typo cannot be silently corrected in an exact-image pass. The available family photos also use a beige studio scene. No shade guessed.",
+    "searches": [
+      {
+        "query": "Кремовые румяна Rare Beauty Nearly Rosel",
+        "url": "https://www.rarebeauty.com/products/stay-vulnerable-melting-blush",
+        "note": "Catalog shade Nearly Rosel has no exact official match. Official JSON has Nearly Mauve and Nearly Rose, but no Nearly Maure/Rosel; likely typo cannot be silently corrected in an exact-image pass. The available family photos also use a beige studio scene. No shade guessed."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 487,
+    "productId": "parent-0069",
+    "variantId": "gc003213",
+    "productName": "Кремовые румяна в стике Dior Backstage",
+    "variant": "Pink 001",
+    "status": "verified",
+    "sourcePage": "https://shop-beauty.dior.com.kw/products/dior-backstage-rosy-glow-stick?variant=45041002381462",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0405/6006/6710/files/Y0000048_E000000453_E01_GHC.jpg?v=1750057002",
+    "localFile": "materials/catalog-7b/originals/b010-b/Кремовые румяна в стике Dior Backstage Pink 001--gc003213.jpg",
+    "verification": {
+      "identity": "Official product JSON maps 001 Pink, variant 45041002381462, uniquely to featured image 38017166901398.",
+      "volumeAndVariant": "Catalog specifies no volume; exact regular named product and shade, no decant/mini substitution.",
+      "visualReview": "Full exact Dior Rosy Glow Stick and cap,1850x2000 source, but opaque gray background and cast shadows. Blocked without retouching.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовые румяна в стике Dior Backstage Pink 001",
+        "url": "https://shop-beauty.dior.com.kw/products/dior-backstage-rosy-glow-stick?variant=45041002381462",
+        "note": "Official product JSON maps 001 Pink, variant 45041002381462, uniquely to featured image 38017166901398."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1850,
+    "height": 2000,
+    "format": "JPEG",
+    "bytes": 164020,
+    "sha256": "e796af1e59aeb61e5bae0919aaf010a89b7a840f606941bd9c99ba304bf7fc21"
+  },
+  {
+    "index": 488,
+    "productId": "parent-0069",
+    "variantId": "gc003214",
+    "productName": "Кремовые румяна в стике Dior Backstage",
+    "variant": "Pink Lilac 063",
+    "status": "verified",
+    "sourcePage": "https://shop-beauty.dior.com.kw/products/dior-backstage-rosy-glow-stick?variant=45041002512534",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0405/6006/6710/files/Y0000048_E000000447_E01_GHC.jpg?v=1750057002",
+    "localFile": "materials/catalog-7b/originals/b010-b/Кремовые румяна в стике Dior Backstage Pink Lilac 063--gc003214.jpg",
+    "verification": {
+      "identity": "Official product JSON maps 063 Pink Lilac, variant 45041002512534, uniquely to featured image 38017166475414.",
+      "volumeAndVariant": "Catalog specifies no volume; exact regular named product and shade, no decant/mini substitution.",
+      "visualReview": "Full exact Dior Rosy Glow Stick and cap,1850x2000 source, but opaque gray background and cast shadows. Blocked without retouching.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовые румяна в стике Dior Backstage Pink Lilac 063",
+        "url": "https://shop-beauty.dior.com.kw/products/dior-backstage-rosy-glow-stick?variant=45041002512534",
+        "note": "Official product JSON maps 063 Pink Lilac, variant 45041002512534, uniquely to featured image 38017166475414."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1850,
+    "height": 2000,
+    "format": "JPEG",
+    "bytes": 173985,
+    "sha256": "a74dbfd4f5262ec81c79d872f07970522cd45353eefbcb49e1cfba7c05bd92ea"
+  },
+  {
+    "index": 489,
+    "productId": "parent-0070",
+    "variantId": "gc003215",
+    "productName": "Кремовые румяна в стике Dior Backstage Rosy Glow Stick",
+    "variant": "012",
+    "status": "verified",
+    "sourcePage": "https://shop-beauty.dior.com.kw/products/dior-backstage-rosy-glow-stick?variant=45041002446998",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0405/6006/6710/files/Y0000048_E000000452_E01_GHC.jpg?v=1750057002",
+    "localFile": "materials/catalog-7b/originals/b010-b/Кремовые румяна в стике Dior Backstage Rosy Glow Stick 012--gc003215.jpg",
+    "verification": {
+      "identity": "Official product JSON maps 012 Rosewood, variant 45041002446998, uniquely to featured image 38017166835862.",
+      "volumeAndVariant": "Catalog specifies no volume; exact regular named product and shade, no decant/mini substitution.",
+      "visualReview": "Full exact Dior Rosy Glow Stick and cap,1850x2000 source, but opaque gray background and cast shadows. Blocked without retouching.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha on white viewed using view_image,2026-09-24. Prepared files visually inspected separately.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовые румяна в стике Dior Backstage Rosy Glow Stick 012",
+        "url": "https://shop-beauty.dior.com.kw/products/dior-backstage-rosy-glow-stick?variant=45041002446998",
+        "note": "Official product JSON maps 012 Rosewood, variant 45041002446998, uniquely to featured image 38017166835862."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1850,
+    "height": 2000,
+    "format": "JPEG",
+    "bytes": 178378,
+    "sha256": "edcd034834e0c880e6f3680160fc9792cc6cff041f79689e1f5abd08cdbc36cc"
+  }
+]

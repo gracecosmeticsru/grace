@@ -1,0 +1,1795 @@
+[
+  {
+    "id": 0,
+    "size": 64,
+    "cohesion": 0.06101190476190476,
+    "examples": [
+      {
+        "id": "lib_catalog",
+        "label": "catalog.ts",
+        "file": "lib/catalog.ts"
+      },
+      {
+        "id": "app_blog_autumn_skincare_page",
+        "label": "autumn-skincare/page.tsx",
+        "file": "app/blog/autumn-skincare/page.tsx"
+      },
+      {
+        "id": "lib_catalog_querycatalog",
+        "label": "queryCatalog()",
+        "file": "lib/catalog.ts"
+      },
+      {
+        "id": "app_brands_slug_page",
+        "label": "brands/[slug]/page.tsx",
+        "file": "app/brands/[slug]/page.tsx"
+      },
+      {
+        "id": "app_catalog_path_page",
+        "label": "[...path]/page.tsx",
+        "file": "app/catalog/[...path]/page.tsx"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "size": 51,
+    "cohesion": 0.05411764705882353,
+    "examples": [
+      {
+        "id": "components_ui_sidebar",
+        "label": "sidebar.tsx",
+        "file": "components/ui/sidebar.tsx"
+      },
+      {
+        "id": "components_ui_sheet",
+        "label": "sheet.tsx",
+        "file": "components/ui/sheet.tsx"
+      },
+      {
+        "id": "components_ui_tooltip",
+        "label": "tooltip.tsx",
+        "file": "components/ui/tooltip.tsx"
+      },
+      {
+        "id": "components_ui_input",
+        "label": "input.tsx",
+        "file": "components/ui/input.tsx"
+      },
+      {
+        "id": "components_ui_skeleton",
+        "label": "skeleton.tsx",
+        "file": "components/ui/skeleton.tsx"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "size": 49,
+    "cohesion": 0.07397959183673469,
+    "examples": [
+      {
+        "id": "lib_utils_cn",
+        "label": "cn()",
+        "file": "lib/utils.ts"
+      },
+      {
+        "id": "components_ui_breadcrumb",
+        "label": "breadcrumb.tsx",
+        "file": "components/ui/breadcrumb.tsx"
+      },
+      {
+        "id": "components_ui_table",
+        "label": "table.tsx",
+        "file": "components/ui/table.tsx"
+      },
+      {
+        "id": "components_ui_avatar",
+        "label": "avatar.tsx",
+        "file": "components/ui/avatar.tsx"
+      },
+      {
+        "id": "components_ui_card",
+        "label": "card.tsx",
+        "file": "components/ui/card.tsx"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "size": 42,
+    "cohesion": 0.06504065040650407,
+    "examples": [
+      {
+        "id": "components_ui_combobox",
+        "label": "combobox.tsx",
+        "file": "components/ui/combobox.tsx"
+      },
+      {
+        "id": "components_ui_input_group",
+        "label": "input-group.tsx",
+        "file": "components/ui/input-group.tsx"
+      },
+      {
+        "id": "components_ui_button",
+        "label": "button.tsx",
+        "file": "components/ui/button.tsx"
+      },
+      {
+        "id": "components_ui_button_button",
+        "label": "Button()",
+        "file": "components/ui/button.tsx"
+      },
+      {
+        "id": "components_ui_message_scroller",
+        "label": "message-scroller.tsx",
+        "file": "components/ui/message-scroller.tsx"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "size": 41,
+    "cohesion": 0.06829268292682927,
+    "examples": [
+      {
+        "id": "docs_step_10_orders_astra_persistent_order",
+        "label": "Planned 10B: server-priced, durable, idempotent guest order",
+        "file": "docs/STEP-10-ORDERS-ASTRA.md"
+      },
+      {
+        "id": "docs_step_06_photos_astra_photo_manifest",
+        "label": "Planned originals and variant-keyed product photo manifest",
+        "file": "docs/STEP-06-PHOTOS-ASTRA.md"
+      },
+      {
+        "id": "docs_step_09_subtasks_astra_document",
+        "label": "Planned stages 9A-9G: 1C integration sequence",
+        "file": "docs/STEP-09-SUBTASKS-ASTRA.md"
+      },
+      {
+        "id": "docs_step_09_subtasks_astra_live_variant_availability",
+        "label": "Planned 9G: connect checked prices and stock to storefront",
+        "file": "docs/STEP-09-SUBTASKS-ASTRA.md"
+      },
+      {
+        "id": "docs_step_03_cards_astra_availability_truth",
+        "label": "Planned honest price, stock and waitlist states",
+        "file": "docs/STEP-03-CARDS-ASTRA.md"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "size": 34,
+    "cohesion": 0.1265597147950089,
+    "examples": [
+      {
+        "id": "ref_react",
+        "label": "react",
+        "file": "package.json"
+      },
+      {
+        "id": "components_storefront",
+        "label": "storefront.tsx",
+        "file": "components/storefront.tsx"
+      },
+      {
+        "id": "components_product_detail",
+        "label": "product-detail.tsx",
+        "file": "components/product-detail.tsx"
+      },
+      {
+        "id": "lib_catalog_types",
+        "label": "catalog-types.ts",
+        "file": "lib/catalog-types.ts"
+      },
+      {
+        "id": "components_product_card",
+        "label": "product-card.tsx",
+        "file": "components/product-card.tsx"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "size": 29,
+    "cohesion": 0.07881773399014778,
+    "examples": [
+      {
+        "id": "components_ui_carousel",
+        "label": "carousel.tsx",
+        "file": "components/ui/carousel.tsx"
+      },
+      {
+        "id": "components_hero",
+        "label": "hero.tsx",
+        "file": "components/hero.tsx"
+      },
+      {
+        "id": "components_ui_carousel_usecarousel",
+        "label": "useCarousel()",
+        "file": "components/ui/carousel.tsx"
+      },
+      {
+        "id": "docs_transfer_document",
+        "label": "Migration evidence recorded 13 September 2026",
+        "file": "docs/TRANSFER.md"
+      },
+      {
+        "id": "docs_hero_campaigns_document",
+        "label": "Historical hero campaign implementation report",
+        "file": "docs/hero-campaigns.md"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "size": 27,
+    "cohesion": 0.1396011396011396,
+    "examples": [
+      {
+        "id": "lib_collection_selection",
+        "label": "collection-selection.ts",
+        "file": "lib/collection-selection.ts"
+      },
+      {
+        "id": "app_collections_slug_page",
+        "label": "collections/[slug]/page.tsx",
+        "file": "app/collections/[slug]/page.tsx"
+      },
+      {
+        "id": "lib_collection_selection_score",
+        "label": "score()",
+        "file": "lib/collection-selection.ts"
+      },
+      {
+        "id": "lib_collections",
+        "label": "collections.ts",
+        "file": "lib/collections.ts"
+      },
+      {
+        "id": "lib_collection_meta",
+        "label": "collection-meta.ts",
+        "file": "lib/collection-meta.ts"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "size": 27,
+    "cohesion": 0.1282051282051282,
+    "examples": [
+      {
+        "id": "tests_variant_cards_test",
+        "label": "variant-cards.test.mjs",
+        "file": "tests/variant-cards.test.mjs"
+      },
+      {
+        "id": "components_variant_product_card",
+        "label": "variant-product-card.tsx",
+        "file": "components/variant-product-card.tsx"
+      },
+      {
+        "id": "lib_variant_product",
+        "label": "variant-product.ts",
+        "file": "lib/variant-product.ts"
+      },
+      {
+        "id": "components_variant_product_card_variantproductcard",
+        "label": "VariantProductCard()",
+        "file": "components/variant-product-card.tsx"
+      },
+      {
+        "id": "lib_demo_inventory",
+        "label": "demo-inventory.ts",
+        "file": "lib/demo-inventory.ts"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "size": 26,
+    "cohesion": 0.15692307692307692,
+    "examples": [
+      {
+        "id": "lib_shop_state",
+        "label": "shop-state.ts",
+        "file": "lib/shop-state.ts"
+      },
+      {
+        "id": "tests_shop_state_test",
+        "label": "shop-state.test.mjs",
+        "file": "tests/shop-state.test.mjs"
+      },
+      {
+        "id": "components_store_shell_storeshell",
+        "label": "StoreShell()",
+        "file": "components/store-shell.tsx"
+      },
+      {
+        "id": "lib_shop_state_readstringlist",
+        "label": "readStringList()",
+        "file": "lib/shop-state.ts"
+      },
+      {
+        "id": "lib_shop_state_loadshopstate",
+        "label": "loadShopState()",
+        "file": "lib/shop-state.ts"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "size": 25,
+    "cohesion": 0.08,
+    "examples": [
+      {
+        "id": "package",
+        "label": "package.json",
+        "file": "package.json"
+      },
+      {
+        "id": "ref_clsx",
+        "label": "clsx",
+        "file": "package.json"
+      },
+      {
+        "id": "ref_next_themes",
+        "label": "next-themes",
+        "file": "package.json"
+      },
+      {
+        "id": "ref_tailwind_merge",
+        "label": "tailwind-merge",
+        "file": "package.json"
+      },
+      {
+        "id": "package_name",
+        "label": "name",
+        "file": "package.json"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "size": 25,
+    "cohesion": 0.08,
+    "examples": [
+      {
+        "id": "package_dependencies",
+        "label": "dependencies",
+        "file": "package.json"
+      },
+      {
+        "id": "package_dependencies_base_ui_react",
+        "label": "@base-ui/react",
+        "file": "package.json"
+      },
+      {
+        "id": "package_dependencies_class_variance_authority",
+        "label": "class-variance-authority",
+        "file": "package.json"
+      },
+      {
+        "id": "package_dependencies_clsx",
+        "label": "clsx",
+        "file": "package.json"
+      },
+      {
+        "id": "package_dependencies_cmdk",
+        "label": "cmdk",
+        "file": "package.json"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "size": 24,
+    "cohesion": 0.10869565217391304,
+    "examples": [
+      {
+        "id": "lib_utils",
+        "label": "utils.ts",
+        "file": "lib/utils.ts"
+      },
+      {
+        "id": "ref_radix_ui",
+        "label": "radix-ui",
+        "file": "package.json"
+      },
+      {
+        "id": "components_ui_badge",
+        "label": "badge.tsx",
+        "file": "components/ui/badge.tsx"
+      },
+      {
+        "id": "components_ui_checkbox",
+        "label": "checkbox.tsx",
+        "file": "components/ui/checkbox.tsx"
+      },
+      {
+        "id": "components_ui_hover_card",
+        "label": "hover-card.tsx",
+        "file": "components/ui/hover-card.tsx"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "size": 23,
+    "cohesion": 0.1225296442687747,
+    "examples": [
+      {
+        "id": "components_catalog_view",
+        "label": "catalog-view.tsx",
+        "file": "components/catalog-view.tsx"
+      },
+      {
+        "id": "components_ui_pagination",
+        "label": "pagination.tsx",
+        "file": "components/ui/pagination.tsx"
+      },
+      {
+        "id": "components_ui_select",
+        "label": "select.tsx",
+        "file": "components/ui/select.tsx"
+      },
+      {
+        "id": "components_ui_pagination_paginationlink",
+        "label": "PaginationLink()",
+        "file": "components/ui/pagination.tsx"
+      },
+      {
+        "id": "components_ui_pagination_pagination",
+        "label": "Pagination()",
+        "file": "components/ui/pagination.tsx"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "size": 23,
+    "cohesion": 0.09486166007905138,
+    "examples": [
+      {
+        "id": "components_ui_dropdown_menu",
+        "label": "dropdown-menu.tsx",
+        "file": "components/ui/dropdown-menu.tsx"
+      },
+      {
+        "id": "components_ui_toggle_group",
+        "label": "toggle-group.tsx",
+        "file": "components/ui/toggle-group.tsx"
+      },
+      {
+        "id": "components_ui_toggle",
+        "label": "toggle.tsx",
+        "file": "components/ui/toggle.tsx"
+      },
+      {
+        "id": "components_ui_toggle_togglevariants",
+        "label": "toggleVariants",
+        "file": "components/ui/toggle.tsx"
+      },
+      {
+        "id": "components_ui_toggle_group_togglegroupitem",
+        "label": "ToggleGroupItem()",
+        "file": "components/ui/toggle-group.tsx"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "size": 22,
+    "cohesion": 0.14285714285714285,
+    "examples": [
+      {
+        "id": "components_personal_pages",
+        "label": "personal-pages.tsx",
+        "file": "components/personal-pages.tsx"
+      },
+      {
+        "id": "components_ui_empty",
+        "label": "empty.tsx",
+        "file": "components/ui/empty.tsx"
+      },
+      {
+        "id": "components_brands_view",
+        "label": "brands-view.tsx",
+        "file": "components/brands-view.tsx"
+      },
+      {
+        "id": "components_site_link",
+        "label": "site-link.tsx",
+        "file": "components/site-link.tsx"
+      },
+      {
+        "id": "components_site_link_sitelink",
+        "label": "SiteLink()",
+        "file": "components/site-link.tsx"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "size": 22,
+    "cohesion": 0.11255411255411256,
+    "examples": [
+      {
+        "id": "components_ui_command",
+        "label": "command.tsx",
+        "file": "components/ui/command.tsx"
+      },
+      {
+        "id": "components_ui_dialog",
+        "label": "dialog.tsx",
+        "file": "components/ui/dialog.tsx"
+      },
+      {
+        "id": "components_ui_dialog_dialogcontent",
+        "label": "DialogContent()",
+        "file": "components/ui/dialog.tsx"
+      },
+      {
+        "id": "components_ui_dialog_dialogdescription",
+        "label": "DialogDescription()",
+        "file": "components/ui/dialog.tsx"
+      },
+      {
+        "id": "components_ui_dialog_dialogheader",
+        "label": "DialogHeader()",
+        "file": "components/ui/dialog.tsx"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "size": 21,
+    "cohesion": 0.1380952380952381,
+    "examples": [
+      {
+        "id": "vite_config",
+        "label": "vite.config.ts",
+        "file": "vite.config.ts"
+      },
+      {
+        "id": "scripts_install_ci_mjs_scripts_install_ci",
+        "label": "install-ci.mjs",
+        "file": "scripts/install-ci.mjs"
+      },
+      {
+        "id": "ref_node_fs",
+        "label": "ref_node_fs",
+        "file": ""
+      },
+      {
+        "id": "scripts_run_framework",
+        "label": "run-framework.mjs",
+        "file": "scripts/run-framework.mjs"
+      },
+      {
+        "id": "scripts_execution_profile",
+        "label": "execution-profile.mjs",
+        "file": "scripts/execution-profile.mjs"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "size": 20,
+    "cohesion": 0.15263157894736842,
+    "examples": [
+      {
+        "id": "components_store_shell",
+        "label": "store-shell.tsx",
+        "file": "components/store-shell.tsx"
+      },
+      {
+        "id": "ref_lucide_react",
+        "label": "lucide-react",
+        "file": "package.json"
+      },
+      {
+        "id": "components_ui_accordion",
+        "label": "accordion.tsx",
+        "file": "components/ui/accordion.tsx"
+      },
+      {
+        "id": "app_layout",
+        "label": "layout.tsx",
+        "file": "app/layout.tsx"
+      },
+      {
+        "id": "components_category_icon",
+        "label": "category-icon.tsx",
+        "file": "components/category-icon.tsx"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "size": 20,
+    "cohesion": 0.12631578947368421,
+    "examples": [
+      {
+        "id": "components_ui_item",
+        "label": "item.tsx",
+        "file": "components/ui/item.tsx"
+      },
+      {
+        "id": "components_ui_button_group",
+        "label": "button-group.tsx",
+        "file": "components/ui/button-group.tsx"
+      },
+      {
+        "id": "components_ui_separator",
+        "label": "separator.tsx",
+        "file": "components/ui/separator.tsx"
+      },
+      {
+        "id": "components_ui_separator_separator",
+        "label": "Separator()",
+        "file": "components/ui/separator.tsx"
+      },
+      {
+        "id": "components_ui_button_group_buttongroup",
+        "label": "ButtonGroup()",
+        "file": "components/ui/button-group.tsx"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "size": 20,
+    "cohesion": 0.1,
+    "examples": [
+      {
+        "id": "tsconfig_compileroptions",
+        "label": "compilerOptions",
+        "file": "tsconfig.json"
+      },
+      {
+        "id": "tsconfig",
+        "label": "tsconfig.json",
+        "file": "tsconfig.json"
+      },
+      {
+        "id": "tsconfig_compileroptions_allowjs",
+        "label": "allowJs",
+        "file": "tsconfig.json"
+      },
+      {
+        "id": "tsconfig_compileroptions_esmoduleinterop",
+        "label": "esModuleInterop",
+        "file": "tsconfig.json"
+      },
+      {
+        "id": "tsconfig_compileroptions_incremental",
+        "label": "incremental",
+        "file": "tsconfig.json"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "size": 19,
+    "cohesion": 0.10526315789473684,
+    "examples": [
+      {
+        "id": "package_devdependencies",
+        "label": "devDependencies",
+        "file": "package.json"
+      },
+      {
+        "id": "package_devdependencies_cloudflare_vite_plugin",
+        "label": "@cloudflare/vite-plugin",
+        "file": "package.json"
+      },
+      {
+        "id": "package_devdependencies_cloudflare_workers_types",
+        "label": "@cloudflare/workers-types",
+        "file": "package.json"
+      },
+      {
+        "id": "package_devdependencies_drizzle_kit",
+        "label": "drizzle-kit",
+        "file": "package.json"
+      },
+      {
+        "id": "package_devdependencies_eslint",
+        "label": "eslint",
+        "file": "package.json"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "size": 18,
+    "cohesion": 0.1111111111111111,
+    "examples": [
+      {
+        "id": "components",
+        "label": "components.json",
+        "file": "components.json"
+      },
+      {
+        "id": "components_aliases",
+        "label": "aliases",
+        "file": "components.json"
+      },
+      {
+        "id": "components_tailwind",
+        "label": "tailwind",
+        "file": "components.json"
+      },
+      {
+        "id": "components_aliases_components",
+        "label": "components",
+        "file": "components.json"
+      },
+      {
+        "id": "components_aliases_hooks",
+        "label": "hooks",
+        "file": "components.json"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "size": 18,
+    "cohesion": 0.2549019607843137,
+    "examples": [
+      {
+        "id": "lib_showcase_product",
+        "label": "showcase-product.ts",
+        "file": "lib/showcase-product.ts"
+      },
+      {
+        "id": "lib_pricing",
+        "label": "pricing.ts",
+        "file": "lib/pricing.ts"
+      },
+      {
+        "id": "lib_pricing_formatprice",
+        "label": "formatPrice()",
+        "file": "lib/pricing.ts"
+      },
+      {
+        "id": "lib_pricing_hasprice",
+        "label": "hasPrice()",
+        "file": "lib/pricing.ts"
+      },
+      {
+        "id": "components_product_detail_productdetail",
+        "label": "ProductDetail()",
+        "file": "components/product-detail.tsx"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "size": 18,
+    "cohesion": 0.13725490196078433,
+    "examples": [
+      {
+        "id": "ref_class_variance_authority",
+        "label": "class-variance-authority",
+        "file": "package.json"
+      },
+      {
+        "id": "components_ui_bubble",
+        "label": "bubble.tsx",
+        "file": "components/ui/bubble.tsx"
+      },
+      {
+        "id": "components_ui_marker",
+        "label": "marker.tsx",
+        "file": "components/ui/marker.tsx"
+      },
+      {
+        "id": "components_ui_alert",
+        "label": "alert.tsx",
+        "file": "components/ui/alert.tsx"
+      },
+      {
+        "id": "components_ui_alert_alert",
+        "label": "Alert()",
+        "file": "components/ui/alert.tsx"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "size": 17,
+    "cohesion": 0.11764705882352941,
+    "examples": [
+      {
+        "id": "components_ui_menubar",
+        "label": "menubar.tsx",
+        "file": "components/ui/menubar.tsx"
+      },
+      {
+        "id": "components_ui_menubar_menubar",
+        "label": "Menubar()",
+        "file": "components/ui/menubar.tsx"
+      },
+      {
+        "id": "components_ui_menubar_menubarcheckboxitem",
+        "label": "MenubarCheckboxItem()",
+        "file": "components/ui/menubar.tsx"
+      },
+      {
+        "id": "components_ui_menubar_menubarcontent",
+        "label": "MenubarContent()",
+        "file": "components/ui/menubar.tsx"
+      },
+      {
+        "id": "components_ui_menubar_menubaritem",
+        "label": "MenubarItem()",
+        "file": "components/ui/menubar.tsx"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "size": 16,
+    "cohesion": 0.125,
+    "examples": [
+      {
+        "id": "components_ui_context_menu",
+        "label": "context-menu.tsx",
+        "file": "components/ui/context-menu.tsx"
+      },
+      {
+        "id": "components_ui_context_menu_contextmenucheckboxitem",
+        "label": "ContextMenuCheckboxItem()",
+        "file": "components/ui/context-menu.tsx"
+      },
+      {
+        "id": "components_ui_context_menu_contextmenucontent",
+        "label": "ContextMenuContent()",
+        "file": "components/ui/context-menu.tsx"
+      },
+      {
+        "id": "components_ui_context_menu_contextmenuitem",
+        "label": "ContextMenuItem()",
+        "file": "components/ui/context-menu.tsx"
+      },
+      {
+        "id": "components_ui_context_menu_contextmenulabel",
+        "label": "ContextMenuLabel()",
+        "file": "components/ui/context-menu.tsx"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "size": 16,
+    "cohesion": 0.15,
+    "examples": [
+      {
+        "id": "docs_requirements_final_review_document",
+        "label": "Утверждённый свод требований, 17.09.2026",
+        "file": "docs/REQUIREMENTS-FINAL-REVIEW.md"
+      },
+      {
+        "id": "docs_stage_04_source_check_document",
+        "label": "Сверка происхождения семи требований этапа 4",
+        "file": "docs/STAGE-04-SOURCE-CHECK.md"
+      },
+      {
+        "id": "docs_grace_astra_all_prompts_document",
+        "label": "Основной сборник 30 заданий: будущие работы и зависимости",
+        "file": "docs/GRACE-ASTRA-ALL-PROMPTS.md"
+      },
+      {
+        "id": "docs_execution_prompts_document",
+        "label": "Навигационный план заданий: не подтверждение реализации",
+        "file": "docs/EXECUTION-PROMPTS.md"
+      },
+      {
+        "id": "docs_requirements_review_document",
+        "label": "Ранний проект требований, заменён итоговым сводом",
+        "file": "docs/REQUIREMENTS-REVIEW.md"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "size": 14,
+    "cohesion": 0.18681318681318682,
+    "examples": [
+      {
+        "id": "components_ui_chart",
+        "label": "chart.tsx",
+        "file": "components/ui/chart.tsx"
+      },
+      {
+        "id": "components_ui_chart_chartlegendcontent",
+        "label": "ChartLegendContent()",
+        "file": "components/ui/chart.tsx"
+      },
+      {
+        "id": "components_ui_chart_charttooltipcontent",
+        "label": "ChartTooltipContent()",
+        "file": "components/ui/chart.tsx"
+      },
+      {
+        "id": "components_ui_chart_getpayloadconfigfrompayload",
+        "label": "getPayloadConfigFromPayload()",
+        "file": "components/ui/chart.tsx"
+      },
+      {
+        "id": "components_ui_chart_usechart",
+        "label": "useChart()",
+        "file": "components/ui/chart.tsx"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "size": 14,
+    "cohesion": 0.16483516483516483,
+    "examples": [
+      {
+        "id": "components_ui_field",
+        "label": "field.tsx",
+        "file": "components/ui/field.tsx"
+      },
+      {
+        "id": "components_ui_label",
+        "label": "label.tsx",
+        "file": "components/ui/label.tsx"
+      },
+      {
+        "id": "components_ui_label_label",
+        "label": "Label()",
+        "file": "components/ui/label.tsx"
+      },
+      {
+        "id": "components_ui_field_field",
+        "label": "Field()",
+        "file": "components/ui/field.tsx"
+      },
+      {
+        "id": "components_ui_field_fieldcontent",
+        "label": "FieldContent()",
+        "file": "components/ui/field.tsx"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "size": 14,
+    "cohesion": 0.14285714285714285,
+    "examples": [
+      {
+        "id": "scripts_sites_env_sh_scripts_sites_env",
+        "label": "sites-env.sh",
+        "file": "scripts/sites-env.sh"
+      },
+      {
+        "id": "scripts_sites_env_home",
+        "label": "HOME",
+        "file": "scripts/sites-env.sh"
+      },
+      {
+        "id": "scripts_sites_env_miniflare_registry_path",
+        "label": "MINIFLARE_REGISTRY_PATH",
+        "file": "scripts/sites-env.sh"
+      },
+      {
+        "id": "scripts_sites_env_npm_config_audit",
+        "label": "npm_config_audit",
+        "file": "scripts/sites-env.sh"
+      },
+      {
+        "id": "scripts_sites_env_npm_config_cache",
+        "label": "npm_config_cache",
+        "file": "scripts/sites-env.sh"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "size": 13,
+    "cohesion": 0.15384615384615385,
+    "examples": [
+      {
+        "id": "components_ui_alert_dialog",
+        "label": "alert-dialog.tsx",
+        "file": "components/ui/alert-dialog.tsx"
+      },
+      {
+        "id": "components_ui_alert_dialog_alertdialogaction",
+        "label": "AlertDialogAction()",
+        "file": "components/ui/alert-dialog.tsx"
+      },
+      {
+        "id": "components_ui_alert_dialog_alertdialogcancel",
+        "label": "AlertDialogCancel()",
+        "file": "components/ui/alert-dialog.tsx"
+      },
+      {
+        "id": "components_ui_alert_dialog_alertdialogcontent",
+        "label": "AlertDialogContent()",
+        "file": "components/ui/alert-dialog.tsx"
+      },
+      {
+        "id": "components_ui_alert_dialog_alertdialogdescription",
+        "label": "AlertDialogDescription()",
+        "file": "components/ui/alert-dialog.tsx"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "size": 13,
+    "cohesion": 0.20512820512820512,
+    "examples": [
+      {
+        "id": "components_ui_form",
+        "label": "form.tsx",
+        "file": "components/ui/form.tsx"
+      },
+      {
+        "id": "components_ui_form_useformfield",
+        "label": "useFormField()",
+        "file": "components/ui/form.tsx"
+      },
+      {
+        "id": "components_ui_form_formdescription",
+        "label": "FormDescription()",
+        "file": "components/ui/form.tsx"
+      },
+      {
+        "id": "components_ui_form_formlabel",
+        "label": "FormLabel()",
+        "file": "components/ui/form.tsx"
+      },
+      {
+        "id": "components_ui_form_formmessage",
+        "label": "FormMessage()",
+        "file": "components/ui/form.tsx"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "size": 12,
+    "cohesion": 0.19696969696969696,
+    "examples": [
+      {
+        "id": "components_ui_attachment",
+        "label": "attachment.tsx",
+        "file": "components/ui/attachment.tsx"
+      },
+      {
+        "id": "components_ui_attachment_attachment",
+        "label": "Attachment()",
+        "file": "components/ui/attachment.tsx"
+      },
+      {
+        "id": "components_ui_attachment_attachmentmedia",
+        "label": "AttachmentMedia()",
+        "file": "components/ui/attachment.tsx"
+      },
+      {
+        "id": "components_ui_attachment_attachmentaction",
+        "label": "AttachmentAction()",
+        "file": "components/ui/attachment.tsx"
+      },
+      {
+        "id": "components_ui_attachment_attachmentactions",
+        "label": "AttachmentActions()",
+        "file": "components/ui/attachment.tsx"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "size": 12,
+    "cohesion": 0.16666666666666666,
+    "examples": [
+      {
+        "id": "components_ui_drawer",
+        "label": "drawer.tsx",
+        "file": "components/ui/drawer.tsx"
+      },
+      {
+        "id": "components_ui_drawer_drawercontent",
+        "label": "DrawerContent()",
+        "file": "components/ui/drawer.tsx"
+      },
+      {
+        "id": "components_ui_drawer_drawerdescription",
+        "label": "DrawerDescription()",
+        "file": "components/ui/drawer.tsx"
+      },
+      {
+        "id": "components_ui_drawer_drawerfooter",
+        "label": "DrawerFooter()",
+        "file": "components/ui/drawer.tsx"
+      },
+      {
+        "id": "components_ui_drawer_drawerheader",
+        "label": "DrawerHeader()",
+        "file": "components/ui/drawer.tsx"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "size": 11,
+    "cohesion": 0.32727272727272727,
+    "examples": [
+      {
+        "id": "examples_d1_app_api_notes_route",
+        "label": "notes/route.ts",
+        "file": "examples/d1/app/api/notes/route.ts"
+      },
+      {
+        "id": "db_index",
+        "label": "index.ts",
+        "file": "db/index.ts"
+      },
+      {
+        "id": "db_index_getdb",
+        "label": "getDb()",
+        "file": "db/index.ts"
+      },
+      {
+        "id": "ref_drizzle_orm",
+        "label": "drizzle-orm",
+        "file": "package.json"
+      },
+      {
+        "id": "examples_d1_app_api_notes_route_get",
+        "label": "GET()",
+        "file": "examples/d1/app/api/notes/route.ts"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "size": 10,
+    "cohesion": 0.2222222222222222,
+    "examples": [
+      {
+        "id": "components_ui_navigation_menu",
+        "label": "navigation-menu.tsx",
+        "file": "components/ui/navigation-menu.tsx"
+      },
+      {
+        "id": "components_ui_navigation_menu_navigationmenutrigger",
+        "label": "NavigationMenuTrigger()",
+        "file": "components/ui/navigation-menu.tsx"
+      },
+      {
+        "id": "components_ui_navigation_menu_navigationmenu",
+        "label": "NavigationMenu()",
+        "file": "components/ui/navigation-menu.tsx"
+      },
+      {
+        "id": "components_ui_navigation_menu_navigationmenucontent",
+        "label": "NavigationMenuContent()",
+        "file": "components/ui/navigation-menu.tsx"
+      },
+      {
+        "id": "components_ui_navigation_menu_navigationmenuindicator",
+        "label": "NavigationMenuIndicator()",
+        "file": "components/ui/navigation-menu.tsx"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "size": 10,
+    "cohesion": 0.2222222222222222,
+    "examples": [
+      {
+        "id": "docs_architecture_document",
+        "label": "Архитектура после этапа 0, исторический снимок 17.09.2026",
+        "file": "docs/ARCHITECTURE.md"
+      },
+      {
+        "id": "docs_architecture_audit_document",
+        "label": "Архитектурный аудит: завершённый этап 0, 17.09.2026",
+        "file": "docs/ARCHITECTURE-AUDIT.md"
+      },
+      {
+        "id": "docs_step_00_architecture_astra_document",
+        "label": "Задание этапа 0: ограниченная техническая подготовка",
+        "file": "docs/STEP-00-ARCHITECTURE-ASTRA.md"
+      },
+      {
+        "id": "docs_start_astra_document",
+        "label": "Задание этапа 1: исследование без изменения кода",
+        "file": "docs/START-ASTRA.md"
+      },
+      {
+        "id": "docs_architecture_browser_state_compatibility",
+        "label": "localStorage: независимые ключи, проверка снимков, сохранение старого формата",
+        "file": "docs/ARCHITECTURE.md"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "size": 9,
+    "cohesion": 0.3888888888888889,
+    "examples": [
+      {
+        "id": "app_chatgpt_auth",
+        "label": "chatgpt-auth.ts",
+        "file": "app/chatgpt-auth.ts"
+      },
+      {
+        "id": "app_chatgpt_auth_saferelativereturnpath",
+        "label": "safeRelativeReturnPath()",
+        "file": "app/chatgpt-auth.ts"
+      },
+      {
+        "id": "app_chatgpt_auth_chatgptsigninpath",
+        "label": "chatGPTSignInPath()",
+        "file": "app/chatgpt-auth.ts"
+      },
+      {
+        "id": "app_chatgpt_auth_getchatgptuser",
+        "label": "getChatGPTUser()",
+        "file": "app/chatgpt-auth.ts"
+      },
+      {
+        "id": "app_chatgpt_auth_requirechatgptuser",
+        "label": "requireChatGPTUser()",
+        "file": "app/chatgpt-auth.ts"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "size": 9,
+    "cohesion": 0.2777777777777778,
+    "examples": [
+      {
+        "id": "docs_step_12_acceptance_astra_document",
+        "label": "Planned stages 12A-12V: acceptance and verification",
+        "file": "docs/STEP-12-ACCEPTANCE-ASTRA.md"
+      },
+      {
+        "id": "docs_step_13_developer_handoff_astra_document",
+        "label": "Planned stage 13: technical audit and developer handoff",
+        "file": "docs/STEP-13-DEVELOPER-HANDOFF-ASTRA.md"
+      },
+      {
+        "id": "docs_step_13_developer_handoff_astra_technical_audit",
+        "label": "Planned final architecture, data, security and reliability audit",
+        "file": "docs/STEP-13-DEVELOPER-HANDOFF-ASTRA.md"
+      },
+      {
+        "id": "docs_step_08_mobile_astra_document",
+        "label": "Planned stage 8: mobile usability and validation",
+        "file": "docs/STEP-08-MOBILE-ASTRA.md"
+      },
+      {
+        "id": "docs_step_08_mobile_astra_mobile_qa_matrix",
+        "label": "Planned 320-430 pixel mobile QA matrix and evidence report",
+        "file": "docs/STEP-08-MOBILE-ASTRA.md"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "size": 9,
+    "cohesion": 0.2222222222222222,
+    "examples": [
+      {
+        "id": "scripts_import_catalog",
+        "label": "import-catalog.py",
+        "file": "scripts/import-catalog.py"
+      },
+      {
+        "id": "hashlib",
+        "label": "hashlib",
+        "file": ""
+      },
+      {
+        "id": "json",
+        "label": "json",
+        "file": ""
+      },
+      {
+        "id": "openpyxl",
+        "label": "openpyxl",
+        "file": ""
+      },
+      {
+        "id": "pathlib",
+        "label": "pathlib",
+        "file": ""
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "size": 9,
+    "cohesion": 0.2222222222222222,
+    "examples": [
+      {
+        "id": "package_scripts",
+        "label": "scripts",
+        "file": "package.json"
+      },
+      {
+        "id": "package_scripts_build",
+        "label": "build",
+        "file": "package.json"
+      },
+      {
+        "id": "package_scripts_db_generate",
+        "label": "db:generate",
+        "file": "package.json"
+      },
+      {
+        "id": "package_scripts_dev",
+        "label": "dev",
+        "file": "package.json"
+      },
+      {
+        "id": "package_scripts_install_ci",
+        "label": "install:ci",
+        "file": "package.json"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "size": 8,
+    "cohesion": 0.25,
+    "examples": [
+      {
+        "id": "components_ui_popover",
+        "label": "popover.tsx",
+        "file": "components/ui/popover.tsx"
+      },
+      {
+        "id": "components_ui_popover_popovercontent",
+        "label": "PopoverContent()",
+        "file": "components/ui/popover.tsx"
+      },
+      {
+        "id": "components_ui_popover_popoverdescription",
+        "label": "PopoverDescription()",
+        "file": "components/ui/popover.tsx"
+      },
+      {
+        "id": "components_ui_popover_popoverheader",
+        "label": "PopoverHeader()",
+        "file": "components/ui/popover.tsx"
+      },
+      {
+        "id": "components_ui_popover_popovertitle",
+        "label": "PopoverTitle()",
+        "file": "components/ui/popover.tsx"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "size": 8,
+    "cohesion": 0.2857142857142857,
+    "examples": [
+      {
+        "id": "docs_execution_status_document",
+        "label": "История выполнения: этапы 0–3 приняты, этап 4 не закрыт",
+        "file": "docs/EXECUTION-STATUS.md"
+      },
+      {
+        "id": "docs_reference_review_document",
+        "label": "Завершённое исследование референсов, этап 1",
+        "file": "docs/REFERENCE-REVIEW.md"
+      },
+      {
+        "id": "docs_brand_implementation_document",
+        "label": "Результат этапа 2: фирменные цвета и логотип",
+        "file": "docs/BRAND-IMPLEMENTATION.md"
+      },
+      {
+        "id": "docs_brand_implementation_reconstructed_logo",
+        "label": "Растровая реконструкция логотипа grace в шапке и подвале",
+        "file": "docs/BRAND-IMPLEMENTATION.md"
+      },
+      {
+        "id": "docs_brand_implementation_screen_palette",
+        "label": "Экранная палитра: #9E91C2, кнопки #655383",
+        "file": "docs/BRAND-IMPLEMENTATION.md"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "size": 7,
+    "cohesion": 0.47619047619047616,
+    "examples": [
+      {
+        "id": "components_product_rail_productrail",
+        "label": "ProductRail()",
+        "file": "components/product-rail.tsx"
+      },
+      {
+        "id": "components_product_rail_productrail_scrollto",
+        "label": "scrollTo()",
+        "file": "components/product-rail.tsx"
+      },
+      {
+        "id": "components_product_rail_productrail_pointerend",
+        "label": "pointerEnd()",
+        "file": "components/product-rail.tsx"
+      },
+      {
+        "id": "components_product_rail_productrail_positions",
+        "label": "positions()",
+        "file": "components/product-rail.tsx"
+      },
+      {
+        "id": "components_product_rail_productrail_step",
+        "label": "step()",
+        "file": "components/product-rail.tsx"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "size": 7,
+    "cohesion": 0.47619047619047616,
+    "examples": [
+      {
+        "id": "docs_stage_04_review_document",
+        "label": "Этап 4: сохранённый результат и незавершённая приёмка",
+        "file": "docs/STAGE-04-REVIEW.md"
+      },
+      {
+        "id": "docs_resume_document",
+        "label": "Актуальная точка продолжения: 22.09.2026",
+        "file": "docs/RESUME.md"
+      },
+      {
+        "id": "readme_document",
+        "label": "README: запуск, ограничения и текущая остановка этапа 4",
+        "file": "README.md"
+      },
+      {
+        "id": "docs_change_journal_document",
+        "label": "Дневник решений, включая заморозку этапа 4",
+        "file": "docs/CHANGE-JOURNAL.md"
+      },
+      {
+        "id": "docs_resume_banners_frozen",
+        "label": "Текущее поручение: оставить баннеры как есть; автоматические правки остановлены",
+        "file": "docs/RESUME.md"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "size": 7,
+    "cohesion": 0.2857142857142857,
+    "examples": [
+      {
+        "id": "docs_product_card_standard_document",
+        "label": "Действующий единый стандарт товарных карточек и лент",
+        "file": "docs/PRODUCT-CARD-STANDARD.md"
+      },
+      {
+        "id": "docs_home_cards_review_document",
+        "label": "Отчёт этапа 3: карточки конкретных вариантов и тестовый остаток",
+        "file": "docs/HOME-CARDS-REVIEW.md"
+      },
+      {
+        "id": "docs_product_card_standard_shared_variant_card",
+        "label": "Один ProductCard / VariantProductCard для всех товарных списков",
+        "file": "docs/PRODUCT-CARD-STANDARD.md"
+      },
+      {
+        "id": "lib_home_variants_homevariantids",
+        "label": "homeVariantIds",
+        "file": "lib/home-variants.ts"
+      },
+      {
+        "id": "docs_home_cards_review_demo_stock_one",
+        "label": "Согласованный тестовый остаток 1 на вариант отдельным слоем",
+        "file": "docs/HOME-CARDS-REVIEW.md"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "size": 6,
+    "cohesion": 0.3333333333333333,
+    "examples": [
+      {
+        "id": "agents_document",
+        "label": "Правила продолжения Grace и сохранения данных",
+        "file": "AGENTS.md"
+      },
+      {
+        "id": "docs_move_to_d_document",
+        "label": "Проверенный перенос рабочей папки на D, 17.09.2026",
+        "file": "docs/MOVE-TO-D.md"
+      },
+      {
+        "id": "agents_truthful_product_materials",
+        "label": "Товарные фотографии реальные; цены, скидки и наличие не выдумывать",
+        "file": "AGENTS.md"
+      },
+      {
+        "id": "docs_requirements_final_review_staged_photo_workflow",
+        "label": "Фото: собрать оригиналы и реестр → единый белый холст/масштаб → подключать партиями",
+        "file": "docs/REQUIREMENTS-FINAL-REVIEW.md"
+      },
+      {
+        "id": "agents_preserve_existing_catalog",
+        "label": "Сохранять существующий сайт, 4526 товаров, 6089 вариантов и 350 брендов",
+        "file": "AGENTS.md"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "size": 6,
+    "cohesion": 0.3333333333333333,
+    "examples": [
+      {
+        "id": "components_ui_input_otp",
+        "label": "input-otp.tsx",
+        "file": "components/ui/input-otp.tsx"
+      },
+      {
+        "id": "components_ui_input_otp_inputotp",
+        "label": "InputOTP()",
+        "file": "components/ui/input-otp.tsx"
+      },
+      {
+        "id": "components_ui_input_otp_inputotpgroup",
+        "label": "InputOTPGroup()",
+        "file": "components/ui/input-otp.tsx"
+      },
+      {
+        "id": "components_ui_input_otp_inputotpslot",
+        "label": "InputOTPSlot()",
+        "file": "components/ui/input-otp.tsx"
+      },
+      {
+        "id": "ref_input_otp",
+        "label": "input-otp",
+        "file": "package.json"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "size": 5,
+    "cohesion": 0.4,
+    "examples": [
+      {
+        "id": "components_ui_resizable",
+        "label": "resizable.tsx",
+        "file": "components/ui/resizable.tsx"
+      },
+      {
+        "id": "components_ui_resizable_resizablehandle",
+        "label": "ResizableHandle()",
+        "file": "components/ui/resizable.tsx"
+      },
+      {
+        "id": "components_ui_resizable_resizablepanelgroup",
+        "label": "ResizablePanelGroup()",
+        "file": "components/ui/resizable.tsx"
+      },
+      {
+        "id": "ref_react_resizable_panels",
+        "label": "react-resizable-panels",
+        "file": "package.json"
+      },
+      {
+        "id": "components_ui_resizable_resizablepanel",
+        "label": "ResizablePanel()",
+        "file": "components/ui/resizable.tsx"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "size": 5,
+    "cohesion": 0.4,
+    "examples": [
+      {
+        "id": "scripts_install_ci_sh_scripts_install_ci",
+        "label": "install-ci.sh",
+        "file": "scripts/install-ci.sh"
+      },
+      {
+        "id": "scripts_install_ci_npm_config_fetch_retries",
+        "label": "NPM_CONFIG_FETCH_RETRIES",
+        "file": "scripts/install-ci.sh"
+      },
+      {
+        "id": "scripts_install_ci_npm_config_fetch_timeout",
+        "label": "NPM_CONFIG_FETCH_TIMEOUT",
+        "file": "scripts/install-ci.sh"
+      },
+      {
+        "id": "scripts_install_ci_npm_config_maxsockets",
+        "label": "NPM_CONFIG_MAXSOCKETS",
+        "file": "scripts/install-ci.sh"
+      },
+      {
+        "id": "scripts_install_ci_sh__entry",
+        "label": "install-ci.sh script",
+        "file": "scripts/install-ci.sh"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "size": 4,
+    "cohesion": 0.5,
+    "examples": [
+      {
+        "id": "components_ui_collapsible",
+        "label": "collapsible.tsx",
+        "file": "components/ui/collapsible.tsx"
+      },
+      {
+        "id": "components_ui_collapsible_collapsible",
+        "label": "Collapsible()",
+        "file": "components/ui/collapsible.tsx"
+      },
+      {
+        "id": "components_ui_collapsible_collapsiblecontent",
+        "label": "CollapsibleContent()",
+        "file": "components/ui/collapsible.tsx"
+      },
+      {
+        "id": "components_ui_collapsible_collapsibletrigger",
+        "label": "CollapsibleTrigger()",
+        "file": "components/ui/collapsible.tsx"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "size": 4,
+    "cohesion": 0.5,
+    "examples": [
+      {
+        "id": "eslint_config",
+        "label": "eslint.config.mjs",
+        "file": "eslint.config.mjs"
+      },
+      {
+        "id": "ref_eslint",
+        "label": "eslint",
+        "file": "package.json"
+      },
+      {
+        "id": "ref_eslint_config_next",
+        "label": "eslint-config-next",
+        "file": "package.json"
+      },
+      {
+        "id": "eslint_config_eslintconfig",
+        "label": "eslintConfig",
+        "file": "eslint.config.mjs"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "size": 3,
+    "cohesion": 0.6666666666666666,
+    "examples": [
+      {
+        "id": "cloudflare_env_d",
+        "label": "cloudflare-env.d.ts",
+        "file": "cloudflare-env.d.ts"
+      },
+      {
+        "id": "cloudflare_env_d_cloudflare",
+        "label": "Cloudflare",
+        "file": "cloudflare-env.d.ts"
+      },
+      {
+        "id": "cloudflare_env_d_env",
+        "label": "Env",
+        "file": "cloudflare-env.d.ts"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "size": 2,
+    "cohesion": 1.0,
+    "examples": [
+      {
+        "id": "docs_step_05v_footer_astra_document",
+        "label": "Planned stage 5V: Grace footer",
+        "file": "docs/STEP-05V-FOOTER-ASTRA.md"
+      },
+      {
+        "id": "docs_step_05v_footer_astra_verified_footer_information",
+        "label": "Planned footer using verified Grace contacts and manager-led terms",
+        "file": "docs/STEP-05V-FOOTER-ASTRA.md"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "size": 2,
+    "cohesion": 1.0,
+    "examples": [
+      {
+        "id": "ref_drizzle_kit",
+        "label": "drizzle-kit",
+        "file": "package.json"
+      },
+      {
+        "id": "drizzle_config",
+        "label": "drizzle.config.ts",
+        "file": "drizzle.config.ts"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "size": 2,
+    "cohesion": 1.0,
+    "examples": [
+      {
+        "id": "package_engines",
+        "label": "engines",
+        "file": "package.json"
+      },
+      {
+        "id": "package_engines_node",
+        "label": "node",
+        "file": "package.json"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "size": 2,
+    "cohesion": 1.0,
+    "examples": [
+      {
+        "id": "postcss_config",
+        "label": "postcss.config.mjs",
+        "file": "postcss.config.mjs"
+      },
+      {
+        "id": "postcss_config_config",
+        "label": "config",
+        "file": "postcss.config.mjs"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "size": 2,
+    "cohesion": 1.0,
+    "examples": [
+      {
+        "id": "scripts_build_verified",
+        "label": "build-verified.sh",
+        "file": "scripts/build-verified.sh"
+      },
+      {
+        "id": "scripts_build_verified_sh__entry",
+        "label": "build-verified.sh script",
+        "file": "scripts/build-verified.sh"
+      }
+    ]
+  }
+]

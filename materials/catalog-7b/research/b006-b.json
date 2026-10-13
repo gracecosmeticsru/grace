@@ -1,0 +1,942 @@
+[
+  {
+    "productId": "gc002074",
+    "variantId": "gc002074",
+    "productName": "Секреты Азии Идеальная кожа Маска-корректор против морщин для лица шеи и декольте Vitex 100 мл",
+    "brand": "Vitex",
+    "variant": "100мл",
+    "sku": "GC002074",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 270,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://belrus-shop.ru/sekrety-azii-idealnaya-koga-maska-korrektor-protiv-morschin-dlya-litsa-shei-i-dekolte-100ml",
+    "sourceImage": "https://belrus-shop.ru/image/cache/catalog/postav/8/oad-iblock-0af-0af0254a41a6fe1cc0c7ba378304e428-600x600.jpg",
+    "localFile": "materials/catalog-7b/originals/b006-b/Секреты Азии Идеальная кожа Маска-корректор против морщин для лица шеи и декольте Vit--gc002074.jpg",
+    "verification": {
+      "identity": "Belrus retailer exact Vitex AsianSecrets IdealSkin antiwrinkle mask-corrector100ml, barcode4810153025319, main gallery photo.",
+      "volumeAndVariant": "Exact100ml tube, named AsianSecrets/SecretsOfAsia line.",
+      "visualReview": "Complete white and burgundy100ml tube on white background; source600px below quality requirement. Do not upscale.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Vitex Секреты Азии идеальная кожа маска корректор 100 мл",
+        "url": "https://belrus-shop.ru/sekrety-azii-idealnaya-koga-maska-korrektor-protiv-morschin-dlya-litsa-shei-i-dekolte-100ml",
+        "note": "Belrus retailer exact Vitex AsianSecrets IdealSkin antiwrinkle mask-corrector100ml, barcode4810153025319, main gallery photo. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 600,
+    "height": 600,
+    "bytes": 212967,
+    "sha256": "0f3d391d5b3ae09db9565d38e49b10fb4183e3c6d3d23cbcda5f598c1ce7738d"
+  },
+  {
+    "productId": "gc002532",
+    "variantId": "gc002532",
+    "productName": "Косметолог и Я 2* МАСКА-КОРРЕКТОР для лица шеи и декольте ПРОТИВ МОРЩИН Vitex 7 мл",
+    "brand": "Vitex",
+    "variant": "7мл",
+    "sku": "GC002532",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 271,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://www.eapteka.ru/pskov/goods/id353657/",
+    "sourceImage": "https://cdn.eapteka.ru/upload/offer_photo/353/657/1.jpeg?t=1577110555&_cvc=1790272622",
+    "localFile": "materials/catalog-7b/originals/b006-b/Косметолог и Я 2- МАСКА-КОРРЕКТОР для лица шеи и декольте ПРОТИВ МОРЩИН Vitex 7 мл 7м--gc002532.jpg",
+    "verification": {
+      "identity": "Eapteka item353657 exact Vitex KosmetologiYa antiwrinkle rejuvenating mask-corrector7ml2pcs.",
+      "volumeAndVariant": "Catalogue name includes2* and7ml; exact two7ml sachets joined retail package.",
+      "visualReview": "Complete sachet packet with face picture printed on packaging, not separate lifestyle model; no external watermark.650px source below quality requirement.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Vitex Косметолог и Я маска корректор 7 мл",
+        "url": "https://www.eapteka.ru/pskov/goods/id353657/",
+        "note": "Eapteka item353657 exact Vitex KosmetologiYa antiwrinkle rejuvenating mask-corrector7ml2pcs. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 650,
+    "height": 650,
+    "bytes": 86833,
+    "sha256": "42e996cfa12dfb1b8d97acb2b5b559ee3bf0112289791d70aa85d4a6c87ae7c1"
+  },
+  {
+    "productId": "gc002805",
+    "variantId": "gc002805",
+    "productName": "Жидкий консилер TF Cosmetics TF Master Skin 201",
+    "brand": "TF Cosmetics",
+    "variant": "Стандарт",
+    "sku": "GC002805",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 272,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://kaspi.kz/shop/p/tf-cosmetics-master-skin-konsiler-201-light-105462082/",
+    "sourceImage": "https://resources.cdn-kaspi.kz/img/m/p/hca/hb5/65067991105566.jpg?format=gallery-large",
+    "localFile": "materials/catalog-7b/originals/b006-b/Жидкий консилер TF Cosmetics TF Master Skin 201 Стандарт--gc002805.jpg",
+    "verification": {
+      "identity": "Kaspi exact TF Cosmetics Master Skin concealer201Light product105462082.",
+      "volumeAndVariant": "Exact201Light ordinary MasterSkin, not GlowEffect204; catalogue has no volume.",
+      "visualReview": "Complete ordinary MasterSkin tube/wand with small swatch; only281x607 source, below quality requirement.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "TF Master Skin Glow Effect консилер 201 204",
+        "url": "https://kaspi.kz/shop/p/tf-cosmetics-master-skin-konsiler-201-light-105462082/",
+        "note": "Kaspi exact TF Cosmetics Master Skin concealer201Light product105462082. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 281,
+    "height": 607,
+    "bytes": 28772,
+    "sha256": "04148cf6c2ea282a9a7291a90c2f31cecdd6abc23236b22f0491bcf5a054d88c"
+  },
+  {
+    "productId": "gc003052",
+    "variantId": "gc003052",
+    "productName": "Консилер TF Cosmetics «TF MASTER SKIN/GLOW EFFECT» 204",
+    "brand": "TF Cosmetics",
+    "variant": "Стандарт",
+    "sku": "GC003052",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 273,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://parfumart.ru/product/176-tf-cosmetics-konsiler-dla-lica-master-skin-glow-effect?type=181",
+    "sourceImage": "https://cdn.parfumart.ru/product-image/176/original/6648f2f4-5363-11ec-81a9-91b157e94d1e.6a116607660ec.jpg",
+    "localFile": "materials/catalog-7b/originals/b006-b/Консилер TF Cosmetics «TF MASTER SKIN-GLOW EFFECT» 204 Стандарт--gc003052.jpg",
+    "verification": {
+      "identity": "Parfumart MasterSkin GlowEffect only offer181 is204SoftBeige; actual cap label says tone204 andCTC08, confirming exact shade.",
+      "volumeAndVariant": "GlowEffect204SoftBeige7ml. Catalogue specifies204 and GlowEffect; volume not supplied there.",
+      "visualReview": "Complete bottle/wand on white; photographed cap label204 visible.750px source below quality requirement. No external marks.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "TF Master Skin Glow Effect консилер 201 204",
+        "url": "https://parfumart.ru/product/176-tf-cosmetics-konsiler-dla-lica-master-skin-glow-effect?type=181",
+        "note": "Parfumart MasterSkin GlowEffect only offer181 is204SoftBeige; actual cap label says tone204 andCTC08, confirming exact shade. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 750,
+    "height": 750,
+    "bytes": 221029,
+    "sha256": "def8b3ded4879a04e63d19bfba58db87c158cd0a66b63c655e2e8d24feff3f63"
+  },
+  {
+    "productId": "gc003053",
+    "variantId": "gc003053",
+    "productName": "Консилер Charlotte Tilbury Airbrush Flawless Blur 1 fair",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC003053",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 274,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-1-fair",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/3Q56YqLsMuUgo0Eqt6P5d3/b2c8df3e87910760d2e665487503ecea/AFF_Concealer-Shade1-Open.png",
+    "localFile": "materials/catalog-7b/originals/b006-b/Консилер Charlotte Tilbury Airbrush Flawless Blur 1 fair Стандарт--gc003053.png",
+    "verification": {
+      "identity": "Official Charlotte Tilbury sibling product 1 FAIR SKU FAFC83DX1R maps its image.imageSrc to exact open packshot.",
+      "volumeAndVariant": "Same Airbrush Flawless Blur Concealer, exact numeric shade 1 FAIR,8.3g. Catalogue Standard has no volume.",
+      "visualReview": "Full open bottle and separate cap/wand; rose-gold packaging; source has genuine transparency. Flatten to white normally; no external logo, watermark, generated cutout or altered product.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.charlottetilbury.com Airbrush Flawless Blur Concealer 1 1.5 2 2.5 3 3.5 4 4.5 5",
+        "url": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-1-fair",
+        "note": "Official Charlotte Tilbury sibling product 1 FAIR SKU FAFC83DX1R maps its image.imageSrc to exact open packshot. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 360902,
+    "sha256": "82a050e463b7ad28f15f1b22f0e6119bb4ebcdd9467e021aa04df9fb10f934e1"
+  },
+  {
+    "productId": "gc003054",
+    "variantId": "gc003054",
+    "productName": "Консилер Charlotte Tilbury Airbrush Flawless Blur 1.5 fair",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC003054",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 275,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-1-5-fair",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/4e0sk2Z11AfncFDee1mux5/c4dfa18851c2b1243ad91669a9ffd4cb/AFF_Concealer-Shade1.5-Open.png",
+    "localFile": "materials/catalog-7b/originals/b006-b/Консилер Charlotte Tilbury Airbrush Flawless Blur 1.5 fair Стандарт--gc003054.png",
+    "verification": {
+      "identity": "Official Charlotte Tilbury sibling product 1.5 FAIR SKU FAFC83DX2R maps its image.imageSrc to exact open packshot.",
+      "volumeAndVariant": "Same Airbrush Flawless Blur Concealer, exact numeric shade 1.5 FAIR,8.3g. Catalogue Standard has no volume.",
+      "visualReview": "Full open bottle and separate cap/wand; rose-gold packaging; source has genuine transparency. Flatten to white normally; no external logo, watermark, generated cutout or altered product.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.charlottetilbury.com Airbrush Flawless Blur Concealer 1 1.5 2 2.5 3 3.5 4 4.5 5",
+        "url": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-1-5-fair",
+        "note": "Official Charlotte Tilbury sibling product 1.5 FAIR SKU FAFC83DX2R maps its image.imageSrc to exact open packshot. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 365469,
+    "sha256": "bce2340498cb11fa57640cbd653dbfc3fa3468cee90e7bcd4fa9fab6c199fa81"
+  },
+  {
+    "productId": "gc003055",
+    "variantId": "gc003055",
+    "productName": "Консилер Charlotte Tilbury Airbrush Flawless Blur 2 fair",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC003055",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 276,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-2-fair",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/1ggTC3vijDAUmT3rTEBZlv/becefbdbecfc58a87c4598f386096e05/AFF_Concealer-Shade2-Open.png",
+    "localFile": "materials/catalog-7b/originals/b006-b/Консилер Charlotte Tilbury Airbrush Flawless Blur 2 fair Стандарт--gc003055.png",
+    "verification": {
+      "identity": "Official Charlotte Tilbury sibling product 2 FAIR SKU FAFC83DX3R maps its image.imageSrc to exact open packshot.",
+      "volumeAndVariant": "Same Airbrush Flawless Blur Concealer, exact numeric shade 2 FAIR,8.3g. Catalogue Standard has no volume.",
+      "visualReview": "Full open bottle and separate cap/wand; rose-gold packaging; source has genuine transparency. Flatten to white normally; no external logo, watermark, generated cutout or altered product.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.charlottetilbury.com Airbrush Flawless Blur Concealer 1 1.5 2 2.5 3 3.5 4 4.5 5",
+        "url": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-2-fair",
+        "note": "Official Charlotte Tilbury sibling product 2 FAIR SKU FAFC83DX3R maps its image.imageSrc to exact open packshot. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 368323,
+    "sha256": "f668e10f45205c853b7bbf3ceb8beadb381e8dfc7cfb585f2282de618b1f6b75"
+  },
+  {
+    "productId": "gc003056",
+    "variantId": "gc003056",
+    "productName": "Консилер Charlotte Tilbury Airbrush Flawless Blur 2.5 fair",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC003056",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 277,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-2-5-fair",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/4LGzSgp45X4biUlnK74LfJ/e7841835e9767c72cbf3914eff7ea4a8/AFF_Concealer-Shade2.5-Open.png",
+    "localFile": "materials/catalog-7b/originals/b006-b/Консилер Charlotte Tilbury Airbrush Flawless Blur 2.5 fair Стандарт--gc003056.png",
+    "verification": {
+      "identity": "Official Charlotte Tilbury sibling product 2.5 FAIR SKU FAFC83DX4R maps its image.imageSrc to exact open packshot.",
+      "volumeAndVariant": "Same Airbrush Flawless Blur Concealer, exact numeric shade 2.5 FAIR,8.3g. Catalogue Standard has no volume.",
+      "visualReview": "Full open bottle and separate cap/wand; rose-gold packaging; source has genuine transparency. Flatten to white normally; no external logo, watermark, generated cutout or altered product.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.charlottetilbury.com Airbrush Flawless Blur Concealer 1 1.5 2 2.5 3 3.5 4 4.5 5",
+        "url": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-2-5-fair",
+        "note": "Official Charlotte Tilbury sibling product 2.5 FAIR SKU FAFC83DX4R maps its image.imageSrc to exact open packshot. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 370376,
+    "sha256": "bcc166325421a5bdef761185f2eb7d2420a5f00a41aafceae1773ef3da33c2d5"
+  },
+  {
+    "productId": "gc003057",
+    "variantId": "gc003057",
+    "productName": "Консилер Charlotte Tilbury Airbrush Flawless Blur 3 fair",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC003057",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 278,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-3-fair",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/4MQnDD1GCQZsq5sg2yC9l/4b634123a233c672144f5a36c6a9ac1a/AFF_Concealer-Shade3-Open.png",
+    "localFile": "materials/catalog-7b/originals/b006-b/Консилер Charlotte Tilbury Airbrush Flawless Blur 3 fair Стандарт--gc003057.png",
+    "verification": {
+      "identity": "Official Charlotte Tilbury sibling product 3 FAIR SKU FAFC83DX5R maps its image.imageSrc to exact open packshot.",
+      "volumeAndVariant": "Same Airbrush Flawless Blur Concealer, exact numeric shade 3 FAIR,8.3g. Catalogue Standard has no volume.",
+      "visualReview": "Full open bottle and separate cap/wand; rose-gold packaging; source has genuine transparency. Flatten to white normally; no external logo, watermark, generated cutout or altered product.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.charlottetilbury.com Airbrush Flawless Blur Concealer 1 1.5 2 2.5 3 3.5 4 4.5 5",
+        "url": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-3-fair",
+        "note": "Official Charlotte Tilbury sibling product 3 FAIR SKU FAFC83DX5R maps its image.imageSrc to exact open packshot. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 369716,
+    "sha256": "169b9ec85a2dbff1d5e21762de987598cc397a864bf141094d256c581c5ff4d6"
+  },
+  {
+    "productId": "gc003058",
+    "variantId": "gc003058",
+    "productName": "Консилер Charlotte Tilbury Airbrush Flawless Blur 3.5 fair",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC003058",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 279,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-3-5-fair",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/4mw3NKv3Ql7NmQMsBBveHd/ab3c524f1cbbe71c115c053a7b449567/AFF_Concealer-Shade3.5-Open.png",
+    "localFile": "materials/catalog-7b/originals/b006-b/Консилер Charlotte Tilbury Airbrush Flawless Blur 3.5 fair Стандарт--gc003058.png",
+    "verification": {
+      "identity": "Official Charlotte Tilbury sibling product 3.5 FAIR SKU FAFC83DX6R maps its image.imageSrc to exact open packshot.",
+      "volumeAndVariant": "Same Airbrush Flawless Blur Concealer, exact numeric shade 3.5 FAIR,8.3g. Catalogue Standard has no volume.",
+      "visualReview": "Full open bottle and separate cap/wand; rose-gold packaging; source has genuine transparency. Flatten to white normally; no external logo, watermark, generated cutout or altered product.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.charlottetilbury.com Airbrush Flawless Blur Concealer 1 1.5 2 2.5 3 3.5 4 4.5 5",
+        "url": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-3-5-fair",
+        "note": "Official Charlotte Tilbury sibling product 3.5 FAIR SKU FAFC83DX6R maps its image.imageSrc to exact open packshot. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 373927,
+    "sha256": "8483573210cc3ee17a4781aecf6909ee8e187b265f3644eee83f9ce1d67851c9"
+  },
+  {
+    "productId": "gc003059",
+    "variantId": "gc003059",
+    "productName": "Консилер Charlotte Tilbury Airbrush Flawless Blur 4 fair",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC003059",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 280,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-4-fair-medium",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/6F7xim6AB9eQy5Tmr0F006/b5868f5aec8231c3d8acfeb2ce812cde/AFF_Concealer-Shade4-Open.png",
+    "localFile": "materials/catalog-7b/originals/b006-b/Консилер Charlotte Tilbury Airbrush Flawless Blur 4 fair Стандарт--gc003059.png",
+    "verification": {
+      "identity": "Official Charlotte Tilbury sibling product 4 FAIR-MEDIUM SKU FAFC83DX7R maps its image.imageSrc to exact open packshot.",
+      "volumeAndVariant": "Same Airbrush Flawless Blur Concealer, exact numeric shade 4 FAIR-MEDIUM,8.3g. Catalogue Standard has no volume. Catalogue short label fair corresponds to unique shade number; manufacturer calls this FAIR-MEDIUM, not a separate product/shade.",
+      "visualReview": "Full open bottle and separate cap/wand; rose-gold packaging; source has genuine transparency. Flatten to white normally; no external logo, watermark, generated cutout or altered product.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.charlottetilbury.com Airbrush Flawless Blur Concealer 1 1.5 2 2.5 3 3.5 4 4.5 5",
+        "url": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-4-fair-medium",
+        "note": "Official Charlotte Tilbury sibling product 4 FAIR-MEDIUM SKU FAFC83DX7R maps its image.imageSrc to exact open packshot. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 378628,
+    "sha256": "d37e08aa1540c759d570475cb4a4c376cdf6b8165f2eeb09a6dce07065b32995"
+  },
+  {
+    "productId": "gc003060",
+    "variantId": "gc003060",
+    "productName": "Консилер Charlotte Tilbury Airbrush Flawless Blur 4.5 fair",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC003060",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 281,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-4-5-fair-medium",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/6YxfXVuMcPnuuGNClvLVUO/63b9441ecbfc2127a0e8430af105ebaf/AFF_Concealer-Shade4.5-Open.png",
+    "localFile": "materials/catalog-7b/originals/b006-b/Консилер Charlotte Tilbury Airbrush Flawless Blur 4.5 fair Стандарт--gc003060.png",
+    "verification": {
+      "identity": "Official Charlotte Tilbury sibling product 4.5 FAIR-MEDIUM SKU FAFC83DX8R maps its image.imageSrc to exact open packshot.",
+      "volumeAndVariant": "Same Airbrush Flawless Blur Concealer, exact numeric shade 4.5 FAIR-MEDIUM,8.3g. Catalogue Standard has no volume. Catalogue short label fair corresponds to unique shade number; manufacturer calls this FAIR-MEDIUM, not a separate product/shade.",
+      "visualReview": "Full open bottle and separate cap/wand; rose-gold packaging; source has genuine transparency. Flatten to white normally; no external logo, watermark, generated cutout or altered product.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.charlottetilbury.com Airbrush Flawless Blur Concealer 1 1.5 2 2.5 3 3.5 4 4.5 5",
+        "url": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-4-5-fair-medium",
+        "note": "Official Charlotte Tilbury sibling product 4.5 FAIR-MEDIUM SKU FAFC83DX8R maps its image.imageSrc to exact open packshot. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 381049,
+    "sha256": "4e593736ffd9df6246160b5ed6ebb35aff32461004dac9019c0aaf3967edd753"
+  },
+  {
+    "productId": "gc003061",
+    "variantId": "gc003061",
+    "productName": "Консилер Charlotte Tilbury Airbrush Flawless Blur 5 medium",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC003061",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 282,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-5-medium",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/78LfAUhFzfNeGehAmyeQbC/f18f033afff155980678e14cfb5651dc/AFF_Concealer-Shade5-Open.png",
+    "localFile": "materials/catalog-7b/originals/b006-b/Консилер Charlotte Tilbury Airbrush Flawless Blur 5 medium Стандарт--gc003061.png",
+    "verification": {
+      "identity": "Official Charlotte Tilbury sibling product 5 MEDIUM SKU FAFC83DX9R maps its image.imageSrc to exact open packshot.",
+      "volumeAndVariant": "Same Airbrush Flawless Blur Concealer, exact numeric shade 5 MEDIUM,8.3g. Catalogue Standard has no volume.",
+      "visualReview": "Full open bottle and separate cap/wand; rose-gold packaging; source has genuine transparency. Flatten to white normally; no external logo, watermark, generated cutout or altered product.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.charlottetilbury.com Airbrush Flawless Blur Concealer 1 1.5 2 2.5 3 3.5 4 4.5 5",
+        "url": "https://www.charlottetilbury.com/us/product/airbrush-flawless-blur-concealer-5-medium",
+        "note": "Official Charlotte Tilbury sibling product 5 MEDIUM SKU FAFC83DX9R maps its image.imageSrc to exact open packshot. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 367785,
+    "sha256": "82f9d9377d6768bbda77bddc3f9a616a1ae518c66ace578071b3d583dec4abaa"
+  },
+  {
+    "productId": "parent-0032",
+    "variantId": "gc003049",
+    "productName": "Консилер Dior Forever Skin Correct",
+    "brand": "Dior",
+    "variant": "0.5N",
+    "sku": "GC003049",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 283,
+    "batch": 6,
+    "status": "skipped",
+    "sourcePage": "https://www.dior.com/en_us/beauty/products/dior-forever-skin-correct-C032600030.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact shade 0.5N appears in Dior selector but accessible image link is a colour swatch; main gallery is selected3N. Direct manufacturer HTML unavailable and official Kuwait Shopify has no 0.5N variant. No wrong-shade packshot substituted.",
+    "searches": [
+      {
+        "query": "site.dior.com Forever Skin Correct 0.5N 0N 1N concealer",
+        "url": "https://www.dior.com/en_us/beauty/products/dior-forever-skin-correct-C032600030.html",
+        "note": "Web source lists exact shades; links47/48 are _cs.jpg colour swatches, main gallery belongs to3N. Kuwait same-product JSON saved dior.json, lacks assigned0.5N/0N. Direct HTML request returned Page unavailable."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0032",
+    "variantId": "gc003050",
+    "productName": "Консилер Dior Forever Skin Correct",
+    "brand": "Dior",
+    "variant": "0N",
+    "sku": "GC003050",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 284,
+    "batch": 6,
+    "status": "skipped",
+    "sourcePage": "https://www.dior.com/en_us/beauty/products/dior-forever-skin-correct-C032600030.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact shade 0N appears in Dior selector but accessible image link is a colour swatch; main gallery is selected3N. Direct manufacturer HTML unavailable and official Kuwait Shopify has no 0N variant. No wrong-shade packshot substituted.",
+    "searches": [
+      {
+        "query": "site.dior.com Forever Skin Correct 0.5N 0N 1N concealer",
+        "url": "https://www.dior.com/en_us/beauty/products/dior-forever-skin-correct-C032600030.html",
+        "note": "Web source lists exact shades; links47/48 are _cs.jpg colour swatches, main gallery belongs to3N. Kuwait same-product JSON saved dior.json, lacks assigned0.5N/0N. Direct HTML request returned Page unavailable."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0032",
+    "variantId": "gc003051",
+    "productName": "Консилер Dior Forever Skin Correct",
+    "brand": "Dior",
+    "variant": "1N",
+    "sku": "GC003051",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 285,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://shop-beauty.dior.com.kw/products/dior-forever-skin-correct?variant=42381145079958",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0405/6006/6710/products/Dior_3348901637497_SW.jpg?v=1672301142",
+    "localFile": "materials/catalog-7b/originals/b006-b/Консилер Dior Forever Skin Correct 1N--gc003051.jpg",
+    "verification": {
+      "identity": "Official Dior Kuwait Shopify exact variant1NNeutral SKU C032600010 featured_image, GTIN3348901637497.",
+      "volumeAndVariant": "Exact Dior Forever Skin Correct1N. Catalogue has no volume; official product is11ml.",
+      "visualReview": "Full bottle and separate wand on opaque pale-grey studio backdrop with shadows. No watermark; suitability assessed after standard background preparation, not assumed transparent. Standard preparation leaves hard grey halos: visually rejected, no retouching.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.dior.com Forever Skin Correct 0.5N 0N 1N concealer",
+        "url": "https://shop-beauty.dior.com.kw/products/dior-forever-skin-correct?variant=42381145079958",
+        "note": "Official Dior Kuwait Shopify exact variant1NNeutral SKU C032600010 featured_image, GTIN3348901637497. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1850,
+    "height": 2000,
+    "bytes": 62921,
+    "sha256": "060e845e45ecd746302927259ff713d05e77b128e704d9567cfd9147190d7d3f"
+  },
+  {
+    "productId": "gc003062",
+    "variantId": "gc003062",
+    "productName": "Консилер 02 консилер Haus Labs",
+    "brand": "Haus Labs",
+    "variant": "Стандарт",
+    "sku": "GC003062",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 286,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/triclone-skin-tech-concealer?variant=40250301579352",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_Concealer_Silo_02_FairGolden_RGB_1_8d477020-a3a2-4075-b290-cbec4257cc06.png?v=1789658419",
+    "localFile": "materials/catalog-7b/originals/b006-b/Консилер 02 консилер Haus Labs Стандарт--gc003062.png",
+    "verification": {
+      "identity": "Official HAUS LABS Triclone Skin Tech Concealer Shopify featured_image uniquely maps to variant 02 Fair Golden.",
+      "volumeAndVariant": "Exact numbered concealer shade 02 Fair Golden; catalogue does not specify size. Concealer family confirmed; foundation excluded.",
+      "visualReview": "Full bottle and wand but separate red ALLURE award logo embedded at top right. Opaque RGBA255; not alpha artefact. Block entire source, no cropping/removal. Other same-gallery assets are model/swatch/promotion, no clean exact packshot.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.hauslabs.com triclone skin tech concealer 02 04 11 13",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-concealer?variant=40250301579352",
+        "note": "Official HAUS LABS Triclone Skin Tech Concealer Shopify featured_image uniquely maps to variant 02 Fair Golden. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1400,
+    "height": 1400,
+    "bytes": 540726,
+    "sha256": "3de0c5b572f02b7083ed7f4c9dbab08e838c9ff7847d28e52b5eadb1075175e7"
+  },
+  {
+    "productId": "gc003063",
+    "variantId": "gc003063",
+    "productName": "Консилер 04 консилер Haus Labs",
+    "brand": "Haus Labs",
+    "variant": "Стандарт",
+    "sku": "GC003063",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 287,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/triclone-skin-tech-concealer?variant=40250301513816",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_Concealer_Silo_04_FairNeutral_RGB_1_4dde05a9-a033-4bd6-9f50-8b816e4c525d.png?v=1789658419",
+    "localFile": "materials/catalog-7b/originals/b006-b/Консилер 04 консилер Haus Labs Стандарт--gc003063.png",
+    "verification": {
+      "identity": "Official HAUS LABS Triclone Skin Tech Concealer Shopify featured_image uniquely maps to variant 04 Fair Neutral.",
+      "volumeAndVariant": "Exact numbered concealer shade 04 Fair Neutral; catalogue does not specify size. Concealer family confirmed; foundation excluded.",
+      "visualReview": "Full bottle and wand but separate red ALLURE award logo embedded at top right. Opaque RGBA255; not alpha artefact. Block entire source, no cropping/removal. Other same-gallery assets are model/swatch/promotion, no clean exact packshot.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.hauslabs.com triclone skin tech concealer 02 04 11 13",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-concealer?variant=40250301513816",
+        "note": "Official HAUS LABS Triclone Skin Tech Concealer Shopify featured_image uniquely maps to variant 04 Fair Neutral. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1400,
+    "height": 1400,
+    "bytes": 552109,
+    "sha256": "fdd0f7f7e053809a492df05f64c9b7d8924e5b023f9f5f92cb57b5e6bf8d79e3"
+  },
+  {
+    "productId": "gc003064",
+    "variantId": "gc003064",
+    "productName": "Консилер 11 консилер Haus Labs",
+    "brand": "Haus Labs",
+    "variant": "Стандарт",
+    "sku": "GC003064",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 288,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/triclone-skin-tech-concealer?variant=40250301382744",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_Concealer_Silo_11_LightNeutral_RGB_1_2e89e147-10c9-46cb-b97a-adf005a26988.png?v=1789658419",
+    "localFile": "materials/catalog-7b/originals/b006-b/Консилер 11 консилер Haus Labs Стандарт--gc003064.png",
+    "verification": {
+      "identity": "Official HAUS LABS Triclone Skin Tech Concealer Shopify featured_image uniquely maps to variant 11 Light Neutral.",
+      "volumeAndVariant": "Exact numbered concealer shade 11 Light Neutral; catalogue does not specify size. Concealer family confirmed; foundation excluded.",
+      "visualReview": "Full bottle and wand but separate red ALLURE award logo embedded at top right. Opaque RGBA255; not alpha artefact. Block entire source, no cropping/removal. Other same-gallery assets are model/swatch/promotion, no clean exact packshot.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.hauslabs.com triclone skin tech concealer 02 04 11 13",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-concealer?variant=40250301382744",
+        "note": "Official HAUS LABS Triclone Skin Tech Concealer Shopify featured_image uniquely maps to variant 11 Light Neutral. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1400,
+    "height": 1400,
+    "bytes": 554339,
+    "sha256": "ff017883b2ef7a12f2366219129a6255c65305b4b94ef9d4b4e300b2eb98ca11"
+  },
+  {
+    "productId": "gc003065",
+    "variantId": "gc003065",
+    "productName": "Консилер 13 консилер Haus Labs",
+    "brand": "Haus Labs",
+    "variant": "Стандарт",
+    "sku": "GC003065",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 289,
+    "batch": 6,
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/triclone-skin-tech-concealer?variant=40250301317208",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_Concealer_Silo_13_LightNeutral_RGB_1_7ca94dc6-a8e6-412d-b368-f18a3cf78ab9.png?v=1789658419",
+    "localFile": "materials/catalog-7b/originals/b006-b/Консилер 13 консилер Haus Labs Стандарт--gc003065.png",
+    "verification": {
+      "identity": "Official HAUS LABS Triclone Skin Tech Concealer Shopify featured_image uniquely maps to variant 13 Light Neutral.",
+      "volumeAndVariant": "Exact numbered concealer shade 13 Light Neutral; catalogue does not specify size. Concealer family confirmed; foundation excluded.",
+      "visualReview": "Full bottle and wand but separate red ALLURE award logo embedded at top right. Opaque RGBA255; not alpha artefact. Block entire source, no cropping/removal. Other same-gallery assets are model/swatch/promotion, no clean exact packshot.",
+      "reviewMethod": "view_image originals-overview.jpg plus full TF204 source; prepared overview and full flagged backgrounds checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.hauslabs.com triclone skin tech concealer 02 04 11 13",
+        "url": "https://www.hauslabs.com/products/triclone-skin-tech-concealer?variant=40250301317208",
+        "note": "Official HAUS LABS Triclone Skin Tech Concealer Shopify featured_image uniquely maps to variant 13 Light Neutral. Group HTML/JSON evidence retained in artifacts/step-7b/b006-b."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1400,
+    "height": 1400,
+    "bytes": 557497,
+    "sha256": "900a848901de59c178442fef962c4bf4336acc01cec8d754a7b3c0be6dc1d9b0"
+  }
+]

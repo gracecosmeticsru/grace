@@ -1,42 +1,44 @@
 "use client";
 
-import {useState} from 'react';
-import {ArrowUpRight, ChevronRight} from 'lucide-react';
+import {useEffect,useRef,useState} from 'react';
+import {ArrowLeft,ArrowRight,ArrowUpRight} from 'lucide-react';
 import Link from '@/components/site-link';
-import type {Brand} from '@/lib/catalog-types';
+import {graceCollections} from '@/lib/grace-collections';
 import styles from './brand-focus.module.css';
 
-const brandStories = [
-  {name:'Celimax', tone:'celimax', image:'celimax.png', note:'Точный уход. Естественное сияние.', alt:'Редакционный визуал Grace: сияющая кожа, прозрачное стекло и прохладный свет'},
-  {name:'Dior', tone:'dior', image:'dior.jpg', note:'Красота в духе высокой моды', alt:'Архивный кадр Dior 2021: красная помада, чёрный футляр и объёмные цветы в золотом свете'},
-  {name:'Anua', tone:'anua', image:'anua.png', note:'Свежесть ежедневного ухода', alt:'Редакционный визуал Grace: свежая кожа, солнечное окно и лёгкие ботанические акценты'},
-  {name:'Charlotte Tilbury', tone:'charlotte', image:'charlotte-tilbury.png', note:'Макияж с голливудским сиянием', alt:'Редакционный визуал Grace: бронзовый макияж, розовое золото и бархат'},
-] as const;
+export type CollectionPhoto={src:string;alt:string};
 
-function BrandVisual({story}:{story:typeof brandStories[number]}) {
-  const [failed,setFailed] = useState(false);
-  return <div className={styles.visual}>
-    {failed
-      ? <div className={styles.imageFallback} aria-label={'Подборка '+story.name}><span>{story.name}</span></div>
-      : <img src={'/images/brand-focus/'+story.image} width={1536} height={1024} alt={story.alt} loading="lazy" decoding="async" onError={()=>setFailed(true)}/>}
-  </div>;
-}
-
-export default function BrandFocus({brands}:{brands:Brand[]}) {
-  return <section className={'wrap home-section '+styles.section} aria-labelledby="brand-focus-title">
-    <div className="section-heading"><h2 id="brand-focus-title">Бренды в фокусе</h2><Link href="/brands" className="text-link">Все бренды <ChevronRight size={17}/></Link></div>
-    <div className={styles.grid}>{brandStories.map(story=>{
-      const brand=brands.find(item=>item.name===story.name);
-      if(!brand)return null;
-      return <Link key={story.name} href={'/brands/'+brand.slug} className={styles.card+' '+styles[story.tone]} aria-label={'Смотреть бренд '+story.name}>
-        <BrandVisual story={story}/>
-        <div className={styles.copy}>
-          <h3 className={styles.name}>{story.name}</h3>
-          <p>{story.note}</p>
-          <span className={styles.cta}>Смотреть бренд <ArrowUpRight size={19} strokeWidth={1.5}/></span>
+export default function GraceCollections({photos}:{photos:Record<string,CollectionPhoto[]>}) {
+  const rail=useRef<HTMLDivElement>(null);
+  const [edges,setEdges]=useState({previous:false,next:false});
+  useEffect(()=>{
+    const element=rail.current;
+    if(!element)return;
+    const update=()=>setEdges({previous:element.scrollLeft>1,next:element.scrollLeft<element.scrollWidth-element.clientWidth-1});
+    update();
+    element.addEventListener('scroll',update,{passive:true});
+    const observer=new ResizeObserver(update);observer.observe(element);
+    return()=>{element.removeEventListener('scroll',update);observer.disconnect();};
+  },[]);
+  const move=(direction:number)=>{
+    const element=rail.current;
+    if(element)element.scrollBy({left:direction*element.clientWidth*.8,behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});
+  };
+  return <section className={'wrap home-section '+styles.section} aria-labelledby="grace-collections-title">
+    <div className="section-heading"><h2 id="grace-collections-title">Подборки от Grace</h2>
+      <div className={styles.controls}>
+        <button type="button" className="icon-button" disabled={!edges.previous} onClick={()=>move(-1)} aria-label="Предыдущие подборки" aria-controls="grace-collection-tiles"><ArrowLeft/></button>
+        <button type="button" className="icon-button" disabled={!edges.next} onClick={()=>move(1)} aria-label="Следующие подборки" aria-controls="grace-collection-tiles"><ArrowRight/></button>
+      </div>
+    </div>
+    <div id="grace-collection-tiles" ref={rail} className={styles.grid} role="region" aria-label="Тематические подборки Grace" tabIndex={0}>
+      {graceCollections.map(collection=><Link key={collection.slug} href={'/collections/'+collection.slug} className={styles.card+' '+styles[collection.tone]}>
+        <div className={styles.cover}>
+          <div className={styles.copy}><span>{collection.line}</span><h3>{collection.title}</h3></div>
+          <div className={styles.products}>{photos[collection.slug]?.map(photo=><img key={photo.src} src={photo.src} alt={photo.alt} loading="lazy" decoding="async" draggable={false}/>)}</div>
         </div>
-      </Link>;
-    })}</div>
-    <p className={styles.credit}>Иллюстрации Grace — ИИ. <a href="https://www.beautyalmanac.com/article/dior-rouge-dior-minaudiere-the-atelier-of-dreams-edition-box-couture-lipstick-case/4300" target="_blank" rel="noreferrer">Dior — архивный кадр, 2021</a>.</p>
+        <span className={styles.cta}>Смотреть подборку <ArrowUpRight size={20}/></span>
+      </Link>)}
+    </div>
   </section>;
 }

@@ -1,0 +1,479 @@
+[
+  {
+    "productId": "parent-0112",
+    "variantId": "gc003221",
+    "productName": "Кремовые тени для век Charlotte Tilbury",
+    "brand": "Charlotte Tilbury",
+    "variant": "Rose Gold",
+    "sku": "GC003221",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 790,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/eu/product/eyes-to-mesmerise-rose-gold",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/6JNRpin2KxttK28LHMfi5h/a7194cd7cf3a47f2282d47108dd3962f/Rose-Gold-Lid-Off-Packshot.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b016-c/Кремовые тени для век Charlotte Tilbury Rose Gold--gc003221.png",
+    "verification": {
+      "identity": "Official Rose Gold Eyes to Mesmerise cream single, exact named source in page og:image. Full pot and lid. Opaque product alpha>=240 measures425x733, excluding surrounding shadow; insufficient800px.",
+      "volumeAndVariant": "Official Rose Gold Eyes to Mesmerise cream single, exact named source in page og:image. Full pot and lid. Opaque product alpha>=240 measures425x733, excluding surrounding shadow; insufficient800px.",
+      "visualReview": "Whole original viewed with alpha flattened onto white in source-overview.png. Patrick plain uniform gray with small native shadow; Virgin clean transparent background. CT insufficient physical pixels; Farres500px and clipped lid blocked.",
+      "reviewMethod": "Full-fit source contact sheet plus physical alpha/chroma bounds, never cover-cropped preview.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Кремовые тени для век Charlotte Tilbury Rose Gold",
+        "url": "https://www.charlottetilbury.com/eu/product/eyes-to-mesmerise-rose-gold",
+        "note": "Official Rose Gold Eyes to Mesmerise cream single, exact named source in page og:image. Full pot and lid. Opaque product alpha>=240 measures425x733, excluding surrounding shadow; insufficient800px."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1000,
+    "height": 1000,
+    "bytes": 559873,
+    "sha256": "c5a944c9a8cdb8cff9b9764dce07a89a7aab3dad0541494693e0d050f755c751"
+  },
+  {
+    "productId": "parent-0113",
+    "variantId": "gc004694",
+    "productName": "Спарк для глаз тени для век PATRICK TA",
+    "brand": "PATRICK TA",
+    "variant": "always on your mind",
+    "sku": "GC004694",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 791,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://patrickta.com/es/products/major-dimension-eye-illusion-eyeshadow-duo?variant=62385833640305",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0099/0602/8608/files/Major-Dimension-Eye-Illusion-Eyeshadow-Duo---Always-On-Your-Mind.jpg?v=1787258918",
+    "localFile": "materials/catalog-7b/originals/b016-c/Спарк для глаз тени для век PATRICK TA always on your mind--gc004694.jpg",
+    "verification": {
+      "identity": "Official Shopify selected variant 62385833640305 Always On Your Mind (Slate Sparkles) binds this exact full compact image. Case/space normalization only for catalogue in yourdreams; no catalogue text changed. Standard duo, not mini or swatch.",
+      "volumeAndVariant": "Official Shopify selected variant 62385833640305 Always On Your Mind (Slate Sparkles) binds this exact full compact image. Case/space normalization only for catalogue in yourdreams; no catalogue text changed. Standard duo, not mini or swatch.",
+      "visualReview": "Whole original viewed with alpha flattened onto white in source-overview.png. Patrick plain uniform gray with small native shadow; Virgin clean transparent background. CT insufficient physical pixels; Farres500px and clipped lid blocked.",
+      "reviewMethod": "Full-fit source contact sheet plus physical alpha/chroma bounds, never cover-cropped preview.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Спарк для глаз тени для век PATRICK TA always on your mind",
+        "url": "https://patrickta.com/es/products/major-dimension-eye-illusion-eyeshadow-duo?variant=62385833640305",
+        "note": "Official Shopify selected variant 62385833640305 Always On Your Mind (Slate Sparkles) binds this exact full compact image. Case/space normalization only for catalogue in yourdreams; no catalogue text changed. Standard duo, not mini or swatch."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 2000,
+    "height": 2000,
+    "bytes": 185865,
+    "sha256": "1d268b735542614c4f0d42a11928c7aa4e4ab53e1c840925d696464c615f86a9"
+  },
+  {
+    "productId": "parent-0113",
+    "variantId": "gc004695",
+    "productName": "Спарк для глаз тени для век PATRICK TA",
+    "brand": "PATRICK TA",
+    "variant": "in yourdreams",
+    "sku": "GC004695",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 792,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://patrickta.com/es/products/major-dimension-eye-illusion-eyeshadow-duo?variant=62385833443697",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0099/0602/8608/files/Major-Dimension-Eye-Illusion-Eyeshadow-Duo---In-Your-Dreams.jpg?v=1787258919",
+    "localFile": "materials/catalog-7b/originals/b016-c/Спарк для глаз тени для век PATRICK TA in yourdreams--gc004695.jpg",
+    "verification": {
+      "identity": "Official Shopify selected variant 62385833443697 In Your Dreams (Diamond Sparkles) binds this exact full compact image. Case/space normalization only for catalogue in yourdreams; no catalogue text changed. Standard duo, not mini or swatch.",
+      "volumeAndVariant": "Official Shopify selected variant 62385833443697 In Your Dreams (Diamond Sparkles) binds this exact full compact image. Case/space normalization only for catalogue in yourdreams; no catalogue text changed. Standard duo, not mini or swatch.",
+      "visualReview": "Whole original viewed with alpha flattened onto white in source-overview.png. Patrick plain uniform gray with small native shadow; Virgin clean transparent background. CT insufficient physical pixels; Farres500px and clipped lid blocked.",
+      "reviewMethod": "Full-fit source contact sheet plus physical alpha/chroma bounds, never cover-cropped preview.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Спарк для глаз тени для век PATRICK TA in yourdreams",
+        "url": "https://patrickta.com/es/products/major-dimension-eye-illusion-eyeshadow-duo?variant=62385833443697",
+        "note": "Official Shopify selected variant 62385833443697 In Your Dreams (Diamond Sparkles) binds this exact full compact image. Case/space normalization only for catalogue in yourdreams; no catalogue text changed. Standard duo, not mini or swatch."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 2000,
+    "height": 2000,
+    "bytes": 151242,
+    "sha256": "7210089a7a8a1ecf2be7d79f23aa2907eebe39396dbe1d1f6f64e1b883a58ba2"
+  },
+  {
+    "productId": "parent-0113",
+    "variantId": "gc004696",
+    "productName": "Спарк для глаз тени для век PATRICK TA",
+    "brand": "PATRICK TA",
+    "variant": "We Need Better Lighting",
+    "sku": "GC004696",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 793,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://patrickta.com/es/products/major-dimension-eye-illusion-eyeshadow-duo?variant=55622761087345",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0099/0602/8608/files/Major-Dimension-Eye-Illusion-Eyeshadow-Duo---We-Need-Better-Lighting.jpg?v=1787258918",
+    "localFile": "materials/catalog-7b/originals/b016-c/Спарк для глаз тени для век PATRICK TA We Need Better Lighting--gc004696.jpg",
+    "verification": {
+      "identity": "Official Shopify selected variant 55622761087345 We Need Better Lighting (Pearl & Golden Sparkles) binds this exact full compact image. Case/space normalization only for catalogue in yourdreams; no catalogue text changed. Standard duo, not mini or swatch.",
+      "volumeAndVariant": "Official Shopify selected variant 55622761087345 We Need Better Lighting (Pearl & Golden Sparkles) binds this exact full compact image. Case/space normalization only for catalogue in yourdreams; no catalogue text changed. Standard duo, not mini or swatch.",
+      "visualReview": "Whole original viewed with alpha flattened onto white in source-overview.png. Patrick plain uniform gray with small native shadow; Virgin clean transparent background. CT insufficient physical pixels; Farres500px and clipped lid blocked.",
+      "reviewMethod": "Full-fit source contact sheet plus physical alpha/chroma bounds, never cover-cropped preview.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Спарк для глаз тени для век PATRICK TA We Need Better Lighting",
+        "url": "https://patrickta.com/es/products/major-dimension-eye-illusion-eyeshadow-duo?variant=55622761087345",
+        "note": "Official Shopify selected variant 55622761087345 We Need Better Lighting (Pearl & Golden Sparkles) binds this exact full compact image. Case/space normalization only for catalogue in yourdreams; no catalogue text changed. Standard duo, not mini or swatch."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 2000,
+    "height": 2000,
+    "bytes": 153919,
+    "sha256": "640c628f1a5d8df46e5d34b4b65ea8d1992943aff53fec4d26ab8eb597fd4012"
+  },
+  {
+    "productId": "parent-0113",
+    "variantId": "gc004697",
+    "productName": "Спарк для глаз тени для век PATRICK TA",
+    "brand": "PATRICK TA",
+    "variant": "when the sun sets",
+    "sku": "GC004697",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 794,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://patrickta.com/es/products/major-dimension-eye-illusion-eyeshadow-duo?variant=62385833607537",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0099/0602/8608/files/Major-Dimension-Eye-Illusion-Eyeshadow-Duo---When-The-Sun-Sets.jpg?v=1787258919",
+    "localFile": "materials/catalog-7b/originals/b016-c/Спарк для глаз тени для век PATRICK TA when the sun sets--gc004697.jpg",
+    "verification": {
+      "identity": "Official Shopify selected variant 62385833607537 When The Sun Sets (Peach Sparkles) binds this exact full compact image. Case/space normalization only for catalogue in yourdreams; no catalogue text changed. Standard duo, not mini or swatch.",
+      "volumeAndVariant": "Official Shopify selected variant 62385833607537 When The Sun Sets (Peach Sparkles) binds this exact full compact image. Case/space normalization only for catalogue in yourdreams; no catalogue text changed. Standard duo, not mini or swatch.",
+      "visualReview": "Whole original viewed with alpha flattened onto white in source-overview.png. Patrick plain uniform gray with small native shadow; Virgin clean transparent background. CT insufficient physical pixels; Farres500px and clipped lid blocked.",
+      "reviewMethod": "Full-fit source contact sheet plus physical alpha/chroma bounds, never cover-cropped preview.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Спарк для глаз тени для век PATRICK TA when the sun sets",
+        "url": "https://patrickta.com/es/products/major-dimension-eye-illusion-eyeshadow-duo?variant=62385833607537",
+        "note": "Official Shopify selected variant 62385833607537 When The Sun Sets (Peach Sparkles) binds this exact full compact image. Case/space normalization only for catalogue in yourdreams; no catalogue text changed. Standard duo, not mini or swatch."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 2000,
+    "height": 2000,
+    "bytes": 171914,
+    "sha256": "a903a21612867e21600335231c3597922a4b7f60c560d05b8d1f35a01b0f6a12"
+  },
+  {
+    "productId": "gc004700",
+    "variantId": "gc004700",
+    "productName": "Спаркл теней тени для век Urban Decay SOLSTICE",
+    "brand": "Urban Decay",
+    "variant": "Стандарт",
+    "sku": "GC004700",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 795,
+    "batch": 16,
+    "status": "skipped",
+    "sourcePage": "https://www.urbandecay.com/247-moondust-eyeshadow/ud1051.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused Solstice search confirms official Moondust family and shade. Shared family request by b016-b returned403; no original retained. No access restriction bypass or substitute shade.",
+    "searches": [
+      {
+        "query": "Спаркл теней тени для век Urban Decay SOLSTICE Стандарт",
+        "url": "https://www.urbandecay.com/247-moondust-eyeshadow/ud1051.html",
+        "note": "Focused Solstice search confirms official Moondust family and shade. Shared family request by b016-b returned403; no original retained. No access restriction bypass or substitute shade."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc004701",
+    "variantId": "gc004701",
+    "productName": "Спаркл теней тени для век Urban Decay VIRGIN",
+    "brand": "Urban Decay",
+    "variant": "Стандарт",
+    "sku": "GC004701",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 796,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://www.ulta.com/p/247-eyeshadow-pimprod2022729?sku=2576903",
+    "sourceImage": "https://media.ulta.com/i/ulta/2576903?w=1080&h=1080&fmt=auto",
+    "localFile": "materials/catalog-7b/originals/b016-c/Спаркл теней тени для век Urban Decay VIRGIN Стандарт--gc004701.png",
+    "verification": {
+      "identity": "Exact retailer SKU2576903 Virgin 24/7 Eyeshadow single; selected page og:title and observed gallery URL agree. This is Virgin satin single, not Moondust Solstice. Full transparent square compact, alpha>=240 physical967x969.",
+      "volumeAndVariant": "Exact retailer SKU2576903 Virgin 24/7 Eyeshadow single; selected page og:title and observed gallery URL agree. This is Virgin satin single, not Moondust Solstice. Full transparent square compact, alpha>=240 physical967x969.",
+      "visualReview": "Whole original viewed with alpha flattened onto white in source-overview.png. Patrick plain uniform gray with small native shadow; Virgin clean transparent background. CT insufficient physical pixels; Farres500px and clipped lid blocked.",
+      "reviewMethod": "Full-fit source contact sheet plus physical alpha/chroma bounds, never cover-cropped preview.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Спаркл теней тени для век Urban Decay VIRGIN Стандарт",
+        "url": "https://www.ulta.com/p/247-eyeshadow-pimprod2022729?sku=2576903",
+        "note": "Exact retailer SKU2576903 Virgin 24/7 Eyeshadow single; selected page og:title and observed gallery URL agree. This is Virgin satin single, not Moondust Solstice. Full transparent square compact, alpha>=240 physical967x969."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1080,
+    "height": 1080,
+    "bytes": 1685201,
+    "sha256": "f6c6569b17dd1e742a992835d1abfae3a4b34a349fd17b3958802e280026ca45"
+  },
+  {
+    "productId": "gc004803",
+    "variantId": "gc004803",
+    "productName": "Тени для век DoDo Girl",
+    "brand": "DoDo Girl",
+    "variant": "Стандарт",
+    "sku": "GC004803",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 797,
+    "batch": 16,
+    "status": "skipped",
+    "sourcePage": "https://rozetka.com.ua/teni-dlya-vek/c4658492/producer%3Ddodo-girl/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Actual family lookup shows multiple distinct DoDoGirl palettes (D4070,D3018,D3211). Catalogue only says eyeshadow without model/pans/shade. Exact photo cannot be established; no arbitrary palette.",
+    "searches": [
+      {
+        "query": "Тени для век DoDo Girl Стандарт",
+        "url": "https://rozetka.com.ua/teni-dlya-vek/c4658492/producer%3Ddodo-girl/",
+        "note": "Actual family lookup shows multiple distinct DoDoGirl palettes (D4070,D3018,D3211). Catalogue only says eyeshadow without model/pans/shade. Exact photo cannot be established; no arbitrary palette."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc004804",
+    "variantId": "gc004804",
+    "productName": "Тени для век оттенков тени для век Farres Emerald Obsessions, 9",
+    "brand": "Farres",
+    "variant": "Стандарт",
+    "sku": "GC004804",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 798,
+    "batch": 16,
+    "status": "verified",
+    "sourcePage": "https://prom.ua/p1366640249-teni-dlya-vek.html",
+    "sourceImage": "https://images.prom.ua/2963202036_w700_h500_teni-dlya-vek.jpg",
+    "localFile": "materials/catalog-7b/originals/b016-c/Тени для век оттенков тени для век Farres Emerald Obsessions, 9 Стандарт--gc004804.jpg",
+    "verification": {
+      "identity": "Retailer exact Farres Emerald Obsessions9-pan No2; observed og:image retained. Actual original500square, lid clipped at top/left, below required source quality.",
+      "volumeAndVariant": "Retailer exact Farres Emerald Obsessions9-pan No2; observed og:image retained. Actual original500square, lid clipped at top/left, below required source quality.",
+      "visualReview": "Whole original viewed with alpha flattened onto white in source-overview.png. Patrick plain uniform gray with small native shadow; Virgin clean transparent background. CT insufficient physical pixels; Farres500px and clipped lid blocked.",
+      "reviewMethod": "Full-fit source contact sheet plus physical alpha/chroma bounds, never cover-cropped preview.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Тени для век оттенков тени для век Farres Emerald Obsessions, 9 Стандарт",
+        "url": "https://prom.ua/p1366640249-teni-dlya-vek.html",
+        "note": "Retailer exact Farres Emerald Obsessions9-pan No2; observed og:image retained. Actual original500square, lid clipped at top/left, below required source quality."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 500,
+    "height": 500,
+    "bytes": 37149,
+    "sha256": "88c1d697631d67e9bb2c1aa85e5b656cecd1e5c961886d4a7d606444cb9b3ed6"
+  },
+  {
+    "productId": "gc004805",
+    "variantId": "gc004805",
+    "productName": "Тени для век оттенков тени для век Farres Nude Light, 9",
+    "brand": "Farres",
+    "variant": "Стандарт",
+    "sku": "GC004805",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 799,
+    "batch": 16,
+    "status": "skipped",
+    "sourcePage": "https://img42.spclub42.ru/index.php?Itemid=28&id=417818&limitstart=1260&lot=1329337629&option=com_spcatalog&view=catalog",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused Farres Nude Light/Medium and1235 searches. Indexed wholesale row corroborates1235No02NudeMedium, but no exact usable full product original found quickly. HudaBeauty NudeObsessions results are another brand and excluded. No assumed shade mapping or substitute image.",
+    "searches": [
+      {
+        "query": "Тени для век оттенков тени для век Farres Nude Light, 9 Стандарт",
+        "url": "https://img42.spclub42.ru/index.php?Itemid=28&id=417818&limitstart=1260&lot=1329337629&option=com_spcatalog&view=catalog",
+        "note": "Focused Farres Nude Light/Medium and1235 searches. Indexed wholesale row corroborates1235No02NudeMedium, but no exact usable full product original found quickly. HudaBeauty NudeObsessions results are another brand and excluded. No assumed shade mapping or substitute image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc004806",
+    "variantId": "gc004806",
+    "productName": "Тени для век оттенков тени для век Farres Nude Medium, 9",
+    "brand": "Farres",
+    "variant": "Стандарт",
+    "sku": "GC004806",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/2"
+    ],
+    "index": 800,
+    "batch": 16,
+    "status": "skipped",
+    "sourcePage": "https://img42.spclub42.ru/index.php?Itemid=28&id=417818&limitstart=1260&lot=1329337629&option=com_spcatalog&view=catalog",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused Farres Nude Light/Medium and1235 searches. Indexed wholesale row corroborates1235No02NudeMedium, but no exact usable full product original found quickly. HudaBeauty NudeObsessions results are another brand and excluded. No assumed shade mapping or substitute image.",
+    "searches": [
+      {
+        "query": "Тени для век оттенков тени для век Farres Nude Medium, 9 Стандарт",
+        "url": "https://img42.spclub42.ru/index.php?Itemid=28&id=417818&limitstart=1260&lot=1329337629&option=com_spcatalog&view=catalog",
+        "note": "Focused Farres Nude Light/Medium and1235 searches. Indexed wholesale row corroborates1235No02NudeMedium, but no exact usable full product original found quickly. HudaBeauty NudeObsessions results are another brand and excluded. No assumed shade mapping or substitute image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  }
+]

@@ -1,0 +1,884 @@
+[
+  {
+    "productId": "gc000327",
+    "variantId": "gc000327",
+    "productName": "Скульптор-стик средство для контуринга Belor Design MULTITALENT, 01",
+    "brand": "Belor Design",
+    "variant": "Стандарт",
+    "sku": "GC000327",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 601,
+    "batch": 13,
+    "status": "skipped",
+    "sourcePage": "https://www.gosupps.com/belor-design-cream-sculptor-for-face-stic-multitalent-tone-01.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact01Multitalent sculptor7.1g confirmed by retailer search and Magnit. Best focused standalone source GoSupps returns403; no usable original recovered in quick pass. Different Multitalent highlighter/blush not substituted.",
+    "searches": [
+      {
+        "query": "Belor Design Multitalent скульптор стик01",
+        "url": "https://www.gosupps.com/belor-design-cream-sculptor-for-face-stic-multitalent-tone-01.html",
+        "note": "Exact01Multitalent sculptor7.1g confirmed by retailer search and Magnit. Best focused standalone source GoSupps returns403; no usable original recovered in quick pass. Different Multitalent highlighter/blush not substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc000574",
+    "variantId": "gc000574",
+    "productName": "Кремовый скульптор Charlotte Tilbury Hollywood Contour Wand Fair",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC000574",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 602,
+    "batch": 13,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/hollywood-contour-wand-fair",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/1A8Tm1HP1bCkNjJ3AuQK5i/d26225732d6d66374f232cacab087ac3/HCW-FAIR-LEGENDARY-PDP.png",
+    "localFile": "materials/catalog-7b/originals/b013-a/Кремовый скульптор Charlotte Tilbury Hollywood Contour Wand Fair Стандарт--gc000574.png",
+    "verification": {
+      "identity": "Official CharlotteTilbury siblings exact FAIR SKUFHCWX12X4R maps distinct1000pxPNG. Fair andMedium are separate current shades, not abbreviations forFairMedium.",
+      "volumeAndVariant": "Exact FAIR,12ml standard wand; catalogue no conflicting size.",
+      "visualReview": "Full closed rose-gold tube with true alpha and soft shadow. Physical opaque tube spans abouty96–881=785px; alpha128bounds819 includes cast shadow. Below800px physical-object minimum; no shadow-based exemption.",
+      "reviewMethod": "view_image originals-contain-overview.jpg; full white-display CT Fair/Lux01/Vitex and prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Hollywood Contour Wand fair medium fair-medium",
+        "url": "https://www.charlottetilbury.com/uk/product/hollywood-contour-wand-fair",
+        "note": "Official CharlotteTilbury siblings exact FAIR SKUFHCWX12X4R maps distinct1000pxPNG. Fair andMedium are separate current shades, not abbreviations forFairMedium. Relevant source HTML/JSON saved in artifacts/step-7b/b013-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 216653,
+    "sha256": "048b128e1dc3262b71f5ccb009d6338488c26f2c2fc31da524d71b1ecfc06794"
+  },
+  {
+    "productId": "gc000575",
+    "variantId": "gc000575",
+    "productName": "Кремовый скульптор Charlotte Tilbury Hollywood Contour Wand Medium",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC000575",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 603,
+    "batch": 13,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/hollywood-contour-wand-medium",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/2M9QFSl9oQzIImqxcG76hI/266cb743a1e71ffb54b6e92c181725ae/HCW-MEDIUM-LEGENDARY-PDP.png",
+    "localFile": "materials/catalog-7b/originals/b013-a/Кремовый скульптор Charlotte Tilbury Hollywood Contour Wand Medium Стандарт--gc000575.png",
+    "verification": {
+      "identity": "Official CharlotteTilbury siblings exact MEDIUM SKUFHCWX12X5R maps distinct1000pxPNG. Fair andMedium are separate current shades, not abbreviations forFairMedium.",
+      "volumeAndVariant": "Exact MEDIUM,12ml standard wand; catalogue no conflicting size.",
+      "visualReview": "Full closed rose-gold tube with true alpha and soft shadow. Physical opaque tube spans abouty96–881=785px; alpha128bounds819 includes cast shadow. Below800px physical-object minimum; no shadow-based exemption.",
+      "reviewMethod": "view_image originals-contain-overview.jpg; full white-display CT Fair/Lux01/Vitex and prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Hollywood Contour Wand fair medium fair-medium",
+        "url": "https://www.charlottetilbury.com/uk/product/hollywood-contour-wand-medium",
+        "note": "Official CharlotteTilbury siblings exact MEDIUM SKUFHCWX12X5R maps distinct1000pxPNG. Fair andMedium are separate current shades, not abbreviations forFairMedium. Relevant source HTML/JSON saved in artifacts/step-7b/b013-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 220028,
+    "sha256": "6aa0f200f988721e723c1b4f83244b30d82eddf48b47afa30cfcb2bbfc410279"
+  },
+  {
+    "productId": "parent-0091",
+    "variantId": "gc001423",
+    "productName": "Люкс визаж Пудра-скульптор Luxvisage",
+    "brand": "Luxvisage",
+    "variant": "01",
+    "sku": "GC001423",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 604,
+    "batch": 13,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1346998",
+    "sourceImage": "https://s.f.kz/prod/1347/1346998_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b013-a/Люкс визаж Пудра-скульптор Luxvisage 01--gc001423.jpg",
+    "verification": {
+      "identity": "Flip product1346998 exact IdealSculpting shade01 and full gallery original. Family page links each distinct shade.",
+      "volumeAndVariant": "Exact01 full dual powder compact; catalogue no size.",
+      "visualReview": "Full opened round black compact and clear lid on white with reflection below. Physical compact about840px high; reflection excluded from object bounds and800px criterion. Original is tightly trimmed, contours checked before acceptance.",
+      "reviewMethod": "view_image originals-contain-overview.jpg; full white-display CT Fair/Lux01/Vitex and prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Luxvisage пудра-скульптор01 02 03",
+        "url": "https://www.flip.kz/catalog?prod=1346998",
+        "note": "Flip product1346998 exact IdealSculpting shade01 and full gallery original. Family page links each distinct shade. Relevant source HTML/JSON saved in artifacts/step-7b/b013-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 617,
+    "height": 926,
+    "bytes": 126463,
+    "sha256": "00516ae8b31ae28c5725e01bab2e31c47dd0b10e00deb94cfcb956e4e603ea71"
+  },
+  {
+    "productId": "parent-0091",
+    "variantId": "gc001424",
+    "productName": "Люкс визаж Пудра-скульптор Luxvisage",
+    "brand": "Luxvisage",
+    "variant": "02",
+    "sku": "GC001424",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 605,
+    "batch": 13,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1347004",
+    "sourceImage": "https://s.f.kz/prod/1348/1347004_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b013-a/Люкс визаж Пудра-скульптор Luxvisage 02--gc001424.jpg",
+    "verification": {
+      "identity": "Flip product1347004 exact IdealSculpting shade02 and full gallery original. Family page links each distinct shade.",
+      "volumeAndVariant": "Exact02 full dual powder compact; catalogue no size.",
+      "visualReview": "Full opened round black compact and clear lid on white with reflection below. Physical compact about840px high; reflection excluded from object bounds and800px criterion. Original is tightly trimmed, contours checked before acceptance.",
+      "reviewMethod": "view_image originals-contain-overview.jpg; full white-display CT Fair/Lux01/Vitex and prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Luxvisage пудра-скульптор01 02 03",
+        "url": "https://www.flip.kz/catalog?prod=1347004",
+        "note": "Flip product1347004 exact IdealSculpting shade02 and full gallery original. Family page links each distinct shade. Relevant source HTML/JSON saved in artifacts/step-7b/b013-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 617,
+    "height": 926,
+    "bytes": 122934,
+    "sha256": "133e5e503aa0790b727a0ae8431c5004d683628db13d32595c0585e37ef32b13"
+  },
+  {
+    "productId": "parent-0091",
+    "variantId": "gc001425",
+    "productName": "Люкс визаж Пудра-скульптор Luxvisage",
+    "brand": "Luxvisage",
+    "variant": "03",
+    "sku": "GC001425",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 606,
+    "batch": 13,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1347010",
+    "sourceImage": "https://s.f.kz/prod/1348/1347010_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b013-a/Люкс визаж Пудра-скульптор Luxvisage 03--gc001425.jpg",
+    "verification": {
+      "identity": "Flip product1347010 exact IdealSculpting shade03 and full gallery original. Family page links each distinct shade.",
+      "volumeAndVariant": "Exact03 full dual powder compact; catalogue no size.",
+      "visualReview": "Full opened round black compact and clear lid on white with reflection below. Physical compact about840px high; reflection excluded from object bounds and800px criterion. Original is tightly trimmed, contours checked before acceptance.",
+      "reviewMethod": "view_image originals-contain-overview.jpg; full white-display CT Fair/Lux01/Vitex and prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Luxvisage пудра-скульптор01 02 03",
+        "url": "https://www.flip.kz/catalog?prod=1347010",
+        "note": "Flip product1347010 exact IdealSculpting shade03 and full gallery original. Family page links each distinct shade. Relevant source HTML/JSON saved in artifacts/step-7b/b013-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 617,
+    "height": 926,
+    "bytes": 119125,
+    "sha256": "027a4c5a0d4047139725609e94b22eddc8840ad83454f6adc194254433cf3e63"
+  },
+  {
+    "productId": "parent-0092",
+    "variantId": "gc001797",
+    "productName": "Жидкий скульптор для лица средство для контуринга SHIK Perfect Liquid Contour",
+    "brand": "SHIK",
+    "variant": "01",
+    "sku": "GC001797",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 607,
+    "batch": 13,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/en/product/skulpturiruusee-sredstvo-dla-lica-01shik-perfect-liquid-contour-01-10-gr",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/5085/variations/1735026177676a66014cee40.93370924_1080_1520_inset.webp",
+    "localFile": "materials/catalog-7b/originals/b013-a/Жидкий скульптор для лица средство для контуринга SHIK Perfect Liquid Contour 01--gc001797.webp",
+    "verification": {
+      "identity": "Official SHIK product5085 variation5085-484 exact01 maps own productPhoto, barcode in productVariations.",
+      "volumeAndVariant": "Exact0110g tube, matches liquid contour family.",
+      "visualReview": "Whole tube on opaque pale-grey studio scene with long cast shadow. Outer alpha only surrounds scene, not background behind product. Reject scene without retouching.",
+      "reviewMethod": "view_image originals-contain-overview.jpg; full white-display CT Fair/Lux01/Vitex and prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK perfect liquid contour01 02",
+        "url": "https://shikstore.ru/en/product/skulpturiruusee-sredstvo-dla-lica-01shik-perfect-liquid-contour-01-10-gr",
+        "note": "Official SHIK product5085 variation5085-484 exact01 maps own productPhoto, barcode in productVariations. Relevant source HTML/JSON saved in artifacts/step-7b/b013-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1520,
+    "bytes": 9988,
+    "sha256": "27aa065915f8a0d346fe1a3fabdbe37c6fdf27502b45ae75aefe1ae512ce788f"
+  },
+  {
+    "productId": "parent-0092",
+    "variantId": "gc001798",
+    "productName": "Жидкий скульптор для лица средство для контуринга SHIK Perfect Liquid Contour",
+    "brand": "SHIK",
+    "variant": "02",
+    "sku": "GC001798",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 608,
+    "batch": 13,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/en/product/skulpturiruusee-sredstvo-dla-lica-01shik-perfect-liquid-contour-01-10-gr",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/5085/variations/174434763867f8a1f665c085.70322569_1080_1520_inset.webp",
+    "localFile": "materials/catalog-7b/originals/b013-a/Жидкий скульптор для лица средство для контуринга SHIK Perfect Liquid Contour 02--gc001798.webp",
+    "verification": {
+      "identity": "Official SHIK product5085 variation5085-644 exact02 maps own productPhoto, barcode in productVariations.",
+      "volumeAndVariant": "Exact0210g tube, matches liquid contour family.",
+      "visualReview": "Whole tube on opaque pale-grey studio scene with long cast shadow. Outer alpha only surrounds scene, not background behind product. Reject scene without retouching.",
+      "reviewMethod": "view_image originals-contain-overview.jpg; full white-display CT Fair/Lux01/Vitex and prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK perfect liquid contour01 02",
+        "url": "https://shikstore.ru/en/product/skulpturiruusee-sredstvo-dla-lica-01shik-perfect-liquid-contour-01-10-gr",
+        "note": "Official SHIK product5085 variation5085-644 exact02 maps own productPhoto, barcode in productVariations. Relevant source HTML/JSON saved in artifacts/step-7b/b013-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1520,
+    "bytes": 10030,
+    "sha256": "33b9c8cda23aa98e19873e2ff7e1f59e63fc4c5f7d048ca58f37f9c527be99e0"
+  },
+  {
+    "productId": "gc001802",
+    "variantId": "gc001802",
+    "productName": "Запеченный скульптор для лица 01 средство для контуринга SHIK",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001802",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 609,
+    "batch": 13,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/perfect-sculptor",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/1245/1721721980669f647ca6a198.32803669_1080_1520_inset.jpg",
+    "localFile": "materials/catalog-7b/originals/b013-a/Запеченный скульптор для лица 01 средство для контуринга SHIK Стандарт--gc001802.jpg",
+    "verification": {
+      "identity": "Official SHIK product1245 PerfectSculptor baked sculptor states single natural shade; full gallery first image.",
+      "volumeAndVariant": "Single natural shade01 full white compact; catalogue no size.",
+      "visualReview": "Opened round white compact on opaque off-white staged backdrop with long shadow. Unsuitable scene for white photo, no generated cutout.",
+      "reviewMethod": "view_image originals-contain-overview.jpg; full white-display CT Fair/Lux01/Vitex and prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK запеченный скульптор01 PerfectSculptor",
+        "url": "https://shikstore.ru/product/perfect-sculptor",
+        "note": "Official SHIK product1245 PerfectSculptor baked sculptor states single natural shade; full gallery first image. Relevant source HTML/JSON saved in artifacts/step-7b/b013-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1520,
+    "bytes": 122979,
+    "sha256": "2abe0726558e14043c3c3047c03bfea079afd79378d12f5385761fef8fe67bd4"
+  },
+  {
+    "productId": "gc001829",
+    "variantId": "gc001829",
+    "productName": "Кремовый скульптор для лица 01 SHIK",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001829",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 610,
+    "batch": 13,
+    "status": "skipped",
+    "sourcePage": "https://www.flip.kz/catalog?prod=2269319",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Generic cream-contour catalogue name lacks line. Search returns PerfectCreamContour9g compact, PerfectLiquidContour10g tube and refill01. Exact format not established; cannot assume this row duplicates liquid01 already separately listed.",
+    "searches": [
+      {
+        "query": "SHIK Кремовый скульптор для лица01",
+        "url": "https://www.flip.kz/catalog?prod=2269319",
+        "note": "Generic cream-contour catalogue name lacks line. Search returns PerfectCreamContour9g compact, PerfectLiquidContour10g tube and refill01. Exact format not established; cannot assume this row duplicates liquid01 already separately listed."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc002061",
+    "variantId": "gc002061",
+    "productName": "Гиалурон Маска-скульптор для лица шеи декольте Суперлифтинг Vitex Lift 55+ 100 мл",
+    "brand": "Vitex",
+    "variant": "100мл",
+    "sku": "GC002061",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 611,
+    "batch": 13,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1502060",
+    "sourceImage": "https://s.f.kz/prod/1503/1502060_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b013-a/Гиалурон Маска-скульптор для лица шеи декольте Суперлифтинг Vitex Lift 55+ 100 мл 100--gc002061.jpg",
+    "verification": {
+      "identity": "Flip product1502060 exact HyaluronLift55+ SuperLifting mask-sculptor face/neck/decollete, linked1000px original.",
+      "volumeAndVariant": "Exact100ml as catalogue and source;55+ printed on tube.",
+      "visualReview": "Complete purple tube on very pale near-white field,1000px tall. No extraneous marks or objects. Full photo examined; preparation checks edges.",
+      "reviewMethod": "view_image originals-contain-overview.jpg; full white-display CT Fair/Lux01/Vitex and prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Витэкс Гиалурон Lift55 маска скульптор100мл",
+        "url": "https://www.flip.kz/catalog?prod=1502060",
+        "note": "Flip product1502060 exact HyaluronLift55+ SuperLifting mask-sculptor face/neck/decollete, linked1000px original. Relevant source HTML/JSON saved in artifacts/step-7b/b013-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 347,
+    "height": 1000,
+    "bytes": 82088,
+    "sha256": "3b51a784d6433c38813caefeadf8a547877cf282b479f01c01d68283b77c0167"
+  },
+  {
+    "productId": "parent-0093",
+    "variantId": "gc002806",
+    "productName": "Жидкий кремовый скульптор Rare Beauty",
+    "brand": "Rare Beauty",
+    "variant": "Gentle",
+    "sku": "GC002806",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 612,
+    "batch": 13,
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-liquid-contour?variant=42181696946311",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-SOFT-PINCH-LIQUID-CONTOUR-GENTLE.jpg?v=1762300534",
+    "localFile": "materials/catalog-7b/originals/b013-a/Жидкий кремовый скульптор Rare Beauty Gentle--gc002806.jpg",
+    "verification": {
+      "identity": "Official RareBeauty Shopify SoftPinchLiquidContour exact Gentle variant42181696946311 has own featured_image and alt.",
+      "volumeAndVariant": "Exact Gentle liquid contour, not bronzer stick.",
+      "visualReview": "Full product in beige studio scene with horizon and long cast shadow, opaqueJPG. Reject staged background, no retouching or substitute shade.",
+      "reviewMethod": "view_image originals-contain-overview.jpg; full white-display CT Fair/Lux01/Vitex and prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Rare Beauty SoftPinchLiquidContour Gentle Mellow Solace",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-liquid-contour?variant=42181696946311",
+        "note": "Official RareBeauty Shopify SoftPinchLiquidContour exact Gentle variant42181696946311 has own featured_image and alt. Relevant source HTML/JSON saved in artifacts/step-7b/b013-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1440,
+    "height": 1952,
+    "bytes": 44396,
+    "sha256": "a5496cf6166afb9db3c2c9a658f9b97939525136cda28c369df4b4b6426be048"
+  },
+  {
+    "productId": "parent-0093",
+    "variantId": "gc002807",
+    "productName": "Жидкий кремовый скульптор Rare Beauty",
+    "brand": "Rare Beauty",
+    "variant": "Mellow",
+    "sku": "GC002807",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 613,
+    "batch": 13,
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-liquid-contour?variant=43734837264519",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-SOFT-PINCH-LIQUID-CONTOUR-MELLOW.jpg?v=1736878195",
+    "localFile": "materials/catalog-7b/originals/b013-a/Жидкий кремовый скульптор Rare Beauty Mellow--gc002807.jpg",
+    "verification": {
+      "identity": "Official RareBeauty Shopify SoftPinchLiquidContour exact Mellow variant43734837264519 has own featured_image and alt.",
+      "volumeAndVariant": "Exact Mellow liquid contour, not bronzer stick.",
+      "visualReview": "Full product in beige studio scene with horizon and long cast shadow, opaqueJPG. Reject staged background, no retouching or substitute shade.",
+      "reviewMethod": "view_image originals-contain-overview.jpg; full white-display CT Fair/Lux01/Vitex and prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Rare Beauty SoftPinchLiquidContour Gentle Mellow Solace",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-liquid-contour?variant=43734837264519",
+        "note": "Official RareBeauty Shopify SoftPinchLiquidContour exact Mellow variant43734837264519 has own featured_image and alt. Relevant source HTML/JSON saved in artifacts/step-7b/b013-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1440,
+    "height": 1952,
+    "bytes": 44941,
+    "sha256": "d5619713fb880d0676ee6c4f8d62832729434049d14701ea3c8936f0a82b5888"
+  },
+  {
+    "productId": "parent-0093",
+    "variantId": "gc002808",
+    "productName": "Жидкий кремовый скульптор Rare Beauty",
+    "brand": "Rare Beauty",
+    "variant": "Solace",
+    "sku": "GC002808",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 614,
+    "batch": 13,
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/soft-pinch-liquid-contour?variant=43734837297287",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-SOFT-PINCH-LIQUID-CONTOUR-SOLACE.jpg?v=1737609699",
+    "localFile": "materials/catalog-7b/originals/b013-a/Жидкий кремовый скульптор Rare Beauty Solace--gc002808.jpg",
+    "verification": {
+      "identity": "Official RareBeauty Shopify SoftPinchLiquidContour exact Solace variant43734837297287 has own featured_image and alt.",
+      "volumeAndVariant": "Exact Solace liquid contour, not bronzer stick.",
+      "visualReview": "Full product in beige studio scene with horizon and long cast shadow, opaqueJPG. Reject staged background, no retouching or substitute shade.",
+      "reviewMethod": "view_image originals-contain-overview.jpg; full white-display CT Fair/Lux01/Vitex and prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Rare Beauty SoftPinchLiquidContour Gentle Mellow Solace",
+        "url": "https://www.rarebeauty.com/products/soft-pinch-liquid-contour?variant=43734837297287",
+        "note": "Official RareBeauty Shopify SoftPinchLiquidContour exact Solace variant43734837297287 has own featured_image and alt. Relevant source HTML/JSON saved in artifacts/step-7b/b013-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1440,
+    "height": 1952,
+    "bytes": 45330,
+    "sha256": "eefe5b816c8126430c23ae2529913b7726ce08e9391920a9ff8ee170dcb9011c"
+  },
+  {
+    "productId": "gc002809",
+    "variantId": "gc002809",
+    "productName": "Жидкий скульптор для лица средство для контуринга Charlotte Tilbury «Fair-medium»",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC002809",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 615,
+    "batch": 13,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/hollywood-contour-wand-light-medium",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/4bcXYILWdLaJJ2HBIvNWxT/5b03ead4d7c537874fb90baa3db92be4/HCW-FAIRMEDIUM-LEGENDARY-PDP.png",
+    "localFile": "materials/catalog-7b/originals/b013-a/Жидкий скульптор для лица средство для контуринга Charlotte Tilbury «Fair-medium» Ста--gc002809.png",
+    "verification": {
+      "identity": "Official CharlotteTilbury siblings exact FAIR-MEDIUM SKUFHCWX12X1R22 maps distinct1000pxPNG. Fair andMedium are separate current shades, not abbreviations forFairMedium.",
+      "volumeAndVariant": "Exact FAIR-MEDIUM,12ml standard wand; catalogue no conflicting size.",
+      "visualReview": "Full closed rose-gold tube with true alpha and soft shadow. Physical opaque tube spans abouty96–881=785px; alpha128bounds819 includes cast shadow. Below800px physical-object minimum; no shadow-based exemption.",
+      "reviewMethod": "view_image originals-contain-overview.jpg; full white-display CT Fair/Lux01/Vitex and prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Hollywood Contour Wand fair medium fair-medium",
+        "url": "https://www.charlottetilbury.com/uk/product/hollywood-contour-wand-light-medium",
+        "note": "Official CharlotteTilbury siblings exact FAIR-MEDIUM SKUFHCWX12X1R22 maps distinct1000pxPNG. Fair andMedium are separate current shades, not abbreviations forFairMedium. Relevant source HTML/JSON saved in artifacts/step-7b/b013-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 217103,
+    "sha256": "6619807d0e2257b80cfc2f40e910bd7713f150ed6a193fcfd6249abae76dee65"
+  },
+  {
+    "productId": "gc003092",
+    "variantId": "gc003092",
+    "productName": "Контурирующий мини-стик средство для контуринга Makeup by Mario Medium 4 г",
+    "brand": "Makeup by Mario",
+    "variant": "Стандарт",
+    "sku": "GC003092",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 616,
+    "batch": 13,
+    "status": "verified",
+    "sourcePage": "https://www.makeupbymario.com/products/mini-softsculpt-shaping-stick?variant=42094031241281",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0275/4822/1505/files/MBM_SHAPINGSTICK_MINI_PACKSHOT_MEDIUM_2000x2000_d6c8be9b-ba2f-46f7-8d90-46f8a5ae4818.jpg?v=1743537248",
+    "localFile": "materials/catalog-7b/originals/b013-a/Контурирующий мини-стик средство для контуринга Makeup by Mario Medium 4 г Стандарт--gc003092.jpg",
+    "verification": {
+      "identity": "Official Mario MiniSoftSculptShapingStick Shopify exact(Mini)Medium variant42094031241281, not full-size stick.",
+      "volumeAndVariant": "Exact mini4g Medium, confirmed official product and shop listing.",
+      "visualReview": "Complete white stick on opaque grey scene with large dark cast shadow; unacceptable backdrop without retouching.",
+      "reviewMethod": "view_image originals-contain-overview.jpg; full white-display CT Fair/Lux01/Vitex and prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Makeup by Mario mini SoftSculpt Shaping Stick Medium4g",
+        "url": "https://www.makeupbymario.com/products/mini-softsculpt-shaping-stick?variant=42094031241281",
+        "note": "Official Mario MiniSoftSculptShapingStick Shopify exact(Mini)Medium variant42094031241281, not full-size stick. Relevant source HTML/JSON saved in artifacts/step-7b/b013-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 62917,
+    "sha256": "9af936ab306aac2a9cda4701e76677e49d32c069b832064b53fadd680d1545d4"
+  },
+  {
+    "productId": "gc003136",
+    "variantId": "gc003136",
+    "productName": "Крем для области вокруг глаз Genosys Eye Contour Cream 20 мл",
+    "brand": "Genosys",
+    "variant": "20 мл",
+    "sku": "GC003136",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 617,
+    "batch": 13,
+    "status": "skipped",
+    "sourcePage": "https://genosys.ru/catalog/eyecell-sistem-uhoda-za-oblastyu-vokrug-glaz/eyecell-eye-contour-cream/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official search identifies20ml EyeContourCream, but fetched source currently only provides EyeCellCareKit image, not standalone20ml cream photo. Whole kit image not substituted; no usable exact original in quick pass.",
+    "searches": [
+      {
+        "query": "Genosys Eye Contour Cream20ml official",
+        "url": "https://genosys.ru/catalog/eyecell-sistem-uhoda-za-oblastyu-vokrug-glaz/eyecell-eye-contour-cream/",
+        "note": "Official search identifies20ml EyeContourCream, but fetched source currently only provides EyeCellCareKit image, not standalone20ml cream photo. Whole kit image not substituted; no usable exact original in quick pass."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0094",
+    "variantId": "gc003229",
+    "productName": "Кремовый скульптор Rare Beauty",
+    "brand": "Rare Beauty",
+    "variant": "Bright Side",
+    "sku": "GC003229",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 618,
+    "batch": 13,
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/warm-wishes-effortless-bronzer-stick?variant=43734831169671",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/products/warm-wishes-effortless-bronzer-stick-ecomm-bright-side-1440x1952.jpg?v=1679684558",
+    "localFile": "materials/catalog-7b/originals/b013-a/Кремовый скульптор Rare Beauty Bright Side--gc003229.jpg",
+    "verification": {
+      "identity": "Official RareBeauty Shopify WarmWishesEffortlessBronzerStick exact Bright Side variant43734831169671 has own featured_image and alt.",
+      "volumeAndVariant": "Exact Bright Side cream bronzer stick, not liquid contour.",
+      "visualReview": "Full product in beige studio scene with horizon and long cast shadow, opaqueJPG. Reject staged background, no retouching or substitute shade.",
+      "reviewMethod": "view_image originals-contain-overview.jpg; full white-display CT Fair/Lux01/Vitex and prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Rare Beauty WarmWishesEffortlessBronzerStick BrightSide HappySol",
+        "url": "https://www.rarebeauty.com/products/warm-wishes-effortless-bronzer-stick?variant=43734831169671",
+        "note": "Official RareBeauty Shopify WarmWishesEffortlessBronzerStick exact Bright Side variant43734831169671 has own featured_image and alt. Relevant source HTML/JSON saved in artifacts/step-7b/b013-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1440,
+    "height": 1952,
+    "bytes": 77177,
+    "sha256": "cdd5ef6ff55a5743ea603ba30bd5f8ac08c222fd61f658c172b47b64c9b3ab74"
+  },
+  {
+    "productId": "parent-0094",
+    "variantId": "gc003230",
+    "productName": "Кремовый скульптор Rare Beauty",
+    "brand": "Rare Beauty",
+    "variant": "Happy Sol",
+    "sku": "GC003230",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/7"
+    ],
+    "index": 619,
+    "batch": 13,
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/warm-wishes-effortless-bronzer-stick?variant=43734831038599",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/products/Bronzer-Stick-Happy-Sol-SKU.jpg?v=1679684558",
+    "localFile": "materials/catalog-7b/originals/b013-a/Кремовый скульптор Rare Beauty Happy Sol--gc003230.jpg",
+    "verification": {
+      "identity": "Official RareBeauty Shopify WarmWishesEffortlessBronzerStick exact Happy Sol variant43734831038599 has own featured_image and alt.",
+      "volumeAndVariant": "Exact Happy Sol cream bronzer stick, not liquid contour.",
+      "visualReview": "Full product in beige studio scene with horizon and long cast shadow, opaqueJPG. Reject staged background, no retouching or substitute shade.",
+      "reviewMethod": "view_image originals-contain-overview.jpg; full white-display CT Fair/Lux01/Vitex and prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Rare Beauty WarmWishesEffortlessBronzerStick BrightSide HappySol",
+        "url": "https://www.rarebeauty.com/products/warm-wishes-effortless-bronzer-stick?variant=43734831038599",
+        "note": "Official RareBeauty Shopify WarmWishesEffortlessBronzerStick exact Happy Sol variant43734831038599 has own featured_image and alt. Relevant source HTML/JSON saved in artifacts/step-7b/b013-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1440,
+    "height": 1952,
+    "bytes": 55967,
+    "sha256": "d552fdb04fe0fb58da7e6f392334e269a65cf44613e443eda4bd768ebab38529"
+  }
+]

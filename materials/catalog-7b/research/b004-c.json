@@ -1,0 +1,321 @@
+[
+  {
+    "index": 190,
+    "productId": "gc000572",
+    "variantId": "gc000572",
+    "productName": "Крем для лица Lumene SPF20 Ultra Light 30 мл",
+    "variant": "30 мл",
+    "status": "skipped",
+    "sourcePage": "https://www.boots.com/beauty/makeup/face/cc-cream/lumene-cc-color-correcting-cream-spf20-30ml-10348234?catalogId=28501&storeId=11352",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog says only Lumene face cream SPF20 Ultra Light30ml. Search finds CC Colour Correcting and Matte Oil-control foundations with those shade/size/SPF terms. Catalog does not name CC or Matte; cannot choose packaging by guess.",
+    "searches": [
+      {
+        "query": "Lumene Ultra Light SPF20 30 cream",
+        "url": "https://www.boots.com/beauty/makeup/face/cc-cream/lumene-cc-color-correcting-cream-spf20-30ml-10348234?catalogId=28501&storeId=11352",
+        "note": "CC source confirms a plausible but not uniquely identifiable model; generic catalog name remains ambiguous."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 191,
+    "productId": "gc000573",
+    "variantId": "gc000573",
+    "productName": "Крем с лифтинг-эффектом Secret Key V-line Lift Up CC Cream",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.secretkey.ru/catalog/secret-key-v-line-lift-up-cc-cream-ss-krem-s-lifting-effektom-30ml-",
+    "sourceImage": "https://www.secretkey.ru/images/catalog/secret-key-v-line-lift-up-cc-cream-ss-krem-s-lifting-effektom-30ml-/1.jpg",
+    "localFile": "materials/catalog-7b/originals/b004-c/Крем с лифтинг-эффектом Secret Key V-line Lift Up CC Cream Стандарт--gc000573.jpg",
+    "verification": {
+      "identity": "Secret Key V-Line Lift Up CC Cream from brand Russian product page, main image.",
+      "volumeAndVariant": "Catalog has no volume; exact named product is30ml with universal adapting shade, no separate shade selection on source.",
+      "visualReview": "Whole black tube on white; no watermark. Canvas702x800, actual tube smaller than800 pixels.",
+      "reviewMethod": "view_image original and source overview, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Secret Key V Line Lift Up CC Cream30ml",
+        "url": "https://www.secretkey.ru/catalog/secret-key-v-line-lift-up-cc-cream-ss-krem-s-lifting-effektom-30ml-",
+        "note": "Secret Key V-Line Lift Up CC Cream from brand Russian product page, main image."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 702,
+    "height": 800,
+    "format": "JPEG",
+    "bytes": 90845,
+    "sha256": "ba9123f279e7e5490b96eb5b1d6609050a83f8ac77e7f89310f2eb5215b50ecf"
+  },
+  {
+    "index": 192,
+    "productId": "gc000580",
+    "variantId": "gc000580",
+    "productName": "Блок сменный для тональной основы-кушона Chupa Chups SPF50+ PA++++ Strawberry",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://hellobeauty.kg/shop/filter/2.html?brand=78",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog Strawberry refill has no numbered shade. Current Candy Glow refill sources distinguish1.0Ivory/2.0Shell/3.0Fair; Strawberry may denote design/scent but cannot uniquely establish shade. Full compact photo cannot substitute refill.",
+    "searches": [
+      {
+        "query": "Chupa Chups кушон сменный Strawberry",
+        "url": "https://hellobeauty.kg/shop/filter/2.html?brand=78",
+        "note": "Source collection and exact Shell/Fair refill pages confirm multiple distinct refills; Strawberry row not safely matched."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 193,
+    "productId": "parent-0020",
+    "variantId": "gc000581",
+    "productName": "Сменный блок для тональной основы-кушона в оттенке Chupa Chups",
+    "variant": "2.0 Shell",
+    "status": "verified",
+    "sourcePage": "https://market.o.kg/bishkek/krasota-i-uhod/dekorativnaja-kosmetika/product/e51718de-3d16-43c9-9bfa-d6696a245388/smennyj-blok-dlja-kushona-chupa-chups-ton-20-shell-14-g?is_default_variation=1549087",
+    "sourceImage": "https://cdn.omarket.kg/ads/mMtQyrOrhWMq7akTEPzd9EAAHLtuJ5nINtRAZW09DzspL5gEil.WEBP",
+    "localFile": "materials/catalog-7b/originals/b004-c/Сменный блок для тональной основы-кушона в оттенке Chupa Chups 2.0 Shell--gc000581.webp",
+    "verification": {
+      "identity": "Dedicated Chupa Chups Candy Glow refill2.0Shell14g page and its og:image.",
+      "volumeAndVariant": "Catalog requested refill and matching shade; source14g. Image depicts refill cartridge and puff, not complete compact.",
+      "visualReview": "Whole refill but visible O!Market watermark at lower right. Retained for evidence; not prepared or watermark-removed.",
+      "reviewMethod": "view_image original and source overview, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Chupa Chups сменный блок2.0Shell",
+        "url": "https://market.o.kg/bishkek/krasota-i-uhod/dekorativnaja-kosmetika/product/e51718de-3d16-43c9-9bfa-d6696a245388/smennyj-blok-dlja-kushona-chupa-chups-ton-20-shell-14-g?is_default_variation=1549087",
+        "note": "Dedicated Chupa Chups Candy Glow refill2.0Shell14g page and its og:image."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1080,
+    "format": "WEBP",
+    "bytes": 79454,
+    "sha256": "cadf1a9e6891dc931862854808a4f1d919f6256cfb4a4feaca2c6e814a1b34d4"
+  },
+  {
+    "index": 194,
+    "productId": "parent-0020",
+    "variantId": "gc000582",
+    "productName": "Сменный блок для тональной основы-кушона в оттенке Chupa Chups",
+    "variant": "3.0 FAIR",
+    "status": "verified",
+    "sourcePage": "https://market.o.kg/bishkek/krasota-i-uhod/dekorativnaja-kosmetika/product/384a5ed0-61c1-46ff-8d6f-dd052212375a/smennyj-blok-dlja-kushona-chupa-chups-ton-30-fair-14-g?is_default_variation=1549125",
+    "sourceImage": "https://cdn.omarket.kg/ads/bCpn80tnOsPabzbwsuFH6Wgb1tQ3VgYZQZepjXBlJFYgm5XVAE.WEBP",
+    "localFile": "materials/catalog-7b/originals/b004-c/Сменный блок для тональной основы-кушона в оттенке Chupa Chups 3.0 FAIR--gc000582.webp",
+    "verification": {
+      "identity": "Dedicated Chupa Chups Candy Glow refill3.0Fair14g page and its og:image.",
+      "volumeAndVariant": "Catalog requested refill and matching shade; source14g. Image depicts refill cartridge and puff, not complete compact.",
+      "visualReview": "Whole refill but visible O!Market watermark at lower right. Retained for evidence; not prepared or watermark-removed.",
+      "reviewMethod": "view_image original and source overview, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Chupa Chups сменный блок3.0Fair",
+        "url": "https://market.o.kg/bishkek/krasota-i-uhod/dekorativnaja-kosmetika/product/384a5ed0-61c1-46ff-8d6f-dd052212375a/smennyj-blok-dlja-kushona-chupa-chups-ton-30-fair-14-g?is_default_variation=1549125",
+        "note": "Dedicated Chupa Chups Candy Glow refill3.0Fair14g page and its og:image."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1080,
+    "format": "WEBP",
+    "bytes": 62462,
+    "sha256": "a5f93f08e4fac681821aff0abdf81a314b4ee74eeba94239118592ac808b6e14"
+  },
+  {
+    "index": 195,
+    "productId": "gc000793",
+    "variantId": "gc000793",
+    "productName": "Крем Elizavecca Milky Piggy BB 50 мл",
+    "variant": "50 мл",
+    "status": "verified",
+    "sourcePage": "https://www.elizavecca.com/goods/goods_view.php?goodsNo=742",
+    "sourceImage": "https://gi.esmplus.com/macill/banner/renewal/bb_cream.jpg",
+    "localFile": "materials/catalog-7b/originals/b004-c/Крем Elizavecca Milky Piggy BB 50 мл 50 мл--gc000793.jpg",
+    "verification": {
+      "identity": "Official Elizavecca Milky Piggy BB cream product742 and main image.",
+      "volumeAndVariant": "Official capacity50ml and single listed product match catalog50ml.",
+      "visualReview": "Complete green/red BB tube on white, no watermark; original only500x500, insufficient detail.",
+      "reviewMethod": "view_image original and source overview, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Elizavecca Milky Piggy BB cream50ml official",
+        "url": "https://www.elizavecca.com/goods/goods_view.php?goodsNo=742",
+        "note": "Official Elizavecca Milky Piggy BB cream product742 and main image."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 500,
+    "height": 500,
+    "format": "JPEG",
+    "bytes": 109377,
+    "sha256": "4d7d4d64c092e199dc44e68a2e87587804da0221c2276fae2d71eeea95347cd1"
+  },
+  {
+    "index": 196,
+    "productId": "parent-0021",
+    "variantId": "gc000993",
+    "productName": "Ухаживающий кушон с тонирующим эффектом Genosys BB",
+    "variant": "01",
+    "status": "verified",
+    "sourcePage": "https://genosys-france.com/products/skin-caring-blemish-balm-cushion",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0890/4861/3200/files/Skin-Caring-Blemish-Balm-Cushion-01-Ivory.jpg?v=1744633225",
+    "localFile": "materials/catalog-7b/originals/b004-c/Ухаживающий кушон с тонирующим эффектом Genosys BB 01--gc000993.jpg",
+    "verification": {
+      "identity": "Genosys Skin Caring Blemish Balm Cushion 01Ivory. Shopify variant featured_image explicitly binds correct image to chosen shade; exact compact is visible.",
+      "volumeAndVariant": "Catalog specifies shade only. Official distributor offers15g compact plus refill; photo shows compact only, no extra set contents or volume inferred in catalog.",
+      "visualReview": "Full open black-and-gold compact, distinct actual shade, plain white background, no watermark or clipping. Original2048square.",
+      "reviewMethod": "view_image original and source overview, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Genosys BB cushion01 02",
+        "url": "https://genosys-france.com/products/skin-caring-blemish-balm-cushion",
+        "note": "Genosys Skin Caring Blemish Balm Cushion 01Ivory. Shopify variant featured_image explicitly binds correct image to chosen shade; exact compact is visible."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2048,
+    "height": 2048,
+    "format": "JPEG",
+    "bytes": 202855,
+    "sha256": "a14eed73a46e64670a382eec8d52ebbd0cef987a74e2e576e72ad6b25667a277"
+  },
+  {
+    "index": 197,
+    "productId": "parent-0021",
+    "variantId": "gc000994",
+    "productName": "Ухаживающий кушон с тонирующим эффектом Genosys BB",
+    "variant": "02",
+    "status": "verified",
+    "sourcePage": "https://genosys-france.com/products/skin-caring-blemish-balm-cushion",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0890/4861/3200/files/Skin-Caring-Blemish-Balm-Cushion-02-Beige.jpg?v=1744633228",
+    "localFile": "materials/catalog-7b/originals/b004-c/Ухаживающий кушон с тонирующим эффектом Genosys BB 02--gc000994.jpg",
+    "verification": {
+      "identity": "Genosys Skin Caring Blemish Balm Cushion 02Beige. Shopify variant featured_image explicitly binds correct image to chosen shade; exact compact is visible.",
+      "volumeAndVariant": "Catalog specifies shade only. Official distributor offers15g compact plus refill; photo shows compact only, no extra set contents or volume inferred in catalog.",
+      "visualReview": "Full open black-and-gold compact, distinct actual shade, plain white background, no watermark or clipping. Original2048square.",
+      "reviewMethod": "view_image original and source overview, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Genosys BB cushion01 02",
+        "url": "https://genosys-france.com/products/skin-caring-blemish-balm-cushion",
+        "note": "Genosys Skin Caring Blemish Balm Cushion 02Beige. Shopify variant featured_image explicitly binds correct image to chosen shade; exact compact is visible."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2048,
+    "height": 2048,
+    "format": "JPEG",
+    "bytes": 187806,
+    "sha256": "daaf234341de59eb8f1270705000f9604ad7485fcb5cbc2e25a55f0e8f477037"
+  },
+  {
+    "index": 198,
+    "productId": "gc000997",
+    "variantId": "gc000997",
+    "productName": "Солнцезащитный матирующий BB крем-бальзам Genosys Blemish Balm Cream SPF30 PA++ 50 мл",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://genosys.ru/catalog/kremy/intensive-blemish-balm-cream-spf-30-pa/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog specifies50ml, official Russian page specifies50g and UAE current Intensive variant is40g. Mass and volume are not interchangeable; exact50ml packaging not confirmed in quick pass.",
+    "searches": [
+      {
+        "query": "Genosys Blemish Balm Cream SPF30 50ml",
+        "url": "https://genosys.ru/catalog/kremy/intensive-blemish-balm-cream-spf-30-pa/",
+        "note": "Official Russian page volume line is50g; no catalog correction or guessed replacement."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 199,
+    "productId": "parent-0022",
+    "variantId": "gc001220",
+    "productName": "Крем невесты La Sultane de Saba",
+    "variant": "100 мл",
+    "status": "verified",
+    "sourcePage": "https://lasultanedesabausa.com/products/bb-moisturizing-creme-brides-rose",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0566/2792/1069/products/BB1000x1500_3.jpg?v=1644527209",
+    "localFile": "materials/catalog-7b/originals/b004-c/Крем невесты La Sultane de Saba 100 мл--gc001220.jpg",
+    "verification": {
+      "identity": "Official US La Sultane de Saba BB Moisturizing Creme Brides Rose; Shopify100ml variant featured_image explicitly bound to this file.",
+      "volumeAndVariant": "Exact100ml variant selected, distinct packaging from other size.",
+      "visualReview": "Entire100ml jar, white background with strong right shadow; faint square W mark visible over lower-right glass, treated as watermark and rejected.",
+      "reviewMethod": "view_image original and source overview, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "La Sultane de Saba creme mariee100ml50ml",
+        "url": "https://lasultanedesabausa.com/products/bb-moisturizing-creme-brides-rose",
+        "note": "Official US La Sultane de Saba BB Moisturizing Creme Brides Rose; Shopify100ml variant featured_image explicitly bound to this file."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1500,
+    "format": "JPEG",
+    "bytes": 103672,
+    "sha256": "9c0d16514dee4927af6fd9076bf17dd47360dcd225280738295c6d9f4af2deaa"
+  },
+  {
+    "index": 200,
+    "productId": "parent-0022",
+    "variantId": "gc001221",
+    "productName": "Крем невесты La Sultane de Saba",
+    "variant": "50 мл",
+    "status": "verified",
+    "sourcePage": "https://lasultanedesabausa.com/products/bb-moisturizing-creme-brides-rose",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0566/2792/1069/files/bb-50ml_Large_78e3f513-c348-49a2-a89f-9d1a450c51a6.jpg?v=1762274788",
+    "localFile": "materials/catalog-7b/originals/b004-c/Крем невесты La Sultane de Saba 50 мл--gc001221.jpg",
+    "verification": {
+      "identity": "Official US La Sultane de Saba BB Moisturizing Creme Brides Rose; Shopify50ml variant featured_image explicitly bound to this file.",
+      "volumeAndVariant": "Exact50ml variant selected, distinct packaging from other size.",
+      "visualReview": "50ml jar and box, whole objects on white with soft cast shadow. Actual object group about770px long side, below800; no quality exception.",
+      "reviewMethod": "view_image original and source overview, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "La Sultane de Saba creme mariee100ml50ml",
+        "url": "https://lasultanedesabausa.com/products/bb-moisturizing-creme-brides-rose",
+        "note": "Official US La Sultane de Saba BB Moisturizing Creme Brides Rose; Shopify50ml variant featured_image explicitly bound to this file."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1024,
+    "height": 1280,
+    "format": "JPEG",
+    "bytes": 79587,
+    "sha256": "98e9b43051c78800a0725d6280beaec623e5ed641e487c4e10b6fec51d8e94a4"
+  }
+]

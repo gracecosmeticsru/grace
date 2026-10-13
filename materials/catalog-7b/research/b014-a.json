@@ -1,0 +1,569 @@
+[
+  {
+    "index": 651,
+    "productId": "parent-0100",
+    "variantId": "gc003225",
+    "productName": "Кремовый бронзер Pixi",
+    "variant": "WarmGlow",
+    "sourcePage": "https://www.pixibeauty.com/products/on-the-glow-bronze.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/1463/5858/files/PDP_OTG-BRONZE-WarmGlow_225551b7-d644-408f-8946-e5ba940fee2f.jpg?v=1730315043",
+    "localFile": "materials/catalog-7b/originals/b014-a/Кремовый бронзер Pixi WarmGlow--gc003225.jpg",
+    "verification": {
+      "identity": "Official On-the-Glow Bronze, exact WarmGlow variant 39487828951136 maps featured_image 31382916268128 to retained original.",
+      "volumeAndVariant": "Exact WarmGlow shade and On-the-Glow Bronze line; catalog no weight.",
+      "visualReview": "Full-fit original visually inspected. Official exact WarmGlow source is only600square, product cropped at left/bottom, with external shade caption and smear. No unsuitable image accepted.",
+      "reviewMethod": "Exact source mapping plus full-fit originals and prepared output visual review. Independent physical object bbox excludes shadow; alpha flattened for viewing only.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:pixibeauty.com bronze stick; reuse b013-c official family",
+        "url": "https://www.pixibeauty.com/products/on-the-glow-bronze.js",
+        "note": "Official On-the-Glow Bronze, exact WarmGlow variant 39487828951136 maps featured_image 31382916268128 to retained original."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 600,
+    "height": 600,
+    "format": "JPEG",
+    "bytes": 85291,
+    "sha256": "e795b69c80249ad5106ccf3733d57986a0ed0588e717c3cabe57c152f1b38f96"
+  },
+  {
+    "index": 652,
+    "productId": "parent-0101",
+    "variantId": "gc003227",
+    "productName": "Кремовый бронзер Rhode",
+    "variant": "Pebble",
+    "sourcePage": "https://www.rhodeskin.com/products/pocket-bronze-pebble.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0606/5451/8510/files/pebble-main.png?v=1780103534",
+    "localFile": "materials/catalog-7b/originals/b014-a/Кремовый бронзер Rhode Pebble--gc003227.png",
+    "verification": {
+      "identity": "Official standalone pocket bronze pebble product, variant47995017036014 default. Own product featured_image retained; title and shade-specific filename match.",
+      "volumeAndVariant": "Official Pocket Bronze5.3g cream bronzer in exact named shade. Catalog no contrary weight; not Pocket Blush.",
+      "visualReview": "Original and prepared output visually viewed: complete correct stick on white. Physical object514x900px, measured without shadow;1200square with1020px product. Original shadow preserved, no clipping/watermark.",
+      "reviewMethod": "Exact source mapping plus full-fit originals and prepared output visual review. Independent physical object bbox excludes shadow; alpha flattened for viewing only.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rhodeskin.com/products pebble",
+        "url": "https://www.rhodeskin.com/products/pocket-bronze-pebble.js",
+        "note": "Official standalone pocket bronze pebble product, variant47995017036014 default. Own product featured_image retained; title and shade-specific filename match."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 408088,
+    "sha256": "cc842f0848f2f1f84719330a8bfde64434606b7753d8b2c7a5f5b9463eeaa67b"
+  },
+  {
+    "index": 653,
+    "productId": "parent-0101",
+    "variantId": "gc003226",
+    "productName": "Кремовый бронзер Rhode",
+    "variant": "Sip",
+    "sourcePage": "https://www.rhodeskin.com/products/pocket-bronze-sip.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0606/5451/8510/files/sip-main.png?v=1780103534",
+    "localFile": "materials/catalog-7b/originals/b014-a/Кремовый бронзер Rhode Sip--gc003226.png",
+    "verification": {
+      "identity": "Official standalone pocket bronze sip product, variant48000662864110 default. Own product featured_image retained; title and shade-specific filename match.",
+      "volumeAndVariant": "Official Pocket Bronze5.3g cream bronzer in exact named shade. Catalog no contrary weight; not Pocket Blush.",
+      "visualReview": "Original and prepared output visually viewed: complete correct stick on white. Physical object514x900px, measured without shadow;1200square with1020px product. Original shadow preserved, no clipping/watermark.",
+      "reviewMethod": "Exact source mapping plus full-fit originals and prepared output visual review. Independent physical object bbox excludes shadow; alpha flattened for viewing only.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rhodeskin.com pebble sip",
+        "url": "https://www.rhodeskin.com/products/pocket-bronze-sip.js",
+        "note": "Official standalone pocket bronze sip product, variant48000662864110 default. Own product featured_image retained; title and shade-specific filename match."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 406982,
+    "sha256": "de13298da3562f74067347e04a71a3e9ccafe0f8fb6c7df0e4b2f59d7dc2d418"
+  },
+  {
+    "index": 654,
+    "productId": "gc003308",
+    "variantId": "gc003308",
+    "productName": "Лосьон для загара в солярии и на солнце максимальный Radical Tan Super Dark без бронзаторов",
+    "variant": "Стандарт",
+    "sourcePage": "https://mytan.ru/products/radical-super-dark%20",
+    "sourceImage": "https://mytan.ru/files/products/super-dark.540x864.jpg",
+    "localFile": "materials/catalog-7b/originals/b014-a/Лосьон для загара в солярии и на солнце максимальный Radical Tan Super Dark без бронз--gc003308.jpg",
+    "verification": {
+      "identity": "MyTan exact Radical Super Dark tanning spray page with direct full photo link, without bronzers.",
+      "volumeAndVariant": "Source identifies standalone165ml bottle; catalog no volume. Candidate rejected as scene, not published.",
+      "visualReview": "Full-fit original visually inspected. Product appears in a gray floral still-life scene. Unsuitable for simple white catalog preparation; no scene replacement.",
+      "reviewMethod": "Exact source mapping plus full-fit originals and prepared output visual review. Independent physical object bbox excludes shadow; alpha flattened for viewing only.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Radical Tan Super Dark без бронзаторов лосьон",
+        "url": "https://mytan.ru/products/radical-super-dark%20",
+        "note": "MyTan exact Radical Super Dark tanning spray page with direct full photo link, without bronzers."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 540,
+    "height": 864,
+    "format": "JPEG",
+    "bytes": 100253,
+    "sha256": "a027558c8b0fb161a4e8a4bf1465ba94881dd0ea2177e5f19b7fe7f9805f2551"
+  },
+  {
+    "index": 655,
+    "productId": "gc003441",
+    "variantId": "gc003441",
+    "productName": "Матовая пудра-бронзер Rare Beauty SUMMER FEELS 9 г",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.rarebeauty.com/products/warm-wishes-soft-matte-powder-bronzer.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-WW-POWDER-BRONZER-SUMMER-FEELS.jpg?v=1767661488",
+    "localFile": "materials/catalog-7b/originals/b014-a/Матовая пудра-бронзер Rare Beauty SUMMER FEELS 9 г Стандарт--gc003441.jpg",
+    "verification": {
+      "identity": "Official Warm Wishes Soft Matte Powder Bronzer, exact Summer Feels variant 43631141683335 maps featured_image 38422237184135 to retained original.",
+      "volumeAndVariant": "Exact powder bronzer shade; standard9g corroborated by Sephora P519902. No stick bronzer substitution.",
+      "visualReview": "Full-fit original visually inspected. Exact shade original is a beige studio scene with horizon and cast shadow, unsuitable for simple white preparation. No retouching or shadow clipping attempted.",
+      "reviewMethod": "Exact source mapping plus full-fit originals and prepared output visual review. Independent physical object bbox excludes shadow; alpha flattened for viewing only.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com SUMMER FEELS bronzer; Rare Beauty Warm Wishes Soft Matte Powder Bronzer9g",
+        "url": "https://www.rarebeauty.com/products/warm-wishes-soft-matte-powder-bronzer.js",
+        "note": "Official Warm Wishes Soft Matte Powder Bronzer, exact Summer Feels variant 43631141683335 maps featured_image 38422237184135 to retained original."
+      },
+      {
+        "query": "Rare Beauty Warm Wishes Soft Matte Powder Bronzer9g",
+        "url": "https://www.sephora.com/product/warm-wishes-soft-matte-powder-bronzer-P519902?skuId=2936284",
+        "note": "Standard9g family size, selected Warmed Up; official variant JSON separately establishes each exact shade image."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 106650,
+    "sha256": "be1ea7a5bd9dfdc7875a73b1b18d19162b5dba7aba1185cdb5b5ea6196c95674"
+  },
+  {
+    "index": 656,
+    "productId": "gc003442",
+    "variantId": "gc003442",
+    "productName": "Матовая пудра-бронзер Rare Beauty SUN BLAZE 9 г",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.rarebeauty.com/products/warm-wishes-soft-matte-powder-bronzer.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-WW-POWDER-BRONZER-SUN-BLAZE.jpg?v=1767661584",
+    "localFile": "materials/catalog-7b/originals/b014-a/Матовая пудра-бронзер Rare Beauty SUN BLAZE 9 г Стандарт--gc003442.jpg",
+    "verification": {
+      "identity": "Official Warm Wishes Soft Matte Powder Bronzer, exact Sun Blaze variant 43734767665287 maps featured_image 38422276440199 to retained original.",
+      "volumeAndVariant": "Exact powder bronzer shade; standard9g corroborated by Sephora P519902. No stick bronzer substitution.",
+      "visualReview": "Full-fit original visually inspected. Exact shade original is a beige studio scene with horizon and cast shadow, unsuitable for simple white preparation. No retouching or shadow clipping attempted.",
+      "reviewMethod": "Exact source mapping plus full-fit originals and prepared output visual review. Independent physical object bbox excludes shadow; alpha flattened for viewing only.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com SUMMER FEELS bronzer; Rare Beauty Warm Wishes Soft Matte Powder Bronzer9g",
+        "url": "https://www.rarebeauty.com/products/warm-wishes-soft-matte-powder-bronzer.js",
+        "note": "Official Warm Wishes Soft Matte Powder Bronzer, exact Sun Blaze variant 43734767665287 maps featured_image 38422276440199 to retained original."
+      },
+      {
+        "query": "Rare Beauty Warm Wishes Soft Matte Powder Bronzer9g",
+        "url": "https://www.sephora.com/product/warm-wishes-soft-matte-powder-bronzer-P519902?skuId=2936284",
+        "note": "Standard9g family size, selected Warmed Up; official variant JSON separately establishes each exact shade image."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 102859,
+    "sha256": "2cb6cc012438fd089d7f68d8907fd8bf314d5b1579ab83b97faee93fee00459e"
+  },
+  {
+    "index": 657,
+    "productId": "gc003443",
+    "variantId": "gc003443",
+    "productName": "Матовая пудра-бронзер Rare Beauty Warmed Up 9 г",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.rarebeauty.com/products/warm-wishes-soft-matte-powder-bronzer.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-WW-POWDER-BRONZER-WARMED-UP.jpg?v=1767661641",
+    "localFile": "materials/catalog-7b/originals/b014-a/Матовая пудра-бронзер Rare Beauty Warmed Up 9 г Стандарт--gc003443.jpg",
+    "verification": {
+      "identity": "Official Warm Wishes Soft Matte Powder Bronzer, exact Warmed Up variant 43734767698055 maps featured_image 38422290727047 to retained original.",
+      "volumeAndVariant": "Exact powder bronzer shade; standard9g corroborated by Sephora P519902. No stick bronzer substitution.",
+      "visualReview": "Full-fit original visually inspected. Exact shade original is a beige studio scene with horizon and cast shadow, unsuitable for simple white preparation. No retouching or shadow clipping attempted.",
+      "reviewMethod": "Exact source mapping plus full-fit originals and prepared output visual review. Independent physical object bbox excludes shadow; alpha flattened for viewing only.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com SUMMER FEELS bronzer; Rare Beauty Warm Wishes Soft Matte Powder Bronzer9g",
+        "url": "https://www.rarebeauty.com/products/warm-wishes-soft-matte-powder-bronzer.js",
+        "note": "Official Warm Wishes Soft Matte Powder Bronzer, exact Warmed Up variant 43734767698055 maps featured_image 38422290727047 to retained original."
+      },
+      {
+        "query": "Rare Beauty Warm Wishes Soft Matte Powder Bronzer9g",
+        "url": "https://www.sephora.com/product/warm-wishes-soft-matte-powder-bronzer-P519902?skuId=2936284",
+        "note": "Standard9g family size, selected Warmed Up; official variant JSON separately establishes each exact shade image."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 110024,
+    "sha256": "eefac275711160b1950d77c853fc843490f5cd3e904c56e4d950ca1a6b169002"
+  },
+  {
+    "index": 658,
+    "productId": "gc004435",
+    "variantId": "gc004435",
+    "productName": "Пудровый бронзер для лица Charlotte Tilbury 2medium",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.charlottetilbury.com/ca/product/airbrush-matte-bronzer-medium",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/WxDJPKUVXMMi80A4zkm0w/65124d0b96ed9b1e558b238b268e4786/AFF_Bronzer_Medium_Packshot.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b014-a/Пудровый бронзер для лица Charlotte Tilbury 2medium Стандарт--gc004435.png",
+    "verification": {
+      "identity": "Official Airbrush Bronzer Medium exact product page og:image. Catalog powder bronzer2Medium, not cream Beautiful Skin bronzer.",
+      "volumeAndVariant": "Standard Medium compact, no refill or alternate shade selected. Catalog weight unspecified.",
+      "visualReview": "Full-fit original visually inspected. Physical opaque object alpha>=240 measures614x777px; under800 minimum despite shadow trim being larger. Source retained; no threshold relaxation.",
+      "reviewMethod": "Exact source mapping plus full-fit originals and prepared output visual review. Independent physical object bbox excludes shadow; alpha flattened for viewing only.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:charlottetilbury.com airbrush bronzer2 medium",
+        "url": "https://www.charlottetilbury.com/ca/product/airbrush-matte-bronzer-medium",
+        "note": "Official Airbrush Bronzer Medium exact product page og:image. Catalog powder bronzer2Medium, not cream Beautiful Skin bronzer."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 801839,
+    "sha256": "c0c2ecfb2529beced660111e92d9275863820a6a6122807b6935b0c14e929a67"
+  },
+  {
+    "index": 659,
+    "productId": "gc000136",
+    "variantId": "gc000136",
+    "productName": "Палетка хайлайтеров Alvin D'or 4 шт",
+    "variant": "Стандарт",
+    "sourcePage": "https://alvindorcosmetics.com/shop/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog only says four-piece highlighter palette, no line/tone/model. Family search returns 3D Baked palette with multiple variants and HL06 Glow in Love tone01. Exact palette cannot be established, no guessed image.",
+    "searches": [
+      {
+        "query": "Alvin Dor палетка хайлайтеров4",
+        "url": "https://alvindorcosmetics.com/shop/",
+        "note": "Catalog only says four-piece highlighter palette, no line/tone/model. Family search returns 3D Baked palette with multiple variants and HL06 Glow in Love tone01. Exact palette cannot be established, no guessed image."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 660,
+    "productId": "gc000276",
+    "variantId": "gc000276",
+    "productName": "Секрет сияния Крем-хайлайтер Изумительное сияние с маслом морошки и вит.С Belita 30 мл",
+    "variant": "30 мл",
+    "sourcePage": "https://beloris.ru/item/krem-haylayter-izumitelnoe-siyanie",
+    "sourceImage": "https://static.beloris.ru/content/catalog_image/33239/tmp/white_950_9501086727_belita_viteks_krem_haylayter_izumitelnoe_siyanie.jpg",
+    "localFile": "materials/catalog-7b/originals/b014-a/Секрет сияния Крем-хайлайтер Изумительное сияние с маслом морошки и вит.С Belita 30 м--gc000276.jpg",
+    "verification": {
+      "identity": "Beloris exact Belita Secret Radiance cream-highlighter with cloudberry oil and vitaminC product page og:image.",
+      "volumeAndVariant": "Exact30ml volume and named cream with cloudberry/vitaminC match catalog.",
+      "visualReview": "Full-fit original visually inspected. Visible BELORIS BEAUTY MARKET watermark below tube. No watermark removal or cropping.",
+      "reviewMethod": "Exact source mapping plus full-fit originals and prepared output visual review. Independent physical object bbox excludes shadow; alpha flattened for viewing only.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Белита Изумительное сияние морошки крем хайлайтер30мл",
+        "url": "https://beloris.ru/item/krem-haylayter-izumitelnoe-siyanie",
+        "note": "Beloris exact Belita Secret Radiance cream-highlighter with cloudberry oil and vitaminC product page og:image."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 950,
+    "height": 950,
+    "format": "JPEG",
+    "bytes": 56884,
+    "sha256": "f30dfddaa2af0aea3d4f3c8a57db7d0769a5f70591cfb43716a1370aee88832a"
+  },
+  {
+    "index": 661,
+    "productId": "parent-0102",
+    "variantId": "gc000305",
+    "productName": "Хайлайтер Belor Design Incredible Hollywood",
+    "variant": "001",
+    "sourcePage": "https://olivia.az/belordesign-incredible-hollywood-haylayter-4810156045987",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Indexed retailer page identifies exact tone001, but direct retrieval returnedHTTP404. Both selected01/02 retailer pages unavailable; no exact original retained in quick family pass.",
+    "searches": [
+      {
+        "query": "Belor Design Incredible Hollywood хайлайтер001 002",
+        "url": "https://olivia.az/belordesign-incredible-hollywood-haylayter-4810156045987",
+        "note": "Indexed retailer page identifies exact tone001, but direct retrieval returnedHTTP404. Both selected01/02 retailer pages unavailable; no exact original retained in quick family pass."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 662,
+    "productId": "parent-0102",
+    "variantId": "gc000306",
+    "productName": "Хайлайтер Belor Design Incredible Hollywood",
+    "variant": "002",
+    "sourcePage": "https://www.kalinamag.ru/products/4810156045994",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Indexed retailer page identifies exact tone002, but direct retrieval returnedHTTP404. Both selected01/02 retailer pages unavailable; no exact original retained in quick family pass.",
+    "searches": [
+      {
+        "query": "Belor Design Incredible Hollywood хайлайтер001 002",
+        "url": "https://www.kalinamag.ru/products/4810156045994",
+        "note": "Indexed retailer page identifies exact tone002, but direct retrieval returnedHTTP404. Both selected01/02 retailer pages unavailable; no exact original retained in quick family pass."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 663,
+    "productId": "gc000568",
+    "variantId": "gc000568",
+    "productName": "Хайлайтер для лица Catrice High Glow Mineral Highlighting Powder 010 Light Infusion",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.fybeca.com/catrice-polvo-mineral-high-glow-mineral-highlighting-powder-010/ECFY_100073572.html",
+    "sourceImage": "https://www.fybeca.com/on/demandware.static/-/Sites-masterCatalog_FybecaEcuador/default/dw99cd1d77/images/large/100073572_1.jpg",
+    "localFile": "materials/catalog-7b/originals/b014-a/Хайлайтер для лица Catrice High Glow Mineral Highlighting Powder 010 Light Infusion С--gc000568.jpg",
+    "verification": {
+      "identity": "Fybeca exact Catrice High Glow Mineral Highlighting Powder010 Light Infusion product100073572, own og:image.",
+      "volumeAndVariant": "010 Light Infusion compact8g as label/source, catalog shade matches.",
+      "visualReview": "Full-fit original visually inspected. Prominent translucent Fybeca retailer watermark across compact. No watermark removal.",
+      "reviewMethod": "Exact source mapping plus full-fit originals and prepared output visual review. Independent physical object bbox excludes shadow; alpha flattened for viewing only.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Catrice High Glow Mineral Highlighting Powder010 Light Infusion",
+        "url": "https://www.fybeca.com/catrice-polvo-mineral-high-glow-mineral-highlighting-powder-010/ECFY_100073572.html",
+        "note": "Fybeca exact Catrice High Glow Mineral Highlighting Powder010 Light Infusion product100073572, own og:image."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 289703,
+    "sha256": "e2836746e121aa5cb66ae7b70f288518083eac4eac624182b1bd728489a15df4"
+  },
+  {
+    "index": 664,
+    "productId": "gc000634",
+    "variantId": "gc000634",
+    "productName": "Тик-хайлайтер Haus Labs «Glassy Opal»",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.hauslabs.com/products/bio-radiant-glassy-highlighter-balm.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_HighlighterBalm_Silo_Opal.png?v=1784334998",
+    "localFile": "materials/catalog-7b/originals/b014-a/Тик-хайлайтер Haus Labs «Glassy Opal» Стандарт--gc000634.png",
+    "verification": {
+      "identity": "Official Bio-Radiant™ Glassy Highlighter Balm, exact Glassy Opal variant 42688438534232 maps featured_image 45036829966424 to retained original.",
+      "volumeAndVariant": "Exact Bio-Radiant Glassy Highlighter Balm Glassy Opal stick, not pink opal or gel-powder highlighter.",
+      "visualReview": "Original and prepared output visually viewed: complete correct stick on white. Physical object270x1372px, measured without shadow;1200square with1020px product. Original shadow preserved, no clipping/watermark.",
+      "reviewMethod": "Exact source mapping plus full-fit originals and prepared output visual review. Independent physical object bbox excludes shadow; alpha flattened for viewing only.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:hauslabs.com Glassy Opal",
+        "url": "https://www.hauslabs.com/products/bio-radiant-glassy-highlighter-balm.js",
+        "note": "Official Bio-Radiant™ Glassy Highlighter Balm, exact Glassy Opal variant 42688438534232 maps featured_image 45036829966424 to retained original."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 608672,
+    "sha256": "7f91d68e06bedf5b9a87512277fe376a5b2a05ed262e430bd2d0cd619b4a6639"
+  },
+  {
+    "index": 665,
+    "productId": "gc001662",
+    "variantId": "gc001662",
+    "productName": "Жидкий Хайлайтер Rare Beauty Enchant 15 мл",
+    "variant": "15мл",
+    "sourcePage": "https://www.rarebeauty.com/products/positive-light-liquid-luminizer-1.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-PL-LIQUID-LUMINIZER-ENCHANT-1440x1952.jpg?v=1724695557",
+    "localFile": "materials/catalog-7b/originals/b014-a/Жидкий Хайлайтер Rare Beauty Enchant 15 мл 15мл--gc001662.jpg",
+    "verification": {
+      "identity": "Official Positive Light Liquid Luminizer, exact Enchant variant 43734829170823 maps featured_image 32464760438919 to retained original.",
+      "volumeAndVariant": "Official full-size Positive Light Liquid Luminizer15ml Enchant, matching catalog15ml.",
+      "visualReview": "Full-fit original visually inspected. Exact shade original is a beige studio scene with horizon and cast shadow, unsuitable for simple white preparation. No retouching or shadow clipping attempted.",
+      "reviewMethod": "Exact source mapping plus full-fit originals and prepared output visual review. Independent physical object bbox excludes shadow; alpha flattened for viewing only.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com Positive Light Liquid Luminizer Exhilarate",
+        "url": "https://www.rarebeauty.com/products/positive-light-liquid-luminizer-1.js",
+        "note": "Official Positive Light Liquid Luminizer, exact Enchant variant 43734829170823 maps featured_image 32464760438919 to retained original."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "verified",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 54711,
+    "sha256": "f0ed3bbc2d58dba77b084a9a83fd0010202b09d9eb052dc063cfc4325aa21252"
+  },
+  {
+    "index": 666,
+    "productId": "gc001663",
+    "variantId": "gc001663",
+    "productName": "Жидкий Хайлайтер Rare Beauty Positive Light Liquid Luminizer (Mesmerize)",
+    "variant": "Стандарт",
+    "sourcePage": "https://www.rarebeauty.com/products/positive-light-liquid-luminizer-1.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-PL-LIQUID-LUMINIZER-MESMERIZE-1440x1952.jpg?v=1724695607",
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact named shade exists in both standard15ml Positive Light Liquid Luminizer and separate Mini product. Catalog does not specify size. Standard candidate retained as rejected evidence, not assigned; its beige room scene also fails white-background requirement.",
+    "searches": [
+      {
+        "query": "site:rarebeauty.com Positive Light Liquid Luminizer Exhilarate",
+        "url": "https://www.rarebeauty.com/products/positive-light-liquid-luminizer-1.js",
+        "note": "Exact named shade exists in both standard15ml Positive Light Liquid Luminizer and separate Mini product. Catalog does not specify size. Standard candidate retained as rejected evidence, not assigned; its beige room scene also fails white-background requirement."
+      },
+      {
+        "query": "site:rarebeauty.com Positive Light Liquid Luminizer Exhilarate",
+        "url": "https://www.rarebeauty.com/products/positive-light-liquid-luminizer-mini",
+        "note": "Official mini line lists Mesmerize and Exhilarate separately from standard15ml; no size assumed."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped",
+    "candidateFile": "materials/catalog-7b/originals/b014-a/Жидкий Хайлайтер Rare Beauty Positive Light Liquid Luminizer (Mesmerize) Стандарт--gc001663.jpg",
+    "candidateSha256": "48ec2b12f584c7b83633cb9d302aa6679c17b2ab5f0a4702bc8588c643e56d40"
+  },
+  {
+    "index": 667,
+    "productId": "gc002757",
+    "variantId": "gc002757",
+    "productName": "Двойной хайлайтер PATRICK TA Baby 5,5 г",
+    "variant": "Стандарт",
+    "sourcePage": "https://patrickta.com/products/major-glow-creme-powder-light-reflecting-translucent-highlighter-duo.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0099/0602/8608/files/Major-Glow-Creme-_-Powder-Light-Reflecting-Translucent-Highlighter-Duo---Baby.jpg?v=1787331593",
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact Baby source retained as rejected evidence. Catalog explicitly5.5g, but Sephora exactSKU2779718 specifies6g creme+4g powder. Official JSON does not establish a5.5g presentation. Do not guess packaging size or change catalog.",
+    "searches": [
+      {
+        "query": "Patrick Ta Major Glow Highlighter Duo Baby5.5g",
+        "url": "https://patrickta.com/products/major-glow-creme-powder-light-reflecting-translucent-highlighter-duo.js",
+        "note": "Exact Baby source retained as rejected evidence. Catalog explicitly5.5g, but Sephora exactSKU2779718 specifies6g creme+4g powder. Official JSON does not establish a5.5g presentation. Do not guess packaging size or change catalog."
+      },
+      {
+        "query": "Patrick Ta Major Glow Highlighter Duo Baby5.5g",
+        "url": "https://www.sephora.com/product/major-glow-creme-powder-light-reflecting-translucent-highlighter-duo-P516953?skuId=2779718",
+        "note": "Exact Baby source specifies6g cream+4g powder; catalog5.5g remains unresolved."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped",
+    "candidateFile": "materials/catalog-7b/originals/b014-a/Двойной хайлайтер PATRICK TA Baby 5,5 г Стандарт--gc002757.jpg",
+    "candidateSha256": "b51ff05bd1eb9621bf2e7bd2b172ab6aaa0504eefeea231a269c63f3621ccdcf"
+  },
+  {
+    "index": 668,
+    "productId": "gc002810",
+    "variantId": "gc002810",
+    "productName": "Жидкий хайлайтер Chanel LES BEIGES «Summer Gleam» 30 мл",
+    "variant": "30мл",
+    "sourcePage": "https://www.chanel.com/us/makeup/p/151799/les-beiges-healthy-glow-highlighter/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official indexed Les Beiges Healthy Glow Highlighter Summer Gleam151799 found; direct page requestHTTP403. No exact full-resolution source obtained in quick pass.",
+    "searches": [
+      {
+        "query": "site:chanel.com Summer Gleam30",
+        "url": "https://www.chanel.com/us/makeup/p/151799/les-beiges-healthy-glow-highlighter/",
+        "note": "Official indexed Les Beiges Healthy Glow Highlighter Summer Gleam151799 found; direct page requestHTTP403. No exact full-resolution source obtained in quick pass."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped"
+  },
+  {
+    "index": 669,
+    "productId": "parent-0103",
+    "variantId": "gc002812",
+    "productName": "Жидкий хайлайтер Rare Beauty",
+    "variant": "Exhilarate",
+    "sourcePage": "https://www.rarebeauty.com/products/positive-light-liquid-luminizer-1.js",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-PL-LIQUID-LUMINIZER-EXHILARATE-1440x1952.jpg?v=1739911666",
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact named shade exists in both standard15ml Positive Light Liquid Luminizer and separate Mini product. Catalog does not specify size. Standard candidate retained as rejected evidence, not assigned; its beige room scene also fails white-background requirement.",
+    "searches": [
+      {
+        "query": "site:rarebeauty.com Positive Light Liquid Luminizer Exhilarate",
+        "url": "https://www.rarebeauty.com/products/positive-light-liquid-luminizer-1.js",
+        "note": "Exact named shade exists in both standard15ml Positive Light Liquid Luminizer and separate Mini product. Catalog does not specify size. Standard candidate retained as rejected evidence, not assigned; its beige room scene also fails white-background requirement."
+      },
+      {
+        "query": "site:rarebeauty.com Positive Light Liquid Luminizer Exhilarate",
+        "url": "https://www.rarebeauty.com/products/positive-light-liquid-luminizer-mini",
+        "note": "Official mini line lists Mesmerize and Exhilarate separately from standard15ml; no size assumed."
+      }
+    ],
+    "sharedImageWith": [],
+    "status": "skipped",
+    "candidateFile": "materials/catalog-7b/originals/b014-a/Жидкий хайлайтер Rare Beauty Exhilarate--gc002812.jpg",
+    "candidateSha256": "8dee032b96fb9a0c763bc75d5740aece1926a057080420747600c4d86c29b9e1"
+  }
+]

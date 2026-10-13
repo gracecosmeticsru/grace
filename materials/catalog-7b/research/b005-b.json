@@ -1,0 +1,892 @@
+[
+  {
+    "productId": "parent-0024",
+    "variantId": "gc000201",
+    "productName": "Светоотражающий консилер Art-Visage MIRACLE TOUCH",
+    "brand": "Art-Visage",
+    "variant": "101",
+    "sku": "GC000201",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 220,
+    "batch": 5,
+    "status": "verified",
+    "sourcePage": "https://www.art-visage.ru/product/AVsvetootrajayuschiikonsiler_miracletouch",
+    "sourceImage": "https://www.art-visage.ru/pictures/main/product_skus/c713f3ded42952b9a5dd35a891180d64-1.webp",
+    "localFile": "materials/catalog-7b/originals/b005-b/Светоотражающий консилер Art-Visage MIRACLE TOUCH 101--gc000201.webp",
+    "verification": {
+      "identity": "Official ART-VISAGE Miracle Touch product page. Exact tone-option data-image maps 101 to this image.",
+      "volumeAndVariant": "Exact shade 101; catalogue does not specify volume. Manufacturer identifies same Miracle Touch concealer.",
+      "visualReview": "White background, full closed/front/reverse product and wand; no external marks. Only 600px original: reject preparation below 800px source standard.",
+      "reviewMethod": "view_image artifacts/step-7b/b005-b/originals-overview.jpg; full originals inspected where needed; prepare flatten white for alpha",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Art Visage Miracle Touch 101 102 103 консилер официальный",
+        "url": "https://www.art-visage.ru/product/AVsvetootrajayuschiikonsiler_miracletouch",
+        "note": "Official ART-VISAGE Miracle Touch product page. Exact tone-option data-image maps 101 to this image. Evidence saved in this group art-product.html / catrice.txt and catrice-payload.txt / hourglass.txt / eve.txt."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 600,
+    "height": 600,
+    "bytes": 9832,
+    "sha256": "3373c48c5dd6b1e3849dfdd67ebdfbda6af14b1cbdcadc2dfd013c0886edc13e"
+  },
+  {
+    "productId": "parent-0024",
+    "variantId": "gc000202",
+    "productName": "Светоотражающий консилер Art-Visage MIRACLE TOUCH",
+    "brand": "Art-Visage",
+    "variant": "102",
+    "sku": "GC000202",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 221,
+    "batch": 5,
+    "status": "verified",
+    "sourcePage": "https://www.art-visage.ru/product/AVsvetootrajayuschiikonsiler_miracletouch",
+    "sourceImage": "https://www.art-visage.ru/pictures/main/product_skus/007001323d9bf36e589e9e6ee3c8cc59-1.webp",
+    "localFile": "materials/catalog-7b/originals/b005-b/Светоотражающий консилер Art-Visage MIRACLE TOUCH 102--gc000202.webp",
+    "verification": {
+      "identity": "Official ART-VISAGE Miracle Touch product page. Exact tone-option data-image maps 102 to this image.",
+      "volumeAndVariant": "Exact shade 102; catalogue does not specify volume. Manufacturer identifies same Miracle Touch concealer.",
+      "visualReview": "White background, full closed/front/reverse product and wand; no external marks. Only 600px original: reject preparation below 800px source standard.",
+      "reviewMethod": "view_image artifacts/step-7b/b005-b/originals-overview.jpg; full originals inspected where needed; prepare flatten white for alpha",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Art Visage Miracle Touch 101 102 103 консилер официальный",
+        "url": "https://www.art-visage.ru/product/AVsvetootrajayuschiikonsiler_miracletouch",
+        "note": "Official ART-VISAGE Miracle Touch product page. Exact tone-option data-image maps 102 to this image. Evidence saved in this group art-product.html / catrice.txt and catrice-payload.txt / hourglass.txt / eve.txt."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 600,
+    "height": 600,
+    "bytes": 10178,
+    "sha256": "180f0b6e2c7741a367e8d003bbbbd94bbfbbfe5703da89dbbf22060cbae1858a"
+  },
+  {
+    "productId": "parent-0024",
+    "variantId": "gc000203",
+    "productName": "Светоотражающий консилер Art-Visage MIRACLE TOUCH",
+    "brand": "Art-Visage",
+    "variant": "103",
+    "sku": "GC000203",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 222,
+    "batch": 5,
+    "status": "verified",
+    "sourcePage": "https://www.art-visage.ru/product/AVsvetootrajayuschiikonsiler_miracletouch",
+    "sourceImage": "https://www.art-visage.ru/pictures/main/product_skus/e70c8e65159a2df6ad452ec784e3c439-1.webp",
+    "localFile": "materials/catalog-7b/originals/b005-b/Светоотражающий консилер Art-Visage MIRACLE TOUCH 103--gc000203.webp",
+    "verification": {
+      "identity": "Official ART-VISAGE Miracle Touch product page. Exact tone-option data-image maps 103 to this image.",
+      "volumeAndVariant": "Exact shade 103; catalogue does not specify volume. Manufacturer identifies same Miracle Touch concealer.",
+      "visualReview": "White background, full closed/front/reverse product and wand; no external marks. Only 600px original: reject preparation below 800px source standard.",
+      "reviewMethod": "view_image artifacts/step-7b/b005-b/originals-overview.jpg; full originals inspected where needed; prepare flatten white for alpha",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Art Visage Miracle Touch 101 102 103 консилер официальный",
+        "url": "https://www.art-visage.ru/product/AVsvetootrajayuschiikonsiler_miracletouch",
+        "note": "Official ART-VISAGE Miracle Touch product page. Exact tone-option data-image maps 103 to this image. Evidence saved in this group art-product.html / catrice.txt and catrice-payload.txt / hourglass.txt / eve.txt."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 600,
+    "height": 600,
+    "bytes": 10246,
+    "sha256": "8ead8aafccff5d79d266f0161387ff8c4c59c995573d340a66fc10d59caa1ca5"
+  },
+  {
+    "productId": "parent-0025",
+    "variantId": "gc000538",
+    "productName": "Консилер Catrice Camouflage Cream",
+    "brand": "Catrice",
+    "variant": "010",
+    "sku": "GC000538",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 223,
+    "batch": 5,
+    "status": "skipped",
+    "sourcePage": "https://1click2beauty.com/products/catrice-camouflage-cream",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Best exact old Camouflage Cream listing uses one identical 730x646 image for 010/015/020; shade-specific pack not established and source below 800px. New Ultimate Camouflage line not substituted.",
+    "searches": [
+      {
+        "query": "\"Catrice Camouflage Cream\" \"010\" \"015\" \"020\"",
+        "url": "https://1click2beauty.com/products/catrice-camouflage-cream",
+        "note": "Shopify product JSON saved cream.json: 010 IVORY,015 LIGHT BEIGE,020 ROSY SAND share same featured_image/variant_ids. Candidate visually reviewed in originals-overview.jpg; only one non-shade-confirmed pot image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0025",
+    "variantId": "gc000539",
+    "productName": "Консилер Catrice Camouflage Cream",
+    "brand": "Catrice",
+    "variant": "015",
+    "sku": "GC000539",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 224,
+    "batch": 5,
+    "status": "skipped",
+    "sourcePage": "https://1click2beauty.com/products/catrice-camouflage-cream",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Best exact old Camouflage Cream listing uses one identical 730x646 image for 010/015/020; shade-specific pack not established and source below 800px. New Ultimate Camouflage line not substituted.",
+    "searches": [
+      {
+        "query": "\"Catrice Camouflage Cream\" \"010\" \"015\" \"020\"",
+        "url": "https://1click2beauty.com/products/catrice-camouflage-cream",
+        "note": "Shopify product JSON saved cream.json: 010 IVORY,015 LIGHT BEIGE,020 ROSY SAND share same featured_image/variant_ids. Candidate visually reviewed in originals-overview.jpg; only one non-shade-confirmed pot image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0025",
+    "variantId": "gc000540",
+    "productName": "Консилер Catrice Camouflage Cream",
+    "brand": "Catrice",
+    "variant": "020",
+    "sku": "GC000540",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 225,
+    "batch": 5,
+    "status": "skipped",
+    "sourcePage": "https://1click2beauty.com/products/catrice-camouflage-cream",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Best exact old Camouflage Cream listing uses one identical 730x646 image for 010/015/020; shade-specific pack not established and source below 800px. New Ultimate Camouflage line not substituted.",
+    "searches": [
+      {
+        "query": "\"Catrice Camouflage Cream\" \"010\" \"015\" \"020\"",
+        "url": "https://1click2beauty.com/products/catrice-camouflage-cream",
+        "note": "Shopify product JSON saved cream.json: 010 IVORY,015 LIGHT BEIGE,020 ROSY SAND share same featured_image/variant_ids. Candidate visually reviewed in originals-overview.jpg; only one non-shade-confirmed pot image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0026",
+    "variantId": "gc000541",
+    "productName": "Консилер Catrice Liquid Camouflage",
+    "brand": "Catrice",
+    "variant": "001",
+    "sku": "GC000541",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 226,
+    "batch": 5,
+    "status": "verified",
+    "sourcePage": "https://www.catrice.eu/en-de/p/920322/liquid-camouflage-high-coverage-concealer",
+    "sourceImage": "https://i8.amplience.net/i/Cosnova/6710161",
+    "localFile": "materials/catalog-7b/originals/b005-b/Консилер Catrice Liquid Camouflage 001--gc000541.png",
+    "verification": {
+      "identity": "Official Catrice siblingVariants object maps SKU 920322, GTIN 4059729203229 to Product Front View Closed imageId 6710161.",
+      "volumeAndVariant": "Exact Liquid Camouflage shade 001 Fair Ivory, 5ml. Catalogue has no size. Front 12H label is product packaging.",
+      "visualReview": "Single complete tube and black cap, transparent surrounding pixels flattened to white; no watermark, color dot or promotional extra. Shade-specific original.",
+      "reviewMethod": "view_image artifacts/step-7b/b005-b/originals-overview.jpg; full originals inspected where needed; prepare flatten white for alpha",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.catrice.eu Liquid Camouflage 001 005 007 010 015",
+        "url": "https://www.catrice.eu/en-de/p/920322/liquid-camouflage-high-coverage-concealer",
+        "note": "Official Catrice siblingVariants object maps SKU 920322, GTIN 4059729203229 to Product Front View Closed imageId 6710161. Evidence saved in this group art-product.html / catrice.txt and catrice-payload.txt / hourglass.txt / eve.txt."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 617348,
+    "sha256": "0f37e94ff16112e4322da07d19323497b5bf746c9322eb5dc212613a0c381720"
+  },
+  {
+    "productId": "parent-0026",
+    "variantId": "gc000542",
+    "productName": "Консилер Catrice Liquid Camouflage",
+    "brand": "Catrice",
+    "variant": "005",
+    "sku": "GC000542",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 227,
+    "batch": 5,
+    "status": "verified",
+    "sourcePage": "https://www.catrice.eu/en-de/p/756361/liquid-camouflage-high-coverage-concealer",
+    "sourceImage": "https://i8.amplience.net/i/Cosnova/6710159",
+    "localFile": "materials/catalog-7b/originals/b005-b/Консилер Catrice Liquid Camouflage 005--gc000542.png",
+    "verification": {
+      "identity": "Official Catrice siblingVariants object maps SKU 756361, GTIN 4250947563618 to Product Front View Closed imageId 6710159.",
+      "volumeAndVariant": "Exact Liquid Camouflage shade 005 Light Natural, 5ml. Catalogue has no size. Front 12H label is product packaging.",
+      "visualReview": "Single complete tube and black cap, transparent surrounding pixels flattened to white; no watermark, color dot or promotional extra. Shade-specific original.",
+      "reviewMethod": "view_image artifacts/step-7b/b005-b/originals-overview.jpg; full originals inspected where needed; prepare flatten white for alpha",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.catrice.eu Liquid Camouflage 001 005 007 010 015",
+        "url": "https://www.catrice.eu/en-de/p/756361/liquid-camouflage-high-coverage-concealer",
+        "note": "Official Catrice siblingVariants object maps SKU 756361, GTIN 4250947563618 to Product Front View Closed imageId 6710159. Evidence saved in this group art-product.html / catrice.txt and catrice-payload.txt / hourglass.txt / eve.txt."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 617667,
+    "sha256": "28aab72ec7d6b86bb0e04cc98879708a685c9eb86335e374e7aa555e31461d47"
+  },
+  {
+    "productId": "parent-0026",
+    "variantId": "gc000543",
+    "productName": "Консилер Catrice Liquid Camouflage",
+    "brand": "Catrice",
+    "variant": "007",
+    "sku": "GC000543",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 228,
+    "batch": 5,
+    "status": "verified",
+    "sourcePage": "https://www.catrice.eu/en-de/p/228430/liquid-camouflage-high-coverage-concealer",
+    "sourceImage": "https://i8.amplience.net/i/Cosnova/6710155",
+    "localFile": "materials/catalog-7b/originals/b005-b/Консилер Catrice Liquid Camouflage 007--gc000543.png",
+    "verification": {
+      "identity": "Official Catrice siblingVariants object maps SKU 228430, GTIN 4251232284300 to Product Front View Closed imageId 6710155.",
+      "volumeAndVariant": "Exact Liquid Camouflage shade 007 Natural Rose, 5ml. Catalogue has no size. Front 12H label is product packaging.",
+      "visualReview": "Single complete tube and black cap, transparent surrounding pixels flattened to white; no watermark, color dot or promotional extra. Shade-specific original.",
+      "reviewMethod": "view_image artifacts/step-7b/b005-b/originals-overview.jpg; full originals inspected where needed; prepare flatten white for alpha",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.catrice.eu Liquid Camouflage 001 005 007 010 015",
+        "url": "https://www.catrice.eu/en-de/p/228430/liquid-camouflage-high-coverage-concealer",
+        "note": "Official Catrice siblingVariants object maps SKU 228430, GTIN 4251232284300 to Product Front View Closed imageId 6710155. Evidence saved in this group art-product.html / catrice.txt and catrice-payload.txt / hourglass.txt / eve.txt."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 621448,
+    "sha256": "7f6fa3e36d2dc1ee6ddc85da62255c47387d2798c287af64604f99a8044bf15c"
+  },
+  {
+    "productId": "parent-0026",
+    "variantId": "gc000544",
+    "productName": "Консилер Catrice Liquid Camouflage",
+    "brand": "Catrice",
+    "variant": "010",
+    "sku": "GC000544",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 229,
+    "batch": 5,
+    "status": "verified",
+    "sourcePage": "https://www.catrice.eu/en-de/p/754466/liquid-camouflage-high-coverage-concealer",
+    "sourceImage": "https://i8.amplience.net/i/Cosnova/6710153",
+    "localFile": "materials/catalog-7b/originals/b005-b/Консилер Catrice Liquid Camouflage 010--gc000544.png",
+    "verification": {
+      "identity": "Official Catrice siblingVariants object maps SKU 754466, GTIN 4250947544662 to Product Front View Closed imageId 6710153.",
+      "volumeAndVariant": "Exact Liquid Camouflage shade 010 Porcellain, 5ml. Catalogue has no size. Front 12H label is product packaging.",
+      "visualReview": "Single complete tube and black cap, transparent surrounding pixels flattened to white; no watermark, color dot or promotional extra. Shade-specific original.",
+      "reviewMethod": "view_image artifacts/step-7b/b005-b/originals-overview.jpg; full originals inspected where needed; prepare flatten white for alpha",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.catrice.eu Liquid Camouflage 001 005 007 010 015",
+        "url": "https://www.catrice.eu/en-de/p/754466/liquid-camouflage-high-coverage-concealer",
+        "note": "Official Catrice siblingVariants object maps SKU 754466, GTIN 4250947544662 to Product Front View Closed imageId 6710153. Evidence saved in this group art-product.html / catrice.txt and catrice-payload.txt / hourglass.txt / eve.txt."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 617946,
+    "sha256": "1036e1aeb925d4a15f97afaa4d0d850b706b972d24a6f3c685865cd55f9d0d02"
+  },
+  {
+    "productId": "parent-0026",
+    "variantId": "gc000545",
+    "productName": "Консилер Catrice Liquid Camouflage",
+    "brand": "Catrice",
+    "variant": "015",
+    "sku": "GC000545",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 230,
+    "batch": 5,
+    "status": "verified",
+    "sourcePage": "https://www.catrice.eu/en-de/p/228432/liquid-camouflage-high-coverage-concealer",
+    "sourceImage": "https://i8.amplience.net/i/Cosnova/6710151",
+    "localFile": "materials/catalog-7b/originals/b005-b/Консилер Catrice Liquid Camouflage 015--gc000545.png",
+    "verification": {
+      "identity": "Official Catrice siblingVariants object maps SKU 228432, GTIN 4251232284324 to Product Front View Closed imageId 6710151.",
+      "volumeAndVariant": "Exact Liquid Camouflage shade 015 Honey, 5ml. Catalogue has no size. Front 12H label is product packaging.",
+      "visualReview": "Single complete tube and black cap, transparent surrounding pixels flattened to white; no watermark, color dot or promotional extra. Shade-specific original.",
+      "reviewMethod": "view_image artifacts/step-7b/b005-b/originals-overview.jpg; full originals inspected where needed; prepare flatten white for alpha",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.catrice.eu Liquid Camouflage 001 005 007 010 015",
+        "url": "https://www.catrice.eu/en-de/p/228432/liquid-camouflage-high-coverage-concealer",
+        "note": "Official Catrice siblingVariants object maps SKU 228432, GTIN 4251232284324 to Product Front View Closed imageId 6710151. Evidence saved in this group art-product.html / catrice.txt and catrice-payload.txt / hourglass.txt / eve.txt."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 619899,
+    "sha256": "25971a56ec596085054a09aca14ce859ce3bd7edbd8908896ca5191c4f399829"
+  },
+  {
+    "productId": "gc000863",
+    "variantId": "gc000863",
+    "productName": "Консилер для лица консилер Eveline Cosmetics Liquid Camouflage 5 мл",
+    "brand": "Eveline Cosmetics",
+    "variant": "5 мл",
+    "sku": "GC000863",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 231,
+    "batch": 5,
+    "status": "skipped",
+    "sourcePage": "https://evelinecosmetics.com/products/waterproof-camouflage-concealer-with-hyaluronic-acid",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalogue Liquid Camouflage 5ml has no shade. Official result is 7ml new edition in seven shades; cannot establish exact variant/version and volume.",
+    "searches": [
+      {
+        "query": "site.evelinecosmetics.com \"Liquid Camouflage\" concealer 5 ml",
+        "url": "https://evelinecosmetics.com/products/waterproof-camouflage-concealer-with-hyaluronic-acid",
+        "note": "Official search result identifies new edition 7ml and shades01/02/2.5/03/04/05/06. No exact 5ml shade can be selected from generic catalogue name."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc000867",
+    "variantId": "gc000867",
+    "productName": "Консилер под глаза консилер Eveline Cosmetics Magical Perfection 01 Light 15 мл",
+    "brand": "Eveline Cosmetics",
+    "variant": "15 мл",
+    "sku": "GC000867",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 232,
+    "batch": 5,
+    "status": "verified",
+    "sourcePage": "https://evelinecosmetics.com/en-de/products/anti-fatigue-eye-concealer?variant=46258320572642",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0725/7659/8242/files/67822fc8a4f2d7.55177649.jpg?v=1736585162",
+    "localFile": "materials/catalog-7b/originals/b005-b/Консилер под глаза консилер Eveline Cosmetics Magical Perfection 01 Light 15 мл 15 мл--gc000867.jpg",
+    "verification": {
+      "identity": "Official Eveline Magical Perfection product variant light featured_image. dm retailer explicitly identifies 01 Light, 15ml (EAN 5901761980745).",
+      "volumeAndVariant": "01 Light, 15ml, exact catalogue name and size.",
+      "visualReview": "Complete tube and retail box on white background, no watermark. Gold product packaging retained fully.",
+      "reviewMethod": "view_image artifacts/step-7b/b005-b/originals-overview.jpg; full originals inspected where needed; prepare flatten white for alpha",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.evelinecosmetics.com Magical Perfection 01 Light concealer 15 ml",
+        "url": "https://evelinecosmetics.com/en-de/products/anti-fatigue-eye-concealer?variant=46258320572642",
+        "note": "Official Eveline Magical Perfection product variant light featured_image. dm retailer explicitly identifies 01 Light, 15ml (EAN 5901761980745). Evidence saved in this group art-product.html / catrice.txt and catrice-payload.txt / hourglass.txt / eve.txt."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 79311,
+    "sha256": "ffc56563b161d39c65aa94371aaf1603e95b63a0463931461de799364d792dbd"
+  },
+  {
+    "productId": "gc001066",
+    "variantId": "gc001066",
+    "productName": "Консилер Hourglass Vanish Airbrush Concealer Birch 6 мл",
+    "brand": "Hourglass",
+    "variant": "6 мл",
+    "sku": "GC001066",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 233,
+    "batch": 5,
+    "status": "verified",
+    "sourcePage": "https://www.hourglasscosmetics.com/products/vanish-airbrush-concealer?variant=31335849197686",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0081/1660/0950/files/2000x2000-72dpi_VAC_ECOMM-Pacshot_0000s_0013_Summer2025_PPage_VAC_ECOMM-Pacshot_0018_2000x2000-300dpi_Birch.png?v=1766014435",
+    "localFile": "materials/catalog-7b/originals/b005-b/Консилер Hourglass Vanish Airbrush Concealer Birch 6 мл 6 мл--gc001066.png",
+    "verification": {
+      "identity": "Official Shopify product variant featured_image is uniquely assigned to Birch 1 - Very Fair - Neutral / Full-size .20 fl oz.",
+      "volumeAndVariant": "Full-size .20 fl oz / 6ml, exact named shade from catalogue; mini .04 fl oz variant explicitly excluded.",
+      "visualReview": "Complete closed bottle alongside wand, white/transparent background, no watermark or labels outside product. All four shade-specific source files visually compared.",
+      "reviewMethod": "view_image artifacts/step-7b/b005-b/originals-overview.jpg; full originals inspected where needed; prepare flatten white for alpha",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.hourglasscosmetics.com vanish airbrush concealer birch cotton creme oat",
+        "url": "https://www.hourglasscosmetics.com/products/vanish-airbrush-concealer?variant=31335849197686",
+        "note": "Official Shopify product variant featured_image is uniquely assigned to Birch 1 - Very Fair - Neutral / Full-size .20 fl oz. Evidence saved in this group art-product.html / catrice.txt and catrice-payload.txt / hourglass.txt / eve.txt."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 342786,
+    "sha256": "8e66f3b3ed20fa692068a2a7b848f538c43958a3d1aa67826373367de1e43a15"
+  },
+  {
+    "productId": "gc001067",
+    "variantId": "gc001067",
+    "productName": "Консилер Hourglass Vanish Airbrush Concealer Cotton 6 мл",
+    "brand": "Hourglass",
+    "variant": "6 мл",
+    "sku": "GC001067",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 234,
+    "batch": 5,
+    "status": "verified",
+    "sourcePage": "https://www.hourglasscosmetics.com/products/vanish-airbrush-concealer?variant=31335849263222",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0081/1660/0950/files/2000x2000-72dpi_VAC_ECOMM-Pacshot_0000s_0016_Summer2025_PPage_VAC_ECOMM-Pacshot_0015_2000x2000-300dpi_Cotton.png?v=1766014435",
+    "localFile": "materials/catalog-7b/originals/b005-b/Консилер Hourglass Vanish Airbrush Concealer Cotton 6 мл 6 мл--gc001067.png",
+    "verification": {
+      "identity": "Official Shopify product variant featured_image is uniquely assigned to Cotton 2 - Fair - Warm Golden / Full-size .20 fl oz.",
+      "volumeAndVariant": "Full-size .20 fl oz / 6ml, exact named shade from catalogue; mini .04 fl oz variant explicitly excluded.",
+      "visualReview": "Complete closed bottle alongside wand, white/transparent background, no watermark or labels outside product. All four shade-specific source files visually compared.",
+      "reviewMethod": "view_image artifacts/step-7b/b005-b/originals-overview.jpg; full originals inspected where needed; prepare flatten white for alpha",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.hourglasscosmetics.com vanish airbrush concealer birch cotton creme oat",
+        "url": "https://www.hourglasscosmetics.com/products/vanish-airbrush-concealer?variant=31335849263222",
+        "note": "Official Shopify product variant featured_image is uniquely assigned to Cotton 2 - Fair - Warm Golden / Full-size .20 fl oz. Evidence saved in this group art-product.html / catrice.txt and catrice-payload.txt / hourglass.txt / eve.txt."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 344653,
+    "sha256": "ad5f35dc21c50e915e71d19c4839b972420c66416907bf43bc82dbae09419cda"
+  },
+  {
+    "productId": "gc001068",
+    "variantId": "gc001068",
+    "productName": "Консилер Hourglass Vanish Airbrush Concealer Creme 6 мл",
+    "brand": "Hourglass",
+    "variant": "6 мл",
+    "sku": "GC001068",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 235,
+    "batch": 5,
+    "status": "verified",
+    "sourcePage": "https://www.hourglasscosmetics.com/products/vanish-airbrush-concealer?variant=31335849230454",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0081/1660/0950/files/2000x2000-72dpi_VAC_ECOMM-Pacshot_0000s_0017_Summer2025_PPage_VAC_ECOMM-Pacshot_0014_2000x2000-300dpi_Creme.png?v=1766014435",
+    "localFile": "materials/catalog-7b/originals/b005-b/Консилер Hourglass Vanish Airbrush Concealer Creme 6 мл 6 мл--gc001068.png",
+    "verification": {
+      "identity": "Official Shopify product variant featured_image is uniquely assigned to Creme 1.5 - Fair - Cool Pink / Full-size .20 fl oz.",
+      "volumeAndVariant": "Full-size .20 fl oz / 6ml, exact named shade from catalogue; mini .04 fl oz variant explicitly excluded.",
+      "visualReview": "Complete closed bottle alongside wand, white/transparent background, no watermark or labels outside product. All four shade-specific source files visually compared.",
+      "reviewMethod": "view_image artifacts/step-7b/b005-b/originals-overview.jpg; full originals inspected where needed; prepare flatten white for alpha",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.hourglasscosmetics.com vanish airbrush concealer birch cotton creme oat",
+        "url": "https://www.hourglasscosmetics.com/products/vanish-airbrush-concealer?variant=31335849230454",
+        "note": "Official Shopify product variant featured_image is uniquely assigned to Creme 1.5 - Fair - Cool Pink / Full-size .20 fl oz. Evidence saved in this group art-product.html / catrice.txt and catrice-payload.txt / hourglass.txt / eve.txt."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 352750,
+    "sha256": "f35b7514e18e0b2ba7380af4d912e8e7f73cc3de74a19079f514f85d1fc68309"
+  },
+  {
+    "productId": "gc001069",
+    "variantId": "gc001069",
+    "productName": "Консилер Hourglass Vanish Airbrush Concealer Oat 6 мл",
+    "brand": "Hourglass",
+    "variant": "6 мл",
+    "sku": "GC001069",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 236,
+    "batch": 5,
+    "status": "verified",
+    "sourcePage": "https://www.hourglasscosmetics.com/products/vanish-airbrush-concealer?variant=31335849328758",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0081/1660/0950/files/2000x2000-72dpi_VAC_ECOMM-Pacshot_0000s_0023_Summer2025_PPage_VAC_ECOMM-Pacshot_0008_2000x2000-300dpi_Oat.png?v=1766014435",
+    "localFile": "materials/catalog-7b/originals/b005-b/Консилер Hourglass Vanish Airbrush Concealer Oat 6 мл 6 мл--gc001069.png",
+    "verification": {
+      "identity": "Official Shopify product variant featured_image is uniquely assigned to Oat 3 - Light - Warm Olive / Full-size .20 fl oz.",
+      "volumeAndVariant": "Full-size .20 fl oz / 6ml, exact named shade from catalogue; mini .04 fl oz variant explicitly excluded.",
+      "visualReview": "Complete closed bottle alongside wand, white/transparent background, no watermark or labels outside product. All four shade-specific source files visually compared.",
+      "reviewMethod": "view_image artifacts/step-7b/b005-b/originals-overview.jpg; full originals inspected where needed; prepare flatten white for alpha",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.hourglasscosmetics.com vanish airbrush concealer birch cotton creme oat",
+        "url": "https://www.hourglasscosmetics.com/products/vanish-airbrush-concealer?variant=31335849328758",
+        "note": "Official Shopify product variant featured_image is uniquely assigned to Oat 3 - Light - Warm Olive / Full-size .20 fl oz. Evidence saved in this group art-product.html / catrice.txt and catrice-payload.txt / hourglass.txt / eve.txt."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 342057,
+    "sha256": "8befe8fff6668b6f506c635e9ac70bf8a215b425750a524f2ebd5f6ed6b79db5"
+  },
+  {
+    "productId": "gc001152",
+    "variantId": "gc001152",
+    "productName": "Jev консиллер",
+    "brand": "JEV",
+    "variant": "Стандарт",
+    "sku": "GC001152",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/4"
+    ],
+    "index": 237,
+    "batch": 5,
+    "status": "skipped",
+    "sourcePage": "https://mekka.shop/jev-konsiller-original/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalogue only says Jev concealer Standard; no shade/model/size. Best retailer source says Full Coverage available in four shades, so exact version cannot be established.",
+    "searches": [
+      {
+        "query": "Jev консилер оттенки",
+        "url": "https://mekka.shop/jev-konsiller-original/",
+        "note": "Fetched jev.html: text explicitly states four shades and Full Coverage name. Catalogue provides neither shade nor full model; no generic image substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0027",
+    "variantId": "gc001417",
+    "productName": "Гель-корректор для бровей Luxvisage Brow Styler",
+    "brand": "Luxvisage",
+    "variant": "01",
+    "sku": "GC001417",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 238,
+    "batch": 5,
+    "status": "skipped",
+    "sourcePage": "https://beloris.ru/item/ton-01-32",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact shade iZoom is a shade smear only, with BELORIS watermark, not product packaging. Source size 453x649; unsuitable, no watermark removed.",
+    "searches": [
+      {
+        "query": "Luxvisage Brow Styler 01 02 03 04 gel corrector",
+        "url": "https://beloris.ru/item/gel-korrektor-dlya-brovey-brow-styler",
+        "note": "Family source researched jointly with b005-c; embedded chldr exact shade URL and iZoom downloaded to artifacts\\step-7b\\b005-b\\gc001417.img. Both files visually reviewed in originals-overview.jpg: swatches with BELORIS, source rejected."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0027",
+    "variantId": "gc001418",
+    "productName": "Гель-корректор для бровей Luxvisage Brow Styler",
+    "brand": "Luxvisage",
+    "variant": "02",
+    "sku": "GC001418",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 239,
+    "batch": 5,
+    "status": "skipped",
+    "sourcePage": "https://beloris.ru/item/ton-02-kapuchino",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact shade iZoom is a shade smear only, with BELORIS watermark, not product packaging. Source size 453x644; unsuitable, no watermark removed.",
+    "searches": [
+      {
+        "query": "Luxvisage Brow Styler 01 02 03 04 gel corrector",
+        "url": "https://beloris.ru/item/gel-korrektor-dlya-brovey-brow-styler",
+        "note": "Family source researched jointly with b005-c; embedded chldr exact shade URL and iZoom downloaded to artifacts\\step-7b\\b005-b\\gc001418.img. Both files visually reviewed in originals-overview.jpg: swatches with BELORIS, source rejected."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  }
+]

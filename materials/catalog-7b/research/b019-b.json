@@ -1,0 +1,827 @@
+[
+  {
+    "productId": "gc002613",
+    "variantId": "gc002613",
+    "productName": "Гель для бровей и ресниц коричневый Art-Visage Fix&Care 4,3 мл",
+    "brand": "Art-Visage",
+    "variant": "4,3 мл",
+    "sku": "GC002613",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 920,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://art-visage.ru/product/AVottenochniigel",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official current tinted FixCare states4ml, while Grace explicitly4.3ml. Also official shades include light/dark brown, while Grace only brown. Exact volume/variant cannot be mapped safely.",
+    "searches": [
+      {
+        "query": "ArtVisage FixCare brown4.3ml",
+        "url": "https://art-visage.ru/product/AVottenochniigel",
+        "note": "Official current tinted FixCare states4ml, while Grace explicitly4.3ml. Also official shades include light/dark brown, while Grace only brown. Exact volume/variant cannot be mapped safely."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc002614",
+    "variantId": "gc002614",
+    "productName": "Гель для бровей и ресниц прозрачный Art-Visage Fix&Care 5 мл",
+    "brand": "Art-Visage",
+    "variant": "5 мл",
+    "sku": "GC002614",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 921,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://art-visage.ru/product/AVFIXCARE",
+    "sourceImage": "https://art-visage.ru/pictures/main/products/9b690e9098b2147f61b73d7d0f82d0ea-1.webp",
+    "localFile": "materials/catalog-7b/originals/b019-b/Гель для бровей и ресниц прозрачный Art-Visage Fix&Care 5 мл 5 мл--gc002614.webp",
+    "verification": {
+      "identity": "Official classic FixCare transparent gel explicitly5ml, not tinted4ml or UltimateFix.",
+      "volumeAndVariant": "Official classic FixCare transparent gel explicitly5ml, not tinted4ml or UltimateFix.",
+      "visualReview": "All8 originals inspected in sources-overview.png; CT andRare also viewed full source. Every source is blocked for documented quality reason, not published.",
+      "reviewMethod": "Observed exact product page/image mapping plus full-fit visual inspection; sourcebytes retained unchanged.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Гель для бровей и ресниц прозрачный Art-Visage Fix&Care 5 мл 5 мл",
+        "url": "https://art-visage.ru/product/AVFIXCARE",
+        "note": "Official classic FixCare transparent gel explicitly5ml, not tinted4ml or UltimateFix."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1200,
+    "height": 1200,
+    "bytes": 18008,
+    "sha256": "02f8396ae9fee5e7703082e8299f1c93eb50eb794a1d0824c422aa84abe750f2"
+  },
+  {
+    "productId": "gc002615",
+    "variantId": "gc002615",
+    "productName": "Гель для бровей и ресниц Суперфиксация прозрачный Art-Visage",
+    "brand": "Art-Visage",
+    "variant": "Стандарт",
+    "sku": "GC002615",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 922,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1099578",
+    "sourceImage": "https://s.f.kz/prod/1100/1099578_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b019-b/Гель для бровей и ресниц Суперфиксация прозрачный Art-Visage Стандарт--gc002615.jpg",
+    "verification": {
+      "identity": "ArtVisage FixCare Superfixation transparent gel, exact line, retailer4ml standard pack.",
+      "volumeAndVariant": "ArtVisage FixCare Superfixation transparent gel, exact line, retailer4ml standard pack.",
+      "visualReview": "All8 originals inspected in sources-overview.png; CT andRare also viewed full source. Every source is blocked for documented quality reason, not published.",
+      "reviewMethod": "Observed exact product page/image mapping plus full-fit visual inspection; sourcebytes retained unchanged.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Гель для бровей и ресниц Суперфиксация прозрачный Art-Visage Стандарт",
+        "url": "https://www.flip.kz/catalog?prod=1099578",
+        "note": "ArtVisage FixCare Superfixation transparent gel, exact line, retailer4ml standard pack."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 113,
+    "height": 624,
+    "bytes": 17537,
+    "sha256": "d088f8aab52fe660897e639164abe08e1a4a5c6f7e451d3fcd83225eba8523e1"
+  },
+  {
+    "productId": "gc002616",
+    "variantId": "gc002616",
+    "productName": "Гель для бровей и ресниц без цвета Vivienne Sabo Fixateur 02 6 мл",
+    "brand": "Vivienne Sabo",
+    "variant": "6 мл",
+    "sku": "GC002616",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 923,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.parfum-lider.ru/catalog/makiyazh/m_brovi/gel/14936/",
+    "sourceImage": "https://www.parfum-lider.ru/upload/iblock/590/64zphbevlocpzpikkmdsrwfsi7e2gxvv.jpg",
+    "localFile": "materials/catalog-7b/originals/b019-b/Гель для бровей и ресниц без цвета Vivienne Sabo Fixateur 02 6 мл 6 мл--gc002616.jpg",
+    "verification": {
+      "identity": "Retailer exact VivienneSabo Fixateur02transparent6ml; product itemprop=image original, no4.5mlSuperb replacement.",
+      "volumeAndVariant": "Retailer exact VivienneSabo Fixateur02transparent6ml; product itemprop=image original, no4.5mlSuperb replacement.",
+      "visualReview": "All8 originals inspected in sources-overview.png; CT andRare also viewed full source. Every source is blocked for documented quality reason, not published.",
+      "reviewMethod": "Observed exact product page/image mapping plus full-fit visual inspection; sourcebytes retained unchanged.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Гель для бровей и ресниц без цвета Vivienne Sabo Fixateur 02 6 мл 6 мл",
+        "url": "https://www.parfum-lider.ru/catalog/makiyazh/m_brovi/gel/14936/",
+        "note": "Retailer exact VivienneSabo Fixateur02transparent6ml; product itemprop=image original, no4.5mlSuperb replacement."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 800,
+    "height": 800,
+    "bytes": 261583,
+    "sha256": "b10e54dc1ceafa80cdde5f6a971614aad85d30fed3aaf11b70a0195763d87e3e"
+  },
+  {
+    "productId": "gc002644",
+    "variantId": "gc002644",
+    "productName": "Гель для укладки бровей PUSY 5 мл",
+    "brand": "PUSY",
+    "variant": "5 мл",
+    "sku": "GC002644",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 924,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://pusy.beauty/blog/01981b2d-54d8-765e-8906-afec86d506ad",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official brand lists five different gels: Lamination, StrongFix, SuperFix, BrowFix and Healthy. Healthy5ml and originalBrowFix5ml both exist; Grace generic5ml title does not specify line. No guessed package.",
+    "searches": [
+      {
+        "query": "PUSY brow gel5ml",
+        "url": "https://pusy.beauty/blog/01981b2d-54d8-765e-8906-afec86d506ad",
+        "note": "Official brand lists five different gels: Lamination, StrongFix, SuperFix, BrowFix and Healthy. Healthy5ml and originalBrowFix5ml both exist; Grace generic5ml title does not specify line. No guessed package."
+      },
+      {
+        "query": "PUSY Healthy5ml",
+        "url": "https://pusy.beauty/products/vosstanavlivayshchiiy-gel-fiksator-dlya-broveiy-100798",
+        "note": "OfficialHealthy5ml exists as distinct line; generic5ml not unique."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0129",
+    "variantId": "gc002653",
+    "productName": "Гель оттеночный для бровей Relouis Fix&Color",
+    "brand": "Relouis",
+    "variant": "1",
+    "sku": "GC002653",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 925,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/en/product/fix-color/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official exact family page fetched; four product-images groups exist but every image data-bg is empty. Visible shade names01/02/03; fourth group unlabeled. No exact accessible photo for01 obtained in quick pass.",
+    "searches": [
+      {
+        "query": "Relouis Fix&Color brow gel01",
+        "url": "https://relouis.by/en/product/fix-color/",
+        "note": "Official exact family page fetched; four product-images groups exist but every image data-bg is empty. Visible shade names01/02/03; fourth group unlabeled. No exact accessible photo for01 obtained in quick pass."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0129",
+    "variantId": "gc002654",
+    "productName": "Гель оттеночный для бровей Relouis Fix&Color",
+    "brand": "Relouis",
+    "variant": "2",
+    "sku": "GC002654",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 926,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/en/product/fix-color/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official exact family page fetched; four product-images groups exist but every image data-bg is empty. Visible shade names01/02/03; fourth group unlabeled. No exact accessible photo for02 obtained in quick pass.",
+    "searches": [
+      {
+        "query": "Relouis Fix&Color brow gel02",
+        "url": "https://relouis.by/en/product/fix-color/",
+        "note": "Official exact family page fetched; four product-images groups exist but every image data-bg is empty. Visible shade names01/02/03; fourth group unlabeled. No exact accessible photo for02 obtained in quick pass."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0129",
+    "variantId": "gc002655",
+    "productName": "Гель оттеночный для бровей Relouis Fix&Color",
+    "brand": "Relouis",
+    "variant": "3",
+    "sku": "GC002655",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 927,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/en/product/fix-color/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official exact family page fetched; four product-images groups exist but every image data-bg is empty. Visible shade names01/02/03; fourth group unlabeled. No exact accessible photo for03 obtained in quick pass.",
+    "searches": [
+      {
+        "query": "Relouis Fix&Color brow gel03",
+        "url": "https://relouis.by/en/product/fix-color/",
+        "note": "Official exact family page fetched; four product-images groups exist but every image data-bg is empty. Visible shade names01/02/03; fourth group unlabeled. No exact accessible photo for03 obtained in quick pass."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0129",
+    "variantId": "gc002656",
+    "productName": "Гель оттеночный для бровей Relouis Fix&Color",
+    "brand": "Relouis",
+    "variant": "4",
+    "sku": "GC002656",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 928,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/en/product/fix-color/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official exact family page fetched; four product-images groups exist but every image data-bg is empty. Visible shade names01/02/03; fourth group unlabeled. No exact accessible photo or confirmed04shade mapping obtained in quick pass.",
+    "searches": [
+      {
+        "query": "Relouis Fix&Color brow gel04",
+        "url": "https://relouis.by/en/product/fix-color/",
+        "note": "Official exact family page fetched; four product-images groups exist but every image data-bg is empty. Visible shade names01/02/03; fourth group unlabeled. No exact accessible photo or confirmed04shade mapping obtained in quick pass."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc002680",
+    "variantId": "gc002680",
+    "productName": "Гель-фиксатор для бровей PATRICK TA 2,5 мл",
+    "brand": "PATRICK TA",
+    "variant": "2.5 мл",
+    "sku": "GC002680",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 929,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://www.sephora.com/product/mini-major-brow-lamination-gel-P501156",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact indexed Mini MajorBrow LaminationGel2.5ml found; direct product request returned403. No verified exact image retained from quick focused pass; fullsize not substituted.",
+    "searches": [
+      {
+        "query": "PatrickTa mini brow gel2.5ml",
+        "url": "https://www.sephora.com/product/mini-major-brow-lamination-gel-P501156",
+        "note": "Exact indexed Mini MajorBrow LaminationGel2.5ml found; direct product request returned403. No verified exact image retained from quick focused pass; fullsize not substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc003531",
+    "variantId": "gc003531",
+    "productName": "Мыло для бровей",
+    "brand": "Farres",
+    "variant": "Стандарт",
+    "sku": "GC003531",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 930,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://beautyhunter.com.ua/sredstva-dlya-ukladkifiksator-mylo-tush-gel/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Lookup found many brow soap brands and formats; Grace has no brand, model, net weight or package count. Cannot identify this product from generic soap category.",
+    "searches": [
+      {
+        "query": "мыло для бровей без бренда",
+        "url": "https://beautyhunter.com.ua/sredstva-dlya-ukladkifiksator-mylo-tush-gel/",
+        "note": "Lookup found many brow soap brands and formats; Grace has no brand, model, net weight or package count. Cannot identify this product from generic soap category."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc005191",
+    "variantId": "gc005191",
+    "productName": "Фиксатор для бровей гель или мыло для бровей REFY",
+    "brand": "REFY",
+    "variant": "Стандарт",
+    "sku": "GC005191",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 931,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://refybeauty.com/products/brow-sculpt",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official BrowSculpt clear wax-gel hybrid8.5ml found, alongside browTint line. Grace wording only REFY fixer gel or soap, without product line, shade or size. Insufficient identification to assign the8.5mlScuplt package.",
+    "searches": [
+      {
+        "query": "REFY brow gel soap BrowSculpt",
+        "url": "https://refybeauty.com/products/brow-sculpt",
+        "note": "Official BrowSculpt clear wax-gel hybrid8.5ml found, alongside browTint line. Grace wording only REFY fixer gel or soap, without product line, shade or size. Insufficient identification to assign the8.5mlScuplt package."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0130",
+    "variantId": "gc001453",
+    "productName": "Помада для бровей Luxvisage Brow Bar Blonde",
+    "brand": "Luxvisage",
+    "variant": "1",
+    "sku": "GC001453",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/3"
+    ],
+    "index": 932,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1460213",
+    "sourceImage": "https://s.f.kz/prod/1461/1460213_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b019-b/Помада для бровей Luxvisage Brow Bar Blonde 1--gc001453.jpg",
+    "verification": {
+      "identity": "Luxvisage BrowBar pomade01Blonde, exact numeric shade1 and colour name,6g.",
+      "volumeAndVariant": "Luxvisage BrowBar pomade01Blonde, exact numeric shade1 and colour name,6g.",
+      "visualReview": "All8 originals inspected in sources-overview.png; CT andRare also viewed full source. Every source is blocked for documented quality reason, not published.",
+      "reviewMethod": "Observed exact product page/image mapping plus full-fit visual inspection; sourcebytes retained unchanged.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Помада для бровей Luxvisage Brow Bar Blonde 1",
+        "url": "https://www.flip.kz/catalog?prod=1460213",
+        "note": "Luxvisage BrowBar pomade01Blonde, exact numeric shade1 and colour name,6g."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 720,
+    "height": 455,
+    "bytes": 64059,
+    "sha256": "661d8366730d9f3d85aac0aec1d8427b258245ecfb541bfba4ebbbdb2238edec"
+  },
+  {
+    "productId": "parent-0130",
+    "variantId": "gc001454",
+    "productName": "Помада для бровей Luxvisage Brow Bar Blonde",
+    "brand": "Luxvisage",
+    "variant": "2",
+    "sku": "GC001454",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/3"
+    ],
+    "index": 933,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1460215",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Observed family option labels1Blonde,2Taupe,3Brown. Grace parent title saysBlonde but assigned variant2 isTaupe. Numeric/name conflict prevents selecting either shade; no replacement by guess.",
+    "searches": [
+      {
+        "query": "Luxvisage BrowBar pomade shades1 2 3",
+        "url": "https://www.flip.kz/catalog?prod=1460215",
+        "note": "Observed family option labels1Blonde,2Taupe,3Brown. Grace parent title saysBlonde but assigned variant2 isTaupe. Numeric/name conflict prevents selecting either shade; no replacement by guess."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc001455",
+    "variantId": "gc001455",
+    "productName": "Помада для бровей Luxvisage Brow Bar Brown 3",
+    "brand": "Luxvisage",
+    "variant": "Стандарт",
+    "sku": "GC001455",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/3"
+    ],
+    "index": 934,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1460215",
+    "sourceImage": "https://s.f.kz/prod/1461/1460215_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b019-b/Помада для бровей Luxvisage Brow Bar Brown 3 Стандарт--gc001455.jpg",
+    "verification": {
+      "identity": "Luxvisage BrowBar pomade03Brown, exact numeric shade3 and colour name,6g.",
+      "volumeAndVariant": "Luxvisage BrowBar pomade03Brown, exact numeric shade3 and colour name,6g.",
+      "visualReview": "All8 originals inspected in sources-overview.png; CT andRare also viewed full source. Every source is blocked for documented quality reason, not published.",
+      "reviewMethod": "Observed exact product page/image mapping plus full-fit visual inspection; sourcebytes retained unchanged.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Помада для бровей Luxvisage Brow Bar Brown 3 Стандарт",
+        "url": "https://www.flip.kz/catalog?prod=1460215",
+        "note": "Luxvisage BrowBar pomade03Brown, exact numeric shade3 and colour name,6g."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 720,
+    "height": 459,
+    "bytes": 63219,
+    "sha256": "d9a2919a53ff00b406cd02b1d810f3d2842092ee0b2097162aecdea8d65915dd"
+  },
+  {
+    "productId": "gc001372",
+    "variantId": "gc001372",
+    "productName": "Масло для бровей и ресниц Levrana 7 мл",
+    "brand": "Levrana",
+    "variant": "7 мл",
+    "sku": "GC001372",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/4"
+    ],
+    "index": 935,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1412535",
+    "sourceImage": "https://s.f.kz/prod/1413/1412535_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b019-b/Масло для бровей и ресниц Levrana 7 мл 7 мл--gc001372.jpg",
+    "verification": {
+      "identity": "Levrana eyebrow/eyelash oil, retailer explicitly7ml, exact product.",
+      "volumeAndVariant": "Levrana eyebrow/eyelash oil, retailer explicitly7ml, exact product.",
+      "visualReview": "All8 originals inspected in sources-overview.png; CT andRare also viewed full source. Every source is blocked for documented quality reason, not published.",
+      "reviewMethod": "Observed exact product page/image mapping plus full-fit visual inspection; sourcebytes retained unchanged.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Масло для бровей и ресниц Levrana 7 мл 7 мл",
+        "url": "https://www.flip.kz/catalog?prod=1412535",
+        "note": "Levrana eyebrow/eyelash oil, retailer explicitly7ml, exact product."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 98,
+    "height": 686,
+    "bytes": 22380,
+    "sha256": "0d695266a84b371e0b157268367aee05d5ff892df733c83a5b83318c5b1ed803"
+  },
+  {
+    "productId": "gc003457",
+    "variantId": "gc003457",
+    "productName": "Мини набор для ресниц и бровей Rare Beauty Lash & Brow 4,5 г",
+    "brand": "Rare Beauty",
+    "variant": "8мл",
+    "sku": "GC003457",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/more/2"
+    ],
+    "index": 936,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/selena-s-lash-brow-duo",
+    "sourceImage": "https://www.rarebeauty.com/cdn/shop/files/ECOMM-SELENAS-LASH-BROW-DUO-BOX-PRODUCT.jpg?format=pjpg&v=1776795964&width=1440",
+    "localFile": "materials/catalog-7b/originals/b019-b/Мини набор для ресниц и бровей Rare Beauty Lash & Brow 4,5 г 8мл--gc003457.jpg",
+    "verification": {
+      "identity": "Official Selena Lash&BrowDuo contents mascaraMini8ml + BrowHarmonyGel4.5g; both Grace title4.5g and variant8ml reflect kit components, not contradictory size. Exact set packshot.",
+      "volumeAndVariant": "Official Selena Lash&BrowDuo contents mascaraMini8ml + BrowHarmonyGel4.5g; both Grace title4.5g and variant8ml reflect kit components, not contradictory size. Exact set packshot.",
+      "visualReview": "All8 originals inspected in sources-overview.png; CT andRare also viewed full source. Every source is blocked for documented quality reason, not published.",
+      "reviewMethod": "Observed exact product page/image mapping plus full-fit visual inspection; sourcebytes retained unchanged.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Мини набор для ресниц и бровей Rare Beauty Lash & Brow 4,5 г 8мл",
+        "url": "https://www.rarebeauty.com/products/selena-s-lash-brow-duo",
+        "note": "Official Selena Lash&BrowDuo contents mascaraMini8ml + BrowHarmonyGel4.5g; both Grace title4.5g and variant8ml reflect kit components, not contradictory size. Exact set packshot."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1440,
+    "height": 1952,
+    "bytes": 94599,
+    "sha256": "3b6d704affabc4b93b46550a4541d97c5b089dbc848f6b3352412891001f8900"
+  },
+  {
+    "productId": "gc003646",
+    "variantId": "gc003646",
+    "productName": "Набор щеток для ресниц и бровей",
+    "brand": "",
+    "variant": "Стандарт",
+    "sku": "GC003646",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "accessories/5"
+    ],
+    "index": 937,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://chistovie.ru/catalog/dlya-kosmetologii-i-vizazha/shchetochka-brashing-dlya-resnits-i-brovey-v-assortimente-50-sht-upk/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Quick lookup found50piece disposable spoolies and multiple brush sets. Grace has no brand, item count, brush style or package information. Cannot map a random set.",
+    "searches": [
+      {
+        "query": "набор щеток для ресниц и бровей",
+        "url": "https://chistovie.ru/catalog/dlya-kosmetologii-i-vizazha/shchetochka-brashing-dlya-resnits-i-brovey-v-assortimente-50-sht-upk/",
+        "note": "Quick lookup found50piece disposable spoolies and multiple brush sets. Grace has no brand, item count, brush style or package information. Cannot map a random set."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc000522",
+    "variantId": "gc000522",
+    "productName": "Помада Makeup by Mario BY MARIO",
+    "brand": "Makeup by Mario",
+    "variant": "Стандарт",
+    "sku": "GC000522",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 938,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://www.makeupbymario.com/en-sb/products/supersatin-lipstick",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official SuperSatin lipstick page found, but Grace name onlyMakeupByMario BYMARIO and no shade/formula/size. Brand alone insufficient; no arbitrary nude or lipstick line assigned.",
+    "searches": [
+      {
+        "query": "MakeupByMario lipstick SuperSatin SuperMatte",
+        "url": "https://www.makeupbymario.com/en-sb/products/supersatin-lipstick",
+        "note": "Official SuperSatin lipstick page found, but Grace name onlyMakeupByMario BYMARIO and no shade/formula/size. Brand alone insufficient; no arbitrary nude or lipstick line assigned."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc000579",
+    "variantId": "gc000579",
+    "productName": "Помада Charlotte Tilbury K.i.s.s.i.n.g. Lipstick Kiss Of Mystery",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC000579",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 939,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/k-i-s-s-i-n-g-kiss-of-mystery",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/6FGD8zBV0ioFzNxa2xGgYZ/a5b48e752ac268b6cc2b3fd963cb1038/Kiss-Of-Mystery-Packshot-Open.png?bg=rgb%3Affffff&fm=png",
+    "localFile": "materials/catalog-7b/originals/b019-b/Помада Charlotte Tilbury K.i.s.s.i.n.g. Lipstick Kiss Of Mystery Стандарт--gc000579.png",
+    "verification": {
+      "identity": "Official KISSING Kiss of Mystery3.5g limited edition YearOfSnake2025; exact shade name and open packshot.",
+      "volumeAndVariant": "Official KISSING Kiss of Mystery3.5g limited edition YearOfSnake2025; exact shade name and open packshot.",
+      "visualReview": "All8 originals inspected in sources-overview.png; CT andRare also viewed full source. Every source is blocked for documented quality reason, not published.",
+      "reviewMethod": "Observed exact product page/image mapping plus full-fit visual inspection; sourcebytes retained unchanged.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Помада Charlotte Tilbury K.i.s.s.i.n.g. Lipstick Kiss Of Mystery Стандарт",
+        "url": "https://www.charlottetilbury.com/uk/product/k-i-s-s-i-n-g-kiss-of-mystery",
+        "note": "Official KISSING Kiss of Mystery3.5g limited edition YearOfSnake2025; exact shade name and open packshot."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1000,
+    "height": 1000,
+    "bytes": 275920,
+    "sha256": "1393a8a7a014bd80070ed193612a95a14735bbc089cb0ac0032d185c3f8bfe1c"
+  }
+]

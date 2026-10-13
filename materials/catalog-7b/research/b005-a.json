@@ -1,0 +1,465 @@
+[
+  {
+    "index": 201,
+    "productId": "gc001591",
+    "variantId": "gc001591",
+    "productName": "Идеально маскирующий крем оттенок Missha BB 27",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "localFile": null,
+    "sourceImage": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://misshaus.com/products/m-perfect-cover-bb-cream-spf-42-pa-20ml-1",
+    "skipReason": "Official source confirms old M Perfect Cover SPF42 in shade21 and27, and both20ml travel and50ml full-size presentations exist (official collection also lists distinct35ml Serum). Catalog lacks volume; for201 exact line/SPF are also incomplete. No arbitrary size or new Serum tube substituted.",
+    "searches": [
+      {
+        "query": "Missha M Perfect Cover BB Cream SPF42 21 27 official",
+        "url": "https://misshaus.com/products/m-perfect-cover-bb-cream-spf-42-pa-20ml-1",
+        "note": "Official source confirms old M Perfect Cover SPF42 in shade21 and27, and both20ml travel and50ml full-size presentations exist (official collection also lists distinct35ml Serum). Catalog lacks volume; for201 exact line/SPF are also incomplete. No arbitrary size or new Serum tube substituted."
+      }
+    ]
+  },
+  {
+    "index": 202,
+    "productId": "gc002414",
+    "variantId": "gc002414",
+    "productName": "Крем оттенок Missha M Perfect Cover BB Cream SPF42 21",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "localFile": null,
+    "sourceImage": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://misshaus.com/products/m-perfect-cover-bb-cream-spf-42-pa-20ml-1",
+    "skipReason": "Official source confirms old M Perfect Cover SPF42 in shade21 and27, and both20ml travel and50ml full-size presentations exist (official collection also lists distinct35ml Serum). Catalog lacks volume; for201 exact line/SPF are also incomplete. No arbitrary size or new Serum tube substituted.",
+    "searches": [
+      {
+        "query": "Missha M Perfect Cover BB Cream SPF42 21 27 official",
+        "url": "https://misshaus.com/products/m-perfect-cover-bb-cream-spf-42-pa-20ml-1",
+        "note": "Official source confirms old M Perfect Cover SPF42 in shade21 and27, and both20ml travel and50ml full-size presentations exist (official collection also lists distinct35ml Serum). Catalog lacks volume; for201 exact line/SPF are also incomplete. No arbitrary size or new Serum tube substituted."
+      }
+    ]
+  },
+  {
+    "index": 203,
+    "productId": "gc002520",
+    "variantId": "gc002520",
+    "productName": "Крем Enough Collagen 3 in 1 Whitening Moisture BB Cream",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "localFile": null,
+    "sourceImage": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://enoughvietnam.com/products/kem-che-khuyet-diem-bb-enough-collagen-3in1-bb-cream-50g",
+    "skipReason": "Quick family lookup found the named Collagen3in1 Whitening Moisture BB Cream, but chosen regional source returned404. Other indexed results include distinct3X SPF50+ presentation. No usable attributable original obtained within bounded lookup; plain Collagen Moisture catalog row additionally lacks version/volume, so did not substitute3X.",
+    "searches": [
+      {
+        "query": "Enough Collagen Moisture BB Cream 3 in 1 Whitening shades",
+        "url": "https://enoughvietnam.com/products/kem-che-khuyet-diem-bb-enough-collagen-3in1-bb-cream-50g",
+        "note": "Quick family lookup found the named Collagen3in1 Whitening Moisture BB Cream, but chosen regional source returned404. Other indexed results include distinct3X SPF50+ presentation. No usable attributable original obtained within bounded lookup; plain Collagen Moisture catalog row additionally lacks version/volume, so did not substitute3X."
+      }
+    ]
+  },
+  {
+    "index": 204,
+    "productId": "gc002521",
+    "variantId": "gc002521",
+    "productName": "Крем Enough Collagen Moisture BB Cream",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "localFile": null,
+    "sourceImage": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://enoughvietnam.com/products/kem-che-khuyet-diem-bb-enough-collagen-3in1-bb-cream-50g",
+    "skipReason": "Quick family lookup found the named Collagen3in1 Whitening Moisture BB Cream, but chosen regional source returned404. Other indexed results include distinct3X SPF50+ presentation. No usable attributable original obtained within bounded lookup; plain Collagen Moisture catalog row additionally lacks version/volume, so did not substitute3X.",
+    "searches": [
+      {
+        "query": "Enough Collagen Moisture BB Cream 3 in 1 Whitening shades",
+        "url": "https://enoughvietnam.com/products/kem-che-khuyet-diem-bb-enough-collagen-3in1-bb-cream-50g",
+        "note": "Quick family lookup found the named Collagen3in1 Whitening Moisture BB Cream, but chosen regional source returned404. Other indexed results include distinct3X SPF50+ presentation. No usable attributable original obtained within bounded lookup; plain Collagen Moisture catalog row additionally lacks version/volume, so did not substitute3X."
+      }
+    ]
+  },
+  {
+    "index": 205,
+    "productId": "gc003243",
+    "variantId": "gc003243",
+    "productName": "Кушон Charlotte Tilbury Pillow Talk 1C Fair 12 г",
+    "variant": "Стандарт",
+    "localFile": "materials/catalog-7b/originals/b005-a/Кушон Charlotte Tilbury Pillow Talk 1C Fair 12 г Стандарт--gc003243.png",
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 974544,
+    "sha256": "ad63ee85b4b737a1193bcd35234eab081d0e61c377cbc6e6679722e494a217ed",
+    "status": "verified",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/1XwQMeY5ZW2PXhosnPeq68/8aaae1d6362fa82293b752163b1d06d1/HK-PT-Cushion-Foundation-Packshot__1_.png?bg=rgb%3Affffff&fm=png",
+    "skipReason": null,
+    "sharedImageWith": [
+      "gc003244",
+      "gc003245"
+    ],
+    "sourcePage": "https://www.charlottetilbury.com/hk/product/pillow-talk-beautifying-cushion-foundation-fair-1c",
+    "verification": {
+      "identity": "Exact official 1c Fair page title and og:image associate the same compact photograph with all3 selected shades. Downloaded individual pages saved as ct-1c.html. The puff covers the cosmetic shade, so this shared housing photo does not falsely show another tone.",
+      "volumeAndVariant": "Official Pillow Talk Beautifying Cushion Foundation full compact; source product data12g, exact 1c shade matches catalog. Not refill-only.",
+      "visualReview": "Viewed full RGBA source then prepared overview: complete pink quilted compact, CT logo and puff; no cosmetic shade visible, no watermark. Black/grey field in raw image viewer was transparent pixels, confirmed alpha0; standard white flatten preserves soft natural shadow. Output clean and centered.",
+      "sourceBytesUnmodified": true,
+      "reviewMethod": "view_image of unchanged original and prepared contact sheet,2026-09-24"
+    },
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Pillow Talk cushion 1C 1N 2N 12g",
+        "url": "https://www.charlottetilbury.com/hk/product/pillow-talk-beautifying-cushion-foundation-fair-1c",
+        "note": "Exact official 1c Fair page title and og:image associate the same compact photograph with all3 selected shades. Downloaded individual pages saved as ct-1c.html. The puff covers the cosmetic shade, so this shared housing photo does not falsely show another tone."
+      }
+    ]
+  },
+  {
+    "index": 206,
+    "productId": "gc003244",
+    "variantId": "gc003244",
+    "productName": "Кушон Charlotte Tilbury Pillow Talk 1N Fair 12 г",
+    "variant": "Стандарт",
+    "localFile": "materials/catalog-7b/originals/b005-a/Кушон Charlotte Tilbury Pillow Talk 1N Fair 12 г Стандарт--gc003244.png",
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 974544,
+    "sha256": "ad63ee85b4b737a1193bcd35234eab081d0e61c377cbc6e6679722e494a217ed",
+    "status": "verified",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/1XwQMeY5ZW2PXhosnPeq68/8aaae1d6362fa82293b752163b1d06d1/HK-PT-Cushion-Foundation-Packshot__1_.png?bg=rgb%3Affffff&fm=png",
+    "skipReason": null,
+    "sharedImageWith": [
+      "gc003243",
+      "gc003245"
+    ],
+    "sourcePage": "https://www.charlottetilbury.com/hk/product/pillow-talk-beautifying-cushion-foundation-fair-1n",
+    "verification": {
+      "identity": "Exact official 1n Fair page title and og:image associate the same compact photograph with all3 selected shades. Downloaded individual pages saved as ct-1n.html. The puff covers the cosmetic shade, so this shared housing photo does not falsely show another tone.",
+      "volumeAndVariant": "Official Pillow Talk Beautifying Cushion Foundation full compact; source product data12g, exact 1n shade matches catalog. Not refill-only.",
+      "visualReview": "Viewed full RGBA source then prepared overview: complete pink quilted compact, CT logo and puff; no cosmetic shade visible, no watermark. Black/grey field in raw image viewer was transparent pixels, confirmed alpha0; standard white flatten preserves soft natural shadow. Output clean and centered.",
+      "sourceBytesUnmodified": true,
+      "reviewMethod": "view_image of unchanged original and prepared contact sheet,2026-09-24"
+    },
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Pillow Talk cushion 1C 1N 2N 12g",
+        "url": "https://www.charlottetilbury.com/hk/product/pillow-talk-beautifying-cushion-foundation-fair-1n",
+        "note": "Exact official 1n Fair page title and og:image associate the same compact photograph with all3 selected shades. Downloaded individual pages saved as ct-1n.html. The puff covers the cosmetic shade, so this shared housing photo does not falsely show another tone."
+      }
+    ]
+  },
+  {
+    "index": 207,
+    "productId": "gc003245",
+    "variantId": "gc003245",
+    "productName": "Кушон Charlotte Tilbury Pillow Talk 2N Fair 12 г",
+    "variant": "Стандарт",
+    "localFile": "materials/catalog-7b/originals/b005-a/Кушон Charlotte Tilbury Pillow Talk 2N Fair 12 г Стандарт--gc003245.png",
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 974544,
+    "sha256": "ad63ee85b4b737a1193bcd35234eab081d0e61c377cbc6e6679722e494a217ed",
+    "status": "verified",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/1XwQMeY5ZW2PXhosnPeq68/8aaae1d6362fa82293b752163b1d06d1/HK-PT-Cushion-Foundation-Packshot__1_.png?bg=rgb%3Affffff&fm=png",
+    "skipReason": null,
+    "sharedImageWith": [
+      "gc003243",
+      "gc003244"
+    ],
+    "sourcePage": "https://www.charlottetilbury.com/hk/product/pillow-talk-beautifying-cushion-foundation-fair-2n",
+    "verification": {
+      "identity": "Exact official 2n Fair page title and og:image associate the same compact photograph with all3 selected shades. Downloaded individual pages saved as ct-2n.html. The puff covers the cosmetic shade, so this shared housing photo does not falsely show another tone.",
+      "volumeAndVariant": "Official Pillow Talk Beautifying Cushion Foundation full compact; source product data12g, exact 2n shade matches catalog. Not refill-only.",
+      "visualReview": "Viewed full RGBA source then prepared overview: complete pink quilted compact, CT logo and puff; no cosmetic shade visible, no watermark. Black/grey field in raw image viewer was transparent pixels, confirmed alpha0; standard white flatten preserves soft natural shadow. Output clean and centered.",
+      "sourceBytesUnmodified": true,
+      "reviewMethod": "view_image of unchanged original and prepared contact sheet,2026-09-24"
+    },
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Pillow Talk cushion 1C 1N 2N 12g",
+        "url": "https://www.charlottetilbury.com/hk/product/pillow-talk-beautifying-cushion-foundation-fair-2n",
+        "note": "Exact official 2n Fair page title and og:image associate the same compact photograph with all3 selected shades. Downloaded individual pages saved as ct-2n.html. The puff covers the cosmetic shade, so this shared housing photo does not falsely show another tone."
+      }
+    ]
+  },
+  {
+    "index": 208,
+    "productId": "gc003246",
+    "variantId": "gc003246",
+    "productName": "Кушон С Charlotte Tilbury Pillow Talk 2 12 г",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "localFile": null,
+    "sourceImage": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.charlottetilbury.com/hk/product/pillow-talk-beautifying-cushion-foundation-fair-2c",
+    "skipReason": "Official source distinguishes2C Fair from2N Fair. Catalog says Pillow Talk2, with a separate isolated Cyrillic С before brand, not a dependable shade identifier. Cannot confidently assign2C or2N; skipped rather than infer shade from ambiguous wording.",
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Pillow Talk cushion 1C 1N 2N 12g",
+        "url": "https://www.charlottetilbury.com/hk/product/pillow-talk-beautifying-cushion-foundation-fair-2c",
+        "note": "Official source distinguishes2C Fair from2N Fair. Catalog says Pillow Talk2, with a separate isolated Cyrillic С before brand, not a dependable shade identifier. Cannot confidently assign2C or2N; skipped rather than infer shade from ambiguous wording."
+      }
+    ]
+  },
+  {
+    "index": 209,
+    "productId": "gc003247",
+    "variantId": "gc003247",
+    "productName": "Кушон Sasimi",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "localFile": null,
+    "sourceImage": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.google.com/search?q=Sasimi%20cushion%20foundation",
+    "skipReason": "Focused Sasimi cushion foundation and Russian кушон Sasimi searches produced no identifiable exact product page in returned results. Catalog has no model, size or shade. No random Sasimi item or generic cushion photo substituted.",
+    "searches": [
+      {
+        "query": "Sasimi cushion foundation",
+        "url": "https://www.google.com/search?q=Sasimi%20cushion%20foundation",
+        "note": "Focused Sasimi cushion foundation and Russian кушон Sasimi searches produced no identifiable exact product page in returned results. Catalog has no model, size or shade. No random Sasimi item or generic cushion photo substituted."
+      }
+    ]
+  },
+  {
+    "index": 210,
+    "productId": "gc003248",
+    "variantId": "gc003248",
+    "productName": "Кушон авокадо",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "localFile": null,
+    "sourceImage": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://makeup.com.ua/ua/product/1241661/",
+    "skipReason": "Lookup finds avocado cushions from different brands, including Love Skin and Zozu. Catalog only says cushion avocado without brand, model, shade or size, so neither candidate is established as exact. Skipped ambiguous identity.",
+    "searches": [
+      {
+        "query": "кушон авокадо",
+        "url": "https://makeup.com.ua/ua/product/1241661/",
+        "note": "Lookup finds avocado cushions from different brands, including Love Skin and Zozu. Catalog only says cushion avocado without brand, model, shade or size, so neither candidate is established as exact. Skipped ambiguous identity."
+      }
+    ]
+  },
+  {
+    "index": 211,
+    "productId": "gc003250",
+    "variantId": "gc003250",
+    "productName": "Кушон увлажняющий с защитой и доп.рефилом 21 тон Black Rice SPF",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "localFile": null,
+    "sourceImage": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.google.com/search?q=Black%20Rice%20%D0%BA%D1%83%D1%88%D0%BE%D0%BD%20%D1%80%D0%B5%D1%84%D0%B8%D0%BB%2021",
+    "skipReason": "Focused family searches Black Rice cushion21/23/25 refill and Black Rice кушон рефил did not return an attributable exact cushion-plus-refill product page. Catalog does specify shade21 and an extra refill, so an unverified bare compact or Black Rice BB tube would misrepresent the set. Skipped bounded lookup.",
+    "searches": [
+      {
+        "query": "Black Rice кушон рефил 21",
+        "url": "https://www.google.com/search?q=Black%20Rice%20%D0%BA%D1%83%D1%88%D0%BE%D0%BD%20%D1%80%D0%B5%D1%84%D0%B8%D0%BB%2021",
+        "note": "Focused family searches Black Rice cushion21/23/25 refill and Black Rice кушон рефил did not return an attributable exact cushion-plus-refill product page. Catalog does specify shade21 and an extra refill, so an unverified bare compact or Black Rice BB tube would misrepresent the set. Skipped bounded lookup."
+      }
+    ]
+  },
+  {
+    "index": 212,
+    "productId": "gc003251",
+    "variantId": "gc003251",
+    "productName": "Кушон увлажняющий с защитой и доп.рефилом 23 тон Black Rice SPF",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "localFile": null,
+    "sourceImage": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.google.com/search?q=Black%20Rice%20%D0%BA%D1%83%D1%88%D0%BE%D0%BD%20%D1%80%D0%B5%D1%84%D0%B8%D0%BB%2023",
+    "skipReason": "Focused family searches Black Rice cushion21/23/25 refill and Black Rice кушон рефил did not return an attributable exact cushion-plus-refill product page. Catalog does specify shade23 and an extra refill, so an unverified bare compact or Black Rice BB tube would misrepresent the set. Skipped bounded lookup.",
+    "searches": [
+      {
+        "query": "Black Rice кушон рефил 23",
+        "url": "https://www.google.com/search?q=Black%20Rice%20%D0%BA%D1%83%D1%88%D0%BE%D0%BD%20%D1%80%D0%B5%D1%84%D0%B8%D0%BB%2023",
+        "note": "Focused family searches Black Rice cushion21/23/25 refill and Black Rice кушон рефил did not return an attributable exact cushion-plus-refill product page. Catalog does specify shade23 and an extra refill, so an unverified bare compact or Black Rice BB tube would misrepresent the set. Skipped bounded lookup."
+      }
+    ]
+  },
+  {
+    "index": 213,
+    "productId": "gc003252",
+    "variantId": "gc003252",
+    "productName": "Кушон увлажняющий с защитой и доп.рефилом 25 тон Black Rice SPF",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "localFile": null,
+    "sourceImage": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.google.com/search?q=Black%20Rice%20%D0%BA%D1%83%D1%88%D0%BE%D0%BD%20%D1%80%D0%B5%D1%84%D0%B8%D0%BB%2025",
+    "skipReason": "Focused family searches Black Rice cushion21/23/25 refill and Black Rice кушон рефил did not return an attributable exact cushion-plus-refill product page. Catalog does specify shade25 and an extra refill, so an unverified bare compact or Black Rice BB tube would misrepresent the set. Skipped bounded lookup.",
+    "searches": [
+      {
+        "query": "Black Rice кушон рефил 25",
+        "url": "https://www.google.com/search?q=Black%20Rice%20%D0%BA%D1%83%D1%88%D0%BE%D0%BD%20%D1%80%D0%B5%D1%84%D0%B8%D0%BB%2025",
+        "note": "Focused family searches Black Rice cushion21/23/25 refill and Black Rice кушон рефил did not return an attributable exact cushion-plus-refill product page. Catalog does specify shade25 and an extra refill, so an unverified bare compact or Black Rice BB tube would misrepresent the set. Skipped bounded lookup."
+      }
+    ]
+  },
+  {
+    "index": 214,
+    "productId": "gc003436",
+    "variantId": "gc003436",
+    "productName": "Матирующий BB-крем Secret Key Finish up BB Cream",
+    "variant": "Стандарт",
+    "localFile": "materials/catalog-7b/originals/b005-a/Матирующий BB-крем Secret Key Finish up BB Cream Стандарт--gc003436.jpg",
+    "width": 702,
+    "height": 800,
+    "format": "JPEG",
+    "bytes": 87959,
+    "sha256": "bb504ee54458fae009ebd3ed9514585be5e0531159a75253def1136a8d299edb",
+    "status": "verified",
+    "sourceImage": "https://www.secretkey.ru/images/catalog/secret-key-finish-up-bb-cream-matiruyushchiy-bb-krem-30ml-/1.jpg",
+    "skipReason": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.secretkey.ru/catalog/secret-key-finish-up-bb-cream-matiruyushchiy-bb-krem-30ml-",
+    "verification": {
+      "identity": "Exact brand Russian product page Finish Up BB Cream, source main image and visible black tube Secret Key branding.",
+      "volumeAndVariant": "Source is30ml presentation; catalog supplies no volume/shade. Source has one Finish Up BB product, no shade selection.",
+      "visualReview": "Viewed complete black tube on white, no watermark or clipping. Source702x800 but actual tube714px; blocked by800px visible source gate.",
+      "sourceBytesUnmodified": true,
+      "reviewMethod": "view_image of unchanged original and prepared contact sheet,2026-09-24"
+    },
+    "searches": [
+      {
+        "query": "Secret Key Finish up BB Cream official",
+        "url": "https://www.secretkey.ru/catalog/secret-key-finish-up-bb-cream-matiruyushchiy-bb-krem-30ml-",
+        "note": "Exact brand Russian product page Finish Up BB Cream, source main image and visible black tube Secret Key branding."
+      }
+    ]
+  },
+  {
+    "index": 215,
+    "productId": "parent-0023",
+    "variantId": "gc004666",
+    "productName": "Сменный блок для кушона CUSKIN Clean-Up SPF50 PA++++",
+    "variant": "21",
+    "status": "skipped",
+    "localFile": null,
+    "sourceImage": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://cuskin-turkiye.com/en/skinfit-cushion-pact",
+    "skipReason": "Refill-focused lookup did not establish a shade21 PA++++ refill photo. Previously inspected official regional family page is complete Skinfit compact SPF50+/PA+++ with redundant packaging; source version and full kit differ from requested replacement block. No full cushion substituted for refill.",
+    "searches": [
+      {
+        "query": "CUSKIN Clean Up cushion refill21 23 SPF50 PA++++",
+        "url": "https://cuskin-turkiye.com/en/skinfit-cushion-pact",
+        "note": "Refill-focused lookup did not establish a shade21 PA++++ refill photo. Previously inspected official regional family page is complete Skinfit compact SPF50+/PA+++ with redundant packaging; source version and full kit differ from requested replacement block. No full cushion substituted for refill."
+      }
+    ]
+  },
+  {
+    "index": 216,
+    "productId": "parent-0023",
+    "variantId": "gc004667",
+    "productName": "Сменный блок для кушона CUSKIN Clean-Up SPF50 PA++++",
+    "variant": "23",
+    "status": "skipped",
+    "localFile": null,
+    "sourceImage": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://cuskin-turkiye.com/en/skinfit-cushion-pact",
+    "skipReason": "Refill-focused lookup did not establish a shade23 PA++++ refill photo. Previously inspected official regional family page is complete Skinfit compact SPF50+/PA+++ with redundant packaging; source version and full kit differ from requested replacement block. No full cushion substituted for refill.",
+    "searches": [
+      {
+        "query": "CUSKIN Clean Up cushion refill21 23 SPF50 PA++++",
+        "url": "https://cuskin-turkiye.com/en/skinfit-cushion-pact",
+        "note": "Refill-focused lookup did not establish a shade23 PA++++ refill photo. Previously inspected official regional family page is complete Skinfit compact SPF50+/PA+++ with redundant packaging; source version and full kit differ from requested replacement block. No full cushion substituted for refill."
+      }
+    ]
+  },
+  {
+    "index": 217,
+    "productId": "gc004690",
+    "variantId": "gc004690",
+    "productName": "Солнцезащитный кушон с берёзовым соком Round Lab Birch Juice Moisturizing Sun Cushion SPF50+ PA++++",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "localFile": null,
+    "sourceImage": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://roundlabaustralia.com/products/birch-juice-moisturizing-sun-cushion-15g",
+    "skipReason": "Indexed Australian source identifies exact SPF50+ PA++++ cushion but product JSON retrieval timed out after12s. US official page shows UVLock regional version on blue scene; not substituted for this catalog item. Bounded lookup ended without usable exact original.",
+    "searches": [
+      {
+        "query": "Round Lab Birch Juice Moisturizing Sun Cushion SPF50 PA++++",
+        "url": "https://roundlabaustralia.com/products/birch-juice-moisturizing-sun-cushion-15g",
+        "note": "Indexed Australian source identifies exact SPF50+ PA++++ cushion but product JSON retrieval timed out after12s. US official page shows UVLock regional version on blue scene; not substituted for this catalog item. Bounded lookup ended without usable exact original."
+      }
+    ]
+  },
+  {
+    "index": 218,
+    "productId": "gc005047",
+    "variantId": "gc005047",
+    "productName": "Увлажняющий крем с содержанием черного риса Black Rice Cover BB cream SPF36",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "localFile": null,
+    "sourceImage": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.bodycare.az/en/product/100316",
+    "skipReason": "Exact Black Rice Cover BB SPF36 product family has at least shades13/21/23/25 on the source. Catalog specifies no shade, so cannot pick an arbitrary shade-labeled tube photograph. Skipped missing variant information.",
+    "searches": [
+      {
+        "query": "Black Rice Cover BB SPF36",
+        "url": "https://www.bodycare.az/en/product/100316",
+        "note": "Exact Black Rice Cover BB SPF36 product family has at least shades13/21/23/25 on the source. Catalog specifies no shade, so cannot pick an arbitrary shade-labeled tube photograph. Skipped missing variant information."
+      }
+    ]
+  },
+  {
+    "index": 219,
+    "productId": "gc005048",
+    "variantId": "gc005048",
+    "productName": "Увлажняющий крем Pre More Natural Cover BB Cream «light nude»",
+    "variant": "Стандарт",
+    "localFile": "materials/catalog-7b/originals/b005-a/Увлажняющий крем Pre More Natural Cover BB Cream «light nude» Стандарт--gc005048.jpg",
+    "width": 373,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 42894,
+    "sha256": "20025bcbd58047718201d448eb001b640e36beb5946502dbb107651b24f2a17f",
+    "status": "verified",
+    "sourceImage": "https://s.f.kz/prod/4798/4797827_1000.jpg",
+    "skipReason": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.flip.kz/catalog?prod=4797827",
+    "verification": {
+      "identity": "Retailer selected Light Nude page, JSON-LD product4797827 and exact source image. Front tube label visibly reads Natural Cover BB Cream Light Nude.",
+      "volumeAndVariant": "Exact Light Nude and50ml printed on source, catalog shade matches and volume unspecified.",
+      "visualReview": "Viewed source373x1000: soft narrow tube and cream smear. Tube crimp and cap run into image boundaries; original does not preserve clear complete edge/margins and fine detail is soft. Retained original for provenance, rejected rapid preparation rather than invent missing boundaries.",
+      "sourceBytesUnmodified": true,
+      "reviewMethod": "view_image of unchanged original and prepared contact sheet,2026-09-24"
+    },
+    "searches": [
+      {
+        "query": "Pre More Natural Cover BB Cream light nude",
+        "url": "https://www.flip.kz/catalog?prod=4797827",
+        "note": "Retailer selected Light Nude page, JSON-LD product4797827 and exact source image. Front tube label visibly reads Natural Cover BB Cream Light Nude."
+      }
+    ]
+  }
+]

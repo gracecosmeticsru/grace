@@ -1,0 +1,2260 @@
+{
+  "createdAt": "2026-09-23T17:09:01.849Z",
+  "scope": "Current homepage incl. all five tabs, collection covers and three blog articles; recent history is an observed snapshot; hero pairs reconciled separately",
+  "entries": [
+    {
+      "productId": "gc002705",
+      "variantId": "gc002705",
+      "siteName": "Гидрофильное масло для глубокого очищения пор Anua 200 мл",
+      "productName": "Гидрофильное масло для глубокого очищения пор Anua 200 мл",
+      "brand": "Anua",
+      "variant": "200 мл",
+      "variantData": {
+        "id": "gc002705",
+        "sku": "GC002705",
+        "label": "200 мл",
+        "type": "Объём",
+        "price": 2090,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/cleansing/1"
+      ],
+      "occurrences": [
+        "home/reels",
+        "home/anua",
+        "home/collection-cover/clean",
+        "blog/autumn-skincare",
+        "home/hero/k-beauty",
+        "home/recent-observed",
+        "home/anua-banner"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc003374",
+      "variantId": "gc003374",
+      "siteName": "Масло тинт для губ Rare Beauty Soft Pinch Tinted Lip Oil «Hope» 3 мл",
+      "productName": "Масло тинт для губ Rare Beauty Soft Pinch Tinted Lip Oil «Hope» 3 мл",
+      "brand": "Rare Beauty",
+      "variant": "3мл",
+      "variantData": {
+        "id": "gc003374",
+        "sku": "GC003374",
+        "label": "3мл",
+        "type": "Объём",
+        "price": 2850,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "makeup/lips/2"
+      ],
+      "occurrences": [
+        "home/reels",
+        "home/collection-cover/lips",
+        "home/recent-observed"
+      ],
+      "group": "makeup"
+    },
+    {
+      "productId": "perf-0139",
+      "variantId": "perf-0139-f96f25b0",
+      "siteName": "Tom Ford tobacco vanille · Флакон 50 мл",
+      "productName": "Tom Ford tobacco vanille",
+      "brand": "Tom Ford",
+      "variant": "Флакон 50 мл",
+      "variantData": {
+        "id": "perf-0139-f96f25b0",
+        "sku": null,
+        "label": "Флакон 50 мл",
+        "type": "Объём",
+        "price": null,
+        "availability": "unknown",
+        "format": "Флакон"
+      },
+      "decant": true,
+      "paths": [
+        "fragrance/personal/3"
+      ],
+      "occurrences": [
+        "home/reels",
+        "home/recent-observed"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "gc005173",
+      "variantId": "gc005173",
+      "siteName": "Успокаивающий крем с ресвератролом Dr. Althea 345 Relief Cream 50 мл",
+      "productName": "Успокаивающий крем с ресвератролом Dr. Althea 345 Relief Cream 50 мл",
+      "brand": "Dr. Althea",
+      "variant": "50 мл",
+      "variantData": {
+        "id": "gc005173",
+        "sku": "GC005173",
+        "label": "50 мл",
+        "type": "Объём",
+        "price": 1350,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/daily/4"
+      ],
+      "occurrences": [
+        "home/reels"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc001774",
+      "variantId": "gc001774",
+      "siteName": "Увлажняющий солнцезащитный крем с березовым соком Round Lab SPF50+ PA++++ 50 мл",
+      "productName": "Увлажняющий солнцезащитный крем с березовым соком Round Lab SPF50+ PA++++ 50 мл",
+      "brand": "Round Lab",
+      "variant": "50 мл",
+      "variantData": {
+        "id": "gc001774",
+        "sku": "GC001774",
+        "label": "50 мл",
+        "type": "Объём",
+        "price": 1399,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/extra/7"
+      ],
+      "occurrences": [
+        "home/reels"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "parent-0012",
+      "variantId": "gc004904",
+      "siteName": "Тональная основа Rare Beauty · 110N",
+      "productName": "Тональная основа Rare Beauty",
+      "brand": "Rare Beauty",
+      "variant": "110N",
+      "variantData": {
+        "id": "gc004904",
+        "sku": "GC004904",
+        "label": "110N",
+        "type": "Оттенок",
+        "price": 3800,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "makeup/face/2"
+      ],
+      "occurrences": [
+        "home/reels"
+      ],
+      "group": "makeup"
+    },
+    {
+      "productId": "parent-0007",
+      "variantId": "gc003444",
+      "siteName": "Матовая тональная основа Dior Forever No Transfer 24H · 0.5N",
+      "productName": "Матовая тональная основа Dior Forever No Transfer 24H",
+      "brand": "Dior",
+      "variant": "0.5N",
+      "variantData": {
+        "id": "gc003444",
+        "sku": "GC003444",
+        "label": "0.5N",
+        "type": "Оттенок",
+        "price": 5390,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "makeup/face/2"
+      ],
+      "occurrences": [
+        "home/reels"
+      ],
+      "group": "makeup"
+    },
+    {
+      "productId": "gc002344",
+      "variantId": "gc002344",
+      "siteName": "Балансирующий тоник на основе хауттюйнии Anua 250 мл",
+      "productName": "Балансирующий тоник на основе хауттюйнии Anua 250 мл",
+      "brand": "Anua",
+      "variant": "250 мл",
+      "variantData": {
+        "id": "gc002344",
+        "sku": "GC002344",
+        "label": "250 мл",
+        "type": "Объём",
+        "price": 2390,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/daily/1"
+      ],
+      "occurrences": [
+        "home/reels",
+        "home/anua"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc004334",
+      "variantId": "gc004334",
+      "siteName": "Подтягивающая сыворотка с ретинолом и микроиглами Celimax The Vita-A Retinol Shot Tightening Serum",
+      "productName": "Подтягивающая сыворотка с ретинолом и микроиглами Celimax The Vita-A Retinol Shot Tightening Serum",
+      "brand": "Celimax",
+      "variant": "Стандарт",
+      "variantData": {
+        "id": "gc004334",
+        "sku": "GC004334",
+        "label": "Стандарт",
+        "type": "Вариант",
+        "price": 1850,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/daily/3"
+      ],
+      "occurrences": [
+        "home/reels"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "parent-0215",
+      "variantId": "gc005055",
+      "siteName": "Увлажняющий капсульный мист с ПДРН Anua PDRN Hyaluronic Acid Mist · 100 мл",
+      "productName": "Увлажняющий капсульный мист с ПДРН Anua PDRN Hyaluronic Acid Mist",
+      "brand": "Anua",
+      "variant": "100 мл",
+      "variantData": {
+        "id": "gc005055",
+        "sku": "GC005055",
+        "label": "100 мл",
+        "type": "Объём",
+        "price": 2800,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/daily/1"
+      ],
+      "occurrences": [
+        "home/reels",
+        "home/anua",
+        "home/recent-observed"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc002539",
+      "variantId": "gc002539",
+      "siteName": "Матирующая Пенка-праймер для умывания Косточки киви Vitex FRUIT Therapy 200 мл",
+      "productName": "Матирующая Пенка-праймер для умывания Косточки киви Vitex FRUIT Therapy 200 мл",
+      "brand": "Vitex",
+      "variant": "200мл",
+      "variantData": {
+        "id": "gc002539",
+        "sku": "GC002539",
+        "label": "200мл",
+        "type": "Объём",
+        "price": 187,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/cleansing/3"
+      ],
+      "occurrences": [
+        "home/selections/skincare",
+        "home/recent-observed"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "gc000147",
+      "variantId": "gc000147",
+      "siteName": "Гидрофильное масло для умывания с салициловой кислотой и чёрным тмином Aravia Pure Bala",
+      "productName": "Гидрофильное масло для умывания с салициловой кислотой и чёрным тмином Aravia Pure Bala",
+      "brand": "Aravia",
+      "variant": "Стандарт",
+      "variantData": {
+        "id": "gc000147",
+        "sku": "GC000147",
+        "label": "Стандарт",
+        "type": "Вариант",
+        "price": 1007,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/cleansing/1"
+      ],
+      "occurrences": [
+        "home/selections/skincare"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "gc000330",
+      "variantId": "gc000330",
+      "siteName": "Эксклюзивное гидрофильное масло для умывания Bielenda CAMELLIA OIL 140 мл",
+      "productName": "Эксклюзивное гидрофильное масло для умывания Bielenda CAMELLIA OIL 140 мл",
+      "brand": "Bielenda",
+      "variant": "140мл",
+      "variantData": {
+        "id": "gc000330",
+        "sku": "GC000330",
+        "label": "140мл",
+        "type": "Объём",
+        "price": 650,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/cleansing/1"
+      ],
+      "occurrences": [
+        "home/selections/skincare"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "gc000616",
+      "variantId": "gc000616",
+      "siteName": "Гидрофильное Гель-масло для глубокого очищения кожи Compliment 150 мл",
+      "productName": "Гидрофильное Гель-масло для глубокого очищения кожи Compliment 150 мл",
+      "brand": "Compliment",
+      "variant": "150 мл",
+      "variantData": {
+        "id": "gc000616",
+        "sku": "GC000616",
+        "label": "150 мл",
+        "type": "Объём",
+        "price": 400,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/cleansing/1"
+      ],
+      "occurrences": [
+        "home/selections/skincare"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "gc001397",
+      "variantId": "gc001397",
+      "siteName": "Гидрофильное масло Liv Delano Hyaluron Elixir 50 мл",
+      "productName": "Гидрофильное масло Liv Delano Hyaluron Elixir 50 мл",
+      "brand": "Liv Delano",
+      "variant": "50мл",
+      "variantData": {
+        "id": "gc001397",
+        "sku": "GC001397",
+        "label": "50мл",
+        "type": "Объём",
+        "price": 320,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/cleansing/1"
+      ],
+      "occurrences": [
+        "home/selections/skincare"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "gc001493",
+      "variantId": "gc001493",
+      "siteName": "Гидрофильное масло Masstige Daily Vitamin 110 мл",
+      "productName": "Гидрофильное масло Masstige Daily Vitamin 110 мл",
+      "brand": "Masstige",
+      "variant": "110 мл",
+      "variantData": {
+        "id": "gc001493",
+        "sku": "GC001493",
+        "label": "110 мл",
+        "type": "Объём",
+        "price": 375,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/cleansing/1"
+      ],
+      "occurrences": [
+        "home/selections/skincare"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "gc001932",
+      "variantId": "gc001932",
+      "siteName": "Гидрофильное масло для умывания очищения кожи и демакияжа The Act 110 мл",
+      "productName": "Гидрофильное масло для умывания очищения кожи и демакияжа The Act 110 мл",
+      "brand": "The Act",
+      "variant": "110 мл",
+      "variantData": {
+        "id": "gc001932",
+        "sku": "GC001932",
+        "label": "110 мл",
+        "type": "Объём",
+        "price": 499,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/cleansing/1"
+      ],
+      "occurrences": [
+        "home/selections/skincare"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "gc000016",
+      "variantId": "gc000016",
+      "siteName": "Легкое гидрофильное масло Angiopharm 100 мл",
+      "productName": "Легкое гидрофильное масло Angiopharm 100 мл",
+      "brand": "Angiopharm",
+      "variant": "100 мл",
+      "variantData": {
+        "id": "gc000016",
+        "sku": "GC000016",
+        "label": "100 мл",
+        "type": "Объём",
+        "price": 1458,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/cleansing/1"
+      ],
+      "occurrences": [
+        "home/selections/skincare"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "gc002701",
+      "variantId": "gc002701",
+      "siteName": "Гидрофильное масл Skinjestique o Perfect Cleansing Oil 150 мл",
+      "productName": "Гидрофильное масл Skinjestique o Perfect Cleansing Oil 150 мл",
+      "brand": "Skinjestique",
+      "variant": "150мл",
+      "variantData": {
+        "id": "gc002701",
+        "sku": "GC002701",
+        "label": "150мл",
+        "type": "Объём",
+        "price": 2796,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/cleansing/1"
+      ],
+      "occurrences": [
+        "home/selections/skincare",
+        "home/recent-observed"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "gc002702",
+      "variantId": "gc002702",
+      "siteName": "Гидрофильное масло Holika Holika Tok Tok Clean Pore Deep Cleansing Oil",
+      "productName": "Гидрофильное масло Holika Holika Tok Tok Clean Pore Deep Cleansing Oil",
+      "brand": "Holika Holika",
+      "variant": "Стандарт",
+      "variantData": {
+        "id": "gc002702",
+        "sku": "GC002702",
+        "label": "Стандарт",
+        "type": "Вариант",
+        "price": 850,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/cleansing/1"
+      ],
+      "occurrences": [
+        "home/selections/skincare"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "gc000221",
+      "variantId": "gc000221",
+      "siteName": "Основа-праймер под макияж Belita Amore 30 мл",
+      "productName": "Основа-праймер под макияж Belita Amore 30 мл",
+      "brand": "Belita",
+      "variant": "30 мл",
+      "variantData": {
+        "id": "gc000221",
+        "sku": "GC000221",
+        "label": "30 мл",
+        "type": "Объём",
+        "price": 200,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "occurrences": [
+        "home/selections/makeup"
+      ],
+      "group": "makeup"
+    },
+    {
+      "productId": "gc000338",
+      "variantId": "gc000338",
+      "siteName": "Основа под макияж шарики Bielenda MAKE-UP",
+      "productName": "Основа под макияж шарики Bielenda MAKE-UP",
+      "brand": "Bielenda",
+      "variant": "Стандарт",
+      "variantData": {
+        "id": "gc000338",
+        "sku": "GC000338",
+        "label": "Стандарт",
+        "type": "Вариант",
+        "price": 650,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "occurrences": [
+        "home/selections/makeup"
+      ],
+      "group": "makeup"
+    },
+    {
+      "productId": "gc000546",
+      "variantId": "gc000546",
+      "siteName": "Выравнивающая основа Catrice Prime And Fine Pore Refining Anti-Shine",
+      "productName": "Выравнивающая основа Catrice Prime And Fine Pore Refining Anti-Shine",
+      "brand": "Catrice",
+      "variant": "Стандарт",
+      "variantData": {
+        "id": "gc000546",
+        "sku": "GC000546",
+        "label": "Стандарт",
+        "type": "Вариант",
+        "price": 650,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "occurrences": [
+        "home/selections/makeup"
+      ],
+      "group": "makeup"
+    },
+    {
+      "productId": "gc000622",
+      "variantId": "gc000622",
+      "siteName": "Крем-праймер многофункциональная фиксирующая основа под макияж для жирной и комбинированной кожи Compliment",
+      "productName": "Крем-праймер многофункциональная фиксирующая основа под макияж для жирной и комбинированной кожи Compliment",
+      "brand": "Compliment",
+      "variant": "Стандарт",
+      "variantData": {
+        "id": "gc000622",
+        "sku": "GC000622",
+        "label": "Стандарт",
+        "type": "Вариант",
+        "price": 250,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "occurrences": [
+        "home/selections/makeup"
+      ],
+      "group": "makeup"
+    },
+    {
+      "productId": "gc000812",
+      "variantId": "gc000812",
+      "siteName": "Основа под макияж Estrade Let's selfie! 20 мл",
+      "productName": "Основа под макияж Estrade Let's selfie! 20 мл",
+      "brand": "Estrade",
+      "variant": "20 мл",
+      "variantData": {
+        "id": "gc000812",
+        "sku": "GC000812",
+        "label": "20 мл",
+        "type": "Объём",
+        "price": 370,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "occurrences": [
+        "home/selections/makeup"
+      ],
+      "group": "makeup"
+    },
+    {
+      "productId": "gc000847",
+      "variantId": "gc000847",
+      "siteName": "База под макияж выравнивающе-матирующая 3 в 1 Eveline Cosmetics Full HD 30 мл",
+      "productName": "База под макияж выравнивающе-матирующая 3 в 1 Eveline Cosmetics Full HD 30 мл",
+      "brand": "Eveline Cosmetics",
+      "variant": "30 мл",
+      "variantData": {
+        "id": "gc000847",
+        "sku": "GC000847",
+        "label": "30 мл",
+        "type": "Объём",
+        "price": 339,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "occurrences": [
+        "home/selections/makeup"
+      ],
+      "group": "makeup"
+    },
+    {
+      "productId": "gc001795",
+      "variantId": "gc001795",
+      "siteName": "Выравнивающий крем-праймер для лица SHIK Face Primer SPF15",
+      "productName": "Выравнивающий крем-праймер для лица SHIK Face Primer SPF15",
+      "brand": "SHIK",
+      "variant": "Стандарт",
+      "variantData": {
+        "id": "gc001795",
+        "sku": "GC001795",
+        "label": "Стандарт",
+        "type": "Вариант",
+        "price": 950,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "occurrences": [
+        "home/selections/makeup"
+      ],
+      "group": "makeup"
+    },
+    {
+      "productId": "gc002340",
+      "variantId": "gc002340",
+      "siteName": "База под макияж с эффектом сияния Heimish Artless Glow Base SPF50+ PA+++",
+      "productName": "База под макияж с эффектом сияния Heimish Artless Glow Base SPF50+ PA+++",
+      "brand": "Heimish",
+      "variant": "Стандарт",
+      "variantData": {
+        "id": "gc002340",
+        "sku": "GC002340",
+        "label": "Стандарт",
+        "type": "Вариант",
+        "price": 1200,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "occurrences": [
+        "home/selections/makeup"
+      ],
+      "group": "makeup"
+    },
+    {
+      "productId": "gc003185",
+      "variantId": "gc003185",
+      "siteName": "Крем-база под макияж Bobbi Brown Vitamin Enriched Face Base 50 мл",
+      "productName": "Крем-база под макияж Bobbi Brown Vitamin Enriched Face Base 50 мл",
+      "brand": "Bobbi Brown",
+      "variant": "50 мл",
+      "variantData": {
+        "id": "gc003185",
+        "sku": "GC003185",
+        "label": "50 мл",
+        "type": "Объём",
+        "price": 6050,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "occurrences": [
+        "home/selections/makeup"
+      ],
+      "group": "makeup"
+    },
+    {
+      "productId": "parent-0001",
+      "variantId": "gc004371",
+      "siteName": "Праймер база под макияж Charlotte Tilbury Hollywood Flawless Filter · 1 Fair",
+      "productName": "Праймер база под макияж Charlotte Tilbury Hollywood Flawless Filter",
+      "brand": "Charlotte Tilbury",
+      "variant": "1 Fair",
+      "variantData": {
+        "id": "gc004371",
+        "sku": "GC004371",
+        "label": "1 Fair",
+        "type": "Оттенок",
+        "price": 5200,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "makeup/face/1"
+      ],
+      "occurrences": [
+        "home/selections/makeup"
+      ],
+      "group": "makeup"
+    },
+    {
+      "productId": "perf-0001",
+      "variantId": "perf-0001-960372f7",
+      "siteName": "Ajmal AmberWood · Флакон 100 мл",
+      "productName": "Ajmal AmberWood",
+      "brand": "Ajmal",
+      "variant": "Флакон 100 мл",
+      "variantData": {
+        "id": "perf-0001-960372f7",
+        "sku": "GC000126",
+        "label": "Флакон 100 мл",
+        "type": "Объём",
+        "price": 10500,
+        "availability": "unknown",
+        "format": "Флакон"
+      },
+      "decant": true,
+      "paths": [
+        "fragrance/personal/1",
+        "fragrance/personal/3"
+      ],
+      "occurrences": [
+        "home/selections/fragrance",
+        "home/fragrance"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "perf-0011",
+      "variantId": "perf-0011-960372f7",
+      "siteName": "Attar Collection AZORA · Флакон 100 мл",
+      "productName": "Attar Collection AZORA",
+      "brand": "Attar Collection",
+      "variant": "Флакон 100 мл",
+      "variantData": {
+        "id": "perf-0011-960372f7",
+        "sku": "GC000205",
+        "label": "Флакон 100 мл",
+        "type": "Объём",
+        "price": 7500,
+        "availability": "unknown",
+        "format": "Флакон"
+      },
+      "decant": true,
+      "paths": [
+        "fragrance/personal/1",
+        "fragrance/personal/3"
+      ],
+      "occurrences": [
+        "home/selections/fragrance",
+        "home/fragrance"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "gc000452",
+      "variantId": "gc000452",
+      "siteName": "Интерьерный парфюм аромат By Kaori 50 мл",
+      "productName": "Интерьерный парфюм аромат By Kaori 50 мл",
+      "brand": "By Kaori",
+      "variant": "50 мл",
+      "variantData": {
+        "id": "gc000452",
+        "sku": "GC000452",
+        "label": "50 мл",
+        "type": "Объём",
+        "price": 1790,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "fragrance/personal/1"
+      ],
+      "occurrences": [
+        "home/selections/fragrance",
+        "home/fragrance"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "perf-0029",
+      "variantId": "perf-0029-960372f7",
+      "siteName": "Clinique happy for men · Флакон 100 мл",
+      "productName": "Clinique happy for men",
+      "brand": "Clinique",
+      "variant": "Флакон 100 мл",
+      "variantData": {
+        "id": "perf-0029-960372f7",
+        "sku": "GC000593",
+        "label": "Флакон 100 мл",
+        "type": "Объём",
+        "price": 5800,
+        "availability": "unknown",
+        "format": "Флакон"
+      },
+      "decant": true,
+      "paths": [
+        "fragrance/personal/1",
+        "fragrance/personal/3"
+      ],
+      "occurrences": [
+        "home/selections/fragrance",
+        "home/fragrance"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "perf-0041",
+      "variantId": "perf-0041-f96f25b0",
+      "siteName": "Dolce & Gabbana DG LIMPERATRICE · Флакон 50 мл",
+      "productName": "Dolce & Gabbana DG LIMPERATRICE",
+      "brand": "Dolce & Gabbana",
+      "variant": "Флакон 50 мл",
+      "variantData": {
+        "id": "perf-0041-f96f25b0",
+        "sku": "GC000661",
+        "label": "Флакон 50 мл",
+        "type": "Объём",
+        "price": 4200,
+        "availability": "unknown",
+        "format": "Флакон"
+      },
+      "decant": true,
+      "paths": [
+        "fragrance/personal/1",
+        "fragrance/personal/3"
+      ],
+      "occurrences": [
+        "home/selections/fragrance",
+        "home/fragrance"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "gc000899",
+      "variantId": "gc000899",
+      "siteName": "Аромат Ex Nihilo Blue Talisman 100 мл",
+      "productName": "Аромат Ex Nihilo Blue Talisman 100 мл",
+      "brand": "Ex Nihilo",
+      "variant": "100 мл",
+      "variantData": {
+        "id": "gc000899",
+        "sku": "GC000899",
+        "label": "100 мл",
+        "type": "Объём",
+        "price": 29000,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "fragrance/personal/1"
+      ],
+      "occurrences": [
+        "home/selections/fragrance",
+        "home/fragrance"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "gc001023",
+      "variantId": "gc001023",
+      "siteName": "Аромат Gucci Flora 100 мл",
+      "productName": "Аромат Gucci Flora 100 мл",
+      "brand": "Gucci",
+      "variant": "100мл",
+      "variantData": {
+        "id": "gc001023",
+        "sku": "GC001023",
+        "label": "100мл",
+        "type": "Объём",
+        "price": 16000,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "fragrance/personal/1"
+      ],
+      "occurrences": [
+        "home/selections/fragrance",
+        "home/fragrance"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "gc001052",
+      "variantId": "gc001052",
+      "siteName": "Парфюмерная вода аромат HFC Devil's Intrigue75ml · 75мл",
+      "productName": "Парфюмерная вода аромат HFC Devil's Intrigue75ml",
+      "brand": "HFC",
+      "variant": "75мл",
+      "variantData": {
+        "id": "gc001052",
+        "sku": "GC001052",
+        "label": "75мл",
+        "type": "Объём",
+        "price": 27000,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "fragrance/personal/1"
+      ],
+      "occurrences": [
+        "home/selections/fragrance",
+        "home/fragrance"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "perf-0072",
+      "variantId": "perf-0072-960372f7",
+      "siteName": "Kajal Perfumes KAJAL DAHAB · Флакон 100 мл",
+      "productName": "Kajal Perfumes KAJAL DAHAB",
+      "brand": "Kajal Perfumes",
+      "variant": "Флакон 100 мл",
+      "variantData": {
+        "id": "perf-0072-960372f7",
+        "sku": "GC001161",
+        "label": "Флакон 100 мл",
+        "type": "Объём",
+        "price": 9200,
+        "availability": "unknown",
+        "format": "Флакон"
+      },
+      "decant": true,
+      "paths": [
+        "fragrance/personal/1",
+        "fragrance/personal/3"
+      ],
+      "occurrences": [
+        "home/selections/fragrance",
+        "home/fragrance"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "perf-0082",
+      "variantId": "perf-0082-960372f7",
+      "siteName": "La Sultane de Saba Eau de Parfum Ayurvédique · Флакон 100 мл",
+      "productName": "La Sultane de Saba Eau de Parfum Ayurvédique",
+      "brand": "La Sultane de Saba",
+      "variant": "Флакон 100 мл",
+      "variantData": {
+        "id": "perf-0082-960372f7",
+        "sku": "GC001293",
+        "label": "Флакон 100 мл",
+        "type": "Объём",
+        "price": 9500,
+        "availability": "unknown",
+        "format": "Флакон"
+      },
+      "decant": true,
+      "paths": [
+        "fragrance/personal/1",
+        "fragrance/personal/3"
+      ],
+      "occurrences": [
+        "home/selections/fragrance",
+        "home/fragrance"
+      ],
+      "group": "root"
+    },
+    {
+      "productId": "gc002046",
+      "variantId": "gc002046",
+      "siteName": "Шампунь-праймер для волос очищение утолщение мягкость Vitex Plex Therapy 400 мл",
+      "productName": "Шампунь-праймер для волос очищение утолщение мягкость Vitex Plex Therapy 400 мл",
+      "brand": "Vitex",
+      "variant": "400мл",
+      "variantData": {
+        "id": "gc002046",
+        "sku": "GC002046",
+        "label": "400мл",
+        "type": "Объём",
+        "price": 240,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "hair/1"
+      ],
+      "occurrences": [
+        "home/selections/hair"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc000640",
+      "variantId": "gc000640",
+      "siteName": "Ухой шампуньс цветочным ароматом Batiste Blush 200 мл",
+      "productName": "Ухой шампуньс цветочным ароматом Batiste Blush 200 мл",
+      "brand": "Batiste",
+      "variant": "200мл",
+      "variantData": {
+        "id": "gc000640",
+        "sku": "GC000640",
+        "label": "200мл",
+        "type": "Объём",
+        "price": 830,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "hair/2"
+      ],
+      "occurrences": [
+        "home/selections/hair"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc000258",
+      "variantId": "gc000258",
+      "siteName": "Шампунь для волос Блеск и сила Belita Young 400 мл",
+      "productName": "Шампунь для волос Блеск и сила Belita Young 400 мл",
+      "brand": "Belita",
+      "variant": "400 мл",
+      "variantData": {
+        "id": "gc000258",
+        "sku": "GC000258",
+        "label": "400 мл",
+        "type": "Объём",
+        "price": 348,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "hair/1"
+      ],
+      "occurrences": [
+        "home/selections/hair"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc000606",
+      "variantId": "gc000606",
+      "siteName": "Маска для волос с луком укрепление-блеск-объём Compliment Naturalis 500 мл",
+      "productName": "Маска для волос с луком укрепление-блеск-объём Compliment Naturalis 500 мл",
+      "brand": "Compliment",
+      "variant": "500мл",
+      "variantData": {
+        "id": "gc000606",
+        "sku": "GC000606",
+        "label": "500мл",
+        "type": "Объём",
+        "price": 250,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "hair/4"
+      ],
+      "occurrences": [
+        "home/selections/hair"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc000693",
+      "variantId": "gc000693",
+      "siteName": "Бальзам для волос восстанавливающий Глубокое питание и Блеск для сильно повреждённых Ecolab Argana SPA",
+      "productName": "Бальзам для волос восстанавливающий Глубокое питание и Блеск для сильно повреждённых Ecolab Argana SPA",
+      "brand": "Ecolab",
+      "variant": "Стандарт",
+      "variantData": {
+        "id": "gc000693",
+        "sku": "GC000693",
+        "label": "Стандарт",
+        "type": "Вариант",
+        "price": 280,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "hair/3"
+      ],
+      "occurrences": [
+        "home/selections/hair"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc001408",
+      "variantId": "gc001408",
+      "siteName": "Маска для Усиления Блеска и восст повр структуры волос Liv Delano Valeur 300 г",
+      "productName": "Маска для Усиления Блеска и восст повр структуры волос Liv Delano Valeur 300 г",
+      "brand": "Liv Delano",
+      "variant": "300г",
+      "variantData": {
+        "id": "gc001408",
+        "sku": "GC001408",
+        "label": "300г",
+        "type": "Вариант",
+        "price": 180,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "hair/4"
+      ],
+      "occurrences": [
+        "home/selections/hair"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc003036",
+      "variantId": "gc003036",
+      "siteName": "Кондиционер для волос сила и блеск с черным тмином Dabur Vatika 200 мл",
+      "productName": "Кондиционер для волос сила и блеск с черным тмином Dabur Vatika 200 мл",
+      "brand": "Dabur Vatika",
+      "variant": "200 мл",
+      "variantData": {
+        "id": "gc003036",
+        "sku": "GC003036",
+        "label": "200 мл",
+        "type": "Объём",
+        "price": 280,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "hair/3"
+      ],
+      "occurrences": [
+        "home/selections/hair"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "parent-0234",
+      "variantId": "gc004731",
+      "siteName": "Стайлинг-крем 5 в Gisou 1 Honey Milk 5-in-1 styling cream · 150 мл",
+      "productName": "Стайлинг-крем 5 в Gisou 1 Honey Milk 5-in-1 styling cream",
+      "brand": "Gisou",
+      "variant": "150 мл",
+      "variantData": {
+        "id": "gc004731",
+        "sku": "GC004731",
+        "label": "150 мл",
+        "type": "Объём",
+        "price": 3990,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "hair/9"
+      ],
+      "occurrences": [
+        "home/selections/hair",
+        "home/collection-cover/hair"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc000187",
+      "variantId": "gc000187",
+      "siteName": "Шампунь балансирующий себорегулирующий Aravia Balance Pure Shampoo 400 мл",
+      "productName": "Шампунь балансирующий себорегулирующий Aravia Balance Pure Shampoo 400 мл",
+      "brand": "Aravia",
+      "variant": "400 мл",
+      "variantData": {
+        "id": "gc000187",
+        "sku": "GC000187",
+        "label": "400 мл",
+        "type": "Объём",
+        "price": 800,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "hair/1"
+      ],
+      "occurrences": [
+        "home/selections/hair"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc000286",
+      "variantId": "gc000286",
+      "siteName": "Шампунь для объёма и густоты волос Belkosmex Dr. Herbarium 400 г",
+      "productName": "Шампунь для объёма и густоты волос Belkosmex Dr. Herbarium 400 г",
+      "brand": "Belkosmex",
+      "variant": "400г",
+      "variantData": {
+        "id": "gc000286",
+        "sku": "GC000286",
+        "label": "400г",
+        "type": "Вариант",
+        "price": 115,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "hair/1"
+      ],
+      "occurrences": [
+        "home/selections/hair"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc003151",
+      "variantId": "gc003151",
+      "siteName": "Крем для рук и ногтейс ma:nyo",
+      "productName": "Крем для рук и ногтейс ma:nyo",
+      "brand": "ma:nyo",
+      "variant": "Стандарт",
+      "variantData": {
+        "id": "gc003151",
+        "sku": "GC003151",
+        "label": "Стандарт",
+        "type": "Вариант",
+        "price": 680,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "body/9"
+      ],
+      "occurrences": [
+        "home/selections/body"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc000248",
+      "variantId": "gc000248",
+      "siteName": "Крем для стоп против сухости трещин и мозолей Belita Ultra Foot Care 100 мл",
+      "productName": "Крем для стоп против сухости трещин и мозолей Belita Ultra Foot Care 100 мл",
+      "brand": "Belita",
+      "variant": "100 мл",
+      "variantData": {
+        "id": "gc000248",
+        "sku": "GC000248",
+        "label": "100 мл",
+        "type": "Объём",
+        "price": 140,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "body/10"
+      ],
+      "occurrences": [
+        "home/selections/body"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc000694",
+      "variantId": "gc000694",
+      "siteName": "Крем-баттер увлажняющий гладкость и упругость кожи Ecolab Argana SPA 200 мл",
+      "productName": "Крем-баттер увлажняющий гладкость и упругость кожи Ecolab Argana SPA 200 мл",
+      "brand": "Ecolab",
+      "variant": "200 мл",
+      "variantData": {
+        "id": "gc000694",
+        "sku": "GC000694",
+        "label": "200 мл",
+        "type": "Объём",
+        "price": 450,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "body/6"
+      ],
+      "occurrences": [
+        "home/selections/body"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc000981",
+      "variantId": "gc000981",
+      "siteName": "Крем-гель для душа Fresh Dragon fruit & Macadamia 300 мл",
+      "productName": "Крем-гель для душа Fresh Dragon fruit & Macadamia 300 мл",
+      "brand": "Fresh",
+      "variant": "300мл",
+      "variantData": {
+        "id": "gc000981",
+        "sku": "GC000981",
+        "label": "300мл",
+        "type": "Объём",
+        "price": 220,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "body/1"
+      ],
+      "occurrences": [
+        "home/selections/body"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc001561",
+      "variantId": "gc001561",
+      "siteName": "Флюид для рук Брызги шампанского средство для рук MEA 100 мл",
+      "productName": "Флюид для рук Брызги шампанского средство для рук MEA 100 мл",
+      "brand": "MEA",
+      "variant": "100 мл",
+      "variantData": {
+        "id": "gc001561",
+        "sku": "GC001561",
+        "label": "100 мл",
+        "type": "Объём",
+        "price": 380,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "body/9"
+      ],
+      "occurrences": [
+        "home/selections/body"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc000367",
+      "variantId": "gc000367",
+      "siteName": "Крем-пилинг для ног Bio World Goji Fit 75 мл",
+      "productName": "Крем-пилинг для ног Bio World Goji Fit 75 мл",
+      "brand": "Bio World",
+      "variant": "75 мл",
+      "variantData": {
+        "id": "gc000367",
+        "sku": "GC000367",
+        "label": "75 мл",
+        "type": "Объём",
+        "price": 180,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "body/10"
+      ],
+      "occurrences": [
+        "home/selections/body"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc003370",
+      "variantId": "gc003370",
+      "siteName": "Маска-носки для пилинга ног пара Jigott clean & moisturizing foot pack 1",
+      "productName": "Маска-носки для пилинга ног пара Jigott clean & moisturizing foot pack 1",
+      "brand": "Jigott",
+      "variant": "Стандарт",
+      "variantData": {
+        "id": "gc003370",
+        "sku": "GC003370",
+        "label": "Стандарт",
+        "type": "Вариант",
+        "price": 350,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "body/10"
+      ],
+      "occurrences": [
+        "home/selections/body"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc001870",
+      "variantId": "gc001870",
+      "siteName": "Набор для тела 62 лимитка масло мист крем для тела сумка Sol de Janeiro 12 мл · 50мл",
+      "productName": "Набор для тела 62 лимитка масло мист крем для тела сумка Sol de Janeiro 12 мл",
+      "brand": "Sol de Janeiro",
+      "variant": "50мл",
+      "variantData": {
+        "id": "gc001870",
+        "sku": "GC001870",
+        "label": "50мл",
+        "type": "Объём",
+        "price": 5700,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "body/16"
+      ],
+      "occurrences": [
+        "home/selections/body"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc001208",
+      "variantId": "gc001208",
+      "siteName": "Бальзам для тела La Sultane de Saba Musk Incense Rose 300 мл",
+      "productName": "Бальзам для тела La Sultane de Saba Musk Incense Rose 300 мл",
+      "brand": "La Sultane de Saba",
+      "variant": "300 мл",
+      "variantData": {
+        "id": "gc001208",
+        "sku": "GC001208",
+        "label": "300 мл",
+        "type": "Объём",
+        "price": 5000,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "body/5"
+      ],
+      "occurrences": [
+        "home/selections/body"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "parent-0298",
+      "variantId": "gc000432",
+      "siteName": "Гель для душа By Kaori AFRICA · 100 мл",
+      "productName": "Гель для душа By Kaori AFRICA",
+      "brand": "By Kaori",
+      "variant": "100 мл",
+      "variantData": {
+        "id": "gc000432",
+        "sku": "GC000432",
+        "label": "100 мл",
+        "type": "Объём",
+        "price": 590,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "body/1"
+      ],
+      "occurrences": [
+        "home/selections/body"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc002707",
+      "variantId": "gc002707",
+      "siteName": "Гидрофильное масло для чувствительной кожи Anua Heartleaf Pore Control Cleansing Oil Mild 200 мл",
+      "productName": "Гидрофильное масло для чувствительной кожи Anua Heartleaf Pore Control Cleansing Oil Mild 200 мл",
+      "brand": "Anua",
+      "variant": "200 мл",
+      "variantData": {
+        "id": "gc002707",
+        "sku": "GC002707",
+        "label": "200 мл",
+        "type": "Объём",
+        "price": 2400,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/cleansing/1"
+      ],
+      "occurrences": [
+        "home/anua"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc000137",
+      "variantId": "gc000137",
+      "siteName": "Пенка для глубокого очищения Anua 150 мл",
+      "productName": "Пенка для глубокого очищения Anua 150 мл",
+      "brand": "Anua",
+      "variant": "150 мл",
+      "variantData": {
+        "id": "gc000137",
+        "sku": "GC000137",
+        "label": "150 мл",
+        "type": "Объём",
+        "price": 1390,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/cleansing/3"
+      ],
+      "occurrences": [
+        "home/anua"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc002671",
+      "variantId": "gc002671",
+      "siteName": "Гель-пенка для умывания с янтарной кислотой Anua Heartleaf Succinic Moisture Cleansing Foam 150 мл",
+      "productName": "Гель-пенка для умывания с янтарной кислотой Anua Heartleaf Succinic Moisture Cleansing Foam 150 мл",
+      "brand": "Anua",
+      "variant": "150 мл",
+      "variantData": {
+        "id": "gc002671",
+        "sku": "GC002671",
+        "label": "150 мл",
+        "type": "Объём",
+        "price": 1160,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/cleansing/3"
+      ],
+      "occurrences": [
+        "home/anua"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc003513",
+      "variantId": "gc003513",
+      "siteName": "Молочный тонер для сияния кожи с рисом Anua 250 мл",
+      "productName": "Молочный тонер для сияния кожи с рисом Anua 250 мл",
+      "brand": "Anua",
+      "variant": "250 мл",
+      "variantData": {
+        "id": "gc003513",
+        "sku": "GC003513",
+        "label": "250 мл",
+        "type": "Объём",
+        "price": 2150,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/daily/1"
+      ],
+      "occurrences": [
+        "home/anua"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc003755",
+      "variantId": "gc003755",
+      "siteName": "Осветляющие пэды с транексамовой кислотой Anua Niacinamide 5 TXA Brightening Pad 60 шт",
+      "productName": "Осветляющие пэды с транексамовой кислотой Anua Niacinamide 5 TXA Brightening Pad 60 шт",
+      "brand": "Anua",
+      "variant": "Стандарт",
+      "variantData": {
+        "id": "gc003755",
+        "sku": "GC003755",
+        "label": "Стандарт",
+        "type": "Вариант",
+        "price": 1650,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/daily/1"
+      ],
+      "occurrences": [
+        "home/anua"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc003984",
+      "variantId": "gc003984",
+      "siteName": "Отшелушивающие пэды с хауттюйнией и кислотой Anua Heartleaf 77% Clear Pad 70 шт",
+      "productName": "Отшелушивающие пэды с хауттюйнией и кислотой Anua Heartleaf 77% Clear Pad 70 шт",
+      "brand": "Anua",
+      "variant": "Стандарт",
+      "variantData": {
+        "id": "gc003984",
+        "sku": "GC003984",
+        "label": "Стандарт",
+        "type": "Вариант",
+        "price": 2700,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/daily/1"
+      ],
+      "occurrences": [
+        "home/anua"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc004968",
+      "variantId": "gc004968",
+      "siteName": "Тонер-эссенция с персиком для гладкой и сияющей кожи Anua 250 мл",
+      "productName": "Тонер-эссенция с персиком для гладкой и сияющей кожи Anua 250 мл",
+      "brand": "Anua",
+      "variant": "250 мл",
+      "variantData": {
+        "id": "gc004968",
+        "sku": "GC004968",
+        "label": "250 мл",
+        "type": "Объём",
+        "price": 2590,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/daily/1"
+      ],
+      "occurrences": [
+        "home/anua"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc002718",
+      "variantId": "gc002718",
+      "siteName": "Гидрофильный бальзам с рисом и пробиотиками Beauty of Joseon Radiance Cleansing Balm 100 мл",
+      "productName": "Гидрофильный бальзам с рисом и пробиотиками Beauty of Joseon Radiance Cleansing Balm 100 мл",
+      "brand": "Beauty of Joseon",
+      "variant": "100 мл",
+      "variantData": {
+        "id": "gc002718",
+        "sku": "GC002718",
+        "label": "100 мл",
+        "type": "Объём",
+        "price": 2090,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/cleansing/2"
+      ],
+      "occurrences": [
+        "home/collection-cover/clean"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc002670",
+      "variantId": "gc002670",
+      "siteName": "Гель-пенка для умывания с аминокислотами Dr. Althea Green Relief Amino Gel Cleanser 100 мл",
+      "productName": "Гель-пенка для умывания с аминокислотами Dr. Althea Green Relief Amino Gel Cleanser 100 мл",
+      "brand": "Dr. Althea",
+      "variant": "100 мл",
+      "variantData": {
+        "id": "gc002670",
+        "sku": "GC002670",
+        "label": "100 мл",
+        "type": "Объём",
+        "price": 1160,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/cleansing/3"
+      ],
+      "occurrences": [
+        "home/collection-cover/clean",
+        "blog/autumn-skincare",
+        "home/recent-observed"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "parent-0173",
+      "variantId": "gc002909",
+      "siteName": "Карандаш для губ Charlotte Tilbury · Pillow Talk",
+      "productName": "Карандаш для губ Charlotte Tilbury",
+      "brand": "Charlotte Tilbury",
+      "variant": "Pillow Talk",
+      "variantData": {
+        "id": "gc002909",
+        "sku": "GC002909",
+        "label": "Pillow Talk",
+        "type": "Оттенок",
+        "price": 2500,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "makeup/lips/4"
+      ],
+      "occurrences": [
+        "home/collection-cover/lips"
+      ],
+      "group": "makeup"
+    },
+    {
+      "productId": "parent-0163",
+      "variantId": "gc003423",
+      "siteName": "Масло-блеск для губ Clarins Lip Comfort Oil · 01",
+      "productName": "Масло-блеск для губ Clarins Lip Comfort Oil",
+      "brand": "Clarins",
+      "variant": "01",
+      "variantData": {
+        "id": "gc003423",
+        "sku": "GC003423",
+        "label": "01",
+        "type": "Оттенок",
+        "price": 2650,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "makeup/lips/2"
+      ],
+      "occurrences": [
+        "home/collection-cover/lips"
+      ],
+      "group": "makeup"
+    },
+    {
+      "productId": "gc004603",
+      "variantId": "gc004603",
+      "siteName": "Сахарный скраб для тела ананасом Tree Hut Pineapple 510 г",
+      "productName": "Сахарный скраб для тела ананасом Tree Hut Pineapple 510 г",
+      "brand": "Tree Hut",
+      "variant": "Стандарт",
+      "variantData": {
+        "id": "gc004603",
+        "sku": "GC004603",
+        "label": "Стандарт",
+        "type": "Вариант",
+        "price": 2190,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "body/4"
+      ],
+      "occurrences": [
+        "home/collection-cover/body"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc001867",
+      "variantId": "gc001867",
+      "siteName": "Крем для тела 62 Sol de Janeiro 240 мл",
+      "productName": "Крем для тела 62 Sol de Janeiro 240 мл",
+      "brand": "Sol de Janeiro",
+      "variant": "240 мл",
+      "variantData": {
+        "id": "gc001867",
+        "sku": "GC001867",
+        "label": "240 мл",
+        "type": "Объём",
+        "price": 4800,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "body/5"
+      ],
+      "occurrences": [
+        "home/collection-cover/body",
+        "blog/daily-body-care"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc001222",
+      "variantId": "gc001222",
+      "siteName": "Гель для душа La Sultane de Saba Ayurvedic-Amber Vanilla Patchouli 200 мл",
+      "productName": "Гель для душа La Sultane de Saba Ayurvedic-Amber Vanilla Patchouli 200 мл",
+      "brand": "La Sultane de Saba",
+      "variant": "200 мл",
+      "variantData": {
+        "id": "gc001222",
+        "sku": "GC001222",
+        "label": "200 мл",
+        "type": "Объём",
+        "price": 2800,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "body/1"
+      ],
+      "occurrences": [
+        "home/collection-cover/body"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc003348",
+      "variantId": "gc003348",
+      "siteName": "Маска для волос восстанавливающая La'dor Eco Hydro Lpp Treatment 150 мл",
+      "productName": "Маска для волос восстанавливающая La'dor Eco Hydro Lpp Treatment 150 мл",
+      "brand": "La'dor",
+      "variant": "150 мл",
+      "variantData": {
+        "id": "gc003348",
+        "sku": "GC003348",
+        "label": "150 мл",
+        "type": "Объём",
+        "price": 600,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "hair/4"
+      ],
+      "occurrences": [
+        "home/collection-cover/hair"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "parent-0289",
+      "variantId": "gc004388",
+      "siteName": "Протеиновый кондиционер для волос CP-1 Bright Complex Intense Nourishing Conditioner · 500 мл",
+      "productName": "Протеиновый кондиционер для волос CP-1 Bright Complex Intense Nourishing Conditioner",
+      "brand": "CP-1",
+      "variant": "500 мл",
+      "variantData": {
+        "id": "gc004388",
+        "sku": "GC004388",
+        "label": "500 мл",
+        "type": "Объём",
+        "price": 950,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "hair/3"
+      ],
+      "occurrences": [
+        "home/collection-cover/hair"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc003540",
+      "variantId": "gc003540",
+      "siteName": "Мягкая пенка для умывания с морской водой Round Lab 1025 Dokdo 150 мл",
+      "productName": "Мягкая пенка для умывания с морской водой Round Lab 1025 Dokdo 150 мл",
+      "brand": "Round Lab",
+      "variant": "150 мл",
+      "variantData": {
+        "id": "gc003540",
+        "sku": "GC003540",
+        "label": "150 мл",
+        "type": "Объём",
+        "price": 1490,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/cleansing/3"
+      ],
+      "occurrences": [
+        "blog/autumn-skincare"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc003653",
+      "variantId": "gc003653",
+      "siteName": "Низкомолекулярная сыворотка с гиалуроновой кислотой Torriden DIVE-IN Serum Low Molecule 50 мл",
+      "productName": "Низкомолекулярная сыворотка с гиалуроновой кислотой Torriden DIVE-IN Serum Low Molecule 50 мл",
+      "brand": "Torriden",
+      "variant": "50 мл",
+      "variantData": {
+        "id": "gc003653",
+        "sku": "GC003653",
+        "label": "50 мл",
+        "type": "Объём",
+        "price": 2750,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/daily/3"
+      ],
+      "occurrences": [
+        "blog/autumn-skincare"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc005061",
+      "variantId": "gc005061",
+      "siteName": "Увлажняющий крем для лица Torriden DIVE-IN Low molecule Hyaluronic acid Cream 80 мл",
+      "productName": "Увлажняющий крем для лица Torriden DIVE-IN Low molecule Hyaluronic acid Cream 80 мл",
+      "brand": "Torriden",
+      "variant": "80 мл",
+      "variantData": {
+        "id": "gc005061",
+        "sku": "GC005061",
+        "label": "80 мл",
+        "type": "Объём",
+        "price": 2550,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/daily/4"
+      ],
+      "occurrences": [
+        "blog/autumn-skincare"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc002405",
+      "variantId": "gc002405",
+      "siteName": "Барьерный крем с церамидами Celimax Dual Barrier Skin Wearable Cream 50 мл",
+      "productName": "Барьерный крем с церамидами Celimax Dual Barrier Skin Wearable Cream 50 мл",
+      "brand": "Celimax",
+      "variant": "50 мл",
+      "variantData": {
+        "id": "gc002405",
+        "sku": "GC002405",
+        "label": "50 мл",
+        "type": "Объём",
+        "price": 2350,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/daily/4"
+      ],
+      "occurrences": [
+        "blog/autumn-skincare"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc002583",
+      "variantId": "gc002583",
+      "siteName": "Восстанавливающий крем с церамидами Purito Dermide Relief Barrier Moisturizer 100 мл",
+      "productName": "Восстанавливающий крем с церамидами Purito Dermide Relief Barrier Moisturizer 100 мл",
+      "brand": "Purito",
+      "variant": "100 мл",
+      "variantData": {
+        "id": "gc002583",
+        "sku": "GC002583",
+        "label": "100 мл",
+        "type": "Объём",
+        "price": 2550,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/daily/4"
+      ],
+      "occurrences": [
+        "blog/autumn-skincare",
+        "blog/dry-body-skin",
+        "home/recent-observed"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc003282",
+      "variantId": "gc003282",
+      "siteName": "Лёгкий солнцезащитный крем с пантенолом Beauty of Joseon Relief Sun Aqua-fresh Rice+B5 SPF50+ PA++++",
+      "productName": "Лёгкий солнцезащитный крем с пантенолом Beauty of Joseon Relief Sun Aqua-fresh Rice+B5 SPF50+ PA++++",
+      "brand": "Beauty of Joseon",
+      "variant": "Стандарт",
+      "variantData": {
+        "id": "gc003282",
+        "sku": "GC003282",
+        "label": "Стандарт",
+        "type": "Вариант",
+        "price": 1690,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/extra/7"
+      ],
+      "occurrences": [
+        "blog/autumn-skincare"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc004686",
+      "variantId": "gc004686",
+      "siteName": "Солнцезащитный крем с комплексом церамидов Celimax Dual Barrier Watery Sun Cream SPF50+ PA++++",
+      "productName": "Солнцезащитный крем с комплексом церамидов Celimax Dual Barrier Watery Sun Cream SPF50+ PA++++",
+      "brand": "Celimax",
+      "variant": "Стандарт",
+      "variantData": {
+        "id": "gc004686",
+        "sku": "GC004686",
+        "label": "Стандарт",
+        "type": "Вариант",
+        "price": 1690,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/extra/7"
+      ],
+      "occurrences": [
+        "blog/autumn-skincare"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc003276",
+      "variantId": "gc003276",
+      "siteName": "Ламеллярный увлажняющий лосьон для тела Derma:B Daily Moisture Body Lotion 400 мл",
+      "productName": "Ламеллярный увлажняющий лосьон для тела Derma:B Daily Moisture Body Lotion 400 мл",
+      "brand": "Derma:B",
+      "variant": "400 мл",
+      "variantData": {
+        "id": "gc003276",
+        "sku": "GC003276",
+        "label": "400 мл",
+        "type": "Объём",
+        "price": 1500,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "body/5"
+      ],
+      "occurrences": [
+        "blog/daily-body-care"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "parent-0319",
+      "variantId": "gc001578",
+      "siteName": "Крем или лосьон для тела Hempz Sweet Pineapple & Honey Melon · 66 мл",
+      "productName": "Крем или лосьон для тела Hempz Sweet Pineapple & Honey Melon",
+      "brand": "Hempz",
+      "variant": "66 мл",
+      "variantData": {
+        "id": "gc001578",
+        "sku": "GC001578",
+        "label": "66 мл",
+        "type": "Объём",
+        "price": 850,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "body/5"
+      ],
+      "occurrences": [
+        "blog/daily-body-care"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "gc002217",
+      "variantId": "gc002217",
+      "siteName": "Активная сыворотка для сияния кожи Beauty of Joseon Glow Serum: Propolis+Niacinamide 30 мл",
+      "productName": "Активная сыворотка для сияния кожи Beauty of Joseon Glow Serum: Propolis+Niacinamide 30 мл",
+      "brand": "Beauty of Joseon",
+      "variant": "30мл",
+      "variantData": {
+        "id": "gc002217",
+        "sku": "GC002217",
+        "label": "30мл",
+        "type": "Объём",
+        "price": 1590,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/daily/3"
+      ],
+      "occurrences": [
+        "home/hero/k-beauty",
+        "home/hero/autumn"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "gc004108",
+      "variantId": "gc004108",
+      "siteName": "Палетка теней Tom Ford «03 NUDE DIP»",
+      "productName": "Палетка теней Tom Ford «03 NUDE DIP»",
+      "brand": "Tom Ford",
+      "variant": "Стандарт",
+      "variantData": {
+        "id": "gc004108",
+        "sku": "GC004108",
+        "label": "Стандарт",
+        "type": "Вариант",
+        "price": 7600,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "makeup/more/1"
+      ],
+      "occurrences": [
+        "home/hero/luxury"
+      ],
+      "group": "makeup"
+    },
+    {
+      "productId": "gc005063",
+      "variantId": "gc005063",
+      "siteName": "Увлажняющий крем для лица с рисом и женьшенем Beauty of Joseon Dynasty Cream 50 мл",
+      "productName": "Увлажняющий крем для лица с рисом и женьшенем Beauty of Joseon Dynasty Cream 50 мл",
+      "brand": "Beauty of Joseon",
+      "variant": "50мл",
+      "variantData": {
+        "id": "gc005063",
+        "sku": "GC005063",
+        "label": "50мл",
+        "type": "Объём",
+        "price": 2590,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "skincare/daily/4"
+      ],
+      "occurrences": [
+        "home/hero/autumn"
+      ],
+      "group": "skin"
+    },
+    {
+      "productId": "parent-0319",
+      "variantId": "gc001046",
+      "siteName": "Крем или лосьон для тела Hempz Sweet Pineapple & Honey Melon · 500 мл",
+      "productName": "Крем или лосьон для тела Hempz Sweet Pineapple & Honey Melon",
+      "brand": "Hempz",
+      "variant": "500 мл",
+      "variantData": {
+        "id": "gc001046",
+        "sku": "GC001046",
+        "label": "500 мл",
+        "type": "Объём",
+        "price": 2300,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "body/5"
+      ],
+      "occurrences": [
+        "home/recent-observed"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "parent-0060",
+      "variantId": "gc002391",
+      "siteName": "Бальзам тинт для губ Charlotte Tilbury · BLUSHED JAM",
+      "productName": "Бальзам тинт для губ Charlotte Tilbury",
+      "brand": "Charlotte Tilbury",
+      "variant": "BLUSHED JAM",
+      "variantData": {
+        "id": "gc002391",
+        "sku": "GC002391",
+        "label": "BLUSHED JAM",
+        "type": "Оттенок",
+        "price": 3200,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "makeup/lips/3"
+      ],
+      "occurrences": [
+        "home/recent-observed"
+      ],
+      "group": "makeup"
+    },
+    {
+      "productId": "gc003033",
+      "variantId": "gc003033",
+      "siteName": "Кондиционер для волос Sol de Janeiro 295 мл",
+      "productName": "Кондиционер для волос Sol de Janeiro 295 мл",
+      "brand": "Sol de Janeiro",
+      "variant": "295 мл",
+      "variantData": {
+        "id": "gc003033",
+        "sku": "GC003033",
+        "label": "295 мл",
+        "type": "Объём",
+        "price": 3990,
+        "availability": "unknown"
+      },
+      "decant": false,
+      "paths": [
+        "hair/3"
+      ],
+      "occurrences": [
+        "home/recent-observed"
+      ],
+      "group": "body"
+    },
+    {
+      "productId": "perf-0173",
+      "variantId": "perf-0173-48d46f94",
+      "siteName": "Парфюм Rare Beauty · Отливант 5 мл",
+      "productName": "Парфюм Rare Beauty",
+      "brand": "Rare Beauty",
+      "variant": "5 мл",
+      "variantData": {
+        "id": "perf-0173-48d46f94",
+        "sku": "GC003965",
+        "label": "5 мл",
+        "type": "Объём",
+        "price": null,
+        "availability": "unknown",
+        "format": "Отливант"
+      },
+      "decant": true,
+      "paths": [
+        "fragrance/personal/1",
+        "fragrance/personal/3"
+      ],
+      "occurrences": [
+        "home/recent-observed"
+      ],
+      "group": "root"
+    }
+  ]
+}

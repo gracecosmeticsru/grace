@@ -1,0 +1,293 @@
+[
+  {
+    "index": 140,
+    "productId": "gc004925",
+    "variantId": "gc004925",
+    "productName": "Тональный крем Missha M Perfect Cover B.B Cream №23 50 мл",
+    "variant": "50 мл",
+    "status": "skipped",
+    "sourcePage": "https://www.ulta.com/p/m-perfect-cover-bb-cream-spf-42-pa-mkt77005732?sku=77009044",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "The selected exact-shade retailer page now serves a Perfect Cover SERUM BB Cream image, not the catalog M Perfect Cover BB Cream. Another first candidate Missha Vietnam could not be retrieved with normal TLS. Wrong reformulated model rejected; no extended alternative search.",
+    "searches": [
+      {
+        "query": "Missha M Perfect Cover BB Cream 23 50 ml official",
+        "url": "https://www.ulta.com/p/m-perfect-cover-bb-cream-spf-42-pa-mkt77005732?sku=77009044",
+        "note": "Downloaded image artifacts/step-7b/b003-c/missha.img and visually read SERUM on tube; different model."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 141,
+    "productId": "gc004926",
+    "variantId": "gc004926",
+    "productName": "Тональный крем Vivienne Sabo Confiture с плотным покрытием тон 02 30 мл",
+    "variant": "30 мл",
+    "status": "skipped",
+    "sourcePage": "https://www.letoile.ru/upload/docs/beautygoliki_vivienne_sabo.pdf",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused English and Russian searches did not establish a Confiture foundation in shade 02, 30 ml. The retailer brand document identifies Confiture as lip gloss; results for Coverture are a different name and 28 ml. No guessed substitution.",
+    "searches": [
+      {
+        "query": "Vivienne Sabo Confiture foundation 02 30 ml",
+        "url": "https://www.letoile.ru/upload/docs/beautygoliki_vivienne_sabo.pdf",
+        "note": "Search result names Confiture as lip gloss, not this catalog foundation; no exact suitable image established."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 142,
+    "productId": "gc004927",
+    "variantId": "gc004927",
+    "productName": "Тональный крем длительного действия фарфор Seventeen Time Plus Longlasting Make Up, 01",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.ralf.ro/en-gb/product/seventeen-time-plus-foundation/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Time Plus source page lists exact requested shade numbers 01/02/03, but the available product gallery is 800x800 with bottle well below 800 visible pixels. Gallery labels are generic and do not bind shade to image; no reliable high-quality exact-shade candidate in this quick pass.",
+    "searches": [
+      {
+        "query": "Seventeen Time Plus foundation 01 02 03",
+        "url": "https://www.ralf.ro/en-gb/product/seventeen-time-plus-foundation/",
+        "note": "Saved time.html, inspected time0.img swatch and time1.img bottle; only numbered filenames distinguish shades, not page labels."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 143,
+    "productId": "gc004928",
+    "variantId": "gc004928",
+    "productName": "Тональный крем длительного действия светло-бежевый Seventeen Time Plus Longlasting Make Up, 02",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.ralf.ro/en-gb/product/seventeen-time-plus-foundation/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Time Plus source page lists exact requested shade numbers 01/02/03, but the available product gallery is 800x800 with bottle well below 800 visible pixels. Gallery labels are generic and do not bind shade to image; no reliable high-quality exact-shade candidate in this quick pass.",
+    "searches": [
+      {
+        "query": "Seventeen Time Plus foundation 01 02 03",
+        "url": "https://www.ralf.ro/en-gb/product/seventeen-time-plus-foundation/",
+        "note": "Saved time.html, inspected time0.img swatch and time1.img bottle; only numbered filenames distinguish shades, not page labels."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 144,
+    "productId": "gc004929",
+    "variantId": "gc004929",
+    "productName": "Тональный крем длительного действия натуральный бежевый Seventeen Time Plus Longlasting Make Up, 03",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.ralf.ro/en-gb/product/seventeen-time-plus-foundation/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Time Plus source page lists exact requested shade numbers 01/02/03, but the available product gallery is 800x800 with bottle well below 800 visible pixels. Gallery labels are generic and do not bind shade to image; no reliable high-quality exact-shade candidate in this quick pass.",
+    "searches": [
+      {
+        "query": "Seventeen Time Plus foundation 01 02 03",
+        "url": "https://www.ralf.ro/en-gb/product/seventeen-time-plus-foundation/",
+        "note": "Saved time.html, inspected time0.img swatch and time1.img bottle; only numbered filenames distinguish shades, not page labels."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 145,
+    "productId": "gc004930",
+    "variantId": "gc004930",
+    "productName": "Тональный крем кушон увлажняющий Missha 23 Magic Cushion Moist Up SPF50+ PA+++",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.trendyol.com/en/missha/foundation-magic-cushion-moist-up-23-neutral-medium-beige-15g-p-4050554",
+    "sourceImage": "https://cdn.dsmcdn.com/mnresize/620/920/ty1713/prod/QC_PREP/20250725/12/979cee2f-471f-3da3-83d2-4eff0f137093/1_org_zoom.jpg",
+    "localFile": "materials/catalog-7b/originals/b003-c/Тональный крем кушон увлажняющий Missha 23 Magic Cushion Moist Up SPF50+ PA+++ Станда--gc004930.jpg",
+    "verification": {
+      "identity": "Missha Magic Cushion Moist Up23 SPF50+ PA+++; exact-shade product page and its main image.",
+      "volumeAndVariant": "Catalog Standard unspecified; source15g, shade23. White compact Moist Up model.",
+      "visualReview": "Full white compact open and closed views, no watermark, but only about450 visible pixels on621x931 canvas; insufficient source resolution.",
+      "reviewMethod": "view_image original, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Missha Magic Cushion Moist Up23",
+        "url": "https://www.trendyol.com/en/missha/foundation-magic-cushion-moist-up-23-neutral-medium-beige-15g-p-4050554",
+        "note": "Missha Magic Cushion Moist Up23 SPF50+ PA+++; exact-shade product page and its main image."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 621,
+    "height": 931,
+    "format": "JPEG",
+    "bytes": 21668,
+    "sha256": "72264d446738c46e8d2aeae879c93ff2f39021eeec2c348dbd080a6f7f53cac3"
+  },
+  {
+    "index": 146,
+    "productId": "gc004931",
+    "variantId": "gc004931",
+    "productName": "Тональный крем матирующий светлый фарфор Seventeen Matt Plus Shine Control Foundation, 00",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.cliqat.com/products/seventeen-foundation-matt-plus",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0819/1692/0026/files/00_5d71a0ed-140a-448e-b146-9a105c06e829.webp?v=1783444697",
+    "localFile": "materials/catalog-7b/originals/b003-c/Тональный крем матирующий светлый фарфор Seventeen Matt Plus Shine Control Foundation--gc004931.jpg",
+    "verification": {
+      "identity": "Seventeen Matt Plus Shine Control Foundation SPF20, shade 00; source Shopify variant has its own featured_image and SKU.",
+      "volumeAndVariant": "Catalog Standard has no volume; source model is 30 ml. Matched exact numbered shade, not translated shade nickname.",
+      "visualReview": "Bottle touches/cuts the upper frame; 800px canvas is inadequate for full unclipped object. Reject preparation.",
+      "reviewMethod": "view_image original, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Seventeen Matt Plus foundation 00 01",
+        "url": "https://www.cliqat.com/products/seventeen-foundation-matt-plus",
+        "note": "Seventeen Matt Plus Shine Control Foundation SPF20, shade 00; source Shopify variant has its own featured_image and SKU."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 800,
+    "height": 800,
+    "format": "JPEG",
+    "bytes": 28466,
+    "sha256": "c98c4e3ca2377704ede3e6f6f6bd7c4fe643897c20f802f6423fe8d51c16d642"
+  },
+  {
+    "index": 147,
+    "productId": "gc004932",
+    "variantId": "gc004932",
+    "productName": "Тональный крем матирующий фарфор Seventeen Matt Plus Shine Control Foundation, 01",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.cliqat.com/products/seventeen-foundation-matt-plus",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0819/1692/0026/files/seventeen_matt_plus_1.jpg?v=1783444697",
+    "localFile": "materials/catalog-7b/originals/b003-c/Тональный крем матирующий фарфор Seventeen Matt Plus Shine Control Foundation, 01 Ста--gc004932.jpg",
+    "verification": {
+      "identity": "Seventeen Matt Plus Shine Control Foundation SPF20, shade 01; source Shopify variant has its own featured_image and SKU.",
+      "volumeAndVariant": "Catalog Standard has no volume; source model is 30 ml. Matched exact numbered shade, not translated shade nickname.",
+      "visualReview": "White studio photograph of complete pump bottle, no watermark.",
+      "reviewMethod": "view_image original, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Seventeen Matt Plus foundation 00 01",
+        "url": "https://www.cliqat.com/products/seventeen-foundation-matt-plus",
+        "note": "Seventeen Matt Plus Shine Control Foundation SPF20, shade 01; source Shopify variant has its own featured_image and SKU."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1200,
+    "format": "JPEG",
+    "bytes": 49651,
+    "sha256": "ba6d4bd640f3328f31f703928d80be617d92d8a61f6545042e3668e24547d039"
+  },
+  {
+    "index": 148,
+    "productId": "gc004933",
+    "variantId": "gc004933",
+    "productName": "Тональный крем с коллагеном 13 оттенок Enough",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://uk.medpak.shop/products/enough-collagen-moisture-foundation-shade-13-100-ml",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog says only Enough collagen foundation shade 13 and no volume or model. Research confirms distinct Moisture, Whitening Moisture, and 3X formulas in shade 13. Cannot select one packaging/formula without guessing; skipped.",
+    "searches": [
+      {
+        "query": "Enough Collagen Moisture Foundation 13 100ml",
+        "url": "https://uk.medpak.shop/products/enough-collagen-moisture-foundation-shade-13-100-ml",
+        "note": "Exact Moisture model exists, but catalog does not distinguish it from Whitening and 3X variants."
+      },
+      {
+        "query": "Enough Collagen Moisture Foundation 13 100ml",
+        "url": "https://enoughvietnam.com/products/kem-nen-3x-enough-collagen-3x-moisture-foundation-100ml",
+        "note": "Brand importer documents another collagen foundation model; cannot infer catalog identity."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 149,
+    "productId": "gc004934",
+    "variantId": "gc004934",
+    "productName": "Тональный крем с коллагеном Enough Collagen Whitening Moisture Foundation 21",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://us.medpak.shop/products/enough-collagen-3in1-whitening-moisture-foundation-shade-21-100-ml",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0560/5788/8819/files/enough-collagen-3in1-whitening-moisture-foundation-shade-21-100-ml-enh079-1193720118.jpg?v=1758279559",
+    "localFile": "materials/catalog-7b/originals/b003-c/Тональный крем с коллагеном Enough Collagen Whitening Moisture Foundation 21 Стандарт--gc004934.jpg",
+    "verification": {
+      "identity": "Enough Collagen Whitening Moisture Foundation SPF15 3in1 shade21; dedicated product title, barcode8809474497079, source photo label and matching image URL.",
+      "volumeAndVariant": "Catalog volume unspecified Standard; dedicated exact-model source is100ml, shade21. No alternate size inferred.",
+      "visualReview": "Entire white/silver bottle with cream smear behind it, on white. Label is Whitening Moisture Foundation3in1; no watermark or cropping.",
+      "reviewMethod": "view_image original, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Enough Collagen Whitening Moisture Foundation 21",
+        "url": "https://us.medpak.shop/products/enough-collagen-3in1-whitening-moisture-foundation-shade-21-100-ml",
+        "note": "Enough Collagen Whitening Moisture Foundation SPF15 3in1 shade21; dedicated product title, barcode8809474497079, source photo label and matching image URL."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 46799,
+    "sha256": "9b18f4bf55cb3cbe1c943169e7d7779a6dca6e076aaa775c17e93cc1b45f907b"
+  },
+  {
+    "index": 150,
+    "productId": "gc004935",
+    "variantId": "gc004935",
+    "productName": "Тональный крем с матирующим эффектом Yves Saint Laurent ALL HOURS LC1 Light Cool 25 мл",
+    "variant": "25мл",
+    "status": "verified",
+    "sourcePage": "https://www.debenhams.com/product/yves-saint-laurent-all-hours-luminous-matte-foundation-with-spf-39-25ml_ydd08578?colour=lc1",
+    "sourceImage": "https://mediahub.debenhams.com/ydd08578_lc1_xl",
+    "localFile": "materials/catalog-7b/originals/b003-c/Тональный крем с матирующим эффектом Yves Saint Laurent ALL HOURS LC1 Light Cool 25 м--gc004935.jpg",
+    "verification": {
+      "identity": "YSL All Hours Luminous Matte Foundation LC1; selected LC1 page and JSON-LD sku YDD08578-3112-35 use this exact product image.",
+      "volumeAndVariant": "Source title and selected colour verify 25 ml and LC1, matching catalog.",
+      "visualReview": "Two studio views of the same LC1 bottle, one uncapped and one capped; entire objects, white background, no watermark.",
+      "reviewMethod": "view_image original, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Yves Saint Laurent All Hours LC1 25 ml",
+        "url": "https://www.debenhams.com/product/yves-saint-laurent-all-hours-luminous-matte-foundation-with-spf-39-25ml_ydd08578?colour=lc1",
+        "note": "YSL All Hours Luminous Matte Foundation LC1; selected LC1 page and JSON-LD sku YDD08578-3112-35 use this exact product image."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1500,
+    "format": "JPEG",
+    "bytes": 69705,
+    "sha256": "c51d7ef6f6834e5518c1185bc7683342200cafe8a346ed80b222c6ec5c05c2f4"
+  }
+]

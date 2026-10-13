@@ -1,0 +1,267 @@
+[
+  {
+    "index": 86,
+    "productId": "gc001860",
+    "variantId": "gc001860",
+    "productName": "Увлажняющий тональный крем SHIK Impression foundation 201",
+    "variant": "Стандарт",
+    "checkedAt": "2026-09-24T14:53:34.252206+00:00",
+    "localFile": "materials/catalog-7b/originals/b002-c/Увлажняющий тональный крем SHIK Impression foundation 201 Стандарт--gc001860-201.png",
+    "width": 1080,
+    "height": 1520,
+    "format": "PNG",
+    "bytes": 432189,
+    "sha256": "2811d5409f8afa191e84fe65f278cb1cc45cf91aa8edcdbaa50f0e194ad7f499",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/4395/variations/1718350405666bf245e40d62.53740744_1080_1520_inset.png",
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/tonalnyj-krem-skin-impression-foundation-201?color=201",
+    "skipReason": null,
+    "verification": {
+      "identity": "SHIK Skin Impression 201, официальный выбранный option=379, штрихкод4631171933444; gallery productPhoto variationId379. На странице30мл, в Grace Стандарт сохранён. Видны полный флакон SPF50 и свотч, без watermark; светло-серый фон/тень требуют отдельной оценки при подготовке. Английская страница со slug201 фактически выбирала382: её фотография отклонена.",
+      "volumeAndVariant": "SHIK Skin Impression 201, официальный выбранный option=379, штрихкод4631171933444; gallery productPhoto variationId379. На странице30мл, в Grace Стандарт сохранён. Видны полный флакон SPF50 и свотч, без watermark; светло-серый фон/тень требуют отдельной оценки при подготовке. Английская страница со slug201 фактически выбирала382: её фотография отклонена.",
+      "visualReview": "SHIK Skin Impression 201, официальный выбранный option=379, штрихкод4631171933444; gallery productPhoto variationId379. На странице30мл, в Grace Стандарт сохранён. Видны полный флакон SPF50 и свотч, без watermark; светло-серый фон/тень требуют отдельной оценки при подготовке. Английская страница со slug201 фактически выбирала382: её фотография отклонена.",
+      "reviewMethod": "Parent view_image of original bytes;2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "Увлажняющий тональный крем SHIK Impression foundation 201 Стандарт",
+        "url": "https://shikstore.ru/product/tonalnyj-krem-skin-impression-foundation-201?color=201",
+        "note": "SHIK Skin Impression 201, официальный выбранный option=379, штрихкод4631171933444; gallery productPhoto variationId379. На странице30мл, в Grace Стандарт сохранён. Видны полный флакон SPF50 и свотч, без watermark; светло-серый фон/тень требуют отдельной оценки при подготовке. Английская страница со slug201 фактически выбирала382: её фотография отклонена."
+      }
+    ]
+  },
+  {
+    "index": 87,
+    "productId": "gc001947",
+    "variantId": "gc001947",
+    "productName": "Тональный крем увлажняющий Tinchew 13",
+    "variant": "Стандарт",
+    "checkedAt": "2026-09-24T14:53:34.253206+00:00",
+    "status": "skipped",
+    "sourcePage": "https://koreanbutik.ru/product/krem-tonalnyy-uvlazhnyayuschiy-s-kollagenom-i-retinolom-13-svetlo-bezhevyy-tinchew-chokchok-liquid-foun",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Grace содержит только Tinchew увлажняющий13/Стандарт без линии и объёма. Найден Chokchok Liquid Foundation13, но страницы указывают100мл и110мл. Без объёма/штрихкода конкретной позиции нельзя выбрать упаковку по общему названию.",
+    "searches": [
+      {
+        "query": "Tinchew увлажняющий тональный крем13",
+        "url": "https://koreanbutik.ru/product/krem-tonalnyy-uvlazhnyayuschiy-s-kollagenom-i-retinolom-13-svetlo-bezhevyy-tinchew-chokchok-liquid-foun",
+        "note": "Найден кандидат Chokchok13; общая строка Grace не содержит полного имени."
+      },
+      {
+        "query": "Tinchew13 мл",
+        "url": "https://rozetka.com.ua/429038201/p429038201/",
+        "note": "Назван Chokchok13 100мл."
+      },
+      {
+        "query": "Tinchew13 мл",
+        "url": "https://kaspi.kz/shop/p/tinchew-tonal-nyi-krem-tinchew-tonal-nyi-krem-ton-13-110-ml-152959008/",
+        "note": "Назван13 110мл; размер Graceнеподтверждён."
+      }
+    ]
+  },
+  {
+    "index": 88,
+    "productId": "gc001977",
+    "variantId": "gc001977",
+    "productName": "Тональная крем Topface SkinWear Matte Effect 001 30 30 мл",
+    "variant": "30 мл",
+    "checkedAt": "2026-09-24T14:53:34.253206+00:00",
+    "sourceImage": "https://topface.ua/assets/images/products/99601/product.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-c/Тональная крем Topface SkinWear Matte Effect 001 30 30 мл 30 мл--gc001977.jpg",
+    "width": 500,
+    "height": 500,
+    "format": "JPEG",
+    "bytes": 107451,
+    "sha256": "04c07aecb8af83bc214f09a376c8fb365812ed9153d624677b83747313a6849f",
+    "status": "verified",
+    "sourcePage": "https://topface.ua/tonalnij-krem-topface-skinwear-matte-effect-001-ivory-slonova-kistka-pt468-30-ml-id-99601",
+    "skipReason": null,
+    "verification": {
+      "identity": "Topface SkinWear Matte Effect PT468/01, 001 Ivory30мл подтверждён отдельной карточкой и og:image99601. Целый тюбик с чёрной крышкой, белый фон и свотч; без watermark. Оригинал500×500 — ограниченное разрешение, перед подготовкой оценить качество; не считать увеличение восстановлением деталей.",
+      "volumeAndVariant": "Topface SkinWear Matte Effect PT468/01, 001 Ivory30мл подтверждён отдельной карточкой и og:image99601. Целый тюбик с чёрной крышкой, белый фон и свотч; без watermark. Оригинал500×500 — ограниченное разрешение, перед подготовкой оценить качество; не считать увеличение восстановлением деталей.",
+      "visualReview": "Topface SkinWear Matte Effect PT468/01, 001 Ivory30мл подтверждён отдельной карточкой и og:image99601. Целый тюбик с чёрной крышкой, белый фон и свотч; без watermark. Оригинал500×500 — ограниченное разрешение, перед подготовкой оценить качество; не считать увеличение восстановлением деталей.",
+      "reviewMethod": "Parent view_image of original bytes;2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "Тональная крем Topface SkinWear Matte Effect 001 30 30 мл 30 мл",
+        "url": "https://topface.ua/tonalnij-krem-topface-skinwear-matte-effect-001-ivory-slonova-kistka-pt468-30-ml-id-99601",
+        "note": "Topface SkinWear Matte Effect PT468/01, 001 Ivory30мл подтверждён отдельной карточкой и og:image99601. Целый тюбик с чёрной крышкой, белый фон и свотч; без watermark. Оригинал500×500 — ограниченное разрешение, перед подготовкой оценить качество; не считать увеличение восстановлением деталей."
+      },
+      {
+        "query": "Topface SkinWear Matte Effect001002 30ml original",
+        "url": "https://topfaceegypt.com/products/topface-skinwear-matte-effect-foundation",
+        "note": "Exact mapped001/002 variants1000px inspected; softer than selected500px. Evidence artifacts/step-7b/b002-c/topface-alternatives.json. No enlargement or replacement."
+      }
+    ]
+  },
+  {
+    "index": 89,
+    "productId": "gc001978",
+    "variantId": "gc001978",
+    "productName": "Тональная крем Topface SkinWear Matte Effect 002 30 30 мл",
+    "variant": "30 мл",
+    "checkedAt": "2026-09-24T14:53:34.253206+00:00",
+    "sourceImage": "https://topface.ua/assets/images/products/99602/product.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-c/Тональная крем Topface SkinWear Matte Effect 002 30 30 мл 30 мл--gc001978.jpg",
+    "width": 500,
+    "height": 500,
+    "format": "JPEG",
+    "bytes": 109014,
+    "sha256": "a33caf8dc70045d49e4bde6723d91cab197a4fcc7239f4ce6f42f729aa3ac588",
+    "status": "verified",
+    "sourcePage": "https://topface.ua/tonalnij-krem-topface-skinwear-matte-effect-002-light-beige-svitlo-bezhevij-pt468-30-ml-id-99602",
+    "skipReason": null,
+    "verification": {
+      "identity": "Topface SkinWear Matte Effect PT468/02, 002 Light Beige30мл подтверждён отдельной карточкой и og:image99602. Целый тюбик с чёрной крышкой и свотч именно002; белый фон, без watermark. Оригинал500×500 — ограниченное разрешение, отдельная проверка подготовки.",
+      "volumeAndVariant": "Topface SkinWear Matte Effect PT468/02, 002 Light Beige30мл подтверждён отдельной карточкой и og:image99602. Целый тюбик с чёрной крышкой и свотч именно002; белый фон, без watermark. Оригинал500×500 — ограниченное разрешение, отдельная проверка подготовки.",
+      "visualReview": "Topface SkinWear Matte Effect PT468/02, 002 Light Beige30мл подтверждён отдельной карточкой и og:image99602. Целый тюбик с чёрной крышкой и свотч именно002; белый фон, без watermark. Оригинал500×500 — ограниченное разрешение, отдельная проверка подготовки.",
+      "reviewMethod": "Parent view_image of original bytes;2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "Тональная крем Topface SkinWear Matte Effect 002 30 30 мл 30 мл",
+        "url": "https://topface.ua/tonalnij-krem-topface-skinwear-matte-effect-002-light-beige-svitlo-bezhevij-pt468-30-ml-id-99602",
+        "note": "Topface SkinWear Matte Effect PT468/02, 002 Light Beige30мл подтверждён отдельной карточкой и og:image99602. Целый тюбик с чёрной крышкой и свотч именно002; белый фон, без watermark. Оригинал500×500 — ограниченное разрешение, отдельная проверка подготовки."
+      },
+      {
+        "query": "Topface SkinWear Matte Effect001002 30ml original",
+        "url": "https://topfaceegypt.com/products/topface-skinwear-matte-effect-foundation",
+        "note": "Exact mapped001/002 variants1000px inspected; softer than selected500px. Evidence artifacts/step-7b/b002-c/topface-alternatives.json. No enlargement or replacement."
+      }
+    ]
+  },
+  {
+    "index": 97,
+    "productId": "gc003482",
+    "variantId": "gc003482",
+    "productName": "Многофункциональное тональное средство Yu.r CCC Cream Radiant Complexion SPF50+ PA+++ Light",
+    "variant": "Стандарт",
+    "checkedAt": "2026-09-24T14:53:34.253206+00:00",
+    "sourceImage": "https://hollyshop.ru/upload/iblock/711/l9kxh4fyt03fx066tl2wk0k3oicow4jl/light.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-c/Многофункциональное тональное средство Yu.r CCC Cream Radiant Complexion SPF50+ PA+++--gc003482.jpg",
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 30246,
+    "sha256": "38d4ab624eb746b1ef630eab95027da4909d2a52e3504893d8ba650ed32df4b6",
+    "status": "verified",
+    "sourcePage": "https://hollyshop.ru/catalog/product/multifunktsionalnoe_tonalnoe_sredstvo_yur_ccc_cream_radiant_complexion_spf50_light/",
+    "skipReason": null,
+    "verification": {
+      "identity": "Yu.r CCC Cream Radiant Complexion SPF50+PA+++ Light: отдельная карточка и персональная фотография light.jpg. Полный белый тюбик с чёрной крышкой, надпись50ml и светлый свотч; нет водяного знака. Второй оттенок не подставлялся. Source1000×1000 несколько мягкий, композицию со свотчем оценить при подготовке. Стандарт в каталоге не заменялся объёмом источника.",
+      "volumeAndVariant": "Yu.r CCC Cream Radiant Complexion SPF50+PA+++ Light: отдельная карточка и персональная фотография light.jpg. Полный белый тюбик с чёрной крышкой, надпись50ml и светлый свотч; нет водяного знака. Второй оттенок не подставлялся. Source1000×1000 несколько мягкий, композицию со свотчем оценить при подготовке. Стандарт в каталоге не заменялся объёмом источника.",
+      "visualReview": "Yu.r CCC Cream Radiant Complexion SPF50+PA+++ Light: отдельная карточка и персональная фотография light.jpg. Полный белый тюбик с чёрной крышкой, надпись50ml и светлый свотч; нет водяного знака. Второй оттенок не подставлялся. Source1000×1000 несколько мягкий, композицию со свотчем оценить при подготовке. Стандарт в каталоге не заменялся объёмом источника.",
+      "reviewMethod": "Parent view_image of original bytes;2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "Многофункциональное тональное средство Yu.r CCC Cream Radiant Complexion SPF50+ PA+++ Light Стандарт",
+        "url": "https://hollyshop.ru/catalog/product/multifunktsionalnoe_tonalnoe_sredstvo_yur_ccc_cream_radiant_complexion_spf50_light/",
+        "note": "Yu.r CCC Cream Radiant Complexion SPF50+PA+++ Light: отдельная карточка и персональная фотография light.jpg. Полный белый тюбик с чёрной крышкой, надпись50ml и светлый свотч; нет водяного знака. Второй оттенок не подставлялся. Source1000×1000 несколько мягкий, композицию со свотчем оценить при подготовке. Стандарт в каталоге не заменялся объёмом источника."
+      }
+    ]
+  },
+  {
+    "index": 98,
+    "productId": "gc003483",
+    "variantId": "gc003483",
+    "productName": "Многофункциональное тональное средство Yu.r CCC Cream Radiant Complexion SPF50+ PA+++ Medium",
+    "variant": "Стандарт",
+    "checkedAt": "2026-09-24T14:53:34.253206+00:00",
+    "sourceImage": "https://hollyshop.ru/upload/iblock/f87/b4phn50lpvg97gexnz89npkqv789y1wx/medium.jpg",
+    "localFile": "materials/catalog-7b/originals/b002-c/Многофункциональное тональное средство Yu.r CCC Cream Radiant Complexion SPF50+ PA+++--gc003483.jpg",
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 30931,
+    "sha256": "b24c0fa597e40d6b5fc28e41ad48072a007d7428f17222c6d50b5ec7757a01bc",
+    "status": "verified",
+    "sourcePage": "https://hollyshop.ru/catalog/product/multifunktsionalnoe_tonalnoe_sredstvo_yur_ccc_cream_radiant_complexion_spf50_medium/",
+    "skipReason": null,
+    "verification": {
+      "identity": "Yu.r CCC Cream Radiant Complexion SPF50+PA+++ Medium: отдельная карточка и персональная фотография medium.jpg. Полный белый тюбик с чёрной крышкой,50ml и более тёмный свотч; без watermark. Source1000×1000 несколько мягкий, композицию со свотчем оценить при подготовке. Стандарт в каталоге сохранён.",
+      "volumeAndVariant": "Yu.r CCC Cream Radiant Complexion SPF50+PA+++ Medium: отдельная карточка и персональная фотография medium.jpg. Полный белый тюбик с чёрной крышкой,50ml и более тёмный свотч; без watermark. Source1000×1000 несколько мягкий, композицию со свотчем оценить при подготовке. Стандарт в каталоге сохранён.",
+      "visualReview": "Yu.r CCC Cream Radiant Complexion SPF50+PA+++ Medium: отдельная карточка и персональная фотография medium.jpg. Полный белый тюбик с чёрной крышкой,50ml и более тёмный свотч; без watermark. Source1000×1000 несколько мягкий, композицию со свотчем оценить при подготовке. Стандарт в каталоге сохранён.",
+      "reviewMethod": "Parent view_image of original bytes;2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "Многофункциональное тональное средство Yu.r CCC Cream Radiant Complexion SPF50+ PA+++ Medium Стандарт",
+        "url": "https://hollyshop.ru/catalog/product/multifunktsionalnoe_tonalnoe_sredstvo_yur_ccc_cream_radiant_complexion_spf50_medium/",
+        "note": "Yu.r CCC Cream Radiant Complexion SPF50+PA+++ Medium: отдельная карточка и персональная фотография medium.jpg. Полный белый тюбик с чёрной крышкой,50ml и более тёмный свотч; без watermark. Source1000×1000 несколько мягкий, композицию со свотчем оценить при подготовке. Стандарт в каталоге сохранён."
+      }
+    ]
+  },
+  {
+    "index": 99,
+    "productId": "gc004266",
+    "variantId": "gc004266",
+    "productName": "Матирующий тональный крем Lumene Matte Oil-control SPF20 0 light ivory 30 мл",
+    "variant": "30 мл",
+    "checkedAt": "2026-09-24T14:53:34.253206+00:00",
+    "sourceImage": "https://lyko.com/globalassets/product-images/lumene-matte-oil-control-foundation-spf20-0-light-ivory-30-ml-1188-753-0002_1.jpg?ref=7651073D95",
+    "localFile": "materials/catalog-7b/originals/b002-c/Матирующий тональный крем Lumene Matte Oil-control SPF20 0 light ivory 30 мл 30 мл--gc004266.jpg",
+    "width": 500,
+    "height": 1563,
+    "format": "JPEG",
+    "bytes": 92018,
+    "sha256": "f4616d38fa185d9bbcb07a25591c54b58a2bec85ec57525e8d20d50e5726ca67",
+    "status": "verified",
+    "sourcePage": "https://lyko.com/en/lumene/lumene-matte-oil-control-foundation-spf20-0-light-ivory-30-ml",
+    "skipReason": null,
+    "verification": {
+      "identity": "Lumene Matte Oil-Control SPF20 0 Light Ivory30мл: точная страница, артикул1188-753-0002, персональное package-photo. На тюбике видны 0 LIGHT IVORY и SPF20. Полный тюбик с бирюзовой крышкой,500×1563, белый фон без watermark; края плотно подходят к рамке, при подготовке добавить поля. Официальный Shopify featured_image оказался свотчем, не использован.",
+      "volumeAndVariant": "Lumene Matte Oil-Control SPF20 0 Light Ivory30мл: точная страница, артикул1188-753-0002, персональное package-photo. На тюбике видны 0 LIGHT IVORY и SPF20. Полный тюбик с бирюзовой крышкой,500×1563, белый фон без watermark; края плотно подходят к рамке, при подготовке добавить поля. Официальный Shopify featured_image оказался свотчем, не использован.",
+      "visualReview": "Lumene Matte Oil-Control SPF20 0 Light Ivory30мл: точная страница, артикул1188-753-0002, персональное package-photo. На тюбике видны 0 LIGHT IVORY и SPF20. Полный тюбик с бирюзовой крышкой,500×1563, белый фон без watermark; края плотно подходят к рамке, при подготовке добавить поля. Официальный Shopify featured_image оказался свотчем, не использован.",
+      "reviewMethod": "Parent view_image of original bytes;2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "Матирующий тональный крем Lumene Matte Oil-control SPF20 0 light ivory 30 мл 30 мл",
+        "url": "https://lyko.com/en/lumene/lumene-matte-oil-control-foundation-spf20-0-light-ivory-30-ml",
+        "note": "Lumene Matte Oil-Control SPF20 0 Light Ivory30мл: точная страница, артикул1188-753-0002, персональное package-photo. На тюбике видны 0 LIGHT IVORY и SPF20. Полный тюбик с бирюзовой крышкой,500×1563, белый фон без watermark; края плотно подходят к рамке, при подготовке добавить поля. Официальный Shopify featured_image оказался свотчем, не использован."
+      }
+    ]
+  },
+  {
+    "index": 100,
+    "productId": "gc004267",
+    "variantId": "gc004267",
+    "productName": "Матирующий тональный крем Lumene Matte Oil-control SPF20 0.5 light 30 мл",
+    "variant": "30 мл",
+    "checkedAt": "2026-09-24T14:53:34.253206+00:00",
+    "sourceImage": "https://lyko.com/globalassets/product-images/lumene-matte-oil-control-foundation-spf20-0.5-light-30-ml-1188-753-0003_1.jpg?ref=CB0096911E",
+    "localFile": "materials/catalog-7b/originals/b002-c/Матирующий тональный крем Lumene Matte Oil-control SPF20 0.5 light 30 мл 30 мл--gc004267.jpg",
+    "width": 500,
+    "height": 1570,
+    "format": "JPEG",
+    "bytes": 93137,
+    "sha256": "ee0106589e543896234aa60914317ddc4009215d6430c126e5fed1c3d0f588ab",
+    "status": "verified",
+    "sourcePage": "https://lyko.com/en/makeup/face/foundation/lumene-matte-oil-control-foundation-spf20-0.5-light-30-ml",
+    "skipReason": null,
+    "verification": {
+      "identity": "Lumene Matte Oil-Control SPF20 0.5 Light30мл: точная страница, артикул1188-753-0003, персональное package-photo. На тюбике видны 0.5 LIGHT и SPF20. Полный тюбик с бирюзовой крышкой,500×1570, белый фон без watermark; при подготовке добавить поля. Официальный Shopify featured_image оказался свотчем, не использован.",
+      "volumeAndVariant": "Lumene Matte Oil-Control SPF20 0.5 Light30мл: точная страница, артикул1188-753-0003, персональное package-photo. На тюбике видны 0.5 LIGHT и SPF20. Полный тюбик с бирюзовой крышкой,500×1570, белый фон без watermark; при подготовке добавить поля. Официальный Shopify featured_image оказался свотчем, не использован.",
+      "visualReview": "Lumene Matte Oil-Control SPF20 0.5 Light30мл: точная страница, артикул1188-753-0003, персональное package-photo. На тюбике видны 0.5 LIGHT и SPF20. Полный тюбик с бирюзовой крышкой,500×1570, белый фон без watermark; при подготовке добавить поля. Официальный Shopify featured_image оказался свотчем, не использован.",
+      "reviewMethod": "Parent view_image of original bytes;2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "Матирующий тональный крем Lumene Matte Oil-control SPF20 0.5 light 30 мл 30 мл",
+        "url": "https://lyko.com/en/makeup/face/foundation/lumene-matte-oil-control-foundation-spf20-0.5-light-30-ml",
+        "note": "Lumene Matte Oil-Control SPF20 0.5 Light30мл: точная страница, артикул1188-753-0003, персональное package-photo. На тюбике видны 0.5 LIGHT и SPF20. Полный тюбик с бирюзовой крышкой,500×1570, белый фон без watermark; при подготовке добавить поля. Официальный Shopify featured_image оказался свотчем, не использован."
+      }
+    ]
+  }
+]

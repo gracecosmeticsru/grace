@@ -1,0 +1,598 @@
+[
+  {
+    "index": 870,
+    "productId": "parent-0122",
+    "variantId": "gc000297",
+    "productName": "Карандаш для бровей ультратонкий Belor Design Browista",
+    "variant": "201",
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1850637",
+    "sourceImage": "https://s.f.kz/prod/1851/1850637_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b018-b/Карандаш для бровей ультратонкий Belor Design Browista 201--gc000297.jpg",
+    "verification": {
+      "identity": "Dedicated retailer product1850637 exact family/shade title and full1000gallery link. Shared family selector independently confirms product ID; original dimensions measured rather than inferred from1000filename.",
+      "volumeAndVariant": "Exact named product family and shade; no unspecified size or model substituted.",
+      "visualReview": "Whole BelorDesign Browista201 pencil views and separate drawn colour swatch. Actual original188x614 below800px. Also swatch graphic; blocked.",
+      "reviewMethod": "Whole source and white-padded contain images visually inspected; original dimensions and physical object bounds checked independently of shadow/filename,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для бровей ультратонкий Belor Design Browista 201",
+        "url": "https://www.flip.kz/catalog?prod=1850637",
+        "note": "Dedicated retailer product1850637 exact family/shade title and full1000gallery link. Shared family selector independently confirms product ID; original dimensions measured rather than inferred from1000filename."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 188,
+    "height": 614,
+    "format": "JPEG",
+    "bytes": 26178,
+    "sha256": "39bd12ebe4651dfd7d568f9a130e384342644dea9eeeba4a0eb18f4c4638ebac"
+  },
+  {
+    "index": 871,
+    "productId": "parent-0122",
+    "variantId": "gc000298",
+    "productName": "Карандаш для бровей ультратонкий Belor Design Browista",
+    "variant": "202",
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1850639",
+    "sourceImage": "https://s.f.kz/prod/1851/1850639_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b018-b/Карандаш для бровей ультратонкий Belor Design Browista 202--gc000298.jpg",
+    "verification": {
+      "identity": "Dedicated retailer product1850639 exact family/shade title and full1000gallery link. Shared family selector independently confirms product ID; original dimensions measured rather than inferred from1000filename.",
+      "volumeAndVariant": "Exact named product family and shade; no unspecified size or model substituted.",
+      "visualReview": "Whole BelorDesign Browista202 pencil views and separate drawn colour swatch. Actual original192x629 below800px. Also swatch graphic; blocked.",
+      "reviewMethod": "Whole source and white-padded contain images visually inspected; original dimensions and physical object bounds checked independently of shadow/filename,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для бровей ультратонкий Belor Design Browista 202",
+        "url": "https://www.flip.kz/catalog?prod=1850639",
+        "note": "Dedicated retailer product1850639 exact family/shade title and full1000gallery link. Shared family selector independently confirms product ID; original dimensions measured rather than inferred from1000filename."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 192,
+    "height": 629,
+    "format": "JPEG",
+    "bytes": 25879,
+    "sha256": "1cd1d5beb228ee147bfc75a7921ed0db32d6d1e6e50c75b5e219a68c144f3958"
+  },
+  {
+    "index": 872,
+    "productId": "parent-0122",
+    "variantId": "gc000299",
+    "productName": "Карандаш для бровей ультратонкий Belor Design Browista",
+    "variant": "203",
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1850642",
+    "sourceImage": "https://s.f.kz/prod/1851/1850642_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b018-b/Карандаш для бровей ультратонкий Belor Design Browista 203--gc000299.jpg",
+    "verification": {
+      "identity": "Dedicated retailer product1850642 exact family/shade title and full1000gallery link. Shared family selector independently confirms product ID; original dimensions measured rather than inferred from1000filename.",
+      "volumeAndVariant": "Exact named product family and shade; no unspecified size or model substituted.",
+      "visualReview": "Whole BelorDesign Browista203 pencil views,258x839 with physical pencil about826px but includes separate colour-swirl demonstration. Clean standalone photo requirement fails; no graphic removal.",
+      "reviewMethod": "Whole source and white-padded contain images visually inspected; original dimensions and physical object bounds checked independently of shadow/filename,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для бровей ультратонкий Belor Design Browista 203",
+        "url": "https://www.flip.kz/catalog?prod=1850642",
+        "note": "Dedicated retailer product1850642 exact family/shade title and full1000gallery link. Shared family selector independently confirms product ID; original dimensions measured rather than inferred from1000filename."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 258,
+    "height": 839,
+    "format": "JPEG",
+    "bytes": 34744,
+    "sha256": "586a23361bc2770d1a3a02095892d05dceabbcc568d80d9a6cb8124ac8b3f6c8"
+  },
+  {
+    "index": 873,
+    "productId": "gc000817",
+    "variantId": "gc000817",
+    "productName": "Контурный карандаш для бровей с щеточкой Eveline Cosmetics Brown",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://evelinecosmetics.com/products/eyebrow-pencil-with-brush?variant=46258293014754",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0725/7659/8242/files/67822a772a2839.92012905.jpg?v=1736583801",
+    "localFile": "materials/catalog-7b/originals/b018-b/Контурный карандаш для бровей с щеточкой Eveline Cosmetics Brown Стандарт--gc000817.jpg",
+    "verification": {
+      "identity": "Official Shopify product variant46258293014754 titled brown directly binds featured source image.",
+      "volumeAndVariant": "Exact named product family and shade; no unspecified size or model substituted.",
+      "visualReview": "Whole brown sharpenable pencil and capped brush view, clean white1000square. Physical bboxy99..899=801px persists at contrast30/60/100; top is cap, bottom is pencil end, not shadow. No added graphic, no clipped edge. Mild target enlargement about1.27 required.",
+      "reviewMethod": "Whole source and white-padded contain images visually inspected; original dimensions and physical object bounds checked independently of shadow/filename,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Контурный карандаш для бровей с щеточкой Eveline Cosmetics Brown Стандарт",
+        "url": "https://evelinecosmetics.com/products/eyebrow-pencil-with-brush?variant=46258293014754",
+        "note": "Official Shopify product variant46258293014754 titled brown directly binds featured source image."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 34576,
+    "sha256": "45a9c86a679242a3d9c0f73b40b595c78d60dc94f3258b936e5076972c9f65a6"
+  },
+  {
+    "index": 874,
+    "productId": "gc000818",
+    "variantId": "gc000818",
+    "productName": "Контурный карандаш для бровей с щеточкой Eveline Cosmetics Light Brown",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://olivia.az/ru/eveline-eyebrow-pencil-light-brown-qas-qelemi-5901761918601-ru",
+    "sourceImage": "https://olivia.az/media/catalog/product/cache/f8158826193ba5faa8b862a9bd1eb9e9/n/e/new_project_-_2023-05-20t095238.230.png",
+    "localFile": "materials/catalog-7b/originals/b018-b/Контурный карандаш для бровей с щеточкой Eveline Cosmetics Light Brown Стандарт--gc000818.png",
+    "verification": {
+      "identity": "Dedicated retailer Light Brown EAN5901761918601 sharpenable Eyebrow Pencil page and full gallery image, not Micro Precise.",
+      "volumeAndVariant": "Exact named product family and shade; no unspecified size or model substituted.",
+      "visualReview": "Whole correct pencil views and brush cap,1000square but visibly blurred/pixelated edges and degraded packaging print. Very tight top/bottom composition, reflection at bottom. Full contain review does not assert object clipping; blocked for poor source clarity.",
+      "reviewMethod": "Whole source and white-padded contain images visually inspected; original dimensions and physical object bounds checked independently of shadow/filename,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Контурный карандаш для бровей с щеточкой Eveline Cosmetics Light Brown Стандарт",
+        "url": "https://olivia.az/ru/eveline-eyebrow-pencil-light-brown-qas-qelemi-5901761918601-ru",
+        "note": "Dedicated retailer Light Brown EAN5901761918601 sharpenable Eyebrow Pencil page and full gallery image, not Micro Precise."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 140241,
+    "sha256": "881f68448a9dafda044fce1e21e75a3ce68abb5af83b03332981dcad1746d3b3"
+  },
+  {
+    "index": 875,
+    "productId": "gc000819",
+    "variantId": "gc000819",
+    "productName": "Контурный карандаш для бровей с щеточкой Eveline Cosmetics Soft Brown",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://olivia.az/ru/eveline-eyebrow-pencil-soft-brown-qas-qelemi-5901761991673-ru",
+    "sourceImage": "https://olivia.az/media/catalog/product/cache/f8158826193ba5faa8b862a9bd1eb9e9/n/e/new_project_-_2023-05-20t171425.326.png",
+    "localFile": "materials/catalog-7b/originals/b018-b/Контурный карандаш для бровей с щеточкой Eveline Cosmetics Soft Brown Стандарт--gc000819.png",
+    "verification": {
+      "identity": "Dedicated retailer soft Brown EAN5901761991673 sharpenable Eyebrow Pencil page and full gallery image, not Micro Precise.",
+      "volumeAndVariant": "Exact named product family and shade; no unspecified size or model substituted.",
+      "visualReview": "Whole correct pencil views and brush cap,1000square but visibly blurred/pixelated edges and degraded packaging print. Very tight top/bottom composition, reflection at bottom. Full contain review does not assert object clipping; blocked for poor source clarity.",
+      "reviewMethod": "Whole source and white-padded contain images visually inspected; original dimensions and physical object bounds checked independently of shadow/filename,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Контурный карандаш для бровей с щеточкой Eveline Cosmetics Soft Brown Стандарт",
+        "url": "https://olivia.az/ru/eveline-eyebrow-pencil-soft-brown-qas-qelemi-5901761991673-ru",
+        "note": "Dedicated retailer soft Brown EAN5901761991673 sharpenable Eyebrow Pencil page and full gallery image, not Micro Precise."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 171042,
+    "sha256": "621759cea862b13c4752f0d259da02a78627d9cc1832add6f08e5e96e59f26fb"
+  },
+  {
+    "index": 876,
+    "productId": "gc000885",
+    "variantId": "gc000885",
+    "productName": "Контурный карандаш для бровей с щеточкой Eveline Cosmetics Medium Brown",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1853880",
+    "sourceImage": "https://s.f.kz/prod/1854/1853880_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b018-b/Контурный карандаш для бровей с щеточкой Eveline Cosmetics Medium Brown Стандарт--gc000885.jpg",
+    "verification": {
+      "identity": "Dedicated retailer product1853880 exact family/shade title and full1000gallery link. Shared family selector independently confirms product ID; original dimensions measured rather than inferred from1000filename.",
+      "volumeAndVariant": "Exact named product family and shade; no unspecified size or model substituted.",
+      "visualReview": "Correct Eveline MediumBrown original only216x624, physical product597px including no reflection. Too small even though filename says1000; blocked.",
+      "reviewMethod": "Whole source and white-padded contain images visually inspected; original dimensions and physical object bounds checked independently of shadow/filename,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Контурный карандаш для бровей с щеточкой Eveline Cosmetics Medium Brown Стандарт",
+        "url": "https://www.flip.kz/catalog?prod=1853880",
+        "note": "Dedicated retailer product1853880 exact family/shade title and full1000gallery link. Shared family selector independently confirms product ID; original dimensions measured rather than inferred from1000filename."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 216,
+    "height": 624,
+    "format": "JPEG",
+    "bytes": 27823,
+    "sha256": "acd75a5aace70dcfe3395e77a12b3f1fd7753ce45d22b76e60e64eb793edc7ad"
+  },
+  {
+    "index": 877,
+    "productId": "gc001670",
+    "variantId": "gc001670",
+    "productName": "Карандаш механический для бровей песочный с легким сиянием Relouis Brow Wow 01",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/en/product/brow-wow/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact Relouis Brow Wow01 blonde mechanical pencil confirmed by official search and current brand catalog. Direct page HTML retained but contains no product image asset; no isolated original retrieved in focused pass. No photo of other shade used.",
+    "searches": [
+      {
+        "query": "Карандаш механический для бровей песочный с легким сиянием Relouis Brow Wow 01 Стандарт",
+        "url": "https://relouis.by/en/product/brow-wow/",
+        "note": "Exact Relouis Brow Wow01 blonde mechanical pencil confirmed by official search and current brand catalog. Direct page HTML retained but contains no product image asset; no isolated original retrieved in focused pass. No photo of other shade used."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 878,
+    "productId": "parent-0123",
+    "variantId": "gc001743",
+    "productName": "Фломастер для бровей карандаш для бровей Relouis Brow Permanent Marker",
+    "variant": "01",
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1070709",
+    "sourceImage": "https://s.f.kz/prod/1071/1070709_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b018-b/Фломастер для бровей карандаш для бровей Relouis Brow Permanent Marker 01--gc001743.jpg",
+    "verification": {
+      "identity": "Dedicated retailer product1070709 exact family/shade title and full1000gallery link. Shared family selector independently confirms product ID; original dimensions measured rather than inferred from1000filename.",
+      "volumeAndVariant": "Exact named product family and shade; no unspecified size or model substituted.",
+      "visualReview": "Full Relouis Brow Permanent Marker01 shown capped and uncapped, white background, no label outside packaging or watermark. Actual physical long side894–899px excluding white border, shadow/reflection absent. Full contain review confirms intact nib, cap and bottom, including tight02/04 margins. Mild enlargement about1.13–1.14 required.",
+      "reviewMethod": "Whole source and white-padded contain images visually inspected; original dimensions and physical object bounds checked independently of shadow/filename,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Фломастер для бровей карандаш для бровей Relouis Brow Permanent Marker 01",
+        "url": "https://www.flip.kz/catalog?prod=1070709",
+        "note": "Dedicated retailer product1070709 exact family/shade title and full1000gallery link. Shared family selector independently confirms product ID; original dimensions measured rather than inferred from1000filename."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 192,
+    "height": 910,
+    "format": "JPEG",
+    "bytes": 59677,
+    "sha256": "127ffa10066e88c0cdc7c5803f818733b593dd555654f9d63a8faf48dab4eff7"
+  },
+  {
+    "index": 879,
+    "productId": "parent-0123",
+    "variantId": "gc001744",
+    "productName": "Фломастер для бровей карандаш для бровей Relouis Brow Permanent Marker",
+    "variant": "02",
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1071082",
+    "sourceImage": "https://s.f.kz/prod/1072/1071082_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b018-b/Фломастер для бровей карандаш для бровей Relouis Brow Permanent Marker 02--gc001744.jpg",
+    "verification": {
+      "identity": "Dedicated retailer product1071082 exact family/shade title and full1000gallery link. Shared family selector independently confirms product ID; original dimensions measured rather than inferred from1000filename.",
+      "volumeAndVariant": "Exact named product family and shade; no unspecified size or model substituted.",
+      "visualReview": "Full Relouis Brow Permanent Marker02 shown capped and uncapped, white background, no label outside packaging or watermark. Actual physical long side894–899px excluding white border, shadow/reflection absent. Full contain review confirms intact nib, cap and bottom, including tight02/04 margins. Mild enlargement about1.13–1.14 required.",
+      "reviewMethod": "Whole source and white-padded contain images visually inspected; original dimensions and physical object bounds checked independently of shadow/filename,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Фломастер для бровей карандаш для бровей Relouis Brow Permanent Marker 02",
+        "url": "https://www.flip.kz/catalog?prod=1071082",
+        "note": "Dedicated retailer product1071082 exact family/shade title and full1000gallery link. Shared family selector independently confirms product ID; original dimensions measured rather than inferred from1000filename."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 192,
+    "height": 896,
+    "format": "JPEG",
+    "bytes": 58877,
+    "sha256": "fa95c42cdaa217041535b18ffd164ab0de02ce7faa1851c2825ceff2a0c61f91"
+  },
+  {
+    "index": 880,
+    "productId": "parent-0123",
+    "variantId": "gc001745",
+    "productName": "Фломастер для бровей карандаш для бровей Relouis Brow Permanent Marker",
+    "variant": "03",
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1071083",
+    "sourceImage": "https://s.f.kz/prod/1072/1071083_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b018-b/Фломастер для бровей карандаш для бровей Relouis Brow Permanent Marker 03--gc001745.jpg",
+    "verification": {
+      "identity": "Dedicated retailer product1071083 exact family/shade title and full1000gallery link. Shared family selector independently confirms product ID; original dimensions measured rather than inferred from1000filename.",
+      "volumeAndVariant": "Exact named product family and shade; no unspecified size or model substituted.",
+      "visualReview": "Full Relouis Brow Permanent Marker03 shown capped and uncapped, white background, no label outside packaging or watermark. Actual physical long side894–899px excluding white border, shadow/reflection absent. Full contain review confirms intact nib, cap and bottom, including tight02/04 margins. Mild enlargement about1.13–1.14 required.",
+      "reviewMethod": "Whole source and white-padded contain images visually inspected; original dimensions and physical object bounds checked independently of shadow/filename,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Фломастер для бровей карандаш для бровей Relouis Brow Permanent Marker 03",
+        "url": "https://www.flip.kz/catalog?prod=1071083",
+        "note": "Dedicated retailer product1071083 exact family/shade title and full1000gallery link. Shared family selector independently confirms product ID; original dimensions measured rather than inferred from1000filename."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 192,
+    "height": 912,
+    "format": "JPEG",
+    "bytes": 56880,
+    "sha256": "d299ccef6db6dc57d71ed5b9cff297939dbc5b32f481b594585b4fb32e55aace"
+  },
+  {
+    "index": 881,
+    "productId": "parent-0123",
+    "variantId": "gc001746",
+    "productName": "Фломастер для бровей карандаш для бровей Relouis Brow Permanent Marker",
+    "variant": "04",
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1898629",
+    "sourceImage": "https://s.f.kz/prod/1899/1898629_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b018-b/Фломастер для бровей карандаш для бровей Relouis Brow Permanent Marker 04--gc001746.jpg",
+    "verification": {
+      "identity": "Dedicated retailer product1898629 exact family/shade title and full1000gallery link. Shared family selector independently confirms product ID; original dimensions measured rather than inferred from1000filename.",
+      "volumeAndVariant": "Exact named product family and shade; no unspecified size or model substituted.",
+      "visualReview": "Full Relouis Brow Permanent Marker04 shown capped and uncapped, white background, no label outside packaging or watermark. Actual physical long side894–899px excluding white border, shadow/reflection absent. Full contain review confirms intact nib, cap and bottom, including tight02/04 margins. Mild enlargement about1.13–1.14 required.",
+      "reviewMethod": "Whole source and white-padded contain images visually inspected; original dimensions and physical object bounds checked independently of shadow/filename,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Фломастер для бровей карандаш для бровей Relouis Brow Permanent Marker 04",
+        "url": "https://www.flip.kz/catalog?prod=1898629",
+        "note": "Dedicated retailer product1898629 exact family/shade title and full1000gallery link. Shared family selector independently confirms product ID; original dimensions measured rather than inferred from1000filename."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 192,
+    "height": 905,
+    "format": "JPEG",
+    "bytes": 53488,
+    "sha256": "a75f34575d496aa9c2bf0b1be3ab7b9a90414e2952a016d9d5c59df80cc3852c"
+  },
+  {
+    "index": 882,
+    "productId": "gc001834",
+    "variantId": "gc001834",
+    "productName": "Механический карандаш для бровей SHIK Blonde",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://hollyshop.ru/catalog/product/tonkiy_mekhanicheskiy_karandash_dlya_brovey_s_shchyetochkoy_shik_eyebrow_pencil_taupe/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact mechanical Shik Eyebrow Pencil0.1g family description lists Blonde/Taupe/Medium/Dark, but retrieved retailer selectors and galleries only expose Taupe/Medium/Dark; focused Blonde search yielded Powder Pencil1.19g instead. No exact Blonde mechanical original recovered; powder product not substituted.",
+    "searches": [
+      {
+        "query": "Механический карандаш для бровей SHIK Blonde Стандарт",
+        "url": "https://hollyshop.ru/catalog/product/tonkiy_mekhanicheskiy_karandash_dlya_brovey_s_shchyetochkoy_shik_eyebrow_pencil_taupe/",
+        "note": "Exact mechanical Shik Eyebrow Pencil0.1g family description lists Blonde/Taupe/Medium/Dark, but retrieved retailer selectors and galleries only expose Taupe/Medium/Dark; focused Blonde search yielded Powder Pencil1.19g instead. No exact Blonde mechanical original recovered; powder product not substituted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 883,
+    "productId": "gc001835",
+    "variantId": "gc001835",
+    "productName": "Механический карандаш для бровей SHIK Dark",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://hollyshop.ru/catalog/product/tonkiy_mekhanicheskiy_karandash_dlya_brovey_s_shchyetochkoy_shik_eyebrow_pencil_dark/",
+    "sourceImage": "https://hollyshop.ru/upload/iblock/d51/nu75dgx3upeoye9im0wmfczzgq1ziw5l/Shik-Eyebrow-Pencil-Dark.jpg",
+    "localFile": "materials/catalog-7b/originals/b018-b/Механический карандаш для бровей SHIK Dark Стандарт--gc001835.jpg",
+    "verification": {
+      "identity": "Dedicated Hollyshop mechanical Eyebrow Pencil Dark page explicitly binds selected shade to primary original image. Distinct from sharpenable Brow Powder Pencil.",
+      "volumeAndVariant": "Mechanical0.1g formula, exact shade.",
+      "visualReview": "Correct long mechanical pencil and whole spoolie,1000square, but large swatch/colour-scribble behind product dominates frame. Source not a clean product photo; no removal of swatch attempted.",
+      "reviewMethod": "Whole source and white-padded contain images visually inspected; original dimensions and physical object bounds checked independently of shadow/filename,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Механический карандаш для бровей SHIK Dark Стандарт",
+        "url": "https://hollyshop.ru/catalog/product/tonkiy_mekhanicheskiy_karandash_dlya_brovey_s_shchyetochkoy_shik_eyebrow_pencil_dark/",
+        "note": "Dedicated Hollyshop mechanical Eyebrow Pencil Dark page explicitly binds selected shade to primary original image. Distinct from sharpenable Brow Powder Pencil."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 56922,
+    "sha256": "cc6a478d9695f162f4d8cc4a4a8ee5d613ecac0d488ea7434c656a6416b524ca"
+  },
+  {
+    "index": 884,
+    "productId": "gc001836",
+    "variantId": "gc001836",
+    "productName": "Механический карандаш для бровей SHIK Medium",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://hollyshop.ru/catalog/product/tonkiy_mekhanicheskiy_karandash_dlya_brovey_s_shchyetochkoy_shik_eyebrow_pencil_medium/",
+    "sourceImage": "https://hollyshop.ru/upload/iblock/158/y6pxz9x2tefyjychu0lhwvip68l37x7a/Shik-Eyebrow-Pencil-Medium.jpg",
+    "localFile": "materials/catalog-7b/originals/b018-b/Механический карандаш для бровей SHIK Medium Стандарт--gc001836.jpg",
+    "verification": {
+      "identity": "Dedicated Hollyshop mechanical Eyebrow Pencil Medium page explicitly binds selected shade to primary original image. Distinct from sharpenable Brow Powder Pencil.",
+      "volumeAndVariant": "Mechanical0.1g formula, exact shade.",
+      "visualReview": "Correct long mechanical pencil and whole spoolie,1000square, but large swatch/colour-scribble behind product dominates frame. Source not a clean product photo; no removal of swatch attempted.",
+      "reviewMethod": "Whole source and white-padded contain images visually inspected; original dimensions and physical object bounds checked independently of shadow/filename,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Механический карандаш для бровей SHIK Medium Стандарт",
+        "url": "https://hollyshop.ru/catalog/product/tonkiy_mekhanicheskiy_karandash_dlya_brovey_s_shchyetochkoy_shik_eyebrow_pencil_medium/",
+        "note": "Dedicated Hollyshop mechanical Eyebrow Pencil Medium page explicitly binds selected shade to primary original image. Distinct from sharpenable Brow Powder Pencil."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 55859,
+    "sha256": "ec90f9585729a27fe60f211a733158c370849769d89d27609109319c7688aceb"
+  },
+  {
+    "index": 885,
+    "productId": "gc001837",
+    "variantId": "gc001837",
+    "productName": "Механический карандаш для бровей SHIK Taupe",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://hollyshop.ru/catalog/product/tonkiy_mekhanicheskiy_karandash_dlya_brovey_s_shchyetochkoy_shik_eyebrow_pencil_taupe/",
+    "sourceImage": "https://hollyshop.ru/upload/iblock/fd5/riicqa85eheezmge5ngcc32nui7rzf2b/Shik-Eyebrow-Pencil-Taupe.jpg",
+    "localFile": "materials/catalog-7b/originals/b018-b/Механический карандаш для бровей SHIK Taupe Стандарт--gc001837.jpg",
+    "verification": {
+      "identity": "Dedicated Hollyshop mechanical Eyebrow Pencil Taupe page explicitly binds selected shade to primary original image. Distinct from sharpenable Brow Powder Pencil.",
+      "volumeAndVariant": "Mechanical0.1g formula, exact shade.",
+      "visualReview": "Correct long mechanical pencil and whole spoolie,1000square, but large swatch/colour-scribble behind product dominates frame. Source not a clean product photo; no removal of swatch attempted.",
+      "reviewMethod": "Whole source and white-padded contain images visually inspected; original dimensions and physical object bounds checked independently of shadow/filename,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Механический карандаш для бровей SHIK Taupe Стандарт",
+        "url": "https://hollyshop.ru/catalog/product/tonkiy_mekhanicheskiy_karandash_dlya_brovey_s_shchyetochkoy_shik_eyebrow_pencil_taupe/",
+        "note": "Dedicated Hollyshop mechanical Eyebrow Pencil Taupe page explicitly binds selected shade to primary original image. Distinct from sharpenable Brow Powder Pencil."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 55300,
+    "sha256": "0db12f637409c8f76f7309a6ef8a16e687f1a6794d7bed13715ec47709847858"
+  },
+  {
+    "index": 886,
+    "productId": "parent-0124",
+    "variantId": "gc002860",
+    "productName": "Карандаш для бровей Eveline Cosmetics Micro Precise Brow Pencil",
+    "variant": "01",
+    "status": "verified",
+    "sourcePage": "https://eveline.pl/en/products/ultraprecyzyjna-kredka-do-brwi?variant=54933460844923",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0726/0392/6792/files/677dc2754679f6.77887733.jpg?v=1737619763",
+    "localFile": "materials/catalog-7b/originals/b018-b/Карандаш для бровей Eveline Cosmetics Micro Precise Brow Pencil 01--gc002860.jpg",
+    "verification": {
+      "identity": "Official Shopify product variant54933460844923 titled nr 01 taupe directly binds featured source image.",
+      "volumeAndVariant": "Exact named product family and shade; no unspecified size or model substituted.",
+      "visualReview": "Whole Micro Precise01Taupe pencil views and spoolie with transparent cap, white1000square. Strong contrast physical bboxy101..902=802px, no shadow/reflection tail. No captions or watermark. Mild target enlargement about1.27 required.",
+      "reviewMethod": "Whole source and white-padded contain images visually inspected; original dimensions and physical object bounds checked independently of shadow/filename,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для бровей Eveline Cosmetics Micro Precise Brow Pencil 01",
+        "url": "https://eveline.pl/en/products/ultraprecyzyjna-kredka-do-brwi?variant=54933460844923",
+        "note": "Official Shopify product variant54933460844923 titled nr 01 taupe directly binds featured source image."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 30086,
+    "sha256": "120b5b41473d5ef5b74a8d3379614f161b9367bffc5bec105a5a12239bd0a71e"
+  },
+  {
+    "index": 887,
+    "productId": "parent-0124",
+    "variantId": "gc002862",
+    "productName": "Карандаш для бровей Eveline Cosmetics Micro Precise Brow Pencil",
+    "variant": "03",
+    "status": "verified",
+    "sourcePage": "https://eveline.pl/en/products/ultraprecyzyjna-kredka-do-brwi?variant=54933460910459",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0726/0392/6792/files/677dc2901c6026.66066237.jpg?v=1771315432",
+    "localFile": "materials/catalog-7b/originals/b018-b/Карандаш для бровей Eveline Cosmetics Micro Precise Brow Pencil 03--gc002862.jpg",
+    "verification": {
+      "identity": "Official Shopify product variant54933460910459 titled nr 03 dark brown directly binds featured source image.",
+      "volumeAndVariant": "Exact named product family and shade; no unspecified size or model substituted.",
+      "visualReview": "Exact Micro Precise03DarkBrown source is1000square and whole product, but contains external added shade caption03darkbrown at lower right. Kept as evidence; not a clean standalone product photo.",
+      "reviewMethod": "Whole source and white-padded contain images visually inspected; original dimensions and physical object bounds checked independently of shadow/filename,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для бровей Eveline Cosmetics Micro Precise Brow Pencil 03",
+        "url": "https://eveline.pl/en/products/ultraprecyzyjna-kredka-do-brwi?variant=54933460910459",
+        "note": "Official Shopify product variant54933460910459 titled nr 03 dark brown directly binds featured source image."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 35801,
+    "sha256": "d1e72c8bf3c6f2582af0a387b8d9e769f825fb997cfe92941b22eae964a5fe8e"
+  },
+  {
+    "index": 888,
+    "productId": "gc002861",
+    "variantId": "gc002861",
+    "productName": "Карандаш для бровей т Eveline Cosmetics Micro Precise Brow Pencil",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://eveline.pl/en/products/ultraprecyzyjna-kredka-do-brwi",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Micro Precise family has distinct numbered shades01Taupe,02SoftBrown,03DarkBrown,04Graphite,05MediumBrown. Catalog row only says standard and stray Cyrillic t; no shade code. Cannot assign a shade image by guessing.",
+    "searches": [
+      {
+        "query": "Карандаш для бровей т Eveline Cosmetics Micro Precise Brow Pencil Стандарт",
+        "url": "https://eveline.pl/en/products/ultraprecyzyjna-kredka-do-brwi",
+        "note": "Official Micro Precise family has distinct numbered shades01Taupe,02SoftBrown,03DarkBrown,04Graphite,05MediumBrown. Catalog row only says standard and stray Cyrillic t; no shade code. Cannot assign a shade image by guessing."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 889,
+    "productId": "parent-0125",
+    "variantId": "gc002863",
+    "productName": "Карандаш для бровей Farres",
+    "variant": "02",
+    "status": "skipped",
+    "sourcePage": "https://www.reni5gorsk.ru/catalog_reni/farres/?show=all",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused Farres02 research found incompatible families using02: MB010Slim olive-brown, MB003 comb pencil gray, DoubleEnd gel+pencil gray-brown. Catalog only says Farres eyebrow pencil02 with no model or barcode; no family selected by guessing.",
+    "searches": [
+      {
+        "query": "Карандаш для бровей Farres 02",
+        "url": "https://www.reni5gorsk.ru/catalog_reni/farres/?show=all",
+        "note": "Focused Farres02 research found incompatible families using02: MB010Slim olive-brown, MB003 comb pencil gray, DoubleEnd gel+pencil gray-brown. Catalog only says Farres eyebrow pencil02 with no model or barcode; no family selected by guessing."
+      }
+    ],
+    "sharedImageWith": []
+  }
+]

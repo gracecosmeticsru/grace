@@ -1,0 +1,244 @@
+[
+  {
+    "index": 240,
+    "productId": "parent-0027",
+    "variantId": "gc001419",
+    "productName": "Гель-корректор для бровей Luxvisage Brow Styler",
+    "variant": "03",
+    "status": "skipped",
+    "sourcePage": "https://beloris.ru/item/gel-korrektor-dlya-brovey-brow-styler",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Quick family search confirms Brow Styler 03/04 but candidate is a low-resolution family photo with BELORIS watermark; not safe to assign a clean exact-shade photo.",
+    "searches": [
+      {
+        "query": "Luxvisage Brow Styler гель корректор бровей 03 04 официальный",
+        "url": "https://beloris.ru/item/gel-korrektor-dlya-brovey-brow-styler",
+        "note": "Family page main image inspected: bottle plus wand, 275x708 pixels and visible BELORIS watermark; shade-specific usable photo not established. Mila catalogue independently lists 03 and 04."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 241,
+    "productId": "parent-0027",
+    "variantId": "gc001420",
+    "productName": "Гель-корректор для бровей Luxvisage Brow Styler",
+    "variant": "04",
+    "status": "skipped",
+    "sourcePage": "https://beloris.ru/item/gel-korrektor-dlya-brovey-brow-styler",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Quick family search confirms Brow Styler 03/04 but candidate is a low-resolution family photo with BELORIS watermark; not safe to assign a clean exact-shade photo.",
+    "searches": [
+      {
+        "query": "Luxvisage Brow Styler гель корректор бровей 03 04 официальный",
+        "url": "https://beloris.ru/item/gel-korrektor-dlya-brovey-brow-styler",
+        "note": "Family page main image inspected: bottle plus wand, 275x708 pixels and visible BELORIS watermark; shade-specific usable photo not established. Mila catalogue independently lists 03 and 04."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 242,
+    "productId": "gc001447",
+    "variantId": "gc001447",
+    "productName": "Консилер 1 тон консилер Luxvisage Lux Vizage",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.pharmacosmetica.ru/eshop/konsiler-luxvisage-01-light_id_447775.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Classic gold-capped concealer identified, but retailer reuses visually equivalent colour depiction for 01 and 03. Exact visible shade cannot be verified, so no shade-specific photo is accepted.",
+    "searches": [
+      {
+        "query": "Luxvisage консилер 01 Light 03 Natural Beige",
+        "url": "https://www.pharmacosmetica.ru/eshop/konsiler-luxvisage-01-light_id_447775.html",
+        "note": "Retailer colour table identifies 01 Light and 03 Natural Beige, with separate 1200px image URLs eh99989444577-001.jpg and eh99989444579-001.jpg. Both originals inspected; bottle and visible contents look like the same generic depiction despite the different assigned shade names."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 243,
+    "productId": "gc001448",
+    "variantId": "gc001448",
+    "productName": "Консилер 3 тон консилер Luxvisage Lux Vizage",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.pharmacosmetica.ru/eshop/konsiler-luxvisage-01-light_id_447775.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Classic gold-capped concealer identified, but retailer reuses visually equivalent colour depiction for 01 and 03. Exact visible shade cannot be verified, so no shade-specific photo is accepted.",
+    "searches": [
+      {
+        "query": "Luxvisage консилер 01 Light 03 Natural Beige",
+        "url": "https://www.pharmacosmetica.ru/eshop/konsiler-luxvisage-01-light_id_447775.html",
+        "note": "Retailer colour table identifies 01 Light and 03 Natural Beige, with separate 1200px image URLs eh99989444577-001.jpg and eh99989444579-001.jpg. Both originals inspected; bottle and visible contents look like the same generic depiction despite the different assigned shade names."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 244,
+    "productId": "gc001516",
+    "variantId": "gc001516",
+    "productName": "Спот-корректор против воспалений консилер Masstige Pure Balance 15 г",
+    "variant": "15г",
+    "status": "verified",
+    "sourcePage": "https://beautyvit.ru/catalog/ukhod/dlya_litsa/krem_dlya_litsa/pure_balance_spot_korrektor_protiv_vospaleniy_15g/",
+    "sourceImage": "https://beautyvit.ru/upload/iblock/dc4/oouhzbbo9gx5s708v8q7qrieaerb33d1.jpg",
+    "localFile": "materials/catalog-7b/originals/b005-c/Спот-корректор против воспалений консилер Masstige Pure Balance 15 г 15г--gc001516.jpg",
+    "verification": {
+      "identity": "Masstige Pure Balance Spot Corrector Against Inflammation; dedicated product page and packaging text match.",
+      "volumeAndVariant": "Source page explicitly 15g, catalog 15г; barcode 4810371000266, no shade alternatives.",
+      "visualReview": "Full white/turquoise box and tube on white, centered original1112x1112; no watermark, all outer edges complete, no invented colour or retouching.",
+      "reviewMethod": "Full original view_image and final prepared image review, 2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Masstige Pure Balance спот-корректор 15г",
+        "url": "https://beautyvit.ru/catalog/ukhod/dlya_litsa/krem_dlya_litsa/pure_balance_spot_korrektor_protiv_vospaleniy_15g/",
+        "note": "Exact 15g product page; original image URL exposed by product JSON-LD, distinct from 660px thumbnail."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1112,
+    "height": 1112,
+    "format": "JPEG",
+    "bytes": 100309,
+    "sha256": "d9bc69a43f56a715222b8694d4a56559683bef7d072905b9d34387f8292155c4"
+  },
+  {
+    "index": 245,
+    "productId": "gc001720",
+    "variantId": "gc001720",
+    "productName": "Консилер Relouis Complimenti Bright Touch 01 фарфоровый",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/en/product/bright-touch-complimenti/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official shade-specific image is only a swatch, not the product. Official main gallery is a multi-shade advertising poster, unsuitable as a clean exact-variant photo; skipped after focused family search.",
+    "searches": [
+      {
+        "query": "Relouis Complimenti Bright Touch консилер 01 02 03",
+        "url": "https://relouis.by/en/product/bright-touch-complimenti/",
+        "note": "Official page names the requested shades; its shade 01 image inspected at1080px is only a cream smear. Main image is an advertising poster with several bottles and graphic background."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 246,
+    "productId": "gc001721",
+    "variantId": "gc001721",
+    "productName": "Консилер бежевый консилер Relouis Complimenti Bright Touch 02 натуральный",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/en/product/bright-touch-complimenti/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official shade-specific image is only a swatch, not the product. Official main gallery is a multi-shade advertising poster, unsuitable as a clean exact-variant photo; skipped after focused family search.",
+    "searches": [
+      {
+        "query": "Relouis Complimenti Bright Touch консилер 01 02 03",
+        "url": "https://relouis.by/en/product/bright-touch-complimenti/",
+        "note": "Official page names the requested shades; its shade 02 image inspected at1080px is only a cream smear. Main image is an advertising poster with several bottles and graphic background."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 247,
+    "productId": "gc001722",
+    "variantId": "gc001722",
+    "productName": "Консилер бежевый консилер Relouis Complimenti Bright Touch 03 теплый",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/en/product/bright-touch-complimenti/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official shade-specific image is only a swatch, not the product. Official main gallery is a multi-shade advertising poster, unsuitable as a clean exact-variant photo; skipped after focused family search.",
+    "searches": [
+      {
+        "query": "Relouis Complimenti Bright Touch консилер 01 02 03",
+        "url": "https://relouis.by/en/product/bright-touch-complimenti/",
+        "note": "Official page names the requested shades; its shade 03 image inspected at1080px is only a cream smear. Main image is an advertising poster with several bottles and graphic background."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 248,
+    "productId": "gc001757",
+    "variantId": "gc001757",
+    "productName": "Консилер Revolution Conceal and Define C0.5",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.revolutionbeauty.com/products/makeup-revolution-conceal-define-concealer",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official product verified, but C0.5 has no assigned image; master photo combines many shades and remaining SKU filenames do not match the requested variant. No wrong shade substituted.",
+    "searches": [
+      {
+        "query": "Revolution Conceal and Define C0.5 C2 C3 official",
+        "url": "https://www.revolutionbeauty.com/products/makeup-revolution-conceal-define-concealer",
+        "note": "Official public product JSON lists C0.5 but featured_image is null. Five-image gallery contains a generic multi-shade master, lifestyle photo and other SKU images, with no exact requested-shade binding. Master original2000px inspected."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 249,
+    "productId": "parent-0028",
+    "variantId": "gc001758",
+    "productName": "Консилер Revolution Conceal and Define",
+    "variant": "C2",
+    "status": "skipped",
+    "sourcePage": "https://www.revolutionbeauty.com/products/makeup-revolution-conceal-define-concealer",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official product verified, but C2 has no assigned image; master photo combines many shades and remaining SKU filenames do not match the requested variant. No wrong shade substituted.",
+    "searches": [
+      {
+        "query": "Revolution Conceal and Define C0.5 C2 C3 official",
+        "url": "https://www.revolutionbeauty.com/products/makeup-revolution-conceal-define-concealer",
+        "note": "Official public product JSON lists C2 but featured_image is null. Five-image gallery contains a generic multi-shade master, lifestyle photo and other SKU images, with no exact requested-shade binding. Master original2000px inspected."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 250,
+    "productId": "parent-0028",
+    "variantId": "gc001759",
+    "productName": "Консилер Revolution Conceal and Define",
+    "variant": "C3",
+    "status": "skipped",
+    "sourcePage": "https://www.revolutionbeauty.com/products/makeup-revolution-conceal-define-concealer",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official product verified, but C3 has no assigned image; master photo combines many shades and remaining SKU filenames do not match the requested variant. No wrong shade substituted.",
+    "searches": [
+      {
+        "query": "Revolution Conceal and Define C0.5 C2 C3 official",
+        "url": "https://www.revolutionbeauty.com/products/makeup-revolution-conceal-define-concealer",
+        "note": "Official public product JSON lists C3 but featured_image is null. Five-image gallery contains a generic multi-shade master, lifestyle photo and other SKU images, with no exact requested-shade binding. Master original2000px inspected."
+      }
+    ],
+    "sharedImageWith": []
+  }
+]

@@ -1,0 +1,888 @@
+[
+  {
+    "productId": "parent-0127",
+    "variantId": "gc002974",
+    "productName": "Карандаш-лайнер для бровей с эффектом микроблейдинга Farres cosmetics",
+    "brand": "Farres",
+    "variant": "02",
+    "sku": "GC002974",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/1"
+    ],
+    "index": 901,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://vc-market.ru/catalog/makeup-browpencil/farres-karandash-layner-mikrobleyding-02/",
+    "sourceImage": "https://vc-market.ru/upload/iblock/25f/r4ge9hhtbrmrkcuszf7px2n6jo36nqp2.jpg",
+    "localFile": "materials/catalog-7b/originals/b019-a/Карандаш-лайнер для бровей с эффектом микроблейдинга Farres cosmetics 02--gc002974.jpg",
+    "verification": {
+      "identity": "Retailer exact Farres microblading pencil-liner shade02, own product gallery; title matches catalogue",
+      "volumeAndVariant": "Exact catalogue Карандаш-лайнер для бровей с эффектом микроблейдинга Farres cosmetics / 02; selected own shade/model source, no adjacent catalogue inference.",
+      "visualReview": "Exact own product shown on white, but actual original only200x200. Native object below800px.",
+      "reviewMethod": "White-alpha-flattened originals contact sheet; full Catrice, LuxSuperFix, CTdark, ArtVisage sources and both full ready outputs inspected",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш-лайнер для бровей с эффектом микроблейдинга Farres cosmetics",
+        "url": "https://vc-market.ru/catalog/makeup-browpencil/farres-karandash-layner-mikrobleyding-02/",
+        "note": "Retailer exact Farres microblading pencil-liner shade02, own product gallery; title matches catalogue Source HTML/structured metadata retained in artifacts/step-7b/b019-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 200,
+    "height": 200,
+    "bytes": 9193,
+    "sha256": "8a1d28e548b35e37896052f93dd7be2ca2d07cb0c3d4731d5ff106f5db735a78"
+  },
+  {
+    "productId": "parent-0127",
+    "variantId": "gc002975",
+    "productName": "Карандаш-лайнер для бровей с эффектом микроблейдинга Farres cosmetics",
+    "brand": "Farres",
+    "variant": "03",
+    "sku": "GC002975",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/1"
+    ],
+    "index": 902,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://vc-market.ru/catalog/makeup-browpencil/farres-karandash-layner-03/",
+    "sourceImage": "https://vc-market.ru/upload/iblock/f92/63xmsldbump7rdiksu0xx3pb86hyyp5k.jpg",
+    "localFile": "materials/catalog-7b/originals/b019-a/Карандаш-лайнер для бровей с эффектом микроблейдинга Farres cosmetics 03--gc002975.jpg",
+    "verification": {
+      "identity": "Retailer exact Farres microblading pencil-liner shade03, own product gallery; title matches catalogue",
+      "volumeAndVariant": "Exact catalogue Карандаш-лайнер для бровей с эффектом микроблейдинга Farres cosmetics / 03; selected own shade/model source, no adjacent catalogue inference.",
+      "visualReview": "Exact own product shown on white, but actual original only200x200. Native object below800px.",
+      "reviewMethod": "White-alpha-flattened originals contact sheet; full Catrice, LuxSuperFix, CTdark, ArtVisage sources and both full ready outputs inspected",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш-лайнер для бровей с эффектом микроблейдинга Farres cosmetics",
+        "url": "https://vc-market.ru/catalog/makeup-browpencil/farres-karandash-layner-03/",
+        "note": "Retailer exact Farres microblading pencil-liner shade03, own product gallery; title matches catalogue Source HTML/structured metadata retained in artifacts/step-7b/b019-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 200,
+    "height": 200,
+    "bytes": 5006,
+    "sha256": "0458800c874ddd9c165682d385b73a9a848b2f58f6b6107839a8bea6c6aa5bb1"
+  },
+  {
+    "productId": "parent-0128",
+    "variantId": "gc000315",
+    "productName": "Тушь для бровей Belor Design Brow Maker",
+    "brand": "Belor Design",
+    "variant": "11",
+    "sku": "GC000315",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 903,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1113186",
+    "sourceImage": "https://s.f.kz/prod/1114/1113186_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b019-a/Тушь для бровей Belor Design Brow Maker 11--gc000315.jpg",
+    "verification": {
+      "identity": "Flip exact BelorDesign Brow Maker shade115.5g own page and image",
+      "volumeAndVariant": "Exact catalogue Тушь для бровей Belor Design Brow Maker / 11; selected own shade/model source, no adjacent catalogue inference.",
+      "visualReview": "Complete exact shade tube and matching wand on white with large overlapping decorative pigment stroke. Cannot remove smear by empty-margin crop without cutting product; not accepted.",
+      "reviewMethod": "White-alpha-flattened originals contact sheet; full Catrice, LuxSuperFix, CTdark, ArtVisage sources and both full ready outputs inspected",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Belor Design Brow Maker тушь бровей 11 12 13 14",
+        "url": "https://www.flip.kz/catalog?prod=1113186",
+        "note": "Flip exact BelorDesign Brow Maker shade115.5g own page and image Source HTML/structured metadata retained in artifacts/step-7b/b019-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 576,
+    "height": 1000,
+    "bytes": 70287,
+    "sha256": "3118d2355ac2660310615421b624bce0b622ba0bce01020d90eeb3883acc559f"
+  },
+  {
+    "productId": "parent-0128",
+    "variantId": "gc000316",
+    "productName": "Тушь для бровей Belor Design Brow Maker",
+    "brand": "Belor Design",
+    "variant": "12",
+    "sku": "GC000316",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 904,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1113187",
+    "sourceImage": "https://s.f.kz/prod/1114/1113187_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b019-a/Тушь для бровей Belor Design Brow Maker 12--gc000316.jpg",
+    "verification": {
+      "identity": "Flip exact BelorDesign Brow Maker shade125.5g own page and image",
+      "volumeAndVariant": "Exact catalogue Тушь для бровей Belor Design Brow Maker / 12; selected own shade/model source, no adjacent catalogue inference.",
+      "visualReview": "Complete exact shade tube and matching wand on white with large overlapping decorative pigment stroke. Cannot remove smear by empty-margin crop without cutting product; not accepted.",
+      "reviewMethod": "White-alpha-flattened originals contact sheet; full Catrice, LuxSuperFix, CTdark, ArtVisage sources and both full ready outputs inspected",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Belor Design Brow Maker тушь бровей 11 12 13 14",
+        "url": "https://www.flip.kz/catalog?prod=1113187",
+        "note": "Flip exact BelorDesign Brow Maker shade125.5g own page and image Source HTML/structured metadata retained in artifacts/step-7b/b019-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 585,
+    "height": 1000,
+    "bytes": 78751,
+    "sha256": "8906a66d176ccf38436426638d123917408cf4c41eec3309046f1ed954b55073"
+  },
+  {
+    "productId": "parent-0128",
+    "variantId": "gc000317",
+    "productName": "Тушь для бровей Belor Design Brow Maker",
+    "brand": "Belor Design",
+    "variant": "13",
+    "sku": "GC000317",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 905,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1113189",
+    "sourceImage": "https://s.f.kz/prod/1114/1113189_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b019-a/Тушь для бровей Belor Design Brow Maker 13--gc000317.jpg",
+    "verification": {
+      "identity": "Flip exact BelorDesign Brow Maker shade135.5g own page and image",
+      "volumeAndVariant": "Exact catalogue Тушь для бровей Belor Design Brow Maker / 13; selected own shade/model source, no adjacent catalogue inference.",
+      "visualReview": "Complete exact shade tube and matching wand on white with large overlapping decorative pigment stroke. Cannot remove smear by empty-margin crop without cutting product; not accepted.",
+      "reviewMethod": "White-alpha-flattened originals contact sheet; full Catrice, LuxSuperFix, CTdark, ArtVisage sources and both full ready outputs inspected",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Belor Design Brow Maker тушь бровей 11 12 13 14",
+        "url": "https://www.flip.kz/catalog?prod=1113189",
+        "note": "Flip exact BelorDesign Brow Maker shade135.5g own page and image Source HTML/structured metadata retained in artifacts/step-7b/b019-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 581,
+    "height": 1000,
+    "bytes": 69061,
+    "sha256": "14b9729cb42c95cfc75c88cb93b7405c14082b2f1224381149d554ffab7e2b73"
+  },
+  {
+    "productId": "parent-0128",
+    "variantId": "gc000318",
+    "productName": "Тушь для бровей Belor Design Brow Maker",
+    "brand": "Belor Design",
+    "variant": "14",
+    "sku": "GC000318",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 906,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1113192",
+    "sourceImage": "https://s.f.kz/prod/1114/1113192_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b019-a/Тушь для бровей Belor Design Brow Maker 14--gc000318.jpg",
+    "verification": {
+      "identity": "Flip exact BelorDesign Brow Maker shade145.5g own page and image",
+      "volumeAndVariant": "Exact catalogue Тушь для бровей Belor Design Brow Maker / 14; selected own shade/model source, no adjacent catalogue inference.",
+      "visualReview": "Complete exact shade tube and matching wand on white with large overlapping decorative pigment stroke. Cannot remove smear by empty-margin crop without cutting product; not accepted.",
+      "reviewMethod": "White-alpha-flattened originals contact sheet; full Catrice, LuxSuperFix, CTdark, ArtVisage sources and both full ready outputs inspected",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Belor Design Brow Maker тушь бровей 11 12 13 14",
+        "url": "https://www.flip.kz/catalog?prod=1113192",
+        "note": "Flip exact BelorDesign Brow Maker shade145.5g own page and image Source HTML/structured metadata retained in artifacts/step-7b/b019-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 585,
+    "height": 1000,
+    "bytes": 70767,
+    "sha256": "41c121b39f1a7aa5fb1d63b7e66fc6660eae41d4a27bb9cd272841f3f3725434"
+  },
+  {
+    "productId": "gc000537",
+    "variantId": "gc000537",
+    "productName": "Гель для бровей и ресниц прозрачный Catrice Lash Brow Designer Shaping And Conditioning Mascara Gel",
+    "brand": "Catrice",
+    "variant": "Стандарт",
+    "sku": "GC000537",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 907,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.catrice.eu/en-de/p/772377/lash-brow-designer-shaping-and-conditioning-mascara-gel",
+    "sourceImage": "https://i8.amplience.net/i/Cosnova/4973855",
+    "localFile": "materials/catalog-7b/originals/b019-a/Гель для бровей и ресниц прозрачный Catrice Lash Brow Designer Shaping And Conditioni--gc000537.png",
+    "verification": {
+      "identity": "Official772377 LashBrow Designer transparent010 GTIN4250587723779, observed media4973855 Product Front View Full Open",
+      "volumeAndVariant": "Exact catalogue Гель для бровей и ресниц прозрачный Catrice Lash Brow Designer Shaping And Conditioning Mascara Gel / Стандарт; selected own shade/model source, no adjacent catalogue inference.",
+      "visualReview": "True-alpha2000square official open bottle and wand. Entire silhouette present: top and bottom edges transparent at alpha128, physical outline about1998px. White flatten removes hidden black RGB; no grey flood normalisation needed.",
+      "reviewMethod": "White-alpha-flattened originals contact sheet; full Catrice, LuxSuperFix, CTdark, ArtVisage sources and both full ready outputs inspected",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Catrice Lash Brow Designer Shaping Conditioning Mascara Gel official",
+        "url": "https://www.catrice.eu/en-de/p/772377/lash-brow-designer-shaping-and-conditioning-mascara-gel",
+        "note": "Official772377 LashBrow Designer transparent010 GTIN4250587723779, observed media4973855 Product Front View Full Open Source HTML/structured metadata retained in artifacts/step-7b/b019-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 672598,
+    "sha256": "a97b599ce4221ccf54a6ebc0186730c0a05610aa3128d15880fd14b73e8805b3"
+  },
+  {
+    "productId": "gc001337",
+    "variantId": "gc001337",
+    "productName": "Гель для бровей и ресниц Levrana 7 мл",
+    "brand": "Levrana",
+    "variant": "7 мл",
+    "sku": "GC001337",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 908,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://ecopolza.kz/ru/tovar/gel-dlya-brovej-i-resnic-levrana",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact product identity confirmed on selected source page, but observed original image URL returned404. No retained original and no lengthy alternative hunt.",
+    "searches": [
+      {
+        "query": "Levrana гель для бровей ресниц 7 мл",
+        "url": "https://ecopolza.kz/ru/tovar/gel-dlya-brovej-i-resnic-levrana",
+        "note": "Exact product identity confirmed on selected source page, but observed original image URL returned404. No retained original and no lengthy alternative hunt."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "attemptedSourceImage": "https://ecopolza.kz/img/product/5807_6691_standart.jpg"
+  },
+  {
+    "productId": "gc001421",
+    "variantId": "gc001421",
+    "productName": "Люкс визаж Гель для бровей суперсильной фиксации Luxvisage BROW SUPER FIX 12H",
+    "brand": "Luxvisage",
+    "variant": "Стандарт",
+    "sku": "GC001421",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 909,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=5303431",
+    "sourceImage": "https://s.f.kz/prod/5304/5303431_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b019-a/Люкс визаж Гель для бровей суперсильной фиксации Luxvisage BROW SUPER FIX 12H Стандар--gc001421.jpg",
+    "verification": {
+      "identity": "Flip exact LuxVisage BrowSuperFix12H clear, product5303431 own product gallery",
+      "volumeAndVariant": "Exact catalogue Люкс визаж Гель для бровей суперсильной фиксации Luxvisage BROW SUPER FIX 12H / Стандарт; selected own shade/model source, no adjacent catalogue inference.",
+      "visualReview": "Complete clear tube and black wand on white, source400x1000. Native physical height about989px; no reflection included in quality threshold, no source-edge clipping.",
+      "reviewMethod": "White-alpha-flattened originals contact sheet; full Catrice, LuxSuperFix, CTdark, ArtVisage sources and both full ready outputs inspected",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Luxvisage Brow Super Fix 12h официальный сайт",
+        "url": "https://www.flip.kz/catalog?prod=5303431",
+        "note": "Flip exact LuxVisage BrowSuperFix12H clear, product5303431 own product gallery Source HTML/structured metadata retained in artifacts/step-7b/b019-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 400,
+    "height": 1000,
+    "bytes": 70481,
+    "sha256": "46674677fabe679721d19745e797b10509cb964c5406ae0e69a80498b4b652f1"
+  },
+  {
+    "productId": "gc001446",
+    "variantId": "gc001446",
+    "productName": "Гель-фиксатор для бровей Luxvisage Brow fixing 5,5 г",
+    "brand": "Luxvisage",
+    "variant": "5,5г",
+    "sku": "GC001446",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 910,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://www.letu.ru/product/luxvisage-gel-fiksator-dlya-brovei-brow-fixing-/136700163",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused search confirms Luxvisage BrowFixing5.5g clear; selected retailer response supplies a shell without product gallery assets. No exact original recovered quickly. SuperFix12H and BrowStyler not substituted.",
+    "searches": [
+      {
+        "query": "site.luxvisage.by \"Brow fixing\"",
+        "url": "https://www.letu.ru/product/luxvisage-gel-fiksator-dlya-brovei-brow-fixing-/136700163",
+        "note": "Focused search confirms Luxvisage BrowFixing5.5g clear; selected retailer response supplies a shell without product gallery assets. No exact original recovered quickly. SuperFix12H and BrowStyler not substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc001651",
+    "variantId": "gc001651",
+    "productName": "Фиксатор для бровей новинка гель или мыло для бровей PUSY",
+    "brand": "PUSY",
+    "variant": "Стандарт",
+    "sku": "GC001651",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 911,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://pusy.beauty/products/prozrachnyiy-super-gel-fiksator-dlya-broveiy-super-fix-brow-gel-pusy-25-ml-13-100641",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalogue says only PUSY gel or soap eyebrow fixer, without line, size or package. Focused family search shows original5ml,mini2.5ml,SuperFix andProfessional15ml. Cannot choose exact model or volume from generic title.",
+    "searches": [
+      {
+        "query": "PUSY фиксатор для бровей гель мыло оригинальный",
+        "url": "https://pusy.beauty/products/prozrachnyiy-super-gel-fiksator-dlya-broveiy-super-fix-brow-gel-pusy-25-ml-13-100641",
+        "note": "Catalogue says only PUSY gel or soap eyebrow fixer, without line, size or package. Focused family search shows original5ml,mini2.5ml,SuperFix andProfessional15ml. Cannot choose exact model or volume from generic title."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc001679",
+    "variantId": "gc001679",
+    "productName": "Гель для бровей прозрачный Relouis Perfect Fixing Brow",
+    "brand": "Relouis",
+    "variant": "Стандарт",
+    "sku": "GC001679",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 912,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/en/product/relouis-pro-perfect-fixing-brow-gel/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact product identity confirmed on selected source page, but observed original image URL returned404. No retained original and no lengthy alternative hunt.",
+    "searches": [
+      {
+        "query": "site.relouis.by \"Perfect Fixing Brow\"",
+        "url": "https://relouis.by/en/product/relouis-pro-perfect-fixing-brow-gel/",
+        "note": "Exact product identity confirmed on selected source page, but observed original image URL returned404. No retained original and no lengthy alternative hunt."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "attemptedSourceImage": "https://relouis.by/wp-content/uploads/2019/04/gel-brovi-inst-e1557840234203.jpg"
+  },
+  {
+    "productId": "gc001841",
+    "variantId": "gc001841",
+    "productName": "Прозрачный гель для бровей SHIK Clear Eyebrow Gel",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001841",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 913,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://muaclubshop.ru/brend/shik/clear-eyebrow-gel/",
+    "sourceImage": "https://muaclubshop.ru/wa-data/public/shop/products/86/15/1586/images/5960/5960.970.jpg",
+    "localFile": "materials/catalog-7b/originals/b019-a/Прозрачный гель для бровей SHIK Clear Eyebrow Gel Стандарт--gc001841.jpg",
+    "verification": {
+      "identity": "Muaclubshop exact SHIK Clear Eyebrow Gel5ml own itemprop image; not SuperFix line",
+      "volumeAndVariant": "Exact catalogue Прозрачный гель для бровей SHIK Clear Eyebrow Gel / Стандарт; selected own shade/model source, no adjacent catalogue inference.",
+      "visualReview": "Whole black tube on white, source500x700. Actual physical height below700px, below800 minimum.",
+      "reviewMethod": "White-alpha-flattened originals contact sheet; full Catrice, LuxSuperFix, CTdark, ArtVisage sources and both full ready outputs inspected",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "SHIK \"Clear Eyebrow Gel\" купить",
+        "url": "https://muaclubshop.ru/brend/shik/clear-eyebrow-gel/",
+        "note": "Muaclubshop exact SHIK Clear Eyebrow Gel5ml own itemprop image; not SuperFix line Source HTML/structured metadata retained in artifacts/step-7b/b019-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 500,
+    "height": 700,
+    "bytes": 10279,
+    "sha256": "42297ab6ddc44b8b37181225573c69a95b10062aab83d243299d47b688025ab4"
+  },
+  {
+    "productId": "gc001842",
+    "variantId": "gc001842",
+    "productName": "Прозрачный гель для бровей SHIK Super Fix",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001842",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 914,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/en/product/gel-dla-brovej-bescvetnyj-silnoj-fiksacii-super-fix-gel-browbar-super-fix-gel",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/5845/17464369046818832859d331.37953481_1080_1520_inset.jpg",
+    "localFile": "materials/catalog-7b/originals/b019-a/Прозрачный гель для бровей SHIK Super Fix Стандарт--gc001842.jpg",
+    "verification": {
+      "identity": "Official SHIK SuperFixGel product5845 single clear option, own productPhoto",
+      "volumeAndVariant": "Exact catalogue Прозрачный гель для бровей SHIK Super Fix / Стандарт; selected own shade/model source, no adjacent catalogue inference.",
+      "visualReview": "Whole black tube on opaque grey studio scene with strong long cast shadow to right. Unsuitable background without retouch.",
+      "reviewMethod": "White-alpha-flattened originals contact sheet; full Catrice, LuxSuperFix, CTdark, ArtVisage sources and both full ready outputs inspected",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.shikstore.ru Clear Eyebrow Gel Super Fix",
+        "url": "https://shikstore.ru/en/product/gel-dla-brovej-bescvetnyj-silnoj-fiksacii-super-fix-gel-browbar-super-fix-gel",
+        "note": "Official SHIK SuperFixGel product5845 single clear option, own productPhoto Source HTML/structured metadata retained in artifacts/step-7b/b019-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1520,
+    "bytes": 49234,
+    "sha256": "4e3776eb8ebd07ece4fd28036b948bcbf5774811b04a2ce2a0b465926d78c834"
+  },
+  {
+    "productId": "gc002609",
+    "variantId": "gc002609",
+    "productName": "Гель для бровей Charlotte Tilbury Dark Brown",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC002609",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 915,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/legendary-brows-eyebrow-gel-dark-brown",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/1hjgiU0aF3SRputxMW0wRK/7d612930e61a4c5ecda18edc6a805abb/LEG_DarkBrwon_OPEN.png",
+    "localFile": "materials/catalog-7b/originals/b019-a/Гель для бровей Charlotte Tilbury Dark Brown Стандарт--gc002609.png",
+    "verification": {
+      "identity": "Official structured exact variant {\"sku\": \"ELBRXFSY4RDU\", \"shade\": \"DARK BROWN\", \"title\": \"LEGENDARY BROWS   \", \"alt\": \"Open, tinted brow gel in a dark brown shade with a thin brush for precision, and a shiny, gold-coloured tube.\"}",
+      "volumeAndVariant": "Exact catalogue Гель для бровей Charlotte Tilbury Dark Brown / Стандарт; selected own shade/model source, no adjacent catalogue inference.",
+      "visualReview": "True-alpha1000square source has native soft shadow. Physical high-alpha bounds770px DarkBrown /772px SoftBrown; larger876–878 alpha bounds include only shadows. Below800 physical minimum; not accepted on shadow extent.",
+      "reviewMethod": "White-alpha-flattened originals contact sheet; full Catrice, LuxSuperFix, CTdark, ArtVisage sources and both full ready outputs inspected",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.charlottetilbury.com Legendary Brows dark brown soft brown",
+        "url": "https://www.charlottetilbury.com/us/product/legendary-brows-eyebrow-gel-dark-brown",
+        "note": "Official structured exact variant {\"sku\": \"ELBRXFSY4RDU\", \"shade\": \"DARK BROWN\", \"title\": \"LEGENDARY BROWS   \", \"alt\": \"Open, tinted brow gel in a dark brown shade with a thin brush for precision, and a shiny, gold-coloured tube.\"} Source HTML/structured metadata retained in artifacts/step-7b/b019-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 217273,
+    "sha256": "890d2c8c2cd3d170a888638ecea193230229b22099dd059b635b5ea78df47af1"
+  },
+  {
+    "productId": "gc002610",
+    "variantId": "gc002610",
+    "productName": "Гель для бровей Charlotte Tilbury Soft Brown",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC002610",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 916,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/legendary-brows-eyebrow-gel-soft-brown",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/4mw8GTC2bOZtQDuLH3ihNa/f5d58e018d9e1eadcbfcdf65d6c5f35b/LEG_SoftBrown_OPEN.png",
+    "localFile": "materials/catalog-7b/originals/b019-a/Гель для бровей Charlotte Tilbury Soft Brown Стандарт--gc002610.png",
+    "verification": {
+      "identity": "Official structured exact variant {\"sku\": \"ELBRXFSX6R\", \"shade\": \"SOFT BROWN\", \"title\": \"LEGENDARY BROWS   \", \"alt\": \"Open, tinted brow gel in a soft brown shade with a thin brush for precision, and a shiny, gold-coloured tube.\"}",
+      "volumeAndVariant": "Exact catalogue Гель для бровей Charlotte Tilbury Soft Brown / Стандарт; selected own shade/model source, no adjacent catalogue inference.",
+      "visualReview": "True-alpha1000square source has native soft shadow. Physical high-alpha bounds770px DarkBrown /772px SoftBrown; larger876–878 alpha bounds include only shadows. Below800 physical minimum; not accepted on shadow extent.",
+      "reviewMethod": "White-alpha-flattened originals contact sheet; full Catrice, LuxSuperFix, CTdark, ArtVisage sources and both full ready outputs inspected",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.charlottetilbury.com Legendary Brows dark brown soft brown",
+        "url": "https://www.charlottetilbury.com/us/product/legendary-brows-eyebrow-gel-soft-brown",
+        "note": "Official structured exact variant {\"sku\": \"ELBRXFSX6R\", \"shade\": \"SOFT BROWN\", \"title\": \"LEGENDARY BROWS   \", \"alt\": \"Open, tinted brow gel in a soft brown shade with a thin brush for precision, and a shiny, gold-coloured tube.\"} Source HTML/structured metadata retained in artifacts/step-7b/b019-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 217758,
+    "sha256": "3c47da949e527ed580c9a65bc514dac9f3063fb3fa37fd7be934ad089efd50c8"
+  },
+  {
+    "productId": "gc000032",
+    "variantId": "gc000032",
+    "productName": "Гель для бровей Rare Beauty Lifting Gel «Clear»",
+    "brand": "Rare Beauty",
+    "variant": "Стандарт",
+    "sku": "GC000032",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 917,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/brow-harmony-flexible-lifting-gel?variant=40514681602183",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/brow-harmony-flexible-lifting-gel-1440x1952.jpg?v=1762287798",
+    "localFile": "materials/catalog-7b/originals/b019-a/Гель для бровей Rare Beauty Lifting Gel «Clear» Стандарт--gc000032.jpg",
+    "verification": {
+      "identity": "Official structured exact variant {\"variantId\": 40514681602183, \"sku\": \"FGPBRH0000F1\", \"shade\": \"Clear\", \"barcode\": \"840122906640\", \"alt\": \"Clear| A tube of Rare Beauty's Brow Harmony Flexible Lifting Gel and its brush.\"}",
+      "volumeAndVariant": "Exact catalogue Гель для бровей Rare Beauty Lifting Gel «Clear» / Стандарт; selected own shade/model source, no adjacent catalogue inference.",
+      "visualReview": "Exact Clear standard own variant original, not tinted/default or jumbo. Tube and brush on beige staged surface with hard shadows; opaque background unsuitable for plain cleanup.",
+      "reviewMethod": "White-alpha-flattened originals contact sheet; full Catrice, LuxSuperFix, CTdark, ArtVisage sources and both full ready outputs inspected",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.rarebeauty.com \"brow-harmony\" \"Clear\"",
+        "url": "https://www.rarebeauty.com/products/brow-harmony-flexible-lifting-gel?variant=40514681602183",
+        "note": "Official structured exact variant {\"variantId\": 40514681602183, \"sku\": \"FGPBRH0000F1\", \"shade\": \"Clear\", \"barcode\": \"840122906640\", \"alt\": \"Clear| A tube of Rare Beauty's Brow Harmony Flexible Lifting Gel and its brush.\"} Source HTML/structured metadata retained in artifacts/step-7b/b019-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1440,
+    "height": 1952,
+    "bytes": 96404,
+    "sha256": "d437758c0341b87320fef2456e4ad7f537dcf4ec92bb386913a76ea2424368ed"
+  },
+  {
+    "productId": "gc002611",
+    "variantId": "gc002611",
+    "productName": "Гель для бровей и ресниц светло-коричневый Art-Visage Fix&Care 4,3 мл",
+    "brand": "Art-Visage",
+    "variant": "4,3 мл",
+    "sku": "GC002611",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 918,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1099581",
+    "sourceImage": "https://s.f.kz/prod/1100/1099581_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b019-a/Гель для бровей и ресниц светло-коричневый Art-Visage Fix&Care 4,3 мл 4,3 мл--gc002611.jpg",
+    "verification": {
+      "identity": "Flip exact ArtVisage Fix&Care4.3ml LightBrown own product page and gallery",
+      "volumeAndVariant": "Exact catalogue Гель для бровей и ресниц светло-коричневый Art-Visage Fix&Care 4,3 мл / 4,3 мл; selected own shade/model source, no adjacent catalogue inference.",
+      "visualReview": "First source150x988 tightly clipped at top,bottom and right: opaque physical tube pixels touch frame boundaries, cannot establish full contour. Same-gallery blister image includes entire pack pressed against frame with printed promotional marks; no reliable clean standalone product accepted.",
+      "reviewMethod": "White-alpha-flattened originals contact sheet; full Catrice, LuxSuperFix, CTdark, ArtVisage sources and both full ready outputs inspected",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Art Visage Fix Care гель светло темно коричневый 4,3",
+        "url": "https://www.flip.kz/catalog?prod=1099581",
+        "note": "Flip exact ArtVisage Fix&Care4.3ml LightBrown own product page and gallery Source HTML/structured metadata retained in artifacts/step-7b/b019-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 150,
+    "height": 988,
+    "bytes": 30904,
+    "sha256": "3776dca690b74c91a57cdda329e8af22e2c49538f9798a0d759e2ec1d64f1ad7",
+    "additionalRejectedSource": {
+      "url": "https://s.f.kz/prod/photo/2369/2368778_1000.jpg",
+      "localFile": "artifacts/step-7b/b019-a/gc002611-gallery.img",
+      "sha256": "86c29703875209fb8695d0d89f571ebb8d196e60f35efd5e0ff42936032837a9",
+      "reason": "Same-gallery retail blister pack; no suitable standalone photo recovered."
+    }
+  },
+  {
+    "productId": "gc002612",
+    "variantId": "gc002612",
+    "productName": "Гель для бровей и ресниц темно-коричневый Art-Visage Fix&Care 4,3 мл",
+    "brand": "Art-Visage",
+    "variant": "4,3 мл",
+    "sku": "GC002612",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/brows/2"
+    ],
+    "index": 919,
+    "batch": 19,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1099582",
+    "sourceImage": "https://s.f.kz/prod/1100/1099582_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b019-a/Гель для бровей и ресниц темно-коричневый Art-Visage Fix&Care 4,3 мл 4,3 мл--gc002612.jpg",
+    "verification": {
+      "identity": "Flip exact ArtVisage Fix&Care4.3ml DarkBrown own product page and gallery",
+      "volumeAndVariant": "Exact catalogue Гель для бровей и ресниц темно-коричневый Art-Visage Fix&Care 4,3 мл / 4,3 мл; selected own shade/model source, no adjacent catalogue inference.",
+      "visualReview": "First source91x556 has insufficient native resolution. Same-gallery blister shot is packaging, not a clean standalone tube; no extrapolation or enlarging tiny source.",
+      "reviewMethod": "White-alpha-flattened originals contact sheet; full Catrice, LuxSuperFix, CTdark, ArtVisage sources and both full ready outputs inspected",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Art Visage Fix Care гель светло темно коричневый 4,3",
+        "url": "https://www.flip.kz/catalog?prod=1099582",
+        "note": "Flip exact ArtVisage Fix&Care4.3ml DarkBrown own product page and gallery Source HTML/structured metadata retained in artifacts/step-7b/b019-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 91,
+    "height": 556,
+    "bytes": 13629,
+    "sha256": "25dc6f16e77a7955dde8b4f010690458043fc88d088d9a6edd9b4ef6d801d7bb",
+    "additionalRejectedSource": {
+      "url": "https://s.f.kz/prod/photo/2369/2368776_1000.jpg",
+      "localFile": "artifacts/step-7b/b019-a/gc002612-gallery.img",
+      "sha256": "31d824afb060f268930e526df67e33e75bfab9798081886da71be9d2b8afc8b0",
+      "reason": "Same-gallery retail blister pack; no suitable standalone photo recovered."
+    }
+  }
+]

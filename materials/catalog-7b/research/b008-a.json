@@ -1,0 +1,884 @@
+[
+  {
+    "productId": "parent-0046",
+    "variantId": "gc001760",
+    "productName": "Пудра компактная Revolution matte base powder",
+    "brand": "Revolution",
+    "variant": "p1",
+    "sku": "GC001760",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 351,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://wholesaler.pk/makeup-revolution-matte-base-powder-p1",
+    "sourceImage": "https://wholesaler.pk/image/catalog/Makeup-Revolution-Matte-Base-Powder-P1.jpg",
+    "localFile": "materials/catalog-7b/originals/b008-a/Пудра компактная Revolution matte base powder p1--gc001760.jpg",
+    "verification": {
+      "identity": "Wholesaler exact MakeupRevolution MatteBasePowder P1 product page identifies its own shade-specific og:image. P1 retailer page links P2 same family.",
+      "volumeAndVariant": "Exact P1,12g printed on original package; catalogue no size. Distinct original photos forP1/P2, not reused.",
+      "visualReview": "Complete rectangular rose-gold compact, brand text printed on transparent lid;1000square white background, no watermark. Full original inspected. Earlier LykoP1 source500px not retained as final.",
+      "reviewMethod": "view_image originals-overview.jpg and full RevolutionP1/P2/SHIKLight originals; prepared outputs checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "\"Revolution\" \"matte base powder\" \"P1\" \"P2\"",
+        "url": "https://wholesaler.pk/makeup-revolution-matte-base-powder-p1",
+        "note": "Wholesaler exact MakeupRevolution MatteBasePowder P1 product page identifies its own shade-specific og:image. P1 retailer page links P2 same family. Relevant HTML/ShopifyJSON saved in artifacts/step-7b/b008-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 70539,
+    "sha256": "74d2fba2092d5801c4b2bd2652c9d52a564178a66c9a62395bbf2fe4ca29ae10"
+  },
+  {
+    "productId": "parent-0046",
+    "variantId": "gc001761",
+    "productName": "Пудра компактная Revolution matte base powder",
+    "brand": "Revolution",
+    "variant": "p2",
+    "sku": "GC001761",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 352,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://wholesaler.pk/makeup-revolution-matte-base-powder-p2",
+    "sourceImage": "https://wholesaler.pk/image/catalog/Makeup-Revolution-Matte-Base-Powder-P2.jpg",
+    "localFile": "materials/catalog-7b/originals/b008-a/Пудра компактная Revolution matte base powder p2--gc001761.jpg",
+    "verification": {
+      "identity": "Wholesaler exact MakeupRevolution MatteBasePowder P2 product page identifies its own shade-specific og:image. P1 retailer page links P2 same family.",
+      "volumeAndVariant": "Exact P2,12g printed on original package; catalogue no size. Distinct original photos forP1/P2, not reused.",
+      "visualReview": "Complete rectangular rose-gold compact, brand text printed on transparent lid;1000square white background, no watermark. Full original inspected. Earlier LykoP1 source500px not retained as final.",
+      "reviewMethod": "view_image originals-overview.jpg and full RevolutionP1/P2/SHIKLight originals; prepared outputs checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "\"Revolution\" \"matte base powder\" \"P1\" \"P2\"",
+        "url": "https://wholesaler.pk/makeup-revolution-matte-base-powder-p2",
+        "note": "Wholesaler exact MakeupRevolution MatteBasePowder P2 product page identifies its own shade-specific og:image. P1 retailer page links P2 same family. Relevant HTML/ShopifyJSON saved in artifacts/step-7b/b008-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 77649,
+    "sha256": "2b64fed721ec38fc452ea0630e62927964d528638aa14377a82e5ddae59e4da4"
+  },
+  {
+    "productId": "gc001799",
+    "variantId": "gc001799",
+    "productName": "Запеченная пудра со светоотражающими частицами SHIK Light",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001799",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 353,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/en/product/pudra-dla-lica-zapecennaa-lightshik-glow-perfect-powder-light?color=LIGHT",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/5657/variations/171878378466728f28a951a0.23321104_1080_1520_inset.png",
+    "localFile": "materials/catalog-7b/originals/b008-a/Запеченная пудра со светоотражающими частицами SHIK Light Стандарт--gc001799.png",
+    "verification": {
+      "identity": "Official SHIK GLOW PERFECT POWDER product5657, productPhoto variationId162 matched productVariations tone LIGHT.",
+      "volumeAndVariant": "Exact named shade, baked light-reflecting powder; catalogue no size.",
+      "visualReview": "Complete open white compact but opaque off-white/grey staged backdrop and strong cast shadow. RGBA includes transparent outer pixels only; surrounding photo field is opaque. Reject unsuitable background without retouching.",
+      "reviewMethod": "view_image originals-overview.jpg and full RevolutionP1/P2/SHIKLight originals; prepared outputs checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.shikstore.ru пудра запеченная Light Medium Light Skin filter loose powder",
+        "url": "https://shikstore.ru/en/product/pudra-dla-lica-zapecennaa-lightshik-glow-perfect-powder-light?color=LIGHT",
+        "note": "Official SHIK GLOW PERFECT POWDER product5657, productPhoto variationId162 matched productVariations tone LIGHT. Relevant HTML/ShopifyJSON saved in artifacts/step-7b/b008-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1520,
+    "bytes": 468271,
+    "sha256": "4e71f93747d753cadb427e4f3c20f121cf685fb665b4010175b91a7fd4230e91"
+  },
+  {
+    "productId": "gc001800",
+    "variantId": "gc001800",
+    "productName": "Запеченная пудра со светоотражающими частицами SHIK Light Medium",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001800",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 354,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/en/product/pudra-dla-lica-zapecennaa-lightshik-glow-perfect-powder-light?color=LIGHT+MEDIUM",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/5657/variations/17543904236891df974b5231.98354710_1080_1520_inset.webp",
+    "localFile": "materials/catalog-7b/originals/b008-a/Запеченная пудра со светоотражающими частицами SHIK Light Medium Стандарт--gc001800.webp",
+    "verification": {
+      "identity": "Official SHIK GLOW PERFECT POWDER product5657, productPhoto variationId568 matched productVariations tone LIGHT MEDIUM.",
+      "volumeAndVariant": "Exact named shade, baked light-reflecting powder; catalogue no size.",
+      "visualReview": "Complete open white compact but opaque off-white/grey staged backdrop and strong cast shadow. RGBA includes transparent outer pixels only; surrounding photo field is opaque. Reject unsuitable background without retouching.",
+      "reviewMethod": "view_image originals-overview.jpg and full RevolutionP1/P2/SHIKLight originals; prepared outputs checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.shikstore.ru пудра запеченная Light Medium Light Skin filter loose powder",
+        "url": "https://shikstore.ru/en/product/pudra-dla-lica-zapecennaa-lightshik-glow-perfect-powder-light?color=LIGHT+MEDIUM",
+        "note": "Official SHIK GLOW PERFECT POWDER product5657, productPhoto variationId568 matched productVariations tone LIGHT MEDIUM. Relevant HTML/ShopifyJSON saved in artifacts/step-7b/b008-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1520,
+    "bytes": 14486,
+    "sha256": "2485c86168b78cc581066ff6daa6591e04e82a6f39700477cc202364ce1d27cb"
+  },
+  {
+    "productId": "gc001861",
+    "variantId": "gc001861",
+    "productName": "Фиксирующая рассыпчатая пудра для лица SHIK Skin filter loose powder",
+    "brand": "SHIK",
+    "variant": "Стандарт",
+    "sku": "GC001861",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 355,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://shikstore.ru/product/pudra-rassypcataa-shikstudio",
+    "sourceImage": "https://749923.selcdn.ru/shikstore/img/products/5067/173338248467515154dced44.60571323_1080_1520_inset.webp",
+    "localFile": "materials/catalog-7b/originals/b008-a/Фиксирующая рассыпчатая пудра для лица SHIK Skin filter loose powder Стандарт--gc001861.webp",
+    "verification": {
+      "identity": "Official SHIK SKIN FILTER LOOSE POWDER product5067 page states universal transparent shade; first productPhoto is exact closed jar.",
+      "volumeAndVariant": "Unique transparent shade, matches generic catalogue SkinFilterLoosePowder. No size specified in catalogue.",
+      "visualReview": "Full blush-coloured round jar on opaque pale-grey/pink backdrop with cast shadow and scene edge; alpha around canvas does not remove scene. Unsuitable white-background source.",
+      "reviewMethod": "view_image originals-overview.jpg and full RevolutionP1/P2/SHIKLight originals; prepared outputs checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.shikstore.ru \"Skin filter loose powder\"",
+        "url": "https://shikstore.ru/product/pudra-rassypcataa-shikstudio",
+        "note": "Official SHIK SKIN FILTER LOOSE POWDER product5067 page states universal transparent shade; first productPhoto is exact closed jar. Relevant HTML/ShopifyJSON saved in artifacts/step-7b/b008-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1080,
+    "height": 1520,
+    "bytes": 7664,
+    "sha256": "d770afff454f50b951d5602a6aa63f8135e02e33f07dad39467eb66eb225e1f7"
+  },
+  {
+    "productId": "gc001862",
+    "variantId": "gc001862",
+    "productName": "Матирующие салфетки с бамбуковым углём Shinewell",
+    "brand": "Shinewell",
+    "variant": "Стандарт",
+    "sku": "GC001862",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup"
+    ],
+    "index": 356,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://www.shinewell.ru/product-category/aksessuary/",
+    "sourceImage": "https://www.shinewell.ru/wp-content/uploads/2023/03/AS5_ozon.jpg",
+    "localFile": "materials/catalog-7b/originals/b008-a/Матирующие салфетки с бамбуковым углём Shinewell Стандарт--gc001862.jpg",
+    "verification": {
+      "identity": "Official Shinewell accessories category exact product block AS5 bamboo charcoal and linked full-resolution gallery.",
+      "volumeAndVariant": "Exact ingredient variant on package and product block;60sheet retail packet.",
+      "visualReview": "Full black packet with illustrated face and product text printed on actual pack, no external watermark. White background but visible packet much smaller than900px canvas; apply800px object criterion.",
+      "reviewMethod": "view_image originals-overview.jpg and full RevolutionP1/P2/SHIKLight originals; prepared outputs checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Shinewell матирующие салфетки бамбуковый уголь зелёный чай",
+        "url": "https://www.shinewell.ru/product-category/aksessuary/",
+        "note": "Official Shinewell accessories category exact product block AS5 bamboo charcoal and linked full-resolution gallery. Relevant HTML/ShopifyJSON saved in artifacts/step-7b/b008-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 900,
+    "height": 1200,
+    "bytes": 37930,
+    "sha256": "87254e1ed6da679d89d8687194fc6479f843fb53b47c9ab9eb59123fe0d17f1a"
+  },
+  {
+    "productId": "gc001863",
+    "variantId": "gc001863",
+    "productName": "Матирующие салфетки с зелёным чаем Shinewell",
+    "brand": "Shinewell",
+    "variant": "Стандарт",
+    "sku": "GC001863",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup"
+    ],
+    "index": 357,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://www.shinewell.ru/product-category/aksessuary/",
+    "sourceImage": "https://www.shinewell.ru/wp-content/uploads/2023/03/AS6_1_ozon.jpg",
+    "localFile": "materials/catalog-7b/originals/b008-a/Матирующие салфетки с зелёным чаем Shinewell Стандарт--gc001863.jpg",
+    "verification": {
+      "identity": "Official Shinewell accessories category exact product block AS6 green tea and linked full-resolution gallery.",
+      "volumeAndVariant": "Exact ingredient variant on package and product block;60sheet retail packet.",
+      "visualReview": "Full black packet with illustrated face and product text printed on actual pack, no external watermark. Opaque grey textured scene and side shadow; not a clean white/transparent packshot, reject without retouching.",
+      "reviewMethod": "view_image originals-overview.jpg and full RevolutionP1/P2/SHIKLight originals; prepared outputs checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Shinewell матирующие салфетки бамбуковый уголь зелёный чай",
+        "url": "https://www.shinewell.ru/product-category/aksessuary/",
+        "note": "Official Shinewell accessories category exact product block AS6 green tea and linked full-resolution gallery. Relevant HTML/ShopifyJSON saved in artifacts/step-7b/b008-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 900,
+    "height": 1200,
+    "bytes": 59019,
+    "sha256": "3273fe4f04675d5c73d899b7fe815b2c4eff52f1899cdeebcb6bc8ae6dd0e31e"
+  },
+  {
+    "productId": "parent-0047",
+    "variantId": "gc001975",
+    "productName": "Пудра компактная Topface Skin Editor Matte Finis",
+    "brand": "Topface",
+    "variant": "001",
+    "sku": "GC001975",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 358,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://topfacebahrain.co/products/skin-editor-matte-finishing-powder?variant=47793932206400",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0856/9949/4208/files/PT263-A_RA_N-001.jpg?v=1706624859",
+    "localFile": "materials/catalog-7b/originals/b008-a/Пудра компактная Topface Skin Editor Matte Finis 001--gc001975.jpg",
+    "verification": {
+      "identity": "TOPFACE Bahrain Shopify SkinEditorMatteFinishingPowder exact variant 001 featured_image maps to PT263-A_RA_N-001.jpg; manufacturer Turkish page confirms PT263 shades001/003.",
+      "volumeAndVariant": "Exact shade 001 full compact, not refill; catalogue no volume.",
+      "visualReview": "Whole open black compact, closed lid view and white puff on white field. Full contours, no watermark, no extra branding outside products.3555x4440 original.",
+      "reviewMethod": "view_image originals-overview.jpg and full RevolutionP1/P2/SHIKLight originals; prepared outputs checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Topface Skin Editor Matte Finish Powder 001 003",
+        "url": "https://topfacebahrain.co/products/skin-editor-matte-finishing-powder?variant=47793932206400",
+        "note": "TOPFACE Bahrain Shopify SkinEditorMatteFinishingPowder exact variant 001 featured_image maps to PT263-A_RA_N-001.jpg; manufacturer Turkish page confirms PT263 shades001/003. Relevant HTML/ShopifyJSON saved in artifacts/step-7b/b008-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 3555,
+    "height": 4440,
+    "bytes": 331051,
+    "sha256": "db24ebf668903031164c447961ae23dce4ef0f524222e5ed14b105f19c1e626c"
+  },
+  {
+    "productId": "parent-0047",
+    "variantId": "gc001976",
+    "productName": "Пудра компактная Topface Skin Editor Matte Finis",
+    "brand": "Topface",
+    "variant": "003",
+    "sku": "GC001976",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 359,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://topfacebahrain.co/products/skin-editor-matte-finishing-powder?variant=47793932271936",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0856/9949/4208/files/PT263-A_RA_N-003.jpg?v=1706624904",
+    "localFile": "materials/catalog-7b/originals/b008-a/Пудра компактная Topface Skin Editor Matte Finis 003--gc001976.jpg",
+    "verification": {
+      "identity": "TOPFACE Bahrain Shopify SkinEditorMatteFinishingPowder exact variant 003 featured_image maps to PT263-A_RA_N-003.jpg; manufacturer Turkish page confirms PT263 shades001/003.",
+      "volumeAndVariant": "Exact shade 003 full compact, not refill; catalogue no volume.",
+      "visualReview": "Whole open black compact, closed lid view and white puff on white field. Full contours, no watermark, no extra branding outside products.3555x4440 original.",
+      "reviewMethod": "view_image originals-overview.jpg and full RevolutionP1/P2/SHIKLight originals; prepared outputs checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Topface Skin Editor Matte Finish Powder 001 003",
+        "url": "https://topfacebahrain.co/products/skin-editor-matte-finishing-powder?variant=47793932271936",
+        "note": "TOPFACE Bahrain Shopify SkinEditorMatteFinishingPowder exact variant 003 featured_image maps to PT263-A_RA_N-003.jpg; manufacturer Turkish page confirms PT263 shades001/003. Relevant HTML/ShopifyJSON saved in artifacts/step-7b/b008-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 3555,
+    "height": 4440,
+    "bytes": 339782,
+    "sha256": "d89c10e975993017e5fb2159efa36d57caef9a7c81cdf4b2f5a0b09160155f63"
+  },
+  {
+    "productId": "gc002040",
+    "variantId": "gc002040",
+    "productName": "Роскошный объем Спрей-пудра для укладки волос Объем Vitex Lux Volume 200 мл",
+    "brand": "Vitex",
+    "variant": "200мл",
+    "sku": "GC002040",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "hair/9"
+    ],
+    "index": 360,
+    "batch": 8,
+    "status": "skipped",
+    "sourcePage": "https://beautyvit.ru/catalog/sprey-dlya-volos-belarus/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Search confirms LuxVolume spray-powder200ml, but best exact retailer page is now404 and no usable original recovered.145ml spray also appears in results and must not substitute for200ml.",
+    "searches": [
+      {
+        "query": "\"Спрей-пудра\" \"Lux Volume\"",
+        "url": "https://beautyvit.ru/catalog/sprey-dlya-volos-belarus/",
+        "note": "BeautyVit search text explicitly names spray-powder200ml, article102281; live fetch returned Page not found. Other results include different145ml pump, rejected by size."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc002509",
+    "variantId": "gc002509",
+    "productName": "Бронзирующая пудра Dior Forever Nude Bronze 10 Soft Matte",
+    "brand": "Dior",
+    "variant": "Стандарт",
+    "sku": "GC002509",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 361,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://shop-beauty.dior.com.kw/products/dior-forever-nude-bronze-large-format?variant=44979285000342",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0405/6006/6710/files/Y0000037_E000000098_E01_GHC.jpg?v=1746518803",
+    "localFile": "materials/catalog-7b/originals/b008-a/Бронзирующая пудра Dior Forever Nude Bronze 10 Soft Matte Стандарт--gc002509.jpg",
+    "verification": {
+      "identity": "Official DiorKuwait Shopify exact NudeBronzeLargeFormat variant 10 Soft Matte SKU E000000098 with unique featured_image.",
+      "volumeAndVariant": "Exact 10 Soft Matte,18g large format (30Tan explicit18g in catalogue;10Soft has no size).",
+      "visualReview": "Whole open quilted compact; exact shade original1850x2000, but opaque grey studio backdrop and prominent cast shadow. Same backdrop previously left grey halos under standard preparation; source unsuitable for white standard, no retouching.",
+      "reviewMethod": "view_image originals-overview.jpg and full RevolutionP1/P2/SHIKLight originals; prepared outputs checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Dior Forever Nude Bronze 10 Soft Matte 30 Tan Matte 18g",
+        "url": "https://shop-beauty.dior.com.kw/products/dior-forever-nude-bronze-large-format?variant=44979285000342",
+        "note": "Official DiorKuwait Shopify exact NudeBronzeLargeFormat variant 10 Soft Matte SKU E000000098 with unique featured_image. Relevant HTML/ShopifyJSON saved in artifacts/step-7b/b008-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1850,
+    "height": 2000,
+    "bytes": 398674,
+    "sha256": "bcc1fac6fcdea91bf74e5931c0fa9dc96fb6b397067868ce4dfd371703b3da4d"
+  },
+  {
+    "productId": "gc002510",
+    "variantId": "gc002510",
+    "productName": "Бронзирующая пудра Dior Forever Nude Bronze 30 Tan Matte 18 г",
+    "brand": "Dior",
+    "variant": "Стандарт",
+    "sku": "GC002510",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 362,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://shop-beauty.dior.com.kw/products/dior-forever-nude-bronze-large-format?variant=44979285065878",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0405/6006/6710/files/Y0000037_E000000034_E01_GHC.jpg?v=1746518802",
+    "localFile": "materials/catalog-7b/originals/b008-a/Бронзирующая пудра Dior Forever Nude Bronze 30 Tan Matte 18 г Стандарт--gc002510.jpg",
+    "verification": {
+      "identity": "Official DiorKuwait Shopify exact NudeBronzeLargeFormat variant 30 Tan Matte SKU E000000034 with unique featured_image.",
+      "volumeAndVariant": "Exact 30 Tan Matte,18g large format (30Tan explicit18g in catalogue;10Soft has no size).",
+      "visualReview": "Whole open quilted compact; exact shade original1850x2000, but opaque grey studio backdrop and prominent cast shadow. Same backdrop previously left grey halos under standard preparation; source unsuitable for white standard, no retouching.",
+      "reviewMethod": "view_image originals-overview.jpg and full RevolutionP1/P2/SHIKLight originals; prepared outputs checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Dior Forever Nude Bronze 10 Soft Matte 30 Tan Matte 18g",
+        "url": "https://shop-beauty.dior.com.kw/products/dior-forever-nude-bronze-large-format?variant=44979285065878",
+        "note": "Official DiorKuwait Shopify exact NudeBronzeLargeFormat variant 30 Tan Matte SKU E000000034 with unique featured_image. Relevant HTML/ShopifyJSON saved in artifacts/step-7b/b008-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1850,
+    "height": 2000,
+    "bytes": 387995,
+    "sha256": "3176ca98de96a37c94c0704fcc9e04942cd8a621d9f0951e395a071a672d9665"
+  },
+  {
+    "productId": "gc003023",
+    "variantId": "gc003023",
+    "productName": "Компактная матирующая пудра Yves Saint Laurent Translucent",
+    "brand": "Yves Saint Laurent",
+    "variant": "Стандарт",
+    "sku": "GC003023",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 363,
+    "batch": 8,
+    "status": "skipped",
+    "sourcePage": "https://www.sasa.com/products/110777203004",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalogue only says YSL compact mattifying Translucent, no product line or size. Search returns AllHours HyperFinish7.5g and PoudreCompactRadiance9g, both translucent; cannot choose exact version.",
+    "searches": [
+      {
+        "query": "\"Yves Saint Laurent\" \"compact\" \"Translucent\" powder",
+        "url": "https://www.sasa.com/products/110777203004",
+        "note": "Results identify distinct translucent compact powder families: Sasa AllHoursHyperFinish00 versus Strawberrynet PoudreCompactRadiancePerfectionUniverselle. No line guessed from generic name."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc003198",
+    "variantId": "gc003198",
+    "productName": "Крем-пудра для лица матирующий Vitex #LikeMe 50 мл",
+    "brand": "Vitex",
+    "variant": "50 мл",
+    "sku": "GC003198",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 364,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1872924",
+    "sourceImage": "https://s.f.kz/prod/1873/1872924_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b008-a/Крем-пудра для лица матирующий Vitex #LikeMe 50 мл 50 мл--gc003198.jpg",
+    "verification": {
+      "identity": "Flip product1872924 exact Vitex #LikeMe mattifying cream-powder50ml with linked full gallery photo.",
+      "volumeAndVariant": "Exact50ml tube, not LikeMe5in1tintedcream or lotion.",
+      "visualReview": "Complete purple tube on white, no watermark, but224x592 original below800px criterion.",
+      "reviewMethod": "view_image originals-overview.jpg and full RevolutionP1/P2/SHIKLight originals; prepared outputs checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Витэкс \"#LikeMe\" \"Крем-пудра\"",
+        "url": "https://www.flip.kz/catalog?prod=1872924",
+        "note": "Flip product1872924 exact Vitex #LikeMe mattifying cream-powder50ml with linked full gallery photo. Relevant HTML/ShopifyJSON saved in artifacts/step-7b/b008-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 224,
+    "height": 592,
+    "bytes": 41599,
+    "sha256": "448454f159f87e0986f3ee18820e614f2c04a06df9449acadac61f18709a3402"
+  },
+  {
+    "productId": "gc003434",
+    "variantId": "gc003434",
+    "productName": "Матирующая пудра Dior Forever Powder Nude Matte Filter 01 fair",
+    "brand": "Dior",
+    "variant": "Стандарт",
+    "sku": "GC003434",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 365,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://shop-beauty.dior.com.kw/products/forever-nude-powder?variant=45554806227094",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0405/6006/6710/files/Y0000091_E000000177_E01_GHC.jpg?v=1756362875",
+    "localFile": "materials/catalog-7b/originals/b008-a/Матирующая пудра Dior Forever Powder Nude Matte Filter 01 fair Стандарт--gc003434.jpg",
+    "verification": {
+      "identity": "Official DiorKuwait Shopify exact NudeMatteFilter variant 01 Fair SKU E000000177 with unique featured_image.",
+      "volumeAndVariant": "Exact 01 Fair,9g compact (catalogue no size).",
+      "visualReview": "Whole open quilted compact; exact shade original1850x2000, but opaque grey studio backdrop and prominent cast shadow. Same backdrop previously left grey halos under standard preparation; source unsuitable for white standard, no retouching.",
+      "reviewMethod": "view_image originals-overview.jpg and full RevolutionP1/P2/SHIKLight originals; prepared outputs checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Dior Forever Nude Matte Filter 01 fair 02 light powder",
+        "url": "https://shop-beauty.dior.com.kw/products/forever-nude-powder?variant=45554806227094",
+        "note": "Official DiorKuwait Shopify exact NudeMatteFilter variant 01 Fair SKU E000000177 with unique featured_image. Relevant HTML/ShopifyJSON saved in artifacts/step-7b/b008-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1850,
+    "height": 2000,
+    "bytes": 173963,
+    "sha256": "e6e32991465a59d94b6bf3f5c716e911096b8a9e01cad8d00ac806e25203d8c2"
+  },
+  {
+    "productId": "gc003435",
+    "variantId": "gc003435",
+    "productName": "Матирующая пудра Dior Forever Powder Nude Matte Filter 02 light",
+    "brand": "Dior",
+    "variant": "Стандарт",
+    "sku": "GC003435",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 366,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://shop-beauty.dior.com.kw/products/forever-nude-powder?variant=45554806259862",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0405/6006/6710/files/Y0000091_E000000176_E01_GHC.jpg?v=1756362876",
+    "localFile": "materials/catalog-7b/originals/b008-a/Матирующая пудра Dior Forever Powder Nude Matte Filter 02 light Стандарт--gc003435.jpg",
+    "verification": {
+      "identity": "Official DiorKuwait Shopify exact NudeMatteFilter variant 02 Light SKU E000000176 with unique featured_image.",
+      "volumeAndVariant": "Exact 02 Light,9g compact (catalogue no size).",
+      "visualReview": "Whole open quilted compact; exact shade original1850x2000, but opaque grey studio backdrop and prominent cast shadow. Same backdrop previously left grey halos under standard preparation; source unsuitable for white standard, no retouching.",
+      "reviewMethod": "view_image originals-overview.jpg and full RevolutionP1/P2/SHIKLight originals; prepared outputs checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Dior Forever Nude Matte Filter 01 fair 02 light powder",
+        "url": "https://shop-beauty.dior.com.kw/products/forever-nude-powder?variant=45554806259862",
+        "note": "Official DiorKuwait Shopify exact NudeMatteFilter variant 02 Light SKU E000000176 with unique featured_image. Relevant HTML/ShopifyJSON saved in artifacts/step-7b/b008-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1850,
+    "height": 2000,
+    "bytes": 193268,
+    "sha256": "c0a6bae7e8a1bd1b8de17cf9c7eab3fe9cc479c8070204dd68454a5cdc8bae9b"
+  },
+  {
+    "productId": "parent-0048",
+    "variantId": "gc004380",
+    "productName": "Пресованная пудра Hourglass Airbrush Pressed Powder",
+    "brand": "Hourglass",
+    "variant": "Translucent Medium",
+    "sku": "GC004380",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 367,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://www.hourglasscosmetics.com/products/vanish-airbrush-pressed-powder?variant=43230370234566",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0081/1660/0950/files/VPP_0002_2000x2000_72dpi_PRESSEDPOWDER_ECOMM-PACKSHOT_TRANSLUCENTMEDIUM.png?v=1723565876",
+    "localFile": "materials/catalog-7b/originals/b008-a/Пресованная пудра Hourglass Airbrush Pressed Powder Translucent Medium--gc004380.png",
+    "verification": {
+      "identity": "Official Hourglass VanishAirbrushPressedPowder Shopify featured_image tied to exact full-size variant Translucent Medium / Full-size - 0.37 OZ / 10.5 G.",
+      "volumeAndVariant": "Exact Translucent Medium pressed powder, full-size10.5g. Catalogue no size, mini excluded.",
+      "visualReview": "Full rectangular open gold compact with puff, powder tone appropriate to exact variant, transparent/white surrounding field; no watermark or cropped object.",
+      "reviewMethod": "view_image originals-overview.jpg and full RevolutionP1/P2/SHIKLight originals; prepared outputs checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.hourglasscosmetics.com \"Airbrush Pressed Powder\" \"Translucent Medium\"",
+        "url": "https://www.hourglasscosmetics.com/products/vanish-airbrush-pressed-powder?variant=43230370234566",
+        "note": "Official Hourglass VanishAirbrushPressedPowder Shopify featured_image tied to exact full-size variant Translucent Medium / Full-size - 0.37 OZ / 10.5 G. Relevant HTML/ShopifyJSON saved in artifacts/step-7b/b008-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 559353,
+    "sha256": "9ab6b299eca5c31b2c879208e5e3d997a3aa652eade74fe9ce50a74915090d2f"
+  },
+  {
+    "productId": "parent-0048",
+    "variantId": "gc004381",
+    "productName": "Пресованная пудра Hourglass Airbrush Pressed Powder",
+    "brand": "Hourglass",
+    "variant": "Translucent",
+    "sku": "GC004381",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 368,
+    "batch": 8,
+    "status": "verified",
+    "sourcePage": "https://www.hourglasscosmetics.com/products/vanish-airbrush-pressed-powder?variant=43230370201798",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0081/1660/0950/files/VPP_0004_2000x2000_72dpi_PRESSEDPOWDER_ECOMM-PACKSHOT_TRANSLUCENT_f298c5b7-2031-4b07-83ad-7aa5bfc11161.png?v=1754510599",
+    "localFile": "materials/catalog-7b/originals/b008-a/Пресованная пудра Hourglass Airbrush Pressed Powder Translucent--gc004381.png",
+    "verification": {
+      "identity": "Official Hourglass VanishAirbrushPressedPowder Shopify featured_image tied to exact full-size variant Translucent / Full-size - 0.37 OZ / 10.5 G.",
+      "volumeAndVariant": "Exact Translucent pressed powder, full-size10.5g. Catalogue no size, mini excluded.",
+      "visualReview": "Full rectangular open gold compact with puff, powder tone appropriate to exact variant, transparent/white surrounding field; no watermark or cropped object.",
+      "reviewMethod": "view_image originals-overview.jpg and full RevolutionP1/P2/SHIKLight originals; prepared outputs checked",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site.hourglasscosmetics.com \"Airbrush Pressed Powder\" \"Translucent Medium\"",
+        "url": "https://www.hourglasscosmetics.com/products/vanish-airbrush-pressed-powder?variant=43230370201798",
+        "note": "Official Hourglass VanishAirbrushPressedPowder Shopify featured_image tied to exact full-size variant Translucent / Full-size - 0.37 OZ / 10.5 G. Relevant HTML/ShopifyJSON saved in artifacts/step-7b/b008-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 554771,
+    "sha256": "e0012245a1672b329c0c98f8747e0a3fbc3e51ccf09498a6a4aeb4e05ee1857c"
+  },
+  {
+    "productId": "gc004404",
+    "variantId": "gc004404",
+    "productName": "Пудра Givenchy Prisme Libre Loose 01 Powder 12 г",
+    "brand": "Givenchy",
+    "variant": "Стандарт",
+    "sku": "GC004404",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/5"
+    ],
+    "index": 369,
+    "batch": 8,
+    "status": "skipped",
+    "sourcePage": "https://www.givenchybeauty.com/us/p/prisme-libre-setting-finishing-loose-powder-P090304.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official source confirms shade01MousselinePastel and12g but selected gallery PNG returns403; no usable original obtained in quick pass. New/old or10g alternatives not substituted.",
+    "searches": [
+      {
+        "query": "Givenchy Prisme Libre Loose 01 12 g",
+        "url": "https://www.givenchybeauty.com/us/p/prisme-libre-setting-finishing-loose-powder-P090304.html",
+        "note": "Web page current selected01 and12g; gallery image P090304_PL_Loose-Powder_Packshot_View-2_PDM_0.png extracted from link128. Native direct download403, web image fetch failed. Search also contains10g alternatives and limited red-edition images, not selected."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  }
+]

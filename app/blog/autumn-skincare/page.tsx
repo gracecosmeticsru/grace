@@ -1,8 +1,7 @@
 import type { Metadata } from 'next';
 import { ArrowDown, ArrowLeft, ArrowUpRight, ChevronRight } from 'lucide-react';
-import ProductRail from '@/components/product-rail';
-import { getProduct } from '@/lib/catalog';
-import { autumnEditorial, autumnChapters, autumnProductIds, editorialSources } from '@/lib/autumn-editorial';
+import {ArticleProducts} from '@/components/journal';
+import { autumnEditorial, autumnChapters, editorialSources } from '@/lib/autumn-editorial';
 import styles from '@/components/autumn-editorial.module.css';
 
 export const metadata: Metadata = { title: autumnEditorial.title, description: autumnEditorial.subtitle };
@@ -13,11 +12,10 @@ function Source({ name }: { name: keyof typeof editorialSources }) {
 }
 
 export default function AutumnSkincareArticle() {
-  const products = autumnProductIds.map(getProduct).filter((p): p is NonNullable<typeof p> => Boolean(p));
   return <main id="main" className={styles.journal}>
     <article>
       <header className={styles.articleHeader}>
-        <nav className={styles.breadcrumbs} aria-label="Хлебные крошки"><a href="/">Главная</a><ChevronRight size={14}/><span>Журнал Grace</span></nav>
+        <nav className={styles.breadcrumbs} aria-label="Хлебные крошки"><a href="/">Главная</a><ChevronRight size={14}/><a href="/blog">Блог</a></nav>
         <div className={styles.articleHeading}><span className={styles.kicker}>GRACE JOURNAL / THE AUTUMN EDIT</span><h1>{autumnEditorial.title}</h1><p>{autumnEditorial.subtitle}</p><a className={styles.jump} href="#autumn-products">К подборке средств <ArrowDown size={16}/></a></div>
         <figure className={styles.cover}><img src={autumnEditorial.cover} width={1536} height={1024} alt="Уход как осенний ритуал: тёплый свет, кремовые текстуры и бордовый акцент" loading="eager" fetchPriority="high"/></figure>
       </header>
@@ -47,8 +45,8 @@ export default function AutumnSkincareArticle() {
 
     <section className={styles.products} id="autumn-products" aria-labelledby="autumn-products-title">
       <div className={styles.productsHeading}><span className={styles.kicker}>ПОДБОРКА GRACE</span><h2 id="autumn-products-title">Уход для нового сезона</h2><p>Очищение, увлажнение, барьерные кремы и SPF из каталога. Это варианты для выбора, а не список обязательных покупок: сверяй состав, инструкцию и потребности кожи.</p></div>
-      <ProductRail products={products} label="Средства для осеннего ухода" appearance="showcase"/>
-      <a href="/" className={styles.back}><ArrowLeft size={16}/>На главную Grace</a>
+      <ArticleProducts/>
+      <a href="/blog" className={styles.back}><ArrowLeft size={16}/>Все статьи Grace</a>
     </section>
   </main>;
 }

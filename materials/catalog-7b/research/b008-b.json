@@ -1,0 +1,589 @@
+[
+  {
+    "index": 370,
+    "productId": "gc004405",
+    "variantId": "gc004405",
+    "productName": "Пудра Gucci Poudre De Beaute 00.5",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://metro.com.sg/products/gucci-poudre-de-beaute-mat-naturel-face-powder",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0925/4718/7009/files/gucci-poudre-de-beaute-mat-naturel-face-powder-1621511.jpg?v=1776243859",
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact shade00.5 variant featured_image downloaded and viewed: powder smear only, no compact. No arbitrary gallery compact assigned to the shade. Candidate retained only as rejected evidence.",
+    "searches": [
+      {
+        "query": "Gucci Poudre de Beaute Mat Naturel00.5 01 02 powder official; Gucci00.5 powder",
+        "url": "https://metro.com.sg/products/gucci-poudre-de-beaute-mat-naturel-face-powder",
+        "note": "Exact shade00.5 variant featured_image downloaded and viewed: powder smear only, no compact. No arbitrary gallery compact assigned to the shade. Candidate retained only as rejected evidence."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 371,
+    "productId": "parent-0049",
+    "variantId": "gc004406",
+    "productName": "Пудра для лица Gucci MATTE POWDER",
+    "variant": "01",
+    "status": "skipped",
+    "sourcePage": "https://www.gucci.com/us/en/pr/beauty/beauty-makeup/02-gucci-matte-powder-face-powder-p-8418349PRD99002",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Current official Gucci Matte Powder02 page was selected but direct retrieval timed out. Alternate named Poudre de Beaute source has only shade-linked smear featured images; generic MATTE catalog label additionally does not establish packaging edition. No guessed compact assigned for01.",
+    "searches": [
+      {
+        "query": "Gucci Poudre de Beaute Mat Naturel00.5 01 02 powder official",
+        "url": "https://www.gucci.com/us/en/pr/beauty/beauty-makeup/02-gucci-matte-powder-face-powder-p-8418349PRD99002",
+        "note": "Current official Gucci Matte Powder02 page was selected but direct retrieval timed out. Alternate named Poudre de Beaute source has only shade-linked smear featured images; generic MATTE catalog label additionally does not establish packaging edition. No guessed compact assigned for01."
+      },
+      {
+        "query": "Gucci00.5 powder",
+        "url": "https://metro.com.sg/products/gucci-poudre-de-beaute-mat-naturel-face-powder",
+        "note": "Alternate named Poudre de Beaute page was inspected; exact selected featured images are swatches, not packaging."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 372,
+    "productId": "parent-0049",
+    "variantId": "gc004407",
+    "productName": "Пудра для лица Gucci MATTE POWDER",
+    "variant": "02",
+    "status": "skipped",
+    "sourcePage": "https://www.gucci.com/us/en/pr/beauty/beauty-makeup/02-gucci-matte-powder-face-powder-p-8418349PRD99002",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Current official Gucci Matte Powder02 page was selected but direct retrieval timed out. Alternate named Poudre de Beaute source has only shade-linked smear featured images; generic MATTE catalog label additionally does not establish packaging edition. No guessed compact assigned for02.",
+    "searches": [
+      {
+        "query": "Gucci Poudre de Beaute Mat Naturel00.5 01 02 powder official",
+        "url": "https://www.gucci.com/us/en/pr/beauty/beauty-makeup/02-gucci-matte-powder-face-powder-p-8418349PRD99002",
+        "note": "Current official Gucci Matte Powder02 page was selected but direct retrieval timed out. Alternate named Poudre de Beaute source has only shade-linked smear featured images; generic MATTE catalog label additionally does not establish packaging edition. No guessed compact assigned for02."
+      },
+      {
+        "query": "Gucci00.5 powder",
+        "url": "https://metro.com.sg/products/gucci-poudre-de-beaute-mat-naturel-face-powder",
+        "note": "Alternate named Poudre de Beaute page was inspected; exact selected featured images are swatches, not packaging."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 373,
+    "productId": "gc004408",
+    "variantId": "gc004408",
+    "productName": "Пудра для лица Gucci Poude De Beauty Powder 01",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://metro.com.sg/products/gucci-poudre-de-beaute-mat-naturel-face-powder",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0925/4718/7009/files/gucci-poudre-de-beaute-mat-naturel-face-powder-7974310.jpg?v=1776243858",
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact shade01 variant featured_image downloaded and viewed: powder smear only, no compact. No arbitrary gallery compact assigned to the shade. Candidate retained only as rejected evidence.",
+    "searches": [
+      {
+        "query": "Gucci Poudre de Beaute Mat Naturel00.5 01 02 powder official; Gucci00.5 powder",
+        "url": "https://metro.com.sg/products/gucci-poudre-de-beaute-mat-naturel-face-powder",
+        "note": "Exact shade01 variant featured_image downloaded and viewed: powder smear only, no compact. No arbitrary gallery compact assigned to the shade. Candidate retained only as rejected evidence."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 374,
+    "productId": "parent-0050",
+    "variantId": "gc004410",
+    "productName": "Пудра для лица Rare Beauty",
+    "variant": "linen",
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/true-to-myself-tinted-pressed-finishing-powder?variant=43734836936839",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-TRUE-TO-MYSELF-TINTED-PRESSED-FINISHING-POWDER-LINEN.jpg?v=1751930766",
+    "localFile": "materials/catalog-7b/originals/b008-b/Пудра для лица Rare Beauty linen--gc004410.jpg",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 49769,
+    "sha256": "efa3e4c4d60fe23753e8b7e8fd0907f3da4a7ac1bca822403f14dc14c3e02dae",
+    "verification": {
+      "identity": "Official Rare Beauty True To Myself Tinted Pressed Finishing Powder; exact Linen/Porcelain variant title and featured_image map each tone.",
+      "volumeAndVariant": "Exact selected source Linen, variant 43734836936839. Catalog has no separate weight; exact named shade and standard source presentation retained.",
+      "visualReview": "Both full-fit original images viewed: exact powder compacts but beige studio scene with horizon/shadow, unsuitable for plain-white preparation.",
+      "reviewMethod": "Exact source variant metadata plus actual full-fit original and prepared visual inspection",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com powder linen porcelain",
+        "url": "https://www.rarebeauty.com/products/true-to-myself-tinted-pressed-finishing-powder.js",
+        "note": "Official Rare Beauty True To Myself Tinted Pressed Finishing Powder; exact Linen/Porcelain variant title and featured_image map each tone. Exact selected source Linen, variant 43734836936839. Catalog has no separate weight; exact named shade and standard source presentation retained."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 375,
+    "productId": "parent-0050",
+    "variantId": "gc004409",
+    "productName": "Пудра для лица Rare Beauty",
+    "variant": "Porcelain",
+    "status": "verified",
+    "sourcePage": "https://www.rarebeauty.com/products/true-to-myself-tinted-pressed-finishing-powder?variant=41524252934279",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0314/1143/7703/files/ECOMM-TRUE-TO-MYSELF-TINTED-PRESSED-FINISHING-POWDER-PORCELAIN.jpg?v=1762295582",
+    "localFile": "materials/catalog-7b/originals/b008-b/Пудра для лица Rare Beauty Porcelain--gc004409.jpg",
+    "width": 1440,
+    "height": 1952,
+    "format": "JPEG",
+    "bytes": 48865,
+    "sha256": "cb7b72550e5b309c1348f30fbe6e5dbe73f562835baf9c4be810c3ab0b967459",
+    "verification": {
+      "identity": "Official Rare Beauty True To Myself Tinted Pressed Finishing Powder; exact Linen/Porcelain variant title and featured_image map each tone.",
+      "volumeAndVariant": "Exact selected source Porcelain, variant 41524252934279. Catalog has no separate weight; exact named shade and standard source presentation retained.",
+      "visualReview": "Both full-fit original images viewed: exact powder compacts but beige studio scene with horizon/shadow, unsuitable for plain-white preparation.",
+      "reviewMethod": "Exact source variant metadata plus actual full-fit original and prepared visual inspection",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:rarebeauty.com powder linen porcelain",
+        "url": "https://www.rarebeauty.com/products/true-to-myself-tinted-pressed-finishing-powder.js",
+        "note": "Official Rare Beauty True To Myself Tinted Pressed Finishing Powder; exact Linen/Porcelain variant title and featured_image map each tone. Exact selected source Porcelain, variant 41524252934279. Catalog has no separate weight; exact named shade and standard source presentation retained."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 376,
+    "productId": "gc004411",
+    "variantId": "gc004411",
+    "productName": "Пудра для светлой кожи со сменным блоком Enough Collagen",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://enoughvietnam.com/products/phan-phu-nen-2-loi-collagen-enough-collagen-twoway-cake",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official regional source lists Collagen Twoway Cake13/21/23, and collection also distinguishes3in1. Catalog says light skin with refill but gives no shade code or formula edition. Light skin does not identify exact powder color; no arbitrary13/21 substituted.",
+    "searches": [
+      {
+        "query": "Enough Collagen powder refill13 21 fair light",
+        "url": "https://enoughvietnam.com/products/phan-phu-nen-2-loi-collagen-enough-collagen-twoway-cake",
+        "note": "Official regional source lists Collagen Twoway Cake13/21/23, and collection also distinguishes3in1. Catalog says light skin with refill but gives no shade code or formula edition. Light skin does not identify exact powder color; no arbitrary13/21 substituted."
+      },
+      {
+        "query": "Enough Collagen powder refill13 21 fair light",
+        "url": "https://enoughvietnam.com/collections/phan-phu",
+        "note": "Collection distinguishes regular Collagen and3in1 powders."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 377,
+    "productId": "gc004412",
+    "variantId": "gc004412",
+    "productName": "Пудра для фиксации Charlotte Tilbury Airbrush Brightening Flawless Finish Powder",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/airbrush-brightening-flawless-finish-fair-medium",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Named Airbrush Brightening Flawless Finish is confirmed, but official pages distinguish Fair-Medium and Tan-Deep plus travel/full sizes. Catalog has no shade or weight; did not choose white Fair-Medium by assumption.",
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Airbrush Brightening Flawless Finish powder shades",
+        "url": "https://www.charlottetilbury.com/us/product/airbrush-brightening-flawless-finish-fair-medium",
+        "note": "Named Airbrush Brightening Flawless Finish is confirmed, but official pages distinguish Fair-Medium and Tan-Deep plus travel/full sizes. Catalog has no shade or weight; did not choose white Fair-Medium by assumption."
+      },
+      {
+        "query": "Charlotte Tilbury Airbrush Brightening Flawless Finish powder shades",
+        "url": "https://www.charlottetilbury.com/us/products/makeup/face/powder",
+        "note": "Current official collection also lists Tan-Deep and travel presentation."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 378,
+    "productId": "gc004413",
+    "variantId": "gc004413",
+    "productName": "Пудра компактная фарфоровый Art-Visage Perfect Skin Compact Powder Matte Control 212 7 г",
+    "variant": "7 г",
+    "status": "verified",
+    "sourcePage": "https://www.flip.kz/catalog?prod=1560880",
+    "sourceImage": "https://s.f.kz/prod/1561/1560880_1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b008-b/Пудра компактная фарфоровый Art-Visage Perfect Skin Compact Powder Matte Control 212--gc004413.jpg",
+    "width": 576,
+    "height": 327,
+    "format": "JPEG",
+    "bytes": 37720,
+    "sha256": "36d639df4361dc61f25185b3dbcf5489732f919e8d5800bca3e825d93b5c7a22",
+    "verification": {
+      "identity": "Flip retailer names Art-Visage Perfect Skin Matte Control212 Porcelain7g and maps product1560880 to the actual source photograph.",
+      "volumeAndVariant": "Exact selected source Пудра компактная для жирной и комбинированной кожи, оттенок 212 Фарфоровый, variant 1560880. Source7g/212Porcelain matches explicit catalog weight and shade.",
+      "visualReview": "Original viewed: matching product and sponge/box presentation, but visible object573px is below800 requirement. Retained only, preparation blocked.",
+      "reviewMethod": "Exact source variant metadata plus actual full-fit original and prepared visual inspection",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Art Visage Perfect Skin Matte Control212 powder7г",
+        "url": "https://www.flip.kz/catalog?prod=1560880",
+        "note": "Flip retailer names Art-Visage Perfect Skin Matte Control212 Porcelain7g and maps product1560880 to the actual source photograph. Exact selected source Пудра компактная для жирной и комбинированной кожи, оттенок 212 Фарфоровый, variant 1560880. Source7g/212Porcelain matches explicit catalog weight and shade."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 379,
+    "productId": "parent-0051",
+    "variantId": "gc004415",
+    "productName": "Пудра компактная Golden Rose Longstay Matte Face Powder",
+    "variant": "02",
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com.pk/products/longstay-matte-face-powder?variant=39762205278289",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0059/2687/9302/products/longstay-matte-face-powder-283622.jpg?v=1787998346",
+    "localFile": "materials/catalog-7b/originals/b008-b/Пудра компактная Golden Rose Longstay Matte Face Powder 02--gc004415.jpg",
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 70568,
+    "sha256": "907408e58240c3209abac5417a5412d4d620b30c04a3daa64b8fe8c0e346967e",
+    "verification": {
+      "identity": "Golden Rose Pakistan product JSON explicitly maps Longstay Matte Face Powder selected numbered shade to its own featured_image.",
+      "volumeAndVariant": "Exact selected source 2, variant 39762205278289. Catalog has no separate weight; exact named shade and standard source presentation retained.",
+      "visualReview": "Each full-fit original reviewed and02 original inspected separately. Full open black compact and its mirror reflection, correct shade, no watermark. White background and natural soft shadow retained.",
+      "reviewMethod": "Exact source variant metadata plus actual full-fit original and prepared visual inspection",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Golden Rose Longstay Matte Face Powder official",
+        "url": "https://www.goldenrose.com.pk/products/longstay-matte-face-powder",
+        "note": "Golden Rose Pakistan product JSON explicitly maps Longstay Matte Face Powder selected numbered shade to its own featured_image. Exact selected source 2, variant 39762205278289. Catalog has no separate weight; exact named shade and standard source presentation retained."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 380,
+    "productId": "parent-0051",
+    "variantId": "gc004414",
+    "productName": "Пудра компактная Golden Rose Longstay Matte Face Powder",
+    "variant": "05",
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com.pk/products/longstay-matte-face-powder?variant=39762205343825",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0059/2687/9302/products/longstay-matte-face-powder-722787.jpg?v=1787998346",
+    "localFile": "materials/catalog-7b/originals/b008-b/Пудра компактная Golden Rose Longstay Matte Face Powder 05--gc004414.jpg",
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 70898,
+    "sha256": "5228ce966e56135bce5c19cff5980902f802ade99110368b8c9df975e3eee9e0",
+    "verification": {
+      "identity": "Golden Rose Pakistan product JSON explicitly maps Longstay Matte Face Powder selected numbered shade to its own featured_image.",
+      "volumeAndVariant": "Exact selected source 5, variant 39762205343825. Catalog has no separate weight; exact named shade and standard source presentation retained.",
+      "visualReview": "Each full-fit original reviewed and02 original inspected separately. Full open black compact and its mirror reflection, correct shade, no watermark. White background and natural soft shadow retained.",
+      "reviewMethod": "Exact source variant metadata plus actual full-fit original and prepared visual inspection",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Golden Rose Longstay Matte Face Powder official",
+        "url": "https://www.goldenrose.com.pk/products/longstay-matte-face-powder",
+        "note": "Golden Rose Pakistan product JSON explicitly maps Longstay Matte Face Powder selected numbered shade to its own featured_image. Exact selected source 5, variant 39762205343825. Catalog has no separate weight; exact named shade and standard source presentation retained."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 381,
+    "productId": "parent-0051",
+    "variantId": "gc004416",
+    "productName": "Пудра компактная Golden Rose Longstay Matte Face Powder",
+    "variant": "04",
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com.pk/products/longstay-matte-face-powder?variant=39762205311057",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0059/2687/9302/products/longstay-matte-face-powder-927188.jpg?v=1787998346",
+    "localFile": "materials/catalog-7b/originals/b008-b/Пудра компактная Golden Rose Longstay Matte Face Powder 04--gc004416.jpg",
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 71448,
+    "sha256": "32f4d57f440ad15ec5157d05c54b7937ed832967582c0d4223165e772d58f111",
+    "verification": {
+      "identity": "Golden Rose Pakistan product JSON explicitly maps Longstay Matte Face Powder selected numbered shade to its own featured_image.",
+      "volumeAndVariant": "Exact selected source 4, variant 39762205311057. Catalog has no separate weight; exact named shade and standard source presentation retained.",
+      "visualReview": "Each full-fit original reviewed and02 original inspected separately. Full open black compact and its mirror reflection, correct shade, no watermark. White background and natural soft shadow retained.",
+      "reviewMethod": "Exact source variant metadata plus actual full-fit original and prepared visual inspection",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Golden Rose Longstay Matte Face Powder official",
+        "url": "https://www.goldenrose.com.pk/products/longstay-matte-face-powder",
+        "note": "Golden Rose Pakistan product JSON explicitly maps Longstay Matte Face Powder selected numbered shade to its own featured_image. Exact selected source 4, variant 39762205311057. Catalog has no separate weight; exact named shade and standard source presentation retained."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 382,
+    "productId": "parent-0051",
+    "variantId": "gc004417",
+    "productName": "Пудра компактная Golden Rose Longstay Matte Face Powder",
+    "variant": "06",
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com.pk/products/longstay-matte-face-powder?variant=39762205376593",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0059/2687/9302/products/longstay-matte-face-powder-836108.jpg?v=1787998346",
+    "localFile": "materials/catalog-7b/originals/b008-b/Пудра компактная Golden Rose Longstay Matte Face Powder 06--gc004417.jpg",
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 69013,
+    "sha256": "5ef1296faa0204465ed721a25c8dcfcae6352396f4ba8c3679c4499eca054eb9",
+    "verification": {
+      "identity": "Golden Rose Pakistan product JSON explicitly maps Longstay Matte Face Powder selected numbered shade to its own featured_image.",
+      "volumeAndVariant": "Exact selected source 6, variant 39762205376593. Catalog has no separate weight; exact named shade and standard source presentation retained.",
+      "visualReview": "Each full-fit original reviewed and02 original inspected separately. Full open black compact and its mirror reflection, correct shade, no watermark. White background and natural soft shadow retained.",
+      "reviewMethod": "Exact source variant metadata plus actual full-fit original and prepared visual inspection",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Golden Rose Longstay Matte Face Powder official",
+        "url": "https://www.goldenrose.com.pk/products/longstay-matte-face-powder",
+        "note": "Golden Rose Pakistan product JSON explicitly maps Longstay Matte Face Powder selected numbered shade to its own featured_image. Exact selected source 6, variant 39762205376593. Catalog has no separate weight; exact named shade and standard source presentation retained."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 383,
+    "productId": "parent-0052",
+    "variantId": "gc004419",
+    "productName": "Пудра компактная Golden Rose Mineral Terracotta Powder",
+    "variant": "02",
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com.pk/products/mineral-terracotta-powder?variant=39762199511121",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0059/2687/9302/products/mineral-terracotta-powder-386813.jpg?v=1787999063",
+    "localFile": "materials/catalog-7b/originals/b008-b/Пудра компактная Golden Rose Mineral Terracotta Powder 02--gc004419.jpg",
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 57802,
+    "sha256": "2cfe1b525aef1557a27e32c58c02fc281531e7837a3e56a97153792429d1131b",
+    "verification": {
+      "identity": "Golden Rose Pakistan product JSON explicitly maps Mineral Terracotta Powder selected numbered shade to its own featured_image.",
+      "volumeAndVariant": "Exact selected source 2, variant 39762199511121. Catalog has no separate weight; exact named shade and standard source presentation retained.",
+      "visualReview": "Both originals and prepared images viewed: full open black compacts,02 pale powder and08 marbled Radiant Highlighter, white background, manufacturer logo only.",
+      "reviewMethod": "Exact source variant metadata plus actual full-fit original and prepared visual inspection",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Golden Rose Mineral Terracotta Powder official",
+        "url": "https://www.goldenrose.com.pk/products/mineral-terracotta-powder",
+        "note": "Golden Rose Pakistan product JSON explicitly maps Mineral Terracotta Powder selected numbered shade to its own featured_image. Exact selected source 2, variant 39762199511121. Catalog has no separate weight; exact named shade and standard source presentation retained."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 384,
+    "productId": "parent-0052",
+    "variantId": "gc004418",
+    "productName": "Пудра компактная Golden Rose Mineral Terracotta Powder",
+    "variant": "08",
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com.pk/products/mineral-terracotta-powder?variant=39762199609425",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0059/2687/9302/products/mineral-terracotta-powder-929151.jpg?v=1787999063",
+    "localFile": "materials/catalog-7b/originals/b008-b/Пудра компактная Golden Rose Mineral Terracotta Powder 08--gc004418.jpg",
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 93060,
+    "sha256": "2e419a6e8bb1a377f524727a484a174e91a12235d287f7bb498bf637de8042d2",
+    "verification": {
+      "identity": "Golden Rose Pakistan product JSON explicitly maps Mineral Terracotta Powder selected numbered shade to its own featured_image.",
+      "volumeAndVariant": "Exact selected source 8, variant 39762199609425. Catalog has no separate weight; exact named shade and standard source presentation retained.",
+      "visualReview": "Both originals and prepared images viewed: full open black compacts,02 pale powder and08 marbled Radiant Highlighter, white background, manufacturer logo only.",
+      "reviewMethod": "Exact source variant metadata plus actual full-fit original and prepared visual inspection",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Golden Rose Mineral Terracotta Powder official",
+        "url": "https://www.goldenrose.com.pk/products/mineral-terracotta-powder",
+        "note": "Golden Rose Pakistan product JSON explicitly maps Mineral Terracotta Powder selected numbered shade to its own featured_image. Exact selected source 8, variant 39762199609425. Catalog has no separate weight; exact named shade and standard source presentation retained."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 385,
+    "productId": "gc004420",
+    "variantId": "gc004420",
+    "productName": "Пудра компактная Golden Rose Silky Touch Powder 05",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.goldenrose.com/en/product/7/face-powder-silky-touch-compact-powder/1",
+    "sourceImage": "https://www.goldenrose.com/img/product/zoom/58.jpg",
+    "localFile": "materials/catalog-7b/originals/b008-b/Пудра компактная Golden Rose Silky Touch Powder 05 Стандарт--gc004420.jpg",
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 69852,
+    "sha256": "cb31882dba8676809daecd7cbeee476c6336f470a6b556e580d3f2cd93087e5e",
+    "verification": {
+      "identity": "Golden Rose manufacturer page links cloud-zoom58 to shade05 via its gallery selection code; exact Silky Touch Compact Powder.",
+      "volumeAndVariant": "Exact selected source Silky Touch Compact Powder05, variant 05. Catalog has no separate weight; exact named shade and standard source presentation retained.",
+      "visualReview": "Full-fit original and prepared reviewed: entire compact and clear lid, matching05 powder, white background, no watermark.",
+      "reviewMethod": "Exact source variant metadata plus actual full-fit original and prepared visual inspection",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:goldenrose.com silky touch compact powder",
+        "url": "https://www.goldenrose.com/en/product/7/face-powder-silky-touch-compact-powder/1",
+        "note": "Golden Rose manufacturer page links cloud-zoom58 to shade05 via its gallery selection code; exact Silky Touch Compact Powder. Exact selected source Silky Touch Compact Powder05, variant 05. Catalog has no separate weight; exact named shade and standard source presentation retained."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 386,
+    "productId": "gc000060",
+    "variantId": "gc000060",
+    "productName": "Пудра компактная бронзирующая с эффектом загара Catrice Sun Lover Glow Bronzing Powder 010",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.catrice.eu/ru-kz/p/225488/sun-lover-glow-bronzing-powder",
+    "sourceImage": "https://i8.amplience.net/i/Cosnova/7412834",
+    "localFile": "materials/catalog-7b/originals/b008-b/Пудра компактная бронзирующая с эффектом загара Catrice Sun Lover Glow Bronzing Powde--gc000060.png",
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 4692814,
+    "sha256": "469daee22c49cbb8e461c440474abd437f3783bec4ddf516dc19bf419b3357ab",
+    "verification": {
+      "identity": "Official Catrice Sun Lover Glow Bronzing Powder GTIN4251232254884; retailer GTIN reference confirms exact010 Sun-kissed Bronze.",
+      "volumeAndVariant": "Exact selected source Бронзирующая пудра Sun Lover Glow, variant 4251232254884. Source8g shade010 via matching GTIN; catalogue does not specify a separate weight.",
+      "visualReview": "Full original and prepared reviewed: transparent background, entire round clear compact and hinge retained, Sun Lover Glow label8g. No clipping after centering on white.",
+      "reviewMethod": "Exact source variant metadata plus actual full-fit original and prepared visual inspection",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:catrice.eu sun lover glow bronzing powder010",
+        "url": "https://www.catrice.eu/ru-kz/p/225488/sun-lover-glow-bronzing-powder",
+        "note": "Official Catrice Sun Lover Glow Bronzing Powder GTIN4251232254884; retailer GTIN reference confirms exact010 Sun-kissed Bronze. Exact selected source Бронзирующая пудра Sun Lover Glow, variant 4251232254884. Source8g shade010 via matching GTIN; catalogue does not specify a separate weight."
+      },
+      {
+        "query": "4251232254884 010",
+        "url": "https://www.chtralee.com/p/sun-lover-glow-bronzing-powder-010/4251232254884",
+        "note": "Retailer confirms official GTIN4251232254884 is Sun Lover Glow010."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 387,
+    "productId": "gc004421",
+    "variantId": "gc004421",
+    "productName": "Пудра компактная для лица Revlon 820 / Colorstay Pressed Powder Light",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.revlon.com/products/colorstay-pressed-powder?variant=43949657686211",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/309975424027_1.jpg?v=1735930501",
+    "localFile": "materials/catalog-7b/originals/b008-b/Пудра компактная для лица Revlon 820 - Colorstay Pressed Powder Light Стандарт--gc004421.jpg",
+    "width": 2400,
+    "height": 2400,
+    "format": "JPEG",
+    "bytes": 195444,
+    "sha256": "f9c85c8d2544ad3deac48975e78325e25582d02f08b5e8e44f6838309f14dc5e",
+    "verification": {
+      "identity": "Official Revlon Colorstay Pressed Powder Light variant SKU0309975424027 maps media alt#color_light; same UPC309975424027 confirmed as820Light by Target.",
+      "volumeAndVariant": "Exact selected source Light, variant 43949657686211. Exact820Light via UPC, not Light-Medium.",
+      "visualReview": "Original and prepared viewed: closed black round compact with clear window and correct Colorstay label/Light powder, white background, no watermark.",
+      "reviewMethod": "Exact source variant metadata plus actual full-fit original and prepared visual inspection",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "site:revlon.com colorstay pressed powder820 light",
+        "url": "https://www.revlon.com/products/colorstay-pressed-powder.js",
+        "note": "Official Revlon Colorstay Pressed Powder Light variant SKU0309975424027 maps media alt#color_light; same UPC309975424027 confirmed as820Light by Target. Exact selected source Light, variant 43949657686211. Exact820Light via UPC, not Light-Medium."
+      },
+      {
+        "query": "Revlon Colorstay820 Light309975424027",
+        "url": "https://www.target.com/p/-/A-11127789",
+        "note": "Target confirms820Light has UPC309975424027, matching official SKU and selected media filename."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 388,
+    "productId": "gc004422",
+    "variantId": "gc004422",
+    "productName": "Пудра прессованная Fenty Beauty Invisimatte «Universal»",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://fentybeauty.com/products/invisimatte-instant-setting-blotting-powder",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official product JSON distinguishes Standard8.5g compact, Refill8.5g, and Mini4g. Catalog only has generic Standard placeholder and Universal shade with no weight or packaging edition; exact physical format not established. Did not silently choose a new refillable compact.",
+    "searches": [
+      {
+        "query": "site:fentybeauty.com invisimatte universal blotting powder",
+        "url": "https://fentybeauty.com/products/invisimatte-instant-setting-blotting-powder",
+        "note": "Official product JSON distinguishes Standard8.5g compact, Refill8.5g, and Mini4g. Catalog only has generic Standard placeholder and Universal shade with no weight or packaging edition; exact physical format not established. Did not silently choose a new refillable compact."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 389,
+    "productId": "gc004423",
+    "variantId": "gc004423",
+    "productName": "Пудра рассыпчатая Fenty Beauty Pro Filtr «Butter»",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://fentybeauty.com/products/pro-filtr-instant-retouch-setting-powder-butter",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Butter page distinguishes Standard28g and Mini7.8g; catalog has no weight. Direct product JSON request returned404, and indexed main photographs are on concrete with promotional award badges. No arbitrary size or altered badge photo selected.",
+    "searches": [
+      {
+        "query": "site:fentybeauty.com pro filtr instant retouch setting powder butter",
+        "url": "https://fentybeauty.com/products/pro-filtr-instant-retouch-setting-powder-butter",
+        "note": "Official Butter page distinguishes Standard28g and Mini7.8g; catalog has no weight. Direct product JSON request returned404, and indexed main photographs are on concrete with promotional award badges. No arbitrary size or altered badge photo selected."
+      },
+      {
+        "query": "site:fentybeauty.com pro filtr instant retouch setting powder butter",
+        "url": "https://fentybeauty.com/en-pg/products/pro-filtr-instant-retouch-setting-powder-butter",
+        "note": "Indexed official page confirms28g and7.8g plus concrete/award-badge imagery."
+      }
+    ],
+    "sharedImageWith": []
+  }
+]

@@ -1,0 +1,519 @@
+[
+  {
+    "productId": "parent-0131",
+    "variantId": "gc001426",
+    "productName": "Помада Luxvisage PIN-UP ultra matt",
+    "brand": "Luxvisage",
+    "variant": "503",
+    "sku": "GC001426",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 940,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=45981",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact retailer offer 45981 503 MILA binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_503_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade.",
+    "searches": [
+      {
+        "query": "Luxvisage PIN UP ultra matt 503",
+        "url": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=45981",
+        "note": "Exact retailer offer 45981 503 MILA binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_503_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "localFile": "materials/catalog-7b/originals/b019-c/Помада Luxvisage PIN-UP ultra matt 503--gc001426.jpg",
+      "width": 2500,
+      "height": 2500,
+      "format": "JPEG",
+      "bytes": 7536627,
+      "sha256": "31065a07d6505a8cc7be06c76044a961333e0da15f82d7fefdcaf78cf05686c1",
+      "sourceImage": "https://www.conteamerica.com/upload/iblock/a1b/ov1vpg26ptmmhgwsl88i6vk72ebf7b9f/dca30b24-f801-11e9-80cf-901b0e2e7fb8_67f6c8d1-fc17-11e9-80cf-901b0e2e7fb8.jpg",
+      "rejectedAs": "Model lips, not packaged product"
+    }
+  },
+  {
+    "productId": "parent-0131",
+    "variantId": "gc001427",
+    "productName": "Помада Luxvisage PIN-UP ultra matt",
+    "brand": "Luxvisage",
+    "variant": "504",
+    "sku": "GC001427",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 941,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=45982",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact retailer offer 45982 504 CARA binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_504_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade.",
+    "searches": [
+      {
+        "query": "Luxvisage PIN UP ultra matt 504",
+        "url": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=45982",
+        "note": "Exact retailer offer 45982 504 CARA binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_504_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "localFile": "materials/catalog-7b/originals/b019-c/Помада Luxvisage PIN-UP ultra matt 504--gc001427.jpg",
+      "width": 2500,
+      "height": 2500,
+      "format": "JPEG",
+      "bytes": 7405556,
+      "sha256": "b1b76313915480b1a106524ca4cd0575b09f9f1f1fc2b59994692fd06ccc90f5",
+      "sourceImage": "https://www.conteamerica.com/upload/iblock/4c5/mf9e05gol0gpq2vqc2dp7v61q5ejmebr/dca30b25-f801-11e9-80cf-901b0e2e7fb8_67f6c8d3-fc17-11e9-80cf-901b0e2e7fb8.jpg",
+      "rejectedAs": "Model lips, not packaged product"
+    }
+  },
+  {
+    "productId": "parent-0131",
+    "variantId": "gc001428",
+    "productName": "Помада Luxvisage PIN-UP ultra matt",
+    "brand": "Luxvisage",
+    "variant": "505",
+    "sku": "GC001428",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 942,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=45983",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact retailer offer 45983 505 KATE binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_505_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade.",
+    "searches": [
+      {
+        "query": "Luxvisage PIN UP ultra matt 505",
+        "url": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=45983",
+        "note": "Exact retailer offer 45983 505 KATE binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_505_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "localFile": "materials/catalog-7b/originals/b019-c/Помада Luxvisage PIN-UP ultra matt 505--gc001428.jpg",
+      "width": 2500,
+      "height": 2500,
+      "format": "JPEG",
+      "bytes": 7528759,
+      "sha256": "4ed0d8e021983a8afa1c3ba77057e98f12b33e4d1d2e5173f6c3c3f311ec00d9",
+      "sourceImage": "https://www.conteamerica.com/upload/iblock/53c/obvdb4tr4p7l4wsq7ux6a22ufsf73fd0/dca30b26-f801-11e9-80cf-901b0e2e7fb8_67f6c8d5-fc17-11e9-80cf-901b0e2e7fb8.jpg",
+      "rejectedAs": "Model lips, not packaged product"
+    }
+  },
+  {
+    "productId": "parent-0131",
+    "variantId": "gc001429",
+    "productName": "Помада Luxvisage PIN-UP ultra matt",
+    "brand": "Luxvisage",
+    "variant": "506",
+    "sku": "GC001429",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 943,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=45984",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact retailer offer 45984 506 NICOLE binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_506_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade.",
+    "searches": [
+      {
+        "query": "Luxvisage PIN UP ultra matt 506",
+        "url": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=45984",
+        "note": "Exact retailer offer 45984 506 NICOLE binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_506_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "localFile": "materials/catalog-7b/originals/b019-c/Помада Luxvisage PIN-UP ultra matt 506--gc001429.jpg",
+      "width": 2500,
+      "height": 2500,
+      "format": "JPEG",
+      "bytes": 7396173,
+      "sha256": "4b5b77c696da4170e7e41d5d8a94a3c0aa0f9f9ed802e5b146f016e65e9c5cf1",
+      "sourceImage": "https://www.conteamerica.com/upload/iblock/2a0/2xw9p0r91a4kpo48c5n3kawbgpgcgq28/dca30b27-f801-11e9-80cf-901b0e2e7fb8_cc3a0da9-fc1a-11e9-80cf-901b0e2e7fb8.jpg",
+      "rejectedAs": "Model lips, not packaged product"
+    }
+  },
+  {
+    "productId": "parent-0131",
+    "variantId": "gc001430",
+    "productName": "Помада Luxvisage PIN-UP ultra matt",
+    "brand": "Luxvisage",
+    "variant": "507",
+    "sku": "GC001430",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 944,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=45985",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact retailer offer 45985 507 SOPHIA binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_507_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade.",
+    "searches": [
+      {
+        "query": "Luxvisage PIN UP ultra matt 507",
+        "url": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=45985",
+        "note": "Exact retailer offer 45985 507 SOPHIA binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_507_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "localFile": "materials/catalog-7b/originals/b019-c/Помада Luxvisage PIN-UP ultra matt 507--gc001430.jpg",
+      "width": 2500,
+      "height": 2500,
+      "format": "JPEG",
+      "bytes": 7275270,
+      "sha256": "802baf076ce2d07b6eb478f2e66391c3cb121ec9b0c37941792167748c737229",
+      "sourceImage": "https://www.conteamerica.com/upload/iblock/07b/ipwmw3vxa91q5x6ucet58vmycgu4nlj7/dca30b28-f801-11e9-80cf-901b0e2e7fb8_cc3a0dab-fc1a-11e9-80cf-901b0e2e7fb8.jpg",
+      "rejectedAs": "Model lips, not packaged product"
+    }
+  },
+  {
+    "productId": "parent-0131",
+    "variantId": "gc001431",
+    "productName": "Помада Luxvisage PIN-UP ultra matt",
+    "brand": "Luxvisage",
+    "variant": "508",
+    "sku": "GC001431",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 945,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=45986",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact retailer offer 45986 508 LOLITA binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_508_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade.",
+    "searches": [
+      {
+        "query": "Luxvisage PIN UP ultra matt 508",
+        "url": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=45986",
+        "note": "Exact retailer offer 45986 508 LOLITA binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_508_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "localFile": "materials/catalog-7b/originals/b019-c/Помада Luxvisage PIN-UP ultra matt 508--gc001431.jpg",
+      "width": 2500,
+      "height": 2500,
+      "format": "JPEG",
+      "bytes": 7259656,
+      "sha256": "a519e0650d278970a2f02dfff16765272e922cbba2ec46b7aed06cf7b2db91f7",
+      "sourceImage": "https://www.conteamerica.com/upload/iblock/eed/hzt5g7j4snz7srnjkvzqsknylm01gcqe/dca30b29-f801-11e9-80cf-901b0e2e7fb8_cc3a0dad-fc1a-11e9-80cf-901b0e2e7fb8.jpg",
+      "rejectedAs": "Model lips, not packaged product"
+    }
+  },
+  {
+    "productId": "parent-0131",
+    "variantId": "gc001432",
+    "productName": "Помада Luxvisage PIN-UP ultra matt",
+    "brand": "Luxvisage",
+    "variant": "517",
+    "sku": "GC001432",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 946,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=45990",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact retailer offer 45990 517 ARIANA binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_517_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade.",
+    "searches": [
+      {
+        "query": "Luxvisage PIN UP ultra matt 517",
+        "url": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=45990",
+        "note": "Exact retailer offer 45990 517 ARIANA binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_517_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "localFile": "materials/catalog-7b/originals/b019-c/Помада Luxvisage PIN-UP ultra matt 517--gc001432.jpg",
+      "width": 2500,
+      "height": 2500,
+      "format": "JPEG",
+      "bytes": 7549364,
+      "sha256": "e67b6647f3b13925b3a832b445eaf668c3fc1a22727c1dfa56b71a176c42a267",
+      "sourceImage": "https://www.conteamerica.com/upload/iblock/4c2/spagz32r6svf1mpgl1o93higfr0t7chc/61ed0c83-f81d-11e9-80cf-901b0e2e7fb8_cc3a0db5-fc1a-11e9-80cf-901b0e2e7fb8.jpg",
+      "rejectedAs": "Model lips, not packaged product"
+    }
+  },
+  {
+    "productId": "parent-0131",
+    "variantId": "gc001433",
+    "productName": "Помада Luxvisage PIN-UP ultra matt",
+    "brand": "Luxvisage",
+    "variant": "523",
+    "sku": "GC001433",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 947,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=45993",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact retailer offer 45993 523 EMMA binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_523_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade.",
+    "searches": [
+      {
+        "query": "Luxvisage PIN UP ultra matt 523",
+        "url": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=45993",
+        "note": "Exact retailer offer 45993 523 EMMA binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_523_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "localFile": "materials/catalog-7b/originals/b019-c/Помада Luxvisage PIN-UP ultra matt 523--gc001433.jpg",
+      "width": 2500,
+      "height": 2500,
+      "format": "JPEG",
+      "bytes": 7633166,
+      "sha256": "ed5f3e219e01b09753272770772cde65e4d7e52fa65107f5a50b952333c3a57f",
+      "sourceImage": "https://www.conteamerica.com/upload/iblock/8bf/tjhcs309i8x7nselrt24ljjyxdcvacv3/61ed0c86-f81d-11e9-80cf-901b0e2e7fb8_cc3a0dbb-fc1a-11e9-80cf-901b0e2e7fb8.jpg",
+      "rejectedAs": "Model lips, not packaged product"
+    }
+  },
+  {
+    "productId": "parent-0131",
+    "variantId": "gc001434",
+    "productName": "Помада Luxvisage PIN-UP ultra matt",
+    "brand": "Luxvisage",
+    "variant": "535",
+    "sku": "GC001434",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 948,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=46000",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact retailer offer 46000 535 LANA binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_535_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade.",
+    "searches": [
+      {
+        "query": "Luxvisage PIN UP ultra matt 535",
+        "url": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=46000",
+        "note": "Exact retailer offer 46000 535 LANA binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_535_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "localFile": "materials/catalog-7b/originals/b019-c/Помада Luxvisage PIN-UP ultra matt 535--gc001434.jpg",
+      "width": 2500,
+      "height": 2500,
+      "format": "JPEG",
+      "bytes": 7307454,
+      "sha256": "172d369599ffd436388e8498e3c82b899ff04d502a17626d27eb049c2aa49d51",
+      "sourceImage": "https://www.conteamerica.com/upload/iblock/c66/ofvuc3r7vd7o6djjj6gc234ilx2kwbk2/61ed0c8d-f81d-11e9-80cf-901b0e2e7fb8_cc3a0dc9-fc1a-11e9-80cf-901b0e2e7fb8.jpg",
+      "rejectedAs": "Model lips, not packaged product"
+    }
+  },
+  {
+    "productId": "parent-0131",
+    "variantId": "gc001435",
+    "productName": "Помада Luxvisage PIN-UP ultra matt",
+    "brand": "Luxvisage",
+    "variant": "537",
+    "sku": "GC001435",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 949,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=46002",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact retailer offer 46002 537 SINDY binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_537_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade.",
+    "searches": [
+      {
+        "query": "Luxvisage PIN UP ultra matt 537",
+        "url": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=46002",
+        "note": "Exact retailer offer 46002 537 SINDY binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_537_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "localFile": "materials/catalog-7b/originals/b019-c/Помада Luxvisage PIN-UP ultra matt 537--gc001435.jpg",
+      "width": 2500,
+      "height": 2500,
+      "format": "JPEG",
+      "bytes": 7703256,
+      "sha256": "673101b377a1a4141e8bd18be885e23cc0769f315f639b403ce05eea4db6b418",
+      "sourceImage": "https://www.conteamerica.com/upload/iblock/a53/86zw9xy2ayj7ilh4mg1bel372a3vsvoj/61ed0c8f-f81d-11e9-80cf-901b0e2e7fb8_cc3a0dcd-fc1a-11e9-80cf-901b0e2e7fb8.jpg",
+      "rejectedAs": "Model lips, not packaged product"
+    }
+  },
+  {
+    "productId": "parent-0131",
+    "variantId": "gc001436",
+    "productName": "Помада Luxvisage PIN-UP ultra matt",
+    "brand": "Luxvisage",
+    "variant": "538",
+    "sku": "GC001436",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 950,
+    "batch": 19,
+    "status": "skipped",
+    "sourcePage": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=46003",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact retailer offer 46003 538 ALICE binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_538_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade.",
+    "searches": [
+      {
+        "query": "Luxvisage PIN UP ultra matt 538",
+        "url": "https://www.conteamerica.com/catalog/beauty_personal_care_/makeup/lipsticks/luxvisage_lipstick_pin_up_ultra_matt/?oid=46003",
+        "note": "Exact retailer offer 46003 538 ALICE binds2500px original Lipstick_LUXVISAGE_PIN_UP_ultra_matt_shade_538_2. Viewed actual full image: lips of a model, no packaged product. Shared1080 gallery image is a cropped group of multiple shades with external text; alternative750x652 is below800, other large images are swatch charts. No exact suitable whole product photo found in quick family pass; no generated/extracted lipstick or different shade."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "localFile": "materials/catalog-7b/originals/b019-c/Помада Luxvisage PIN-UP ultra matt 538--gc001436.jpg",
+      "width": 2500,
+      "height": 2500,
+      "format": "JPEG",
+      "bytes": 7750686,
+      "sha256": "fcfb61f2993f0cbeb87de930ac5e1d00d34d6eff95fb398f15280fddd2fd6a53",
+      "sourceImage": "https://www.conteamerica.com/upload/iblock/065/0wb3px88vq7wb33wprb9953hkp2s5hyp/61ed0c90-f81d-11e9-80cf-901b0e2e7fb8_cc3a0dcf-fc1a-11e9-80cf-901b0e2e7fb8.jpg",
+      "rejectedAs": "Model lips, not packaged product"
+    }
+  }
+]

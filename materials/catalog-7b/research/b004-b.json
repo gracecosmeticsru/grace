@@ -1,0 +1,515 @@
+[
+  {
+    "index": 170,
+    "productId": "parent-0017",
+    "variantId": "gc004955",
+    "productName": "Тональный флюд для лица тональное средство Chanel 30 мл",
+    "variant": "Light",
+    "status": "skipped",
+    "sourcePage": "https://www.chanel.com/us/makeup/p/158820/les-beiges-water-fresh-tint/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Search found Les Beiges Water Fresh Tint in requested labels, but catalog gives only generic Chanel fluid30ml and no named line. Exact line/packaging cannot be established without guessing; candidate not substituted.",
+    "searches": [
+      {
+        "query": "Chanel 30 ml tint Light Medium Light water fresh tint",
+        "url": "https://www.chanel.com/us/makeup/p/158820/les-beiges-water-fresh-tint/",
+        "note": "Search found Les Beiges Water Fresh Tint in requested labels, but catalog gives only generic Chanel fluid30ml and no named line. Exact line/packaging cannot be established without guessing; candidate not substituted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 171,
+    "productId": "parent-0017",
+    "variantId": "gc004957",
+    "productName": "Тональный флюд для лица тональное средство Chanel 30 мл",
+    "variant": "Medium",
+    "status": "skipped",
+    "sourcePage": "https://www.chanel.com/us/makeup/p/158820/les-beiges-water-fresh-tint/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Search found Les Beiges Water Fresh Tint in requested labels, but catalog gives only generic Chanel fluid30ml and no named line. Exact line/packaging cannot be established without guessing; candidate not substituted.",
+    "searches": [
+      {
+        "query": "Chanel 30 ml tint Light Medium Light water fresh tint",
+        "url": "https://www.chanel.com/us/makeup/p/158820/les-beiges-water-fresh-tint/",
+        "note": "Search found Les Beiges Water Fresh Tint in requested labels, but catalog gives only generic Chanel fluid30ml and no named line. Exact line/packaging cannot be established without guessing; candidate not substituted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 172,
+    "productId": "parent-0017",
+    "variantId": "gc004956",
+    "productName": "Тональный флюд для лица тональное средство Chanel 30 мл",
+    "variant": "Medium-Light",
+    "status": "skipped",
+    "sourcePage": "https://www.chanel.com/us/makeup/p/158820/les-beiges-water-fresh-tint/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Search found Les Beiges Water Fresh Tint in requested labels, but catalog gives only generic Chanel fluid30ml and no named line. Exact line/packaging cannot be established without guessing; candidate not substituted.",
+    "searches": [
+      {
+        "query": "Chanel 30 ml tint Light Medium Light water fresh tint",
+        "url": "https://www.chanel.com/us/makeup/p/158820/les-beiges-water-fresh-tint/",
+        "note": "Search found Les Beiges Water Fresh Tint in requested labels, but catalog gives only generic Chanel fluid30ml and no named line. Exact line/packaging cannot be established without guessing; candidate not substituted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 173,
+    "productId": "gc004958",
+    "variantId": "gc004958",
+    "productName": "Тональный увлажняющий крем Jane Iredale Dream Tint Tinted Moisturizer Light SPF15 50 мл",
+    "variant": "50 мл",
+    "status": "verified",
+    "sourcePage": "https://janeiredale.com/products/dream-tint-tinted-moisturizer?variant=32338307285132",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0338/3882/5612/files/2023_DreamTint_Soldier_PDP_light.jpg?v=1747759647",
+    "localFile": "materials/catalog-7b/originals/b004-b/Тональный увлажняющий крем Jane Iredale Dream Tint Tinted Moisturizer Light SPF15 50--gc004958.jpg",
+    "verification": {
+      "identity": "Jane Iredale Dream Tint Tinted Moisturizer Light SPF15; official Shopify Light SKU12410 with own featured_image.",
+      "volumeAndVariant": "Official Dream Tint is50ml, shadeLight; source tube label confirms50ml andSPF15.",
+      "visualReview": "Complete white/gold tube, but separate Skin Cancer Foundation recommendation seal at bottom right; no seal removed.",
+      "reviewMethod": "view_image unchanged originals overview and full HolyLand/Aravia,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Jane Iredale Dream Tint Light SPF 15 50 ml",
+        "url": "https://janeiredale.com/products/dream-tint-tinted-moisturizer?variant=32338307285132",
+        "note": "Jane Iredale Dream Tint Tinted Moisturizer Light SPF15; official Shopify Light SKU12410 with own featured_image. Official Dream Tint is50ml, shadeLight; source tube label confirms50ml andSPF15."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2772,
+    "height": 2772,
+    "format": "JPEG",
+    "bytes": 106314,
+    "sha256": "23d7b265d80fa7896d01b7f951a8cd11c14d0042ff1de82e67d60b35fb7abf2b"
+  },
+  {
+    "index": 174,
+    "productId": "parent-0018",
+    "variantId": "gc005040",
+    "productName": "Увлажняющая тональная основа Charlotte Tilbury",
+    "variant": "1",
+    "status": "skipped",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/beautiful-skin-foundation-3-neutral",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog gives hydrating foundation and number only; research returns Beautiful Skin and Unreal Skin, with separateWarm/Cool/Neutral options for some numbers. Line, package size and full shade unresolved; no arbitrary image.",
+    "searches": [
+      {
+        "query": "Charlotte Tilbury hydrating foundation 1 2 3 Beautiful Skin Unreal Skin",
+        "url": "https://www.charlottetilbury.com/us/product/beautiful-skin-foundation-3-neutral",
+        "note": "Catalog gives hydrating foundation and number only; research returns Beautiful Skin and Unreal Skin, with separateWarm/Cool/Neutral options for some numbers. Line, package size and full shade unresolved; no arbitrary image."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 175,
+    "productId": "parent-0018",
+    "variantId": "gc005041",
+    "productName": "Увлажняющая тональная основа Charlotte Tilbury",
+    "variant": "2",
+    "status": "skipped",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/beautiful-skin-foundation-3-neutral",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog gives hydrating foundation and number only; research returns Beautiful Skin and Unreal Skin, with separateWarm/Cool/Neutral options for some numbers. Line, package size and full shade unresolved; no arbitrary image.",
+    "searches": [
+      {
+        "query": "Charlotte Tilbury hydrating foundation 1 2 3 Beautiful Skin Unreal Skin",
+        "url": "https://www.charlottetilbury.com/us/product/beautiful-skin-foundation-3-neutral",
+        "note": "Catalog gives hydrating foundation and number only; research returns Beautiful Skin and Unreal Skin, with separateWarm/Cool/Neutral options for some numbers. Line, package size and full shade unresolved; no arbitrary image."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 176,
+    "productId": "gc005042",
+    "variantId": "gc005042",
+    "productName": "Увлажняющая тональная основа Charlotte Tilbury 3",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/beautiful-skin-foundation-3-neutral",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog gives hydrating foundation and number only; research returns Beautiful Skin and Unreal Skin, with separateWarm/Cool/Neutral options for some numbers. Line, package size and full shade unresolved; no arbitrary image.",
+    "searches": [
+      {
+        "query": "Charlotte Tilbury hydrating foundation 1 2 3 Beautiful Skin Unreal Skin",
+        "url": "https://www.charlottetilbury.com/us/product/beautiful-skin-foundation-3-neutral",
+        "note": "Catalog gives hydrating foundation and number only; research returns Beautiful Skin and Unreal Skin, with separateWarm/Cool/Neutral options for some numbers. Line, package size and full shade unresolved; no arbitrary image."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 177,
+    "productId": "parent-0019",
+    "variantId": "gc005097",
+    "productName": "Увлажняющий тональный крем с коллагеном Enough Collagen Moisture Foundation SPF15",
+    "variant": "13",
+    "status": "verified",
+    "sourcePage": "https://uk.medpak.shop/products/enough-collagen-moisture-foundation-shade-13-100-ml",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0560/5788/8819/files/enough-collagen-moisture-foundation-shade-13-100-ml-enh362-1193985840.jpg?v=1758546205",
+    "localFile": "materials/catalog-7b/originals/b004-b/Увлажняющий тональный крем с коллагеном Enough Collagen Moisture Foundation SPF15 13--gc005097.jpg",
+    "verification": {
+      "identity": "Enough Collagen Moisture Foundation SPF15, exact13 product page and image; original blue/silver label, not Whitening or3X.",
+      "volumeAndVariant": "Source specifies100ml and shade13; importer Enough Vietnam names sameSPF15 model100ml with13/21/23. Catalogue size unspecified; no other size inserted.",
+      "visualReview": "Complete original silver/blue bottle on white; no external text, watermark or clipping.",
+      "reviewMethod": "view_image unchanged originals overview and full HolyLand/Aravia,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Enough Collagen Moisture Foundation SPF15 13 21 100ml",
+        "url": "https://uk.medpak.shop/products/enough-collagen-moisture-foundation-shade-13-100-ml",
+        "note": "Enough Collagen Moisture Foundation SPF15, exact13 product page and image; original blue/silver label, not Whitening or3X. Source specifies100ml and shade13; importer Enough Vietnam names sameSPF15 model100ml with13/21/23. Catalogue size unspecified; no other size inserted."
+      },
+      {
+        "query": "Enough Collagen Moisture Foundation SPF15 13 21 100ml",
+        "url": "https://enoughvietnam.com/products/kem-nen-collagen-enough-moisture-foundation-100ml",
+        "note": "Same namedSPF15 model,100ml with13/21/23. Source promotional gallery not used."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 29792,
+    "sha256": "738e7ed051017c091ec99f94d589d68b05479c915e34b2dc44516ded93fbbd63"
+  },
+  {
+    "index": 178,
+    "productId": "parent-0019",
+    "variantId": "gc005098",
+    "productName": "Увлажняющий тональный крем с коллагеном Enough Collagen Moisture Foundation SPF15",
+    "variant": "21",
+    "status": "skipped",
+    "sourcePage": "https://enoughvietnam.com/products/kem-nen-collagen-enough-moisture-foundation-100ml",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official regional page maps same promotional graphic to13/21/23, featuring marketing lettering, colored stage and several swatches. Exact21 clean packshot is not available from this best source;13photo not reused.",
+    "searches": [
+      {
+        "query": "Enough Collagen Moisture Foundation SPF15 13 21 100ml",
+        "url": "https://enoughvietnam.com/products/kem-nen-collagen-enough-moisture-foundation-100ml",
+        "note": "Official regional page maps same promotional graphic to13/21/23, featuring marketing lettering, colored stage and several swatches. Exact21 clean packshot is not available from this best source;13photo not reused."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 179,
+    "productId": "gc005099",
+    "variantId": "gc005099",
+    "productName": "Увлажняющий тональный кушон Missha Magic Cushion Moist Up",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourcePage": "https://www.idealo.de/preisvergleich/OffersOfProduct/5170762_-magic-cushion-foundation-moist-up-15g-missha.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Named cushion found in21 and23; catalog Standard does not identify shade or refill/full compact. Neither variant image guessed.",
+    "searches": [
+      {
+        "query": "Missha Magic Cushion Moist Up 21 23",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/5170762_-magic-cushion-foundation-moist-up-15g-missha.html",
+        "note": "Named cushion found in21 and23; catalog Standard does not identify shade or refill/full compact. Neither variant image guessed."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 180,
+    "productId": "gc000070",
+    "variantId": "gc000070",
+    "productName": "Крем для лица Secret Key Telling U 30 мл",
+    "variant": "30мл",
+    "status": "verified",
+    "sourcePage": "https://secretkey.ru/catalog/secret-key-telling-u-cc-cream-spf50-pa-ss-krem-dlya-uvlazhneniya-i-siyaniya-30ml-",
+    "sourceImage": "https://secretkey.ru/images/catalog/secret-key-telling-u-cc-cream-spf50-pa-ss-krem-dlya-uvlazhneniya-i-siyaniya-30ml-/1.jpg",
+    "localFile": "materials/catalog-7b/originals/b004-b/Крем для лица Secret Key Telling U 30 мл 30мл--gc000070.jpg",
+    "verification": {
+      "identity": "Secret Key Telling U CC Cream SPF50+PA+++ exact official regional product page.",
+      "volumeAndVariant": "Catalog30ml matches source30ml; named TellingU line, no additional shade guessed.",
+      "visualReview": "Complete white/pink tube on white, image702x800; source visible subject below800px.",
+      "reviewMethod": "view_image unchanged originals overview and full HolyLand/Aravia,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Secret Key Telling U CC Cream 30ml",
+        "url": "https://secretkey.ru/catalog/secret-key-telling-u-cc-cream-spf50-pa-ss-krem-dlya-uvlazhneniya-i-siyaniya-30ml-",
+        "note": "Secret Key Telling U CC Cream SPF50+PA+++ exact official regional product page. Catalog30ml matches source30ml; named TellingU line, no additional shade guessed."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 702,
+    "height": 800,
+    "format": "JPEG",
+    "bytes": 98840,
+    "sha256": "e6618fc289403e9517423c9e924bc9fde7ab21205b59c21d6cf483fd2e85140b"
+  },
+  {
+    "index": 181,
+    "productId": "gc000077",
+    "variantId": "gc000077",
+    "productName": "50 мл La Sultane de Saba ББ-крем невесты",
+    "variant": "50 мл",
+    "status": "skipped",
+    "sourcePage": "https://www.lasultanedesaba.com/en/products/bb-creme-de-jour-rose-1",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official productJSON offers100ml only; requested50ml appears in gift-set results but no separate50ml packshot verified.100ml packaging or entire multi-product set not substituted.",
+    "searches": [
+      {
+        "query": "La Sultane de Saba BB creme mariee 50 ml",
+        "url": "https://www.lasultanedesaba.com/en/products/bb-creme-de-jour-rose-1",
+        "note": "Official productJSON offers100ml only; requested50ml appears in gift-set results but no separate50ml packshot verified.100ml packaging or entire multi-product set not substituted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 182,
+    "productId": "gc000124",
+    "variantId": "gc000124",
+    "productName": "Корректирующий крем Holy Land AGE DEFENSE CC Cream Light (SPF50) 50",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://hl-labs.ru/catalog/all/age_defense/age_defense_cc_cream_spf_50_light/",
+    "sourceImage": "https://hl-labs.ru/upload/iblock/d4d/wejqp8vln8c3sfz43xl3gevfg9ykhkhw/CC-Light-1000x1000.jpg",
+    "localFile": "materials/catalog-7b/originals/b004-b/Корректирующий крем Holy Land AGE DEFENSE CC Cream Light (SPF50) 50 Стандарт--gc000124.jpg",
+    "verification": {
+      "identity": "Official Holy Land AGE DEFENSE CC CREAM SPF50 LIGHT product158117, own original image.",
+      "volumeAndVariant": "ExactLight50ml; both box and bottle visibly Light/SPF50; catalogue trailing50 aligns with source50ml.",
+      "visualReview": "Entire matching bottle and its retail box on white with small studio reflection; no external logo or clipping.",
+      "reviewMethod": "view_image unchanged originals overview and full HolyLand/Aravia,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Holy Land Age Defense CC Cream Light SPF50 50 ml",
+        "url": "https://hl-labs.ru/catalog/all/age_defense/age_defense_cc_cream_spf_50_light/",
+        "note": "Official Holy Land AGE DEFENSE CC CREAM SPF50 LIGHT product158117, own original image. ExactLight50ml; both box and bottle visibly Light/SPF50; catalogue trailing50 aligns with source50ml."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 77400,
+    "sha256": "42df0d24adbaca88a9f265384c3d0e8b6fec7b429d20817b3b123c3d83e2745b"
+  },
+  {
+    "index": 183,
+    "productId": "gc000178",
+    "variantId": "gc000178",
+    "productName": "Крем защитный Aravia SPF-20 Multifunctional CC Cream Vanilla 01 50 мл",
+    "variant": "50 мл",
+    "status": "verified",
+    "sourcePage": "https://aravia.ru/catalog/cc_krem_zashchitnyy_spf_20_dlya_litsa_multifunctional_cc_cream_ton_01_vanil_50_ml/",
+    "sourceImage": "https://aravia.ru/upload/dev2fun.imagecompress/webp/iblock/4f8/7ml5m95kk371xx5wq6kj61hs2ge7p1z9.webp",
+    "localFile": "materials/catalog-7b/originals/b004-b/Крем защитный Aravia SPF-20 Multifunctional CC Cream Vanilla 01 50 мл 50 мл--gc000178.webp",
+    "verification": {
+      "identity": "Official Aravia Multifunctional CC Cream SPF20 Vanilla01 product9206, original linked full-size image.",
+      "volumeAndVariant": "Exact50ml Vanilla01; source page specifies9206/50ml and photo visibly01Vanilla/SPF20.",
+      "visualReview": "Complete white/grey tube on white; no external overlay, watermark or clipping.",
+      "reviewMethod": "view_image unchanged originals overview and full HolyLand/Aravia,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Aravia Multifunctional CC Cream Vanilla 01 SPF20 50 ml",
+        "url": "https://aravia.ru/catalog/cc_krem_zashchitnyy_spf_20_dlya_litsa_multifunctional_cc_cream_ton_01_vanil_50_ml/",
+        "note": "Official Aravia Multifunctional CC Cream SPF20 Vanilla01 product9206, original linked full-size image. Exact50ml Vanilla01; source page specifies9206/50ml and photo visibly01Vanilla/SPF20."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "WEBP",
+    "bytes": 38580,
+    "sha256": "3997a931f96c1c0d8dbdda6d314513cb5fb8b9532343261b716142ba5aef4e9f"
+  },
+  {
+    "index": 184,
+    "productId": "gc000217",
+    "variantId": "gc000217",
+    "productName": "Крем с экстрактом черного риса Black Rice 13 SPF36 PA++",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.bodycare.az/en/product/100316",
+    "sourceImage": "https://www.bodycare.az/storage/products/bc-100316/variants/01-7690-black-rice-cover-bb-cream-spf-36-pa-13-1.webp",
+    "localFile": "materials/catalog-7b/originals/b004-b/Крем с экстрактом черного риса Black Rice 13 SPF36 PA++ Стандарт--gc000217.webp",
+    "verification": {
+      "identity": "Black Rice Cover BB Cream SPF36 PA++ exact shade13 button in sourceHTML explicitly maps selected variant image.",
+      "volumeAndVariant": "Catalog has no volume. Source calls50ml while tube says50g; volume not inserted. Exact namedSPF36PA++ model and requested shade mapped by variant button, generic description25 ignored.",
+      "visualReview": "Complete pale tube on white, no external overlay. Source700x850 with actual tube below800px.21/23 have identical opaque-front art mapped by source; no visible foundation shade borrowed.",
+      "reviewMethod": "view_image unchanged originals overview and full HolyLand/Aravia,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Black Rice SPF36 13",
+        "url": "https://www.bodycare.az/en/product/100316",
+        "note": "Black Rice Cover BB Cream SPF36 PA++ exact shade13 button in sourceHTML explicitly maps selected variant image. Catalog has no volume. Source calls50ml while tube says50g; volume not inserted. Exact namedSPF36PA++ model and requested shade mapped by variant button, generic description25 ignored."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 700,
+    "height": 850,
+    "format": "WEBP",
+    "bytes": 8808,
+    "sha256": "e4689a60a1c2bb871eb7b3d044e9b7a2bec92b9113673ac99cb2ca79be82745e"
+  },
+  {
+    "index": 185,
+    "productId": "gc000218",
+    "variantId": "gc000218",
+    "productName": "Крем с экстрактом черного риса Black Rice 21 SPF36 PA++",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.bodycare.az/en/product/100316",
+    "sourceImage": "https://www.bodycare.az/storage/products/bc-100316/variants/02-7691-black-rice-bbcream.webp",
+    "localFile": "materials/catalog-7b/originals/b004-b/Крем с экстрактом черного риса Black Rice 21 SPF36 PA++ Стандарт--gc000218.webp",
+    "verification": {
+      "identity": "Black Rice Cover BB Cream SPF36 PA++ exact shade21 button in sourceHTML explicitly maps selected variant image.",
+      "volumeAndVariant": "Catalog has no volume. Source calls50ml while tube says50g; volume not inserted. Exact namedSPF36PA++ model and requested shade mapped by variant button, generic description25 ignored.",
+      "visualReview": "Complete pale tube on white, no external overlay. Source700x850 with actual tube below800px.21/23 have identical opaque-front art mapped by source; no visible foundation shade borrowed.",
+      "reviewMethod": "view_image unchanged originals overview and full HolyLand/Aravia,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Black Rice SPF36 13",
+        "url": "https://www.bodycare.az/en/product/100316",
+        "note": "Black Rice Cover BB Cream SPF36 PA++ exact shade21 button in sourceHTML explicitly maps selected variant image. Catalog has no volume. Source calls50ml while tube says50g; volume not inserted. Exact namedSPF36PA++ model and requested shade mapped by variant button, generic description25 ignored."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 700,
+    "height": 850,
+    "format": "WEBP",
+    "bytes": 9396,
+    "sha256": "6da03f0f4ca3e017929fbe47e2dc18d99d00ca8030f265200cb84ceaf2790414"
+  },
+  {
+    "index": 186,
+    "productId": "gc000219",
+    "variantId": "gc000219",
+    "productName": "Крем с экстрактом черного риса Black Rice 23 SPF36 PA++",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.bodycare.az/en/product/100316",
+    "sourceImage": "https://www.bodycare.az/storage/products/bc-100316/variants/03-7692-black-rice-bbcream.webp",
+    "localFile": "materials/catalog-7b/originals/b004-b/Крем с экстрактом черного риса Black Rice 23 SPF36 PA++ Стандарт--gc000219.webp",
+    "verification": {
+      "identity": "Black Rice Cover BB Cream SPF36 PA++ exact shade23 button in sourceHTML explicitly maps selected variant image.",
+      "volumeAndVariant": "Catalog has no volume. Source calls50ml while tube says50g; volume not inserted. Exact namedSPF36PA++ model and requested shade mapped by variant button, generic description25 ignored.",
+      "visualReview": "Complete pale tube on white, no external overlay. Source700x850 with actual tube below800px.21/23 have identical opaque-front art mapped by source; no visible foundation shade borrowed.",
+      "reviewMethod": "view_image unchanged originals overview and full HolyLand/Aravia,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Black Rice SPF36 13",
+        "url": "https://www.bodycare.az/en/product/100316",
+        "note": "Black Rice Cover BB Cream SPF36 PA++ exact shade23 button in sourceHTML explicitly maps selected variant image. Catalog has no volume. Source calls50ml while tube says50g; volume not inserted. Exact namedSPF36PA++ model and requested shade mapped by variant button, generic description25 ignored."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 700,
+    "height": 850,
+    "format": "WEBP",
+    "bytes": 9396,
+    "sha256": "6da03f0f4ca3e017929fbe47e2dc18d99d00ca8030f265200cb84ceaf2790414"
+  },
+  {
+    "index": 187,
+    "productId": "gc000569",
+    "variantId": "gc000569",
+    "productName": "Крем для лица Lumene SPF20 0.5 Light 30 мл",
+    "variant": "30 мл",
+    "status": "skipped",
+    "sourcePage": "https://www.hebe.pl/lumene-korygujacy-podklad-cc-0.5-light-spf20-30-ml-000000000000433085.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog only says Lumene face creamSPF20 with tone/30ml. Search returnsCC; earlier exactMatte Oil ControlSPF20 also uses0.5Light. No model specified, cannot chooseCC orMatte packaging based on tone alone.",
+    "searches": [
+      {
+        "query": "Lumene SPF20 0.5 Fair Medium",
+        "url": "https://www.hebe.pl/lumene-korygujacy-podklad-cc-0.5-light-spf20-30-ml-000000000000433085.html",
+        "note": "Catalog only says Lumene face creamSPF20 with tone/30ml. Search returnsCC; earlier exactMatte Oil ControlSPF20 also uses0.5Light. No model specified, cannot chooseCC orMatte packaging based on tone alone."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 188,
+    "productId": "gc000570",
+    "variantId": "gc000570",
+    "productName": "Крем для лица Lumene SPF20 Fair 30 мл",
+    "variant": "30 мл",
+    "status": "skipped",
+    "sourcePage": "https://www.hebe.pl/lumene-korygujacy-podklad-cc-0.5-light-spf20-30-ml-000000000000433085.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog only says Lumene face creamSPF20 with tone/30ml. Search returnsCC; earlier exactMatte Oil ControlSPF20 also uses0.5Light. No model specified, cannot chooseCC orMatte packaging based on tone alone.",
+    "searches": [
+      {
+        "query": "Lumene SPF20 0.5 Fair Medium",
+        "url": "https://www.hebe.pl/lumene-korygujacy-podklad-cc-0.5-light-spf20-30-ml-000000000000433085.html",
+        "note": "Catalog only says Lumene face creamSPF20 with tone/30ml. Search returnsCC; earlier exactMatte Oil ControlSPF20 also uses0.5Light. No model specified, cannot chooseCC orMatte packaging based on tone alone."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 189,
+    "productId": "gc000571",
+    "variantId": "gc000571",
+    "productName": "Крем для лица Lumene SPF20 Medium 30 мл",
+    "variant": "30 мл",
+    "status": "skipped",
+    "sourcePage": "https://www.hebe.pl/lumene-korygujacy-podklad-cc-0.5-light-spf20-30-ml-000000000000433085.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Catalog only says Lumene face creamSPF20 with tone/30ml. Search returnsCC; earlier exactMatte Oil ControlSPF20 also uses0.5Light. No model specified, cannot chooseCC orMatte packaging based on tone alone.",
+    "searches": [
+      {
+        "query": "Lumene SPF20 0.5 Fair Medium",
+        "url": "https://www.hebe.pl/lumene-korygujacy-podklad-cc-0.5-light-spf20-30-ml-000000000000433085.html",
+        "note": "Catalog only says Lumene face creamSPF20 with tone/30ml. Search returnsCC; earlier exactMatte Oil ControlSPF20 also uses0.5Light. No model specified, cannot chooseCC orMatte packaging based on tone alone."
+      }
+    ],
+    "sharedImageWith": []
+  }
+]

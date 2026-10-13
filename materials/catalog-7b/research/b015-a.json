@@ -1,0 +1,848 @@
+[
+  {
+    "productId": "parent-0106",
+    "variantId": "gc005232",
+    "productName": "Хайлайтер для лица Rare Beauty",
+    "brand": "Rare Beauty",
+    "variant": "Mesmerize",
+    "sku": "GC005232",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/9"
+    ],
+    "index": 701,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://www.rarebeauty.com/products/positive-light-liquid-luminizer-1",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Mesmerize exists in both official Positive Light Liquid Luminizer (15ml, also mini) and Silky Touch powder (2.8g). Catalogue does not specify line, format or size. Adjacent Exhilarate also exists in both families; no inference from it. Exact package unresolved.",
+    "searches": [
+      {
+        "query": "Rare Beauty Mesmerize highlighter",
+        "url": "https://www.rarebeauty.com/products/positive-light-liquid-luminizer-1",
+        "note": "Mesmerize exists in both official Positive Light Liquid Luminizer (15ml, also mini) and Silky Touch powder (2.8g). Catalogue does not specify line, format or size. Adjacent Exhilarate also exists in both families; no inference from it. Exact package unresolved."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc005233",
+    "variantId": "gc005233",
+    "productName": "Хайлайтер кристал Chanlanya",
+    "brand": "Chanlanya",
+    "variant": "Стандарт",
+    "sku": "GC005233",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/9"
+    ],
+    "index": 702,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://kaspi.kz/shop/p/chanlanya-glow-hailaiter-02-119839174/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused search returned Glow02, Baked04 and Dashing CH1213 eight-shade palette. Generic crystal description lacks exact model and shade; cannot select an unrelated compact or palette.",
+    "searches": [
+      {
+        "query": "Chanlanya хайлайтер кристал",
+        "url": "https://kaspi.kz/shop/p/chanlanya-glow-hailaiter-02-119839174/",
+        "note": "Focused search returned Glow02, Baked04 and Dashing CH1213 eight-shade palette. Generic crystal description lacks exact model and shade; cannot select an unrelated compact or palette."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc005234",
+    "variantId": "gc005234",
+    "productName": "Хайлайтер лимитка 001 Dior",
+    "brand": "Dior",
+    "variant": "Стандарт",
+    "sku": "GC005234",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/9"
+    ],
+    "index": 703,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://www.dior.com/en_int/beauty/products/dior-forever-couture-luminizer---limited-edition-Y0998014.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "001 limited edition is not a unique package: official Or Lumiere, older Golden Cruise and newer Dior Star appear under different holiday editions. Catalogue omits year and line; do not pick a release by guess.",
+    "searches": [
+      {
+        "query": "Dior highlighter 001 limited edition luminizer",
+        "url": "https://www.dior.com/en_int/beauty/products/dior-forever-couture-luminizer---limited-edition-Y0998014.html",
+        "note": "001 limited edition is not a unique package: official Or Lumiere, older Golden Cruise and newer Dior Star appear under different holiday editions. Catalogue omits year and line; do not pick a release by guess."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc005235",
+    "variantId": "gc005235",
+    "productName": "Хайлайтер лимитка Hermès Hermes 01",
+    "brand": "Hermès",
+    "variant": "Стандарт",
+    "sku": "GC005235",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/9"
+    ],
+    "index": 704,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://www.ounass.ae/shop-hermes-01-or-permabrass-limited-edition-poudre-d-orfevre-illuminating-powder-for-women-214859084_242.html",
+    "sourceImage": "https://ounass-ae.atgcdn.ae/pub/media/catalog/product/2/1/214859084_nocolor_in.jpg?ts=1663667667.4621",
+    "localFile": "materials/catalog-7b/originals/b015-a/Хайлайтер лимитка Hermès Hermes 01 Стандарт--gc005235.jpg",
+    "verification": {
+      "identity": "Ounass exact01 Or Permabrass Limited Edition Poudre d Orfevre, SKU214859085 GTIN3346130006794. Underlying image path from retailer proxy retained.",
+      "volumeAndVariant": "Exact limited01 Or Permabrass compact; not H Trio01 Rose Atacama.",
+      "visualReview": "Complete open white-lid gold-powder compact on uniform near-whiteRGB250 backdrop with soft lower shadow;1867x2800 source. Plain-field preparation preview must retain pale lid contour. Full prepared review rejected hard jagged shadow remnants after normal white-background flood, including threshold3 preview. Original retained unchanged; no further retouch.",
+      "reviewMethod": "Source contain sheet; full white composites of CT original100, ONE/SIZE travel, Haus Sunstone and Hermes; prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Hermes01 limited edition highlighter Poudre Orfevre",
+        "url": "https://www.ounass.ae/shop-hermes-01-or-permabrass-limited-edition-poudre-d-orfevre-illuminating-powder-for-women-214859084_242.html",
+        "note": "Ounass exact01 Or Permabrass Limited Edition Poudre d Orfevre, SKU214859085 GTIN3346130006794. Underlying image path from retailer proxy retained. Source HTML/JSON retained in artifacts/step-7b/b015-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1867,
+    "height": 2800,
+    "bytes": 193711,
+    "sha256": "694a52e50cabb724ccb46a6828ce6d3e6d53dd86ef3bf3fd5025020558fcb4d4"
+  },
+  {
+    "productId": "gc005212",
+    "variantId": "gc005212",
+    "productName": "Хайлайтер пудровый Haus Labs «Sunstone»",
+    "brand": "Haus Labs",
+    "variant": "Стандарт",
+    "sku": "GC005212",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/9"
+    ],
+    "index": 705,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://www.hauslabs.com/products/bio-radiant-gel-powder-highlighter",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0054/5796/9240/files/HL_DTC_PDP_Highlighter_Powder_Silo_Sunstone_44f3f4c2-45af-4537-9d46-c2d66cabd320.png?v=1784303633",
+    "localFile": "materials/catalog-7b/originals/b015-a/Хайлайтер пудровый Haus Labs «Sunstone» Стандарт--gc005212.png",
+    "verification": {
+      "identity": "Official Bio-Radiant Gel-Powder Highlighter Sunstone Shopify variant39921119625304; own image and sunstone alt.",
+      "volumeAndVariant": "Exact Sunstone7g powder compact, not highlighter balm.",
+      "visualReview": "Full pale iridescent open compact with gold powder on plain white.2000square opaque RGBA; no Allure badge or other added marks.",
+      "reviewMethod": "Source contain sheet; full white composites of CT original100, ONE/SIZE travel, Haus Sunstone and Hermes; prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Haus Labs Sunstone highlighter official",
+        "url": "https://www.hauslabs.com/products/bio-radiant-gel-powder-highlighter",
+        "note": "Official Bio-Radiant Gel-Powder Highlighter Sunstone Shopify variant39921119625304; own image and sunstone alt. Source HTML/JSON retained in artifacts/step-7b/b015-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 1903438,
+    "sha256": "f2cc3afb8e3fe70882eddd3db86e02f64a847218a9b207ec69017a8733a8b9ae"
+  },
+  {
+    "productId": "gc005236",
+    "variantId": "gc005236",
+    "productName": "Хайлайтер-люминайзер Dior Forever Glow Luminizer 03",
+    "brand": "Dior",
+    "variant": "Стандарт",
+    "sku": "GC005236",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/9"
+    ],
+    "index": 706,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://www.dior.com/en_sg/beauty/products/dior-forever-glow-luminizer-Y0000010.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official search confirms03 Pink Halo6g and silver compact. Focused official page fetch returns403; no usable exact original retained in quick pass.",
+    "searches": [
+      {
+        "query": "Dior Forever Glow Luminizer03 official",
+        "url": "https://www.dior.com/en_sg/beauty/products/dior-forever-glow-luminizer-Y0000010.html",
+        "note": "Official search confirms03 Pink Halo6g and silver compact. Focused official page fetch returns403; no usable exact original retained in quick pass."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "parent-0107",
+    "variantId": "gc002546",
+    "productName": "Водостойкий матирующий спрей для фиксации макияжа ONE/SIZE by Patrick Starrr",
+    "brand": "ONE/SIZE",
+    "variant": "143 мл",
+    "sku": "GC002546",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/10"
+    ],
+    "index": 707,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://www.onesizebeauty.com/products/on-til-dawn-setting-spray",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0352/4139/4313/files/On_Til_Dawn_Setting_Spray_FS_v2.jpg?v=1788296268",
+    "localFile": "materials/catalog-7b/originals/b015-a/Водостойкий матирующий спрей для фиксации макияжа ONE-SIZE by Patrick Starrr 143 мл--gc002546.jpg",
+    "verification": {
+      "identity": "Official Shopify Full Size variant 40781518438599 linked own photograph; official pro source confirms143ml and46ml sizes.",
+      "volumeAndVariant": "Exact 143ml full size, visible bottle label.",
+      "visualReview": "Pink aerosol bottle on white with soft grey cast shadow, no overlay or badge. Full bottle physically over1000px.",
+      "reviewMethod": "Source contain sheet; full white composites of CT original100, ONE/SIZE travel, Haus Sunstone and Hermes; prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "ONE SIZE On Til Dawn setting spray143ml46ml official",
+        "url": "https://www.onesizebeauty.com/products/on-til-dawn-setting-spray",
+        "note": "Official Shopify Full Size variant 40781518438599 linked own photograph; official pro source confirms143ml and46ml sizes. Source HTML/JSON retained in artifacts/step-7b/b015-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1500,
+    "bytes": 71678,
+    "sha256": "822e10bca0fcf8d94421ba92f29b9214c7555175c9122a9653b09e8b76337973"
+  },
+  {
+    "productId": "parent-0107",
+    "variantId": "gc002547",
+    "productName": "Водостойкий матирующий спрей для фиксации макияжа ONE/SIZE by Patrick Starrr",
+    "brand": "ONE/SIZE",
+    "variant": "46 мл",
+    "sku": "GC002547",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/10"
+    ],
+    "index": 708,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://www.onesizebeauty.com/products/on-til-dawn-setting-spray",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0352/4139/4313/files/On_Til_Dawn_Setting_Spray_TS_v2.jpg?v=1788296102",
+    "localFile": "materials/catalog-7b/originals/b015-a/Водостойкий матирующий спрей для фиксации макияжа ONE-SIZE by Patrick Starrr 46 мл--gc002547.jpg",
+    "verification": {
+      "identity": "Official Shopify Travel Size variant 46284529500359 linked own photograph; official pro source confirms143ml and46ml sizes.",
+      "volumeAndVariant": "Exact 46ml travel size, visible bottle label.",
+      "visualReview": "Pink aerosol bottle on white with soft grey cast shadow, no overlay or badge. Physical travel bottle spans approximatelyy368–1100 =732px, below800px; shadow not counted.",
+      "reviewMethod": "Source contain sheet; full white composites of CT original100, ONE/SIZE travel, Haus Sunstone and Hermes; prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "ONE SIZE On Til Dawn setting spray143ml46ml official",
+        "url": "https://www.onesizebeauty.com/products/on-til-dawn-setting-spray",
+        "note": "Official Shopify Travel Size variant 46284529500359 linked own photograph; official pro source confirms143ml and46ml sizes. Source HTML/JSON retained in artifacts/step-7b/b015-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1500,
+    "bytes": 58251,
+    "sha256": "99441bca6b318003d7e4f253a26a4b67b6276346480b6e529ea29ddcbf967077"
+  },
+  {
+    "productId": "gc003551",
+    "variantId": "gc003551",
+    "productName": "Мягкий фиксирующий спрей для макияжа Makeup by Mario 100 мл",
+    "brand": "Makeup by Mario",
+    "variant": "100мл",
+    "sku": "GC003551",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/10"
+    ],
+    "index": 709,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://www.makeupbymario.com/products/surrealskin-soft-setting-spray",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0275/4822/1505/files/MBM_SOFTSET_SETTINGSPRAY_PACKSHOT_CAPOFF_2000X2000_2d33ad8e-62f9-4a7c-8fd4-17261c49b40e.jpg?v=1723129935",
+    "localFile": "materials/catalog-7b/originals/b015-a/Мягкий фиксирующий спрей для макияжа Makeup by Mario 100 мл 100мл--gc003551.jpg",
+    "verification": {
+      "identity": "Official Shopify Full-Size100ml variant43574864347201, own image;50ml mini excluded.",
+      "volumeAndVariant": "Exact100ml full size SurrealSkin Soft Setting Spray.",
+      "visualReview": "White spray bottle on opaque grey gradient scene with long hard cast shadow. Unsuitable backdrop without retouching.",
+      "reviewMethod": "Source contain sheet; full white composites of CT original100, ONE/SIZE travel, Haus Sunstone and Hermes; prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Makeup by Mario SurrealSkin Soft Setting Spray100ml official",
+        "url": "https://www.makeupbymario.com/products/surrealskin-soft-setting-spray",
+        "note": "Official Shopify Full-Size100ml variant43574864347201, own image;50ml mini excluded. Source HTML/JSON retained in artifacts/step-7b/b015-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 58958,
+    "sha256": "8428fe51604561b6bf39b3a571f48784ed67003e83a6876b735dc4020cd844d7"
+  },
+  {
+    "productId": "gc003643",
+    "variantId": "gc003643",
+    "productName": "Набор спреев-фиксаторов для макияжа Charlotte Tilbury Airbrush Flawless Mini Setting Spray Kit 2 × 34 мл",
+    "brand": "Charlotte Tilbury",
+    "variant": "Стандарт",
+    "sku": "GC003643",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/more/2"
+    ],
+    "index": 710,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/airbrush-flawless-setting-spray-duo",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Current official source is Holiday26 star-design kit, original plus White Tea of Bali34ml. Catalogue names generic2x34ml kit without edition/year or fragrance composition. Exact limited package not established; new holiday artwork not substituted.",
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Airbrush Flawless Mini Setting Spray Kit2x34ml",
+        "url": "https://www.charlottetilbury.com/us/product/airbrush-flawless-setting-spray-duo",
+        "note": "Current official source is Holiday26 star-design kit, original plus White Tea of Bali34ml. Catalogue names generic2x34ml kit without edition/year or fragrance composition. Exact limited package not established; new holiday artwork not substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc004719",
+    "variantId": "gc004719",
+    "productName": "Спрей для закрепления макияжа водостойкий Dior BACKSTAGE AIRFLASH MIST 100 мл",
+    "brand": "Dior",
+    "variant": "100мл",
+    "sku": "GC004719",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/face/10"
+    ],
+    "index": 711,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://www.dior.com/en_gb/beauty/products/dior-backstage-airflash-mist-Y0000189.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official source confirms Airflash Mist100ml, but focused page fetch returns403. No usable exact original retained in quick pass; no prolonged alternative hunt.",
+    "searches": [
+      {
+        "query": "Dior Backstage Airflash Mist100ml",
+        "url": "https://www.dior.com/en_gb/beauty/products/dior-backstage-airflash-mist-Y0000189.html",
+        "note": "Official source confirms Airflash Mist100ml, but focused page fetch returns403. No usable exact original retained in quick pass; no prolonged alternative hunt."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  },
+  {
+    "productId": "gc004722",
+    "variantId": "gc004722",
+    "productName": "Спрей для фиксации макияжа Golden Rose Make-Up Fixing 120 мл",
+    "brand": "Golden Rose",
+    "variant": "120 мл",
+    "sku": "GC004722",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/face/10"
+    ],
+    "index": 712,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://goldenrose.co.za/products/make-up-fixing-spray",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0818/0989/9809/files/make-up-fixing-spray-951.jpg?v=1705566163",
+    "localFile": "materials/catalog-7b/originals/b015-a/Спрей для фиксации макияжа Golden Rose Make-Up Fixing 120 мл 120 мл--gc004722.jpg",
+    "verification": {
+      "identity": "GoldenRose South Africa exact Make-up Fixing Spray page and Shopify original; description explicitly120ml.",
+      "volumeAndVariant": "Exact120ml standard Make-up Fixing Spray, not distinct Mattifying Fixing Spray.",
+      "visualReview": "Whole purple spray bottle on white, no added marks.1000square source, visible bottle near900px; preparation checked.",
+      "reviewMethod": "Source contain sheet; full white composites of CT original100, ONE/SIZE travel, Haus Sunstone and Hermes; prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Golden Rose Make-Up Fixing Spray120ml official",
+        "url": "https://goldenrose.co.za/products/make-up-fixing-spray",
+        "note": "GoldenRose South Africa exact Make-up Fixing Spray page and Shopify original; description explicitly120ml. Source HTML/JSON retained in artifacts/step-7b/b015-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 46004,
+    "sha256": "4b5dbace16cad9c066ca746b97866ae908368f03f6efa55d0d21904260588864"
+  },
+  {
+    "productId": "gc005192",
+    "variantId": "gc005192",
+    "productName": "Фиксатор Макияжа фиксатор макияжа Charlotte Tilbury Setting Spray 100 мл",
+    "brand": "Charlotte Tilbury",
+    "variant": "100мл",
+    "sku": "GC005192",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/10"
+    ],
+    "index": 713,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/airbrush-flawless-setting-spray",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/23p4TKjqpeC3zePOLb2HpY/8f458a41d1c2e7549a59796ad7d658f7/Updated_Settng_Spray.png",
+    "localFile": "materials/catalog-7b/originals/b015-a/Фиксатор Макияжа фиксатор макияжа Charlotte Tilbury Setting Spray 100 мл 100мл--gc005192.png",
+    "verification": {
+      "identity": "Official sibling AIRBRUSH FLAWLESS SETTING SPRAY ORIGINAL 100 ML, SKU FSTS100XXR, exact individual image.",
+      "volumeAndVariant": "Exact ORIGINAL 100 ML; matte and original distinguished.",
+      "visualReview": "Real transparent PNG, closed complete bottle and soft cast shadow. White-flattened full frame reviewed; no added badge visible despite stale alt text on100ml original. Physical bottle bounds exclude shadow.",
+      "reviewMethod": "Source contain sheet; full white composites of CT original100, ONE/SIZE travel, Haus Sunstone and Hermes; prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Airbrush Flawless Setting Spray original matte sizes",
+        "url": "https://www.charlottetilbury.com/us/product/airbrush-flawless-setting-spray",
+        "note": "Official sibling AIRBRUSH FLAWLESS SETTING SPRAY ORIGINAL 100 ML, SKU FSTS100XXR, exact individual image. Source HTML/JSON retained in artifacts/step-7b/b015-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [
+      "gc005195"
+    ],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 339541,
+    "sha256": "fb9a66925763f9f29b3646104111d18b45f382de1935e505a7c4185d7b0eebf8"
+  },
+  {
+    "productId": "gc005193",
+    "variantId": "gc005193",
+    "productName": "Фиксатор матирующий фиксатор макияжа Charlotte Tilbury Cgarlotte Tilbury 34 мл",
+    "brand": "Charlotte Tilbury",
+    "variant": "34 мл",
+    "sku": "GC005193",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/10"
+    ],
+    "index": 714,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/mini-airbrush-flawless-matte-setting-spray",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/2mhr11Mxb7xEpdC29XeINs/8db35889c569948ad13fafa6e20092d8/MATTESS-TRAVELSIZE-CLOSED-PDP.png",
+    "localFile": "materials/catalog-7b/originals/b015-a/Фиксатор матирующий фиксатор макияжа Charlotte Tilbury Cgarlotte Tilbury 34 мл 34 мл--gc005193.png",
+    "verification": {
+      "identity": "Official sibling AIRBRUSH FLAWLESS SETTING SPRAY MATTE 34 ML TRAVEL, SKU FSTSX35X2R, exact individual image.",
+      "volumeAndVariant": "Exact 34 ML TRAVEL; matte and original distinguished.",
+      "visualReview": "Real transparent PNG, closed complete bottle and soft cast shadow. White-flattened full frame reviewed; no added badge visible despite stale alt text on100ml original. Physical bottle bounds exclude shadow.",
+      "reviewMethod": "Source contain sheet; full white composites of CT original100, ONE/SIZE travel, Haus Sunstone and Hermes; prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Airbrush Flawless Setting Spray original matte sizes",
+        "url": "https://www.charlottetilbury.com/us/product/mini-airbrush-flawless-matte-setting-spray",
+        "note": "Official sibling AIRBRUSH FLAWLESS SETTING SPRAY MATTE 34 ML TRAVEL, SKU FSTSX35X2R, exact individual image. Source HTML/JSON retained in artifacts/step-7b/b015-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 598042,
+    "sha256": "a4840b8f516d583d5e6b209e05f2835b424a8e5f727914f41e3bae67eb322200"
+  },
+  {
+    "productId": "gc005194",
+    "variantId": "gc005194",
+    "productName": "Фиксатор матирующий фиксатор макияжа Charlotte Tilbury 100 мл",
+    "brand": "Charlotte Tilbury",
+    "variant": "100 мл",
+    "sku": "GC005194",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/10"
+    ],
+    "index": 715,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/airbrush-flawless-matte-setting-spray",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/7tz58TFHn0lWdLbonxYjEM/7369078347404cb801562d915983c41a/MATTESS-CLOSED-PDP.png",
+    "localFile": "materials/catalog-7b/originals/b015-a/Фиксатор матирующий фиксатор макияжа Charlotte Tilbury 100 мл 100 мл--gc005194.png",
+    "verification": {
+      "identity": "Official sibling AIRBRUSH FLAWLESS SETTING SPRAY MATTE 100 ML, SKU FSTS100X2R, exact individual image.",
+      "volumeAndVariant": "Exact 100 ML; matte and original distinguished.",
+      "visualReview": "Real transparent PNG, closed complete bottle and soft cast shadow. White-flattened full frame reviewed; no added badge visible despite stale alt text on100ml original. Physical bottle bounds exclude shadow.",
+      "reviewMethod": "Source contain sheet; full white composites of CT original100, ONE/SIZE travel, Haus Sunstone and Hermes; prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Airbrush Flawless Setting Spray original matte sizes",
+        "url": "https://www.charlottetilbury.com/us/product/airbrush-flawless-matte-setting-spray",
+        "note": "Official sibling AIRBRUSH FLAWLESS SETTING SPRAY MATTE 100 ML, SKU FSTS100X2R, exact individual image. Source HTML/JSON retained in artifacts/step-7b/b015-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 769709,
+    "sha256": "eae076feb3f9a0e84e5247673e171de6130514e1acecce82432fb6f2608f521d"
+  },
+  {
+    "productId": "parent-0108",
+    "variantId": "gc005195",
+    "productName": "Фиксирующий спрей для макияжа Charlotte Tilbury",
+    "brand": "Charlotte Tilbury",
+    "variant": "100 мл",
+    "sku": "GC005195",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/10"
+    ],
+    "index": 716,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/airbrush-flawless-setting-spray",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/23p4TKjqpeC3zePOLb2HpY/8f458a41d1c2e7549a59796ad7d658f7/Updated_Settng_Spray.png",
+    "localFile": "materials/catalog-7b/originals/b015-a/Фиксирующий спрей для макияжа Charlotte Tilbury 100 мл--gc005195.png",
+    "verification": {
+      "identity": "Official sibling AIRBRUSH FLAWLESS SETTING SPRAY ORIGINAL 100 ML, SKU FSTS100XXR, exact individual image.",
+      "volumeAndVariant": "Exact ORIGINAL 100 ML; matte and original distinguished.",
+      "visualReview": "Real transparent PNG, closed complete bottle and soft cast shadow. White-flattened full frame reviewed; no added badge visible despite stale alt text on100ml original. Physical bottle bounds exclude shadow.",
+      "reviewMethod": "Source contain sheet; full white composites of CT original100, ONE/SIZE travel, Haus Sunstone and Hermes; prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Airbrush Flawless Setting Spray original matte sizes",
+        "url": "https://www.charlottetilbury.com/us/product/airbrush-flawless-setting-spray",
+        "note": "Official sibling AIRBRUSH FLAWLESS SETTING SPRAY ORIGINAL 100 ML, SKU FSTS100XXR, exact individual image. Source HTML/JSON retained in artifacts/step-7b/b015-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [
+      "gc005192"
+    ],
+    "width": 2000,
+    "height": 2000,
+    "bytes": 339541,
+    "sha256": "fb9a66925763f9f29b3646104111d18b45f382de1935e505a7c4185d7b0eebf8"
+  },
+  {
+    "productId": "parent-0108",
+    "variantId": "gc005196",
+    "productName": "Фиксирующий спрей для макияжа Charlotte Tilbury",
+    "brand": "Charlotte Tilbury",
+    "variant": "200 мл",
+    "sku": "GC005196",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/10"
+    ],
+    "index": 717,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/airbrush-flawless-setting-spray-xl-200ml",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/3GNWkuZHIz9WNs3GOMACeb/7a9c2a225075aff9c9c27c4ee0cbfd86/AIRBRUSH-FLAWLESS-SETTING-SPRAY-200ML-CLOSED.png",
+    "localFile": "materials/catalog-7b/originals/b015-a/Фиксирующий спрей для макияжа Charlotte Tilbury 200 мл--gc005196.png",
+    "verification": {
+      "identity": "Official sibling AIRBRUSH FLAWLESS SETTING SPRAY 200 ML, SKU FSTS200XXR, exact individual image.",
+      "volumeAndVariant": "Exact 200 ML; matte and original distinguished.",
+      "visualReview": "Real transparent PNG, closed complete bottle and soft cast shadow. White-flattened full frame reviewed; no added badge visible despite stale alt text on100ml original. Physical bottle bounds exclude shadow. Physical bottle is approximately769/766px high, below800px; larger alpha bounds include shadow and cannot qualify.",
+      "reviewMethod": "Source contain sheet; full white composites of CT original100, ONE/SIZE travel, Haus Sunstone and Hermes; prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Airbrush Flawless Setting Spray original matte sizes",
+        "url": "https://www.charlottetilbury.com/us/product/airbrush-flawless-setting-spray-xl-200ml",
+        "note": "Official sibling AIRBRUSH FLAWLESS SETTING SPRAY 200 ML, SKU FSTS200XXR, exact individual image. Source HTML/JSON retained in artifacts/step-7b/b015-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 203353,
+    "sha256": "d1f65e5bec56b69ff446474c76443d036d896337454726d13c1eadc49f4378be"
+  },
+  {
+    "productId": "parent-0108",
+    "variantId": "gc005197",
+    "productName": "Фиксирующий спрей для макияжа Charlotte Tilbury",
+    "brand": "Charlotte Tilbury",
+    "variant": "34 мл",
+    "sku": "GC005197",
+    "format": "PNG",
+    "decant": false,
+    "paths": [
+      "makeup/face/10"
+    ],
+    "index": 718,
+    "batch": 15,
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/us/product/airbrush-flawless-setting-spray-travel",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/5oaIAnXMptJ5Vk150FwYpy/347b769df3aee5c526b5d5e94c1a4cec/AIRBRUSH-FLAWLESS-SETTING-SPRAY-TRAVEL-CLOSED.png",
+    "localFile": "materials/catalog-7b/originals/b015-a/Фиксирующий спрей для макияжа Charlotte Tilbury 34 мл--gc005197.png",
+    "verification": {
+      "identity": "Official sibling AIRBRUSH FLAWLESS SETTING SPRAY 34 ML TRAVEL, SKU FSTSX35XXR, exact individual image.",
+      "volumeAndVariant": "Exact 34 ML TRAVEL; matte and original distinguished.",
+      "visualReview": "Real transparent PNG, closed complete bottle and soft cast shadow. White-flattened full frame reviewed; no added badge visible despite stale alt text on100ml original. Physical bottle bounds exclude shadow. Physical bottle is approximately769/766px high, below800px; larger alpha bounds include shadow and cannot qualify.",
+      "reviewMethod": "Source contain sheet; full white composites of CT original100, ONE/SIZE travel, Haus Sunstone and Hermes; prepared outputs reviewed",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Airbrush Flawless Setting Spray original matte sizes",
+        "url": "https://www.charlottetilbury.com/us/product/airbrush-flawless-setting-spray-travel",
+        "note": "Official sibling AIRBRUSH FLAWLESS SETTING SPRAY 34 ML TRAVEL, SKU FSTSX35XXR, exact individual image. Source HTML/JSON retained in artifacts/step-7b/b015-a."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "bytes": 253678,
+    "sha256": "b03a916475588c3abbc51556f97f44e4288f4e5c6739380ab3f7a185ea45365a"
+  },
+  {
+    "productId": "gc000222",
+    "variantId": "gc000222",
+    "productName": "Тушь для ресниц Мега эффект накладных ресниц Belita Amore 10 мл",
+    "brand": "Belita",
+    "variant": "10 мл",
+    "sku": "GC000222",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/1"
+    ],
+    "index": 719,
+    "batch": 15,
+    "status": "skipped",
+    "sourcePage": "https://ultraprice.by/product/tush-dlya-resnic-belita-amore-4d-mega-effekt-nakladnyh-resnic-10-ml",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact retailer Product schema confirms Belita Amore4D Mega Effect10ml black. Original URL decoded from its actual image proxy returns403. No original recovered; no low-resolution proxy enlargement.",
+    "searches": [
+      {
+        "query": "Белита Amore тушь мега эффект накладных ресниц10мл",
+        "url": "https://ultraprice.by/product/tush-dlya-resnic-belita-amore-4d-mega-effekt-nakladnyh-resnic-10-ml",
+        "note": "Exact retailer Product schema confirms Belita Amore4D Mega Effect10ml black. Original URL decoded from its actual image proxy returns403. No original recovered; no low-resolution proxy enlargement."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "sharedImageWith": []
+  }
+]

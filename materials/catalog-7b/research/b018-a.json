@@ -1,0 +1,830 @@
+[
+  {
+    "productId": "gc002874",
+    "variantId": "gc002874",
+    "productName": "Карандаш для глаз 001 Triumph",
+    "brand": "Triumph",
+    "variant": "Стандарт",
+    "sku": "GC002874",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 851,
+    "batch": 18,
+    "status": "verified",
+    "sourcePage": "https://feya-prof.com.ua/p1912698878-karandash-dlya-glaz.html",
+    "sourceImage": "https://images.prom.ua/5210380727_olivets-dlya-ochej.jpg",
+    "localFile": "materials/catalog-7b/originals/b018-a/Карандаш для глаз 001 Triumph Стандарт--gc002874.jpg",
+    "verification": {
+      "identity": "Retailer exact Triumph W207001 Black; original image URL found in product gallery, not synthesized.",
+      "volumeAndVariant": "Exact numeric shade/name or ultrablack catalogue variant bound by source page; no alternative colour used.",
+      "visualReview": "Original contact sheet and ready candidate full source inspected; quality decisions recorded in review.md and results.json.",
+      "reviewMethod": "Observed product page/shade mapping and full-fit visual review; unchanged retained source bytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для глаз 001 Triumph Стандарт",
+        "url": "https://feya-prof.com.ua/p1912698878-karandash-dlya-glaz.html",
+        "note": "Retailer exact Triumph W207001 Black; original image URL found in product gallery, not synthesized."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 702,
+    "height": 702,
+    "bytes": 30905,
+    "sha256": "69f7699ee2c47e6e6f23c6649cb4197f7346a93e7bee6f435144afee6e94cc86"
+  },
+  {
+    "productId": "gc002888",
+    "variantId": "gc002888",
+    "productName": "Карандаш для глаз Triumph of color 101",
+    "brand": "Triumph",
+    "variant": "Стандарт",
+    "sku": "GC002888",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 852,
+    "batch": 18,
+    "status": "verified",
+    "sourcePage": "https://prom.ua/ua/p2191316794-karandash-dlya-glaz.html",
+    "sourceImage": "https://images.prom.ua/5741529015_w700_h500_karandash-dlya-glaz.jpg",
+    "localFile": "materials/catalog-7b/originals/b018-a/Карандаш для глаз Triumph of color 101 Стандарт--gc002888.jpg",
+    "verification": {
+      "identity": "Retailer exact Triumph Of Color TF101 black, page title and product photograph.",
+      "volumeAndVariant": "Exact numeric shade/name or ultrablack catalogue variant bound by source page; no alternative colour used.",
+      "visualReview": "Original contact sheet and ready candidate full source inspected; quality decisions recorded in review.md and results.json.",
+      "reviewMethod": "Observed product page/shade mapping and full-fit visual review; unchanged retained source bytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для глаз Triumph of color 101 Стандарт",
+        "url": "https://prom.ua/ua/p2191316794-karandash-dlya-glaz.html",
+        "note": "Retailer exact Triumph Of Color TF101 black, page title and product photograph."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 380,
+    "height": 499,
+    "bytes": 26951,
+    "sha256": "6934d60ed96a81c1f92d177339829873ca78cf4d34874d0ed50d3d422ef0d695"
+  },
+  {
+    "productId": "gc002972",
+    "variantId": "gc002972",
+    "productName": "Карандаш толстый",
+    "brand": "Бренд не подтверждён",
+    "variant": "Стандарт",
+    "sku": "GC002972",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 853,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": "https://kosmetista.ru/blog/chillout/103845.html",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Search found many thick eye pencils from unrelated brands (Babor, Charlotte Tilbury, Kiko); catalogue supplies no brand, model, shade or volume. Shape alone cannot identify this item.",
+    "searches": [
+      {
+        "query": "\"карандаш толстый\" косметический для глаз",
+        "url": "https://kosmetista.ru/blog/chillout/103845.html",
+        "note": "Search found many thick eye pencils from unrelated brands (Babor, Charlotte Tilbury, Kiko); catalogue supplies no brand, model, shade or volume. Shape alone cannot identify this item."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc000975",
+    "variantId": "gc000975",
+    "productName": "Подводка д глаз подводка для глаз Farres",
+    "brand": "Farres",
+    "variant": "Стандарт",
+    "sku": "GC000975",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/4"
+    ],
+    "index": 854,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": "https://farres.ru/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official range includes W209 liquid eyeliner and other kajal/liner models and colours. Catalogue has only generic eyeliner name, no model, colour or format; exact product cannot be bound.",
+    "searches": [
+      {
+        "query": "Farres подводка для глаз",
+        "url": "https://farres.ru/",
+        "note": "Official range includes W209 liquid eyeliner and other kajal/liner models and colours. Catalogue has only generic eyeliner name, no model, colour or format; exact product cannot be bound."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc001422",
+    "variantId": "gc001422",
+    "productName": "Люкс визаж Подводка-фломастер для глаз подводка для глаз Luxvisage MATT TATTOO",
+    "brand": "Luxvisage",
+    "variant": "Стандарт",
+    "sku": "GC001422",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/4"
+    ],
+    "index": 855,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": "https://dionashop.kz/catalog/podvodki_karandashi/luxvisage_podvodka_flomaster_dlya_glaz_matt_tattoo_waterproof_24h_smudgeproof_chernaya_6/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Focused search found exact MATT TATTOO Waterproof24h black listing; actual page fetch returned404. No verified accessible exact image from quick pass; alternatives not hunted.",
+    "searches": [
+      {
+        "query": "Luxvisage MATT TATTOO подводка фломастер",
+        "url": "https://dionashop.kz/catalog/podvodki_karandashi/luxvisage_podvodka_flomaster_dlya_glaz_matt_tattoo_waterproof_24h_smudgeproof_chernaya_6/",
+        "note": "Focused search found exact MATT TATTOO Waterproof24h black listing; actual page fetch returned404. No verified accessible exact image from quick pass; alternatives not hunted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc001673",
+    "variantId": "gc001673",
+    "productName": "Подводка для глаз Сияющая 01 подводка для глаз Relouis Paradiso",
+    "brand": "Relouis",
+    "variant": "Стандарт",
+    "sku": "GC001673",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/4"
+    ],
+    "index": 856,
+    "batch": 18,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/en/product/paradiso-sparkle-color-eyeliner/",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2019/12/Podvodka-dlya-glaz-siyayushhaya-tsvetnaya-Paradiso-ton-01-My-Pleasure.jpg",
+    "localFile": "materials/catalog-7b/originals/b018-a/Подводка для глаз Сияющая 01 подводка для глаз Relouis Paradiso Стандарт--gc001673.jpg",
+    "verification": {
+      "identity": "Official PARADISO SPARKLE COLOR EYELINER colour 01 My Pleasure; matching datatype 0 and product-images-0 image, not generic collection image.",
+      "volumeAndVariant": "Exact numeric shade/name or ultrablack catalogue variant bound by source page; no alternative colour used.",
+      "visualReview": "Original contact sheet and ready candidate full source inspected; quality decisions recorded in review.md and results.json.",
+      "reviewMethod": "Observed product page/shade mapping and full-fit visual review; unchanged retained source bytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Подводка для глаз Сияющая 01 подводка для глаз Relouis Paradiso Стандарт",
+        "url": "https://relouis.by/en/product/paradiso-sparkle-color-eyeliner/",
+        "note": "Official PARADISO SPARKLE COLOR EYELINER colour 01 My Pleasure; matching datatype 0 and product-images-0 image, not generic collection image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1080,
+    "height": 1080,
+    "bytes": 36543,
+    "sha256": "b324f6ab35c75a7821a26d57a5b6ff8a8b8832b4925a83e58bc19fced89dcad9"
+  },
+  {
+    "productId": "gc001674",
+    "variantId": "gc001674",
+    "productName": "Подводка для глаз Сияющая 04 подводка для глаз Relouis Paradiso",
+    "brand": "Relouis",
+    "variant": "Стандарт",
+    "sku": "GC001674",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/4"
+    ],
+    "index": 857,
+    "batch": 18,
+    "status": "verified",
+    "sourcePage": "https://relouis.by/en/product/paradiso-sparkle-color-eyeliner/",
+    "sourceImage": "https://relouis.by/wp-content/uploads/2019/12/Podvodka-dlya-glaz-siyayushhaya-tsvetnaya-Paradiso-ton-04-Good-As-Gold.jpg",
+    "localFile": "materials/catalog-7b/originals/b018-a/Подводка для глаз Сияющая 04 подводка для глаз Relouis Paradiso Стандарт--gc001674.jpg",
+    "verification": {
+      "identity": "Official PARADISO SPARKLE COLOR EYELINER colour 04 Good As Gold; matching datatype 3 and product-images-3 image, not generic collection image.",
+      "volumeAndVariant": "Exact numeric shade/name or ultrablack catalogue variant bound by source page; no alternative colour used.",
+      "visualReview": "Original contact sheet and ready candidate full source inspected; quality decisions recorded in review.md and results.json.",
+      "reviewMethod": "Observed product page/shade mapping and full-fit visual review; unchanged retained source bytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Подводка для глаз Сияющая 04 подводка для глаз Relouis Paradiso Стандарт",
+        "url": "https://relouis.by/en/product/paradiso-sparkle-color-eyeliner/",
+        "note": "Official PARADISO SPARKLE COLOR EYELINER colour 04 Good As Gold; matching datatype 3 and product-images-3 image, not generic collection image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1080,
+    "height": 1080,
+    "bytes": 37940,
+    "sha256": "4bc3ce99bf843adb0d005a21fd0067b0e55b5799781982490c0a8453f934dcb8"
+  },
+  {
+    "productId": "gc002544",
+    "variantId": "gc002544",
+    "productName": "Водостойкая гелевая подводка для глаз Tony Moly Backstage Gel Eyeliner",
+    "brand": "Tony Moly",
+    "variant": "Стандарт",
+    "sku": "GC002544",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/4"
+    ],
+    "index": 858,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": "https://tonymoly.com.au/products/back-gel-eyeliner-01-black",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official Back Gel range offers01Black,02Brown,03PearlBrown; HongKong current version4g differs from3g older packaging and newVEGANZ. Catalogue has no shade or generation. Do not assume black or swap version.",
+    "searches": [
+      {
+        "query": "TonyMoly Backstage Gel Eyeliner",
+        "url": "https://tonymoly.com.au/products/back-gel-eyeliner-01-black",
+        "note": "Official Back Gel range offers01Black,02Brown,03PearlBrown; HongKong current version4g differs from3g older packaging and newVEGANZ. Catalogue has no shade or generation. Do not assume black or swap version."
+      },
+      {
+        "query": "TonyMoly Back Gel Eyeliner versions",
+        "url": "https://tonymoly.com.hk/back-gel-eyeliner?lang=en",
+        "note": "Official upgraded4g range Black/Brown/PearlBrown/LatteBrown, catalogue not specific."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "parent-0121",
+    "variantId": "gc002882",
+    "productName": "Карандаш для глаз Golden Rose Dream Eyes Eyeliner",
+    "brand": "Golden Rose",
+    "variant": "401",
+    "sku": "GC002882",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 859,
+    "batch": 18,
+    "status": "verified",
+    "sourcePage": "https://goldenrose-germany.de/products/dream-eyes-eyeliner?variant=39960369594557",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/products/298-756594.jpg?v=1633440217",
+    "localFile": "materials/catalog-7b/originals/b018-a/Карандаш для глаз Golden Rose Dream Eyes Eyeliner 401--gc002882.jpg",
+    "verification": {
+      "identity": "Dream Eyes numeric 401 bound to exact selected Shopify variant 39960369594557 and its featured_image.",
+      "volumeAndVariant": "Exact numeric shade/name or ultrablack catalogue variant bound by source page; no alternative colour used.",
+      "visualReview": "Original contact sheet and ready candidate full source inspected; quality decisions recorded in review.md and results.json.",
+      "reviewMethod": "Observed product page/shade mapping and full-fit visual review; unchanged retained source bytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для глаз Golden Rose Dream Eyes Eyeliner 401",
+        "url": "https://goldenrose-germany.de/products/dream-eyes-eyeliner?variant=39960369594557",
+        "note": "Dream Eyes numeric 401 bound to exact selected Shopify variant 39960369594557 and its featured_image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1000,
+    "height": 1000,
+    "bytes": 23124,
+    "sha256": "7d3aa821e016f34d4756961111926a04fba0d52814b57c67be01423c051c99c5"
+  },
+  {
+    "productId": "parent-0121",
+    "variantId": "gc002883",
+    "productName": "Карандаш для глаз Golden Rose Dream Eyes Eyeliner",
+    "brand": "Golden Rose",
+    "variant": "411",
+    "sku": "GC002883",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 860,
+    "batch": 18,
+    "status": "verified",
+    "sourcePage": "https://goldenrose-germany.de/products/dream-eyes-eyeliner?variant=39960369922237",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/411-172035.jpg?v=1756415489",
+    "localFile": "materials/catalog-7b/originals/b018-a/Карандаш для глаз Golden Rose Dream Eyes Eyeliner 411--gc002883.jpg",
+    "verification": {
+      "identity": "Dream Eyes numeric 411 bound to exact selected Shopify variant 39960369922237 and its featured_image.",
+      "volumeAndVariant": "Exact numeric shade/name or ultrablack catalogue variant bound by source page; no alternative colour used.",
+      "visualReview": "Original contact sheet and ready candidate full source inspected; quality decisions recorded in review.md and results.json.",
+      "reviewMethod": "Observed product page/shade mapping and full-fit visual review; unchanged retained source bytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для глаз Golden Rose Dream Eyes Eyeliner 411",
+        "url": "https://goldenrose-germany.de/products/dream-eyes-eyeliner?variant=39960369922237",
+        "note": "Dream Eyes numeric 411 bound to exact selected Shopify variant 39960369922237 and its featured_image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 370,
+    "height": 370,
+    "bytes": 4103,
+    "sha256": "ac1cc1751c6c3f918d6eb173dceac06820d7d65fb38488dcdd7b364a78acd54c"
+  },
+  {
+    "productId": "parent-0121",
+    "variantId": "gc002884",
+    "productName": "Карандаш для глаз Golden Rose Dream Eyes Eyeliner",
+    "brand": "Golden Rose",
+    "variant": "414",
+    "sku": "GC002884",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 861,
+    "batch": 18,
+    "status": "verified",
+    "sourcePage": "https://goldenrose-germany.de/products/dream-eyes-eyeliner?variant=39960370020541",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/414-528342.jpg?v=1756415489",
+    "localFile": "materials/catalog-7b/originals/b018-a/Карандаш для глаз Golden Rose Dream Eyes Eyeliner 414--gc002884.jpg",
+    "verification": {
+      "identity": "Dream Eyes numeric 414 bound to exact selected Shopify variant 39960370020541 and its featured_image.",
+      "volumeAndVariant": "Exact numeric shade/name or ultrablack catalogue variant bound by source page; no alternative colour used.",
+      "visualReview": "Original contact sheet and ready candidate full source inspected; quality decisions recorded in review.md and results.json.",
+      "reviewMethod": "Observed product page/shade mapping and full-fit visual review; unchanged retained source bytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для глаз Golden Rose Dream Eyes Eyeliner 414",
+        "url": "https://goldenrose-germany.de/products/dream-eyes-eyeliner?variant=39960370020541",
+        "note": "Dream Eyes numeric 414 bound to exact selected Shopify variant 39960370020541 and its featured_image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 370,
+    "height": 370,
+    "bytes": 4109,
+    "sha256": "815d4dc02b2078c5b49b54bbbc7f259600c582cd01ead17695ad872f5e066814"
+  },
+  {
+    "productId": "parent-0121",
+    "variantId": "gc002885",
+    "productName": "Карандаш для глаз Golden Rose Dream Eyes Eyeliner",
+    "brand": "Golden Rose",
+    "variant": "418",
+    "sku": "GC002885",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 862,
+    "batch": 18,
+    "status": "verified",
+    "sourcePage": "https://goldenrose-germany.de/products/dream-eyes-eyeliner?variant=39960370151613",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/418-812417.jpg?v=1756415489",
+    "localFile": "materials/catalog-7b/originals/b018-a/Карандаш для глаз Golden Rose Dream Eyes Eyeliner 418--gc002885.jpg",
+    "verification": {
+      "identity": "Dream Eyes numeric 418 bound to exact selected Shopify variant 39960370151613 and its featured_image.",
+      "volumeAndVariant": "Exact numeric shade/name or ultrablack catalogue variant bound by source page; no alternative colour used.",
+      "visualReview": "Original contact sheet and ready candidate full source inspected; quality decisions recorded in review.md and results.json.",
+      "reviewMethod": "Observed product page/shade mapping and full-fit visual review; unchanged retained source bytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для глаз Golden Rose Dream Eyes Eyeliner 418",
+        "url": "https://goldenrose-germany.de/products/dream-eyes-eyeliner?variant=39960370151613",
+        "note": "Dream Eyes numeric 418 bound to exact selected Shopify variant 39960370151613 and its featured_image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 370,
+    "height": 370,
+    "bytes": 4194,
+    "sha256": "5e1613ae723e4aa34c3c8edf397590f71e212037c3fcff93f6b7649b1221889d"
+  },
+  {
+    "productId": "parent-0121",
+    "variantId": "gc002886",
+    "productName": "Карандаш для глаз Golden Rose Dream Eyes Eyeliner",
+    "brand": "Golden Rose",
+    "variant": "420",
+    "sku": "GC002886",
+    "format": "JPEG",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/3"
+    ],
+    "index": 863,
+    "batch": 18,
+    "status": "verified",
+    "sourcePage": "https://goldenrose-germany.de/products/dream-eyes-eyeliner?variant=39960370217149",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/files/420-257476.jpg?v=1756415489",
+    "localFile": "materials/catalog-7b/originals/b018-a/Карандаш для глаз Golden Rose Dream Eyes Eyeliner 420--gc002886.jpg",
+    "verification": {
+      "identity": "Dream Eyes numeric 420 bound to exact selected Shopify variant 39960370217149 and its featured_image.",
+      "volumeAndVariant": "Exact numeric shade/name or ultrablack catalogue variant bound by source page; no alternative colour used.",
+      "visualReview": "Original contact sheet and ready candidate full source inspected; quality decisions recorded in review.md and results.json.",
+      "reviewMethod": "Observed product page/shade mapping and full-fit visual review; unchanged retained source bytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Карандаш для глаз Golden Rose Dream Eyes Eyeliner 420",
+        "url": "https://goldenrose-germany.de/products/dream-eyes-eyeliner?variant=39960370217149",
+        "note": "Dream Eyes numeric 420 bound to exact selected Shopify variant 39960370217149 and its featured_image."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 370,
+    "height": 370,
+    "bytes": 4141,
+    "sha256": "70ba951fd496d11fb40f9cf8b69882027c883f407c9c8d5c0aff7ba161a0c938"
+  },
+  {
+    "productId": "gc003332",
+    "variantId": "gc003332",
+    "productName": "Маркер для глаз подводка для глаз Art-Visage Black Drama 704",
+    "brand": "Art-Visage",
+    "variant": "Стандарт",
+    "sku": "GC003332",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/4"
+    ],
+    "index": 864,
+    "batch": 18,
+    "status": "verified",
+    "sourcePage": "https://art-visage.ru/product/BLACK-DRAMA-Marker-dlya-glaz",
+    "sourceImage": "https://art-visage.ru/pictures/main/products/5f47030078c7db468f3fda151aba70ee-1.webp",
+    "localFile": "materials/catalog-7b/originals/b018-a/Маркер для глаз подводка для глаз Art-Visage Black Drama 704 Стандарт--gc003332.webp",
+    "verification": {
+      "identity": "Official Black Drama marker product; official art-visage.ru/opinions/babas identifies marker as704.",
+      "volumeAndVariant": "Exact numeric shade/name or ultrablack catalogue variant bound by source page; no alternative colour used.",
+      "visualReview": "Original contact sheet and ready candidate full source inspected; quality decisions recorded in review.md and results.json.",
+      "reviewMethod": "Observed product page/shade mapping and full-fit visual review; unchanged retained source bytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Маркер для глаз подводка для глаз Art-Visage Black Drama 704 Стандарт",
+        "url": "https://art-visage.ru/product/BLACK-DRAMA-Marker-dlya-glaz",
+        "note": "Official Black Drama marker product; official art-visage.ru/opinions/babas identifies marker as704."
+      },
+      {
+        "query": "ArtVisage BlackDrama704 official",
+        "url": "https://www.art-visage.ru/opinions/babas",
+        "note": "Official brand article names BLACK DRAMA marker704; source photo visibly reads704."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 1200,
+    "height": 1200,
+    "bytes": 26016,
+    "sha256": "b9ba8aa6d461ac06c6b2944c5232609a8fa3a8bb13b1f8220eadad6f63e100b5"
+  },
+  {
+    "productId": "gc004329",
+    "variantId": "gc004329",
+    "productName": "Подводка для глаз Ffleur Dip Eyeliner",
+    "brand": "Ffleur",
+    "variant": "Стандарт",
+    "sku": "GC004329",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/4"
+    ],
+    "index": 865,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": "https://ffleur.eu/Catalog_bg.pdf",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official catalogues expose Dip Eyeliner under E10D and E9621 codes. Catalogue omits code and volume; focused retailer listing request timed out15s. No exact package confirmed, no speculative substitution.",
+    "searches": [
+      {
+        "query": "Ffleur Dip Eyeliner",
+        "url": "https://ffleur.eu/Catalog_bg.pdf",
+        "note": "Official catalogues expose Dip Eyeliner under E10D and E9621 codes. Catalogue omits code and volume; focused retailer listing request timed out15s. No exact package confirmed, no speculative substitution."
+      },
+      {
+        "query": "Ffleur Dip Eyeliner E9621 official",
+        "url": "https://ffleur.eu/Catalog_EN.pdf",
+        "note": "Official catalogue has distinct E9621 Dip Eyeliner label; generic Grace title does not select the code."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc004330",
+    "variantId": "gc004330",
+    "productName": "Подводка для глаз виниловая черная подводка для глаз Paradiso",
+    "brand": "Paradiso",
+    "variant": "Стандарт",
+    "sku": "GC004330",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/4"
+    ],
+    "index": 866,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": "https://relouis.by/en/product/paradiso-vinyl-black-eyeliner/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official product page exists but all product gallery data-bg URLs are empty. Its og:image points to Paradiso lipstick/model photo, not black eyeliner. No usable product photo obtained in quick pass.",
+    "searches": [
+      {
+        "query": "Relouis Paradiso vinyl black eyeliner",
+        "url": "https://relouis.by/en/product/paradiso-vinyl-black-eyeliner/",
+        "note": "Exact official product page exists but all product gallery data-bg URLs are empty. Its og:image points to Paradiso lipstick/model photo, not black eyeliner. No usable product photo obtained in quick pass."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc004331",
+    "variantId": "gc004331",
+    "productName": "Подводка золо подводка для глаз KAQIYA",
+    "brand": "KAQIYA",
+    "variant": "Стандарт",
+    "sku": "GC004331",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/4"
+    ],
+    "index": 867,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": "https://kaspi.kz/shop/p/podvodka-dlja-glaz-kaqiya-waterproof-pen-liner-podvodka-flomaster-zolotistyi-chernyi-139077167/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Search found gold-case black WaterproofPenLiner plus different24HR and2in1 formats. Catalogue name truncated to золо and lacks model/shade; golden package cannot safely be read as gold formula or exact model.",
+    "searches": [
+      {
+        "query": "KAQIYA подводка золотая для глаз",
+        "url": "https://kaspi.kz/shop/p/podvodka-dlja-glaz-kaqiya-waterproof-pen-liner-podvodka-flomaster-zolotistyi-chernyi-139077167/",
+        "note": "Search found gold-case black WaterproofPenLiner plus different24HR and2in1 formats. Catalogue name truncated to золо and lacks model/shade; golden package cannot safely be read as gold formula or exact model."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  },
+  {
+    "productId": "gc004332",
+    "variantId": "gc004332",
+    "productName": "Подводка-фломастер для глаз Устойчивая Ультрачерная подводка для глаз Art-Visage Cat Eyes",
+    "brand": "Art-Visage",
+    "variant": "Стандарт",
+    "sku": "GC004332",
+    "format": "WEBP",
+    "decant": false,
+    "paths": [
+      "makeup/eyes/4"
+    ],
+    "index": 868,
+    "batch": 18,
+    "status": "verified",
+    "sourcePage": "https://art-visage.ru/product/AVcateyes",
+    "sourceImage": "https://art-visage.ru/pictures/main/product_skus/99e9e723b03b723d9e2c5d46750db7d9-1.webp",
+    "localFile": "materials/catalog-7b/originals/b018-a/Подводка-фломастер для глаз Устойчивая Ультрачерная подводка для глаз Art-Visage Cat--gc004332.webp",
+    "verification": {
+      "identity": "Official CAT EYES shade ультрачёрная selected option data-image; brown option excluded.",
+      "volumeAndVariant": "Exact numeric shade/name or ultrablack catalogue variant bound by source page; no alternative colour used.",
+      "visualReview": "Original contact sheet and ready candidate full source inspected; quality decisions recorded in review.md and results.json.",
+      "reviewMethod": "Observed product page/shade mapping and full-fit visual review; unchanged retained source bytes.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Подводка-фломастер для глаз Устойчивая Ультрачерная подводка для глаз Art-Visage Cat Eyes Стандарт",
+        "url": "https://art-visage.ru/product/AVcateyes",
+        "note": "Official CAT EYES shade ультрачёрная selected option data-image; brown option excluded."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "width": 600,
+    "height": 600,
+    "bytes": 10622,
+    "sha256": "3cd6faebd54b79f206b0704efb45e12bd806d9a689a1f32362f6bef3574532f2"
+  },
+  {
+    "productId": "gc004333",
+    "variantId": "gc004333",
+    "productName": "Подводка для глаз Vivienne Sabo Cabaret Premiere 0,5 мл",
+    "brand": "Vivienne Sabo",
+    "variant": "0,5 мл",
+    "sku": "GC004333",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/eyes/4"
+    ],
+    "index": 869,
+    "batch": 18,
+    "status": "skipped",
+    "sourcePage": "https://veganrussian.ru/eyeliner-cabaret-vivienne-sabo/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Cabaret Premiere0.5ml exists as01black,02brown and03black waterproof; catalogue only specifies0.5ml, no tone or waterproof version. Exact colour and package unknown; do not infer01.",
+    "searches": [
+      {
+        "query": "Vivienne Sabo Cabaret Premiere0.5ml eyeliner",
+        "url": "https://veganrussian.ru/eyeliner-cabaret-vivienne-sabo/",
+        "note": "Cabaret Premiere0.5ml exists as01black,02brown and03black waterproof; catalogue only specifies0.5ml, no tone or waterproof version. Exact colour and package unknown; do not infer01."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    }
+  }
+]

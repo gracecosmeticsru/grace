@@ -1,0 +1,467 @@
+[
+  {
+    "index": 151,
+    "productId": "gc004936",
+    "variantId": "gc004936",
+    "productName": "Тональный крем с матирующим эффектом Yves Saint Laurent ALL HOURS LN1 Light Neutral 25 мл",
+    "variant": "25мл",
+    "localFile": "materials/catalog-7b/originals/b004-a/Тональный крем с матирующим эффектом Yves Saint Laurent ALL HOURS LN1 Light Neutral 2--gc004936.jpg",
+    "width": 1000,
+    "height": 1500,
+    "format": "JPEG",
+    "bytes": 69750,
+    "sha256": "88c5961b496929df06a377c31e4cf4a5bb01332f32ee74d9e4e3adaca53d4c6a",
+    "status": "verified",
+    "sourceImage": "https://mediahub.debenhams.com/ydd08578_ln1_xl",
+    "skipReason": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.debenhams.com/product/yves-saint-laurent-all-hours-luminous-matte-foundation-with-spf-39-25ml_ydd08578?colour=ln1",
+    "verification": {
+      "identity": "Selected LN1 product page, JSON-LD SKU YDD08578-3118-35, and og:image all identify this exact All Hours Luminous Matte LN1 photograph.",
+      "volumeAndVariant": "Exact LN1 shade and25ml size in source product title and selected colour, matching catalog.",
+      "visualReview": "Viewed full original: same LN1 bottle in uncapped and capped views, white background, complete objects, no watermark. Branding and luminous matte line visible.",
+      "reviewMethod": "view_image of unchanged original,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "Yves Saint Laurent ALL HOURS LN1 25ml debenhams",
+        "url": "https://www.debenhams.com/product/yves-saint-laurent-all-hours-luminous-matte-foundation-with-spf-39-25ml_ydd08578?colour=ln1",
+        "note": "Selected LN1 product page, JSON-LD SKU YDD08578-3118-35, and og:image all identify this exact All Hours Luminous Matte LN1 photograph."
+      }
+    ]
+  },
+  {
+    "index": 152,
+    "productId": "gc004937",
+    "variantId": "gc004937",
+    "productName": "Тональный крем устойчивый с увлажняющим комплексом и витамином Е 203 тон бежевый Art-Visage",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.flip.kz/catalog?prod=2048426",
+    "skipReason": "Best retailer result is203 Cover Face in a black/gold tube explicitly labeled Cover Face16-hour foundation, visually reviewed in gc004937.image. Catalog describes the earlier moisturizing vitaminE Устойчивый foundation; same shade number alone cannot establish matching packaging/formula. The exact old-name result was a personal review rather than a clean catalog photograph. Skipped without substituting new Cover Face.",
+    "searches": [
+      {
+        "query": "Art Visage устойчивый тональный крем 203 бежевый",
+        "url": "https://www.flip.kz/catalog?prod=2048426",
+        "note": "Best retailer result is203 Cover Face in a black/gold tube explicitly labeled Cover Face16-hour foundation, visually reviewed in gc004937.image. Catalog describes the earlier moisturizing vitaminE Устойчивый foundation; same shade number alone cannot establish matching packaging/formula. The exact old-name result was a personal review rather than a clean catalog photograph. Skipped without substituting new Cover Face."
+      }
+    ]
+  },
+  {
+    "index": 153,
+    "productId": "parent-0014",
+    "variantId": "gc004938",
+    "productName": "Тональный крем-кушон CUSKIN Clean-Up Skinfit Cushion Pact SPF50 PA++++",
+    "variant": "19",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://cuskin-turkiye.com/en/skinfit-cushion-pact",
+    "skipReason": "Official regional source and trade catalog search identify Skinfit Cushion Pact as SPF50+/PA+++, while catalog specifies PA++++. Saved source cuskin.html exposes only500x710 gallery images/texture swatches and does not establish an exact PA++++ 19 product packshot. Skipped rather than change the named protection version.",
+    "searches": [
+      {
+        "query": "CUSKIN Clean-Up Skinfit Cushion Pact 19 21 23 SPF50 PA++++",
+        "url": "https://cuskin-turkiye.com/en/skinfit-cushion-pact",
+        "note": "Official regional source and trade catalog search identify Skinfit Cushion Pact as SPF50+/PA+++, while catalog specifies PA++++. Saved source cuskin.html exposes only500x710 gallery images/texture swatches and does not establish an exact PA++++ 19 product packshot. Skipped rather than change the named protection version."
+      }
+    ]
+  },
+  {
+    "index": 154,
+    "productId": "parent-0014",
+    "variantId": "gc004939",
+    "productName": "Тональный крем-кушон CUSKIN Clean-Up Skinfit Cushion Pact SPF50 PA++++",
+    "variant": "21",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://cuskin-turkiye.com/en/skinfit-cushion-pact",
+    "skipReason": "Official regional source and trade catalog search identify Skinfit Cushion Pact as SPF50+/PA+++, while catalog specifies PA++++. Saved source cuskin.html exposes only500x710 gallery images/texture swatches and does not establish an exact PA++++ 21 product packshot. Skipped rather than change the named protection version.",
+    "searches": [
+      {
+        "query": "CUSKIN Clean-Up Skinfit Cushion Pact 19 21 23 SPF50 PA++++",
+        "url": "https://cuskin-turkiye.com/en/skinfit-cushion-pact",
+        "note": "Official regional source and trade catalog search identify Skinfit Cushion Pact as SPF50+/PA+++, while catalog specifies PA++++. Saved source cuskin.html exposes only500x710 gallery images/texture swatches and does not establish an exact PA++++ 21 product packshot. Skipped rather than change the named protection version."
+      }
+    ]
+  },
+  {
+    "index": 155,
+    "productId": "parent-0014",
+    "variantId": "gc004940",
+    "productName": "Тональный крем-кушон CUSKIN Clean-Up Skinfit Cushion Pact SPF50 PA++++",
+    "variant": "23",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://cuskin-turkiye.com/en/skinfit-cushion-pact",
+    "skipReason": "Official regional source and trade catalog search identify Skinfit Cushion Pact as SPF50+/PA+++, while catalog specifies PA++++. Saved source cuskin.html exposes only500x710 gallery images/texture swatches and does not establish an exact PA++++ 23 product packshot. Skipped rather than change the named protection version.",
+    "searches": [
+      {
+        "query": "CUSKIN Clean-Up Skinfit Cushion Pact 19 21 23 SPF50 PA++++",
+        "url": "https://cuskin-turkiye.com/en/skinfit-cushion-pact",
+        "note": "Official regional source and trade catalog search identify Skinfit Cushion Pact as SPF50+/PA+++, while catalog specifies PA++++. Saved source cuskin.html exposes only500x710 gallery images/texture swatches and does not establish an exact PA++++ 23 product packshot. Skipped rather than change the named protection version."
+      }
+    ]
+  },
+  {
+    "index": 156,
+    "productId": "parent-0015",
+    "variantId": "gc004941",
+    "productName": "Тональный кушон Gucci Cushion De Beauty",
+    "variant": "02",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.johnlewis.com/gucci-cushion-de-beaute-foundation/03/p111548869",
+    "skipReason": "Search found ordinary Cushion de Beaute retailer listings for02/03, but best selected retailer page timed out after15s, so no exact 02 image retained. The official result was a red limited-edition case, not established as catalog packaging. No special-edition substitute; stopped bounded lookup.",
+    "searches": [
+      {
+        "query": "Gucci cushion de beaute 02 03 foundation",
+        "url": "https://www.johnlewis.com/gucci-cushion-de-beaute-foundation/03/p111548869",
+        "note": "Search found ordinary Cushion de Beaute retailer listings for02/03, but best selected retailer page timed out after15s, so no exact 02 image retained. The official result was a red limited-edition case, not established as catalog packaging. No special-edition substitute; stopped bounded lookup."
+      }
+    ]
+  },
+  {
+    "index": 157,
+    "productId": "parent-0015",
+    "variantId": "gc004942",
+    "productName": "Тональный кушон Gucci Cushion De Beauty",
+    "variant": "03",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.johnlewis.com/gucci-cushion-de-beaute-foundation/03/p111548869",
+    "skipReason": "Search found ordinary Cushion de Beaute retailer listings for02/03, but best selected retailer page timed out after15s, so no exact 03 image retained. The official result was a red limited-edition case, not established as catalog packaging. No special-edition substitute; stopped bounded lookup.",
+    "searches": [
+      {
+        "query": "Gucci cushion de beaute 02 03 foundation",
+        "url": "https://www.johnlewis.com/gucci-cushion-de-beaute-foundation/03/p111548869",
+        "note": "Search found ordinary Cushion de Beaute retailer listings for02/03, but best selected retailer page timed out after15s, so no exact 03 image retained. The official result was a red limited-edition case, not established as catalog packaging. No special-edition substitute; stopped bounded lookup."
+      }
+    ]
+  },
+  {
+    "index": 158,
+    "productId": "parent-0016",
+    "variantId": "gc004943",
+    "productName": "Тональный кушон Missha Magic Cushion Cover Lasting",
+    "variant": "21",
+    "localFile": "materials/catalog-7b/originals/b004-a/Тональный кушон Missha Magic Cushion Cover Lasting 21--gc004943.jpg",
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 44268,
+    "sha256": "d0463041ed68f50b2603411aae7884f1bbd55e555d731523265c84ee69d8e9e5",
+    "status": "verified",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/1668/4975/files/21_bf4304dc-8f24-490a-a3aa-c53f4dd885dd.jpg?v=1723017131",
+    "skipReason": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.misshame.com/products/magic-cushion-cover-lasting?variant=12725415313507",
+    "verification": {
+      "identity": "Official regional retailer product JSON missha.html maps NO. 21 variant 12725415313507 directly to featured_image. Correct Cover Lasting, not Moist Up.",
+      "volumeAndVariant": "Exact shade21 via Shopify variant. Catalog volume unspecified; no volume inferred.",
+      "visualReview": "Viewed full source: complete pale pink compact shown closed and open on white; no watermark or clipped edges. The actual group of objects spans only about640px within1000px image, below preparation source-resolution gate.",
+      "reviewMethod": "view_image of unchanged original,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "Missha Magic Cushion Cover Lasting 21 23 official",
+        "url": "https://www.misshame.com/products/magic-cushion-cover-lasting?variant=12725415313507",
+        "note": "Official regional retailer product JSON missha.html maps NO. 21 variant 12725415313507 directly to featured_image. Correct Cover Lasting, not Moist Up."
+      }
+    ]
+  },
+  {
+    "index": 159,
+    "productId": "parent-0016",
+    "variantId": "gc004944",
+    "productName": "Тональный кушон Missha Magic Cushion Cover Lasting",
+    "variant": "23",
+    "localFile": "materials/catalog-7b/originals/b004-a/Тональный кушон Missha Magic Cushion Cover Lasting 23--gc004944.jpg",
+    "width": 1000,
+    "height": 1000,
+    "format": "JPEG",
+    "bytes": 46227,
+    "sha256": "eed1c1a5c7afe3703e4fd1f92ab68ac3e4ca235da7699805aa0f62dc607019fd",
+    "status": "verified",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/1668/4975/files/MSMS1546-23_a8c6a800-97be-4767-91f0-7c5b5d5ad02d.jpg?v=1723017132",
+    "skipReason": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.misshame.com/products/magic-cushion-cover-lasting?variant=12725415346275",
+    "verification": {
+      "identity": "Official regional retailer product JSON missha.html maps NO. 23 variant 12725415346275 directly to featured_image. Correct Cover Lasting, not Moist Up.",
+      "volumeAndVariant": "Exact shade23 via Shopify variant. Catalog volume unspecified; no volume inferred.",
+      "visualReview": "Viewed full source: complete pale pink compact shown closed and open on white; no watermark or clipped edges. The actual group of objects spans only about640px within1000px image, below preparation source-resolution gate.",
+      "reviewMethod": "view_image of unchanged original,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "Missha Magic Cushion Cover Lasting 21 23 official",
+        "url": "https://www.misshame.com/products/magic-cushion-cover-lasting?variant=12725415346275",
+        "note": "Official regional retailer product JSON missha.html maps NO. 23 variant 12725415346275 directly to featured_image. Correct Cover Lasting, not Moist Up."
+      }
+    ]
+  },
+  {
+    "index": 160,
+    "productId": "gc004945",
+    "variantId": "gc004945",
+    "productName": "Тональный стик тональное средство Charlotte Tilbury Unreal Skin Sheer Glow Tint 1 Fair 9 г",
+    "variant": "Стандарт",
+    "localFile": "materials/catalog-7b/originals/b004-a/Тональный стик тональное средство Charlotte Tilbury Unreal Skin Sheer Glow Tint 1 Fai--gc004945.png",
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 283330,
+    "sha256": "47cb0ace1b9c8ee21b6ecc00c132149390d6f4d4037733c86c750dcc18f87bb8",
+    "status": "verified",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/13FsDxMxCkXWmacIgiZ2IK/276b2b09ba1d7d0a68a84da3b4aeda6d/042_240001_UNREAL_SKIN_P_SHADE_1_KK_2402.png?bg=rgb%3Affffff&fm=png",
+    "skipReason": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.charlottetilbury.com/eu/product/unreal-skin-foundation-stick-1-fair",
+    "verification": {
+      "identity": "Exact official 1 Fair page title and og:image identify the Unreal Skin Sheer Glow Tint hydrating foundation stick photograph.",
+      "volumeAndVariant": "Official price per10g corresponds to9g, and product data gives the full-size9g stick; exact 1 Fair selected. Matches catalog name.",
+      "visualReview": "Viewed full source: complete uncapped stick and separate cap with CT logo; no watermark. Strong broad grey silhouette/cast shadow surrounds both objects, while the stick itself is only about730px tall. Rejected for rapid preparation; would require retouching and source-quality relaxation.",
+      "reviewMethod": "view_image of unchanged original,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Unreal Skin Sheer Glow Tint 1 Fair 1.5 Fair 2 Fair 9g",
+        "url": "https://www.charlottetilbury.com/eu/product/unreal-skin-foundation-stick-1-fair",
+        "note": "Exact official 1 Fair page title and og:image identify the Unreal Skin Sheer Glow Tint hydrating foundation stick photograph."
+      }
+    ]
+  },
+  {
+    "index": 161,
+    "productId": "gc004946",
+    "variantId": "gc004946",
+    "productName": "Тональный стик тональное средство Charlotte Tilbury Unreal Skin Sheer Glow Tint 1.5 Fair 9 г",
+    "variant": "Стандарт",
+    "localFile": "materials/catalog-7b/originals/b004-a/Тональный стик тональное средство Charlotte Tilbury Unreal Skin Sheer Glow Tint 1.5 F--gc004946.png",
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 283315,
+    "sha256": "30bba812ca0fd8fa3c67baf97855bb4e90fbf96c532fdc397e764109303ba822",
+    "status": "verified",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/1Z9lwrvDYu2claCvFSKOqE/0539c4778430a1c11c5a66ab2b66a139/042_240001_UNREAL_SKIN_P_SHADE_1-5_KK_2402.png?bg=rgb%3Affffff&fm=png",
+    "skipReason": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.charlottetilbury.com/eu/product/unreal-skin-foundation-stick-1-5-fair",
+    "verification": {
+      "identity": "Exact official 1.5 Fair page title and og:image identify the Unreal Skin Sheer Glow Tint hydrating foundation stick photograph.",
+      "volumeAndVariant": "Official price per10g corresponds to9g, and product data gives the full-size9g stick; exact 1.5 Fair selected. Matches catalog name.",
+      "visualReview": "Viewed full source: complete uncapped stick and separate cap with CT logo; no watermark. Strong broad grey silhouette/cast shadow surrounds both objects, while the stick itself is only about730px tall. Rejected for rapid preparation; would require retouching and source-quality relaxation.",
+      "reviewMethod": "view_image of unchanged original,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Unreal Skin Sheer Glow Tint 1 Fair 1.5 Fair 2 Fair 9g",
+        "url": "https://www.charlottetilbury.com/eu/product/unreal-skin-foundation-stick-1-5-fair",
+        "note": "Exact official 1.5 Fair page title and og:image identify the Unreal Skin Sheer Glow Tint hydrating foundation stick photograph."
+      }
+    ]
+  },
+  {
+    "index": 162,
+    "productId": "gc004947",
+    "variantId": "gc004947",
+    "productName": "Тональный стик тональное средство Charlotte Tilbury Unreal Skin Sheer Glow Tint 2 Fair 9 г",
+    "variant": "Стандарт",
+    "localFile": "materials/catalog-7b/originals/b004-a/Тональный стик тональное средство Charlotte Tilbury Unreal Skin Sheer Glow Tint 2 Fai--gc004947.png",
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 284012,
+    "sha256": "5a8e04c029365c5b35dc5d3ee644963572008ff001abfea2948be8773d760a13",
+    "status": "verified",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/2J1pPBQdYBmcnO8fmcstPB/23214988f84c59fabdd3faa0ea944272/042_240001_UNREAL_SKIN_P_SHADE_2_KK_2402.png?bg=rgb%3Affffff&fm=png",
+    "skipReason": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.charlottetilbury.com/eu/product/unreal-skin-foundation-stick-2-fair",
+    "verification": {
+      "identity": "Exact official 2 Fair page title and og:image identify the Unreal Skin Sheer Glow Tint hydrating foundation stick photograph.",
+      "volumeAndVariant": "Official price per10g corresponds to9g, and product data gives the full-size9g stick; exact 2 Fair selected. Matches catalog name.",
+      "visualReview": "Viewed full source: complete uncapped stick and separate cap with CT logo; no watermark. Strong broad grey silhouette/cast shadow surrounds both objects, while the stick itself is only about730px tall. Rejected for rapid preparation; would require retouching and source-quality relaxation.",
+      "reviewMethod": "view_image of unchanged original,2026-09-24",
+      "sourceBytesUnmodified": true
+    },
+    "searches": [
+      {
+        "query": "Charlotte Tilbury Unreal Skin Sheer Glow Tint 1 Fair 1.5 Fair 2 Fair 9g",
+        "url": "https://www.charlottetilbury.com/eu/product/unreal-skin-foundation-stick-2-fair",
+        "note": "Exact official 2 Fair page title and og:image identify the Unreal Skin Sheer Glow Tint hydrating foundation stick photograph."
+      }
+    ]
+  },
+  {
+    "index": 163,
+    "productId": "gc004948",
+    "variantId": "gc004948",
+    "productName": "Тональный стик тональное средство Dior Forever Skin Perfect 0 N",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.dior.com/nl_nl/beauty/products/dior-forever-skin-perfect-Y0379000.html",
+    "skipReason": "Official indexed Skin Perfect page lists shade0N, but direct retrieval returned HTTP403. Cached page defaults to2N and exposes shade selectors without a reliably attributed complete 0N packshot URL. No arbitrary default image assigned; stopped after one focused family lookup.",
+    "searches": [
+      {
+        "query": "Dior Forever Skin Perfect stick 0N 1N 1W 1.5N 2N 2W 2.5N",
+        "url": "https://www.dior.com/nl_nl/beauty/products/dior-forever-skin-perfect-Y0379000.html",
+        "note": "Official indexed Skin Perfect page lists shade0N, but direct retrieval returned HTTP403. Cached page defaults to2N and exposes shade selectors without a reliably attributed complete 0N packshot URL. No arbitrary default image assigned; stopped after one focused family lookup."
+      }
+    ]
+  },
+  {
+    "index": 164,
+    "productId": "gc004949",
+    "variantId": "gc004949",
+    "productName": "Тональный стик тональное средство Dior Forever Skin Perfect 1 N",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.dior.com/nl_nl/beauty/products/dior-forever-skin-perfect-Y0379000.html",
+    "skipReason": "Official indexed Skin Perfect page lists shade1N, but direct retrieval returned HTTP403. Cached page defaults to2N and exposes shade selectors without a reliably attributed complete 1N packshot URL. No arbitrary default image assigned; stopped after one focused family lookup.",
+    "searches": [
+      {
+        "query": "Dior Forever Skin Perfect stick 0N 1N 1W 1.5N 2N 2W 2.5N",
+        "url": "https://www.dior.com/nl_nl/beauty/products/dior-forever-skin-perfect-Y0379000.html",
+        "note": "Official indexed Skin Perfect page lists shade1N, but direct retrieval returned HTTP403. Cached page defaults to2N and exposes shade selectors without a reliably attributed complete 1N packshot URL. No arbitrary default image assigned; stopped after one focused family lookup."
+      }
+    ]
+  },
+  {
+    "index": 165,
+    "productId": "gc004950",
+    "variantId": "gc004950",
+    "productName": "Тональный стик тональное средство Dior Forever Skin Perfect 1 W",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.dior.com/nl_nl/beauty/products/dior-forever-skin-perfect-Y0379000.html",
+    "skipReason": "Official indexed Skin Perfect page lists shade1W, but direct retrieval returned HTTP403. Cached page defaults to2N and exposes shade selectors without a reliably attributed complete 1W packshot URL. No arbitrary default image assigned; stopped after one focused family lookup.",
+    "searches": [
+      {
+        "query": "Dior Forever Skin Perfect stick 0N 1N 1W 1.5N 2N 2W 2.5N",
+        "url": "https://www.dior.com/nl_nl/beauty/products/dior-forever-skin-perfect-Y0379000.html",
+        "note": "Official indexed Skin Perfect page lists shade1W, but direct retrieval returned HTTP403. Cached page defaults to2N and exposes shade selectors without a reliably attributed complete 1W packshot URL. No arbitrary default image assigned; stopped after one focused family lookup."
+      }
+    ]
+  },
+  {
+    "index": 166,
+    "productId": "gc004951",
+    "variantId": "gc004951",
+    "productName": "Тональный стик тональное средство Dior Forever Skin Perfect 1.5 N",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.dior.com/nl_nl/beauty/products/dior-forever-skin-perfect-Y0379000.html",
+    "skipReason": "Official indexed Skin Perfect page lists shade1.5N, but direct retrieval returned HTTP403. Cached page defaults to2N and exposes shade selectors without a reliably attributed complete 1.5N packshot URL. No arbitrary default image assigned; stopped after one focused family lookup.",
+    "searches": [
+      {
+        "query": "Dior Forever Skin Perfect stick 0N 1N 1W 1.5N 2N 2W 2.5N",
+        "url": "https://www.dior.com/nl_nl/beauty/products/dior-forever-skin-perfect-Y0379000.html",
+        "note": "Official indexed Skin Perfect page lists shade1.5N, but direct retrieval returned HTTP403. Cached page defaults to2N and exposes shade selectors without a reliably attributed complete 1.5N packshot URL. No arbitrary default image assigned; stopped after one focused family lookup."
+      }
+    ]
+  },
+  {
+    "index": 167,
+    "productId": "gc004952",
+    "variantId": "gc004952",
+    "productName": "Тональный стик тональное средство Dior Forever Skin Perfect 2 N",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.dior.com/nl_nl/beauty/products/dior-forever-skin-perfect-Y0379000.html",
+    "skipReason": "Official indexed Skin Perfect page lists shade2N, but direct retrieval returned HTTP403. Cached page defaults to2N and exposes shade selectors without a reliably attributed complete 2N packshot URL. No arbitrary default image assigned; stopped after one focused family lookup.",
+    "searches": [
+      {
+        "query": "Dior Forever Skin Perfect stick 0N 1N 1W 1.5N 2N 2W 2.5N",
+        "url": "https://www.dior.com/nl_nl/beauty/products/dior-forever-skin-perfect-Y0379000.html",
+        "note": "Official indexed Skin Perfect page lists shade2N, but direct retrieval returned HTTP403. Cached page defaults to2N and exposes shade selectors without a reliably attributed complete 2N packshot URL. No arbitrary default image assigned; stopped after one focused family lookup."
+      }
+    ]
+  },
+  {
+    "index": 168,
+    "productId": "gc004953",
+    "variantId": "gc004953",
+    "productName": "Тональный стик тональное средство Dior Forever Skin Perfect 2 W",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.dior.com/nl_nl/beauty/products/dior-forever-skin-perfect-Y0379000.html",
+    "skipReason": "Official indexed Skin Perfect page lists shade2W, but direct retrieval returned HTTP403. Cached page defaults to2N and exposes shade selectors without a reliably attributed complete 2W packshot URL. No arbitrary default image assigned; stopped after one focused family lookup.",
+    "searches": [
+      {
+        "query": "Dior Forever Skin Perfect stick 0N 1N 1W 1.5N 2N 2W 2.5N",
+        "url": "https://www.dior.com/nl_nl/beauty/products/dior-forever-skin-perfect-Y0379000.html",
+        "note": "Official indexed Skin Perfect page lists shade2W, but direct retrieval returned HTTP403. Cached page defaults to2N and exposes shade selectors without a reliably attributed complete 2W packshot URL. No arbitrary default image assigned; stopped after one focused family lookup."
+      }
+    ]
+  },
+  {
+    "index": 169,
+    "productId": "gc004954",
+    "variantId": "gc004954",
+    "productName": "Тональный стик тональное средство Dior Forever Skin Perfect 2.5 N",
+    "variant": "Стандарт",
+    "status": "skipped",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "sharedImageWith": [],
+    "sourcePage": "https://www.dior.com/nl_nl/beauty/products/dior-forever-skin-perfect-Y0379000.html",
+    "skipReason": "Official indexed Skin Perfect page lists shade2.5N, but direct retrieval returned HTTP403. Cached page defaults to2N and exposes shade selectors without a reliably attributed complete 2.5N packshot URL. No arbitrary default image assigned; stopped after one focused family lookup.",
+    "searches": [
+      {
+        "query": "Dior Forever Skin Perfect stick 0N 1N 1W 1.5N 2N 2W 2.5N",
+        "url": "https://www.dior.com/nl_nl/beauty/products/dior-forever-skin-perfect-Y0379000.html",
+        "note": "Official indexed Skin Perfect page lists shade2.5N, but direct retrieval returned HTTP403. Cached page defaults to2N and exposes shade selectors without a reliably attributed complete 2.5N packshot URL. No arbitrary default image assigned; stopped after one focused family lookup."
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+# Architecture map: current implementation and project documentation.
+# Historical copies, generated evidence, original media and product photos stay on disk.
+/artifacts/
+/materials/
+/public/
+/vendor/
+/docs/source-conversation.json
+/package-lock.json
+/graphify-out/

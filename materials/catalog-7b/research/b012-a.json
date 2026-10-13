@@ -1,0 +1,577 @@
+[
+  {
+    "index": 551,
+    "productId": "parent-0081",
+    "variantId": "gc004556",
+    "productName": "Румяна для лица Charlotte Tilbury",
+    "variant": "First Love",
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/cheek-to-chic-first-love",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/43oVcoGElbIrYkpMGCyY3A/aceace6cb0c81793d61aa0ecbf1ac584/CHEEK-TO-CHIC-FIRST-LOVE-PACKSHOT.png",
+    "localFile": "materials/catalog-7b/originals/b012-a/Румяна для лица Charlotte Tilbury First Love--gc004556.png",
+    "verification": {
+      "identity": "Dedicated official Cheek To Chic shade page explicitly matches First Love and its named packshot. Original PNG fetched without resizing query.",
+      "volumeAndVariant": "No explicit catalog volume; exact named regular product and shade, no mini or decant substitution.",
+      "visualReview": "Full open exact-shade compact with mirror;1000px source but alpha>=240 actual object spans y117..881=765px. Larger helper box would include cast shadow. Blocked as under800px.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha flattened on white viewed via view_image; source opaque bounds checked separately; prepared review documented in review.md,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Румяна для лица Charlotte Tilbury First Love",
+        "url": "https://www.charlottetilbury.com/uk/product/cheek-to-chic-first-love",
+        "note": "Dedicated official Cheek To Chic shade page explicitly matches First Love and its named packshot. Original PNG fetched without resizing query."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 727169,
+    "sha256": "d55ea49b75ef831f158775cdfe33d00f165902ca7d53c4c979ac9b8c48f0add1"
+  },
+  {
+    "index": 552,
+    "productId": "parent-0081",
+    "variantId": "gc004557",
+    "productName": "Румяна для лица Charlotte Tilbury",
+    "variant": "Sex On Fire",
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/cheek-to-chic-sex-on-fire",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/2QHH7vl7bWIeKIgqqGZCyN/d90e5a76dcbcc6983d58e4b6090c16c7/CHEEK-TO-CHIC-SEX-ON-FIRE-PACKSHOT.png",
+    "localFile": "materials/catalog-7b/originals/b012-a/Румяна для лица Charlotte Tilbury Sex On Fire--gc004557.png",
+    "verification": {
+      "identity": "Dedicated official Cheek To Chic shade page explicitly matches Sex On Fire and its named packshot. Original PNG fetched without resizing query.",
+      "volumeAndVariant": "No explicit catalog volume; exact named regular product and shade, no mini or decant substitution.",
+      "visualReview": "Full open exact-shade compact with mirror;1000px source but alpha>=240 actual object spans y117..881=765px. Larger helper box would include cast shadow. Blocked as under800px.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha flattened on white viewed via view_image; source opaque bounds checked separately; prepared review documented in review.md,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Румяна для лица Charlotte Tilbury Sex On Fire",
+        "url": "https://www.charlottetilbury.com/uk/product/cheek-to-chic-sex-on-fire",
+        "note": "Dedicated official Cheek To Chic shade page explicitly matches Sex On Fire and its named packshot. Original PNG fetched without resizing query."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 728052,
+    "sha256": "1cfb3d6ac561573c9c4db67cabc850e9b933694b49d4a6d262efbd9d95288bff"
+  },
+  {
+    "index": 553,
+    "productId": "parent-0081",
+    "variantId": "gc004558",
+    "productName": "Румяна для лица Charlotte Tilbury",
+    "variant": "The Climax",
+    "status": "verified",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/cheek-to-chic-the-climax",
+    "sourceImage": "https://images.ctfassets.net/wlke2cbybljx/1X088isuluw8c6FNnXviIk/8dd6beba215ad36902a745bbc337054d/CHEEK-TO-CHIC-THE-CLIMAX-PACKSHOT.png",
+    "localFile": "materials/catalog-7b/originals/b012-a/Румяна для лица Charlotte Tilbury The Climax--gc004558.png",
+    "verification": {
+      "identity": "Dedicated official Cheek To Chic shade page explicitly matches The Climax and its named packshot. Original PNG fetched without resizing query.",
+      "volumeAndVariant": "No explicit catalog volume; exact named regular product and shade, no mini or decant substitution.",
+      "visualReview": "Full open exact-shade compact with mirror;1000px source but alpha>=240 actual object spans y117..881=765px. Larger helper box would include cast shadow. Blocked as under800px.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha flattened on white viewed via view_image; source opaque bounds checked separately; prepared review documented in review.md,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Румяна для лица Charlotte Tilbury The Climax",
+        "url": "https://www.charlottetilbury.com/uk/product/cheek-to-chic-the-climax",
+        "note": "Dedicated official Cheek To Chic shade page explicitly matches The Climax and its named packshot. Original PNG fetched without resizing query."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 721310,
+    "sha256": "365839f783f45e48358cca90c2f775d807aa23f57f372e0a552c3c2fd3a73770"
+  },
+  {
+    "index": 554,
+    "productId": "parent-0081",
+    "variantId": "gc004559",
+    "productName": "Румяна для лица Charlotte Tilbury",
+    "variant": "Walk Of No Shame",
+    "status": "skipped",
+    "sourcePage": "https://www.charlottetilbury.com/uk/product/cheek-to-chic-walk-of-no-shame",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official search/kit page confirms exact Walk Of No Shame Cheek To Chic, but individual product route now returns generic navigation without corresponding packshot; no exact original retrieved in focused pass.",
+    "searches": [
+      {
+        "query": "Румяна для лица Charlotte Tilbury Walk Of No Shame",
+        "url": "https://www.charlottetilbury.com/uk/product/cheek-to-chic-walk-of-no-shame",
+        "note": "Official search/kit page confirms exact Walk Of No Shame Cheek To Chic, but individual product route now returns generic navigation without corresponding packshot; no exact original retrieved in focused pass."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 555,
+    "productId": "gc004560",
+    "variantId": "gc004560",
+    "productName": "Румяна для лица Golden Rose Powder Blush 04 Bronze Rose 7 г",
+    "variant": "7 г",
+    "status": "skipped",
+    "sourcePage": "https://www.goldenrose.de/product/powder-blush/",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official German Powder Blush page explicitly lists04 among removed shades with recommended substitute16. Catalog04BronzeRose must not use replacement16. Exact04retailer result found at readytrays.com/products/golden-rose-powder-blush-on-04 but product JSON404; no suitable exact original obtained.",
+    "searches": [
+      {
+        "query": "Румяна для лица Golden Rose Powder Blush 04 Bronze Rose 7 г 7 г",
+        "url": "https://www.goldenrose.de/product/powder-blush/",
+        "note": "Official German Powder Blush page explicitly lists04 among removed shades with recommended substitute16. Catalog04BronzeRose must not use replacement16. Exact04retailer result found at readytrays.com/products/golden-rose-powder-blush-on-04 but product JSON404; no suitable exact original obtained."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 556,
+    "productId": "parent-0082",
+    "variantId": "gc004562",
+    "productName": "Румяна кремовые Rhode",
+    "variant": "freckle",
+    "status": "verified",
+    "sourcePage": "https://www.rhodeskin.com/products/pocket-blush-freckle",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0606/5451/8510/files/mainimage-SQ-freckle.png?v=1717624461",
+    "localFile": "materials/catalog-7b/originals/b012-a/Румяна кремовые Rhode freckle--gc004562.png",
+    "verification": {
+      "identity": "Official pocket-blush-okendo collection JSON maps pocket blush freckle, product 8524699336942, to its own primary image 41236468531438. Each shade has its own product handle and image; no generic shared shade photo.",
+      "volumeAndVariant": "No explicit catalog volume; exact named regular product and shade, no mini or decant substitution.",
+      "visualReview": "Whole uncapped Rhode Pocket Blush, exact exposed colour and brown case, alpha flattened on white, intact rounded edges, no watermark or graphic. Source2000px and opaque object about900px; standard source shadow retained.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha flattened on white viewed via view_image; source opaque bounds checked separately; prepared review documented in review.md,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Румяна кремовые Rhode freckle",
+        "url": "https://www.rhodeskin.com/products/pocket-blush-freckle",
+        "note": "Official pocket-blush-okendo collection JSON maps pocket blush freckle, product 8524699336942, to its own primary image 41236468531438. Each shade has its own product handle and image; no generic shared shade photo."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 338993,
+    "sha256": "b8acd298432762ddf15e2f6b93ccd78ba6063b5c01b8b877cfdaf7f1fa20dc22"
+  },
+  {
+    "index": 557,
+    "productId": "parent-0082",
+    "variantId": "gc004563",
+    "productName": "Румяна кремовые Rhode",
+    "variant": "juice box",
+    "status": "verified",
+    "sourcePage": "https://www.rhodeskin.com/products/pocket-blush-juice-box",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0606/5451/8510/files/mainimage-SQ-juicebox.png?v=1717624473",
+    "localFile": "materials/catalog-7b/originals/b012-a/Румяна кремовые Rhode juice box--gc004563.png",
+    "verification": {
+      "identity": "Official pocket-blush-okendo collection JSON maps pocket blush juice box, product 8524698747118, to its own primary image 41236469842158. Each shade has its own product handle and image; no generic shared shade photo.",
+      "volumeAndVariant": "No explicit catalog volume; exact named regular product and shade, no mini or decant substitution.",
+      "visualReview": "Whole uncapped Rhode Pocket Blush, exact exposed colour and brown case, alpha flattened on white, intact rounded edges, no watermark or graphic. Source2000px and opaque object about900px; standard source shadow retained.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha flattened on white viewed via view_image; source opaque bounds checked separately; prepared review documented in review.md,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Румяна кремовые Rhode juice box",
+        "url": "https://www.rhodeskin.com/products/pocket-blush-juice-box",
+        "note": "Official pocket-blush-okendo collection JSON maps pocket blush juice box, product 8524698747118, to its own primary image 41236469842158. Each shade has its own product handle and image; no generic shared shade photo."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 338677,
+    "sha256": "ec328402ad9fd53377a9d8e39faf6151d6460346391506ff0f1e8061c4b9b303"
+  },
+  {
+    "index": 558,
+    "productId": "parent-0082",
+    "variantId": "gc004564",
+    "productName": "Румяна кремовые Rhode",
+    "variant": "piggy",
+    "status": "verified",
+    "sourcePage": "https://www.rhodeskin.com/products/pocket-blush-piggy",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0606/5451/8510/files/mainimage-SQ-piggy.png?v=1717624055",
+    "localFile": "materials/catalog-7b/originals/b012-a/Румяна кремовые Rhode piggy--gc004564.png",
+    "verification": {
+      "identity": "Official pocket-blush-okendo collection JSON maps pocket blush piggy, product 8524692455662, to its own primary image 41236414267630. Each shade has its own product handle and image; no generic shared shade photo.",
+      "volumeAndVariant": "No explicit catalog volume; exact named regular product and shade, no mini or decant substitution.",
+      "visualReview": "Whole uncapped Rhode Pocket Blush, exact exposed colour and brown case, alpha flattened on white, intact rounded edges, no watermark or graphic. Source2000px and opaque object about900px; standard source shadow retained.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha flattened on white viewed via view_image; source opaque bounds checked separately; prepared review documented in review.md,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Румяна кремовые Rhode piggy",
+        "url": "https://www.rhodeskin.com/products/pocket-blush-piggy",
+        "note": "Official pocket-blush-okendo collection JSON maps pocket blush piggy, product 8524692455662, to its own primary image 41236414267630. Each shade has its own product handle and image; no generic shared shade photo."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 340126,
+    "sha256": "7d07587a72ba079d365c0620aed33e22f4e92a2b047f87165226bcd987d0fe07"
+  },
+  {
+    "index": 559,
+    "productId": "parent-0082",
+    "variantId": "gc004565",
+    "productName": "Румяна кремовые Rhode",
+    "variant": "Sleepy Girl",
+    "status": "verified",
+    "sourcePage": "https://www.rhodeskin.com/products/pocket-blush-sleepy-girl",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0606/5451/8510/files/mainimage-SQ-sleepygirl.png?v=1717624419",
+    "localFile": "materials/catalog-7b/originals/b012-a/Румяна кремовые Rhode Sleepy Girl--gc004565.png",
+    "verification": {
+      "identity": "Official pocket-blush-okendo collection JSON maps pocket blush sleepy girl, product 8524699074798, to its own primary image 41236463452398. Each shade has its own product handle and image; no generic shared shade photo.",
+      "volumeAndVariant": "No explicit catalog volume; exact named regular product and shade, no mini or decant substitution.",
+      "visualReview": "Whole uncapped Rhode Pocket Blush, exact exposed colour and brown case, alpha flattened on white, intact rounded edges, no watermark or graphic. Source2000px and opaque object about900px; standard source shadow retained.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha flattened on white viewed via view_image; source opaque bounds checked separately; prepared review documented in review.md,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Румяна кремовые Rhode Sleepy Girl",
+        "url": "https://www.rhodeskin.com/products/pocket-blush-sleepy-girl",
+        "note": "Official pocket-blush-okendo collection JSON maps pocket blush sleepy girl, product 8524699074798, to its own primary image 41236463452398. Each shade has its own product handle and image; no generic shared shade photo."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 334683,
+    "sha256": "9972f48c01e0641209a2d3901d82a510f37a9b30f099e999c35a5a770292f0ec"
+  },
+  {
+    "index": 560,
+    "productId": "parent-0082",
+    "variantId": "gc004566",
+    "productName": "Румяна кремовые Rhode",
+    "variant": "spicy marg",
+    "status": "verified",
+    "sourcePage": "https://www.rhodeskin.com/products/pocket-blush-spicy-marg",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0606/5451/8510/files/mainimage-SQ-spicymarg.png?v=1717624428",
+    "localFile": "materials/catalog-7b/originals/b012-a/Румяна кремовые Rhode spicy marg--gc004566.png",
+    "verification": {
+      "identity": "Official pocket-blush-okendo collection JSON maps pocket blush spicy marg, product 8524699697390, to its own primary image 41236464566510. Each shade has its own product handle and image; no generic shared shade photo.",
+      "volumeAndVariant": "No explicit catalog volume; exact named regular product and shade, no mini or decant substitution.",
+      "visualReview": "Whole uncapped Rhode Pocket Blush, exact exposed colour and brown case, alpha flattened on white, intact rounded edges, no watermark or graphic. Source2000px and opaque object about900px; standard source shadow retained.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha flattened on white viewed via view_image; source opaque bounds checked separately; prepared review documented in review.md,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Румяна кремовые Rhode spicy marg",
+        "url": "https://www.rhodeskin.com/products/pocket-blush-spicy-marg",
+        "note": "Official pocket-blush-okendo collection JSON maps pocket blush spicy marg, product 8524699697390, to its own primary image 41236464566510. Each shade has its own product handle and image; no generic shared shade photo."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 338763,
+    "sha256": "c37adb760647af796354e5c97936129113cb7e321ab9abb10940e851aaad2cf9"
+  },
+  {
+    "index": 561,
+    "productId": "parent-0082",
+    "variantId": "gc004567",
+    "productName": "Румяна кремовые Rhode",
+    "variant": "Sprinkle",
+    "status": "verified",
+    "sourcePage": "https://www.rhodeskin.com/products/pocket-blush-sprinkle",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0606/5451/8510/files/mainimage-SQ-sprinkle.png?v=1717624436",
+    "localFile": "materials/catalog-7b/originals/b012-a/Румяна кремовые Rhode Sprinkle--gc004567.png",
+    "verification": {
+      "identity": "Official pocket-blush-okendo collection JSON maps pocket blush sprinkle, product 8524700221678, to its own primary image 41236465418478. Each shade has its own product handle and image; no generic shared shade photo.",
+      "volumeAndVariant": "No explicit catalog volume; exact named regular product and shade, no mini or decant substitution.",
+      "visualReview": "Whole uncapped Rhode Pocket Blush, exact exposed colour and brown case, alpha flattened on white, intact rounded edges, no watermark or graphic. Source2000px and opaque object about900px; standard source shadow retained.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha flattened on white viewed via view_image; source opaque bounds checked separately; prepared review documented in review.md,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Румяна кремовые Rhode Sprinkle",
+        "url": "https://www.rhodeskin.com/products/pocket-blush-sprinkle",
+        "note": "Official pocket-blush-okendo collection JSON maps pocket blush sprinkle, product 8524700221678, to its own primary image 41236465418478. Each shade has its own product handle and image; no generic shared shade photo."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 342104,
+    "sha256": "6295ee6de16563dc3212529842a9fe9b52c69ff6709817ebbd4ac2664c926bfb"
+  },
+  {
+    "index": 562,
+    "productId": "parent-0082",
+    "variantId": "gc004569",
+    "productName": "Румяна кремовые Rhode",
+    "variant": "toasted teddy",
+    "status": "verified",
+    "sourcePage": "https://www.rhodeskin.com/products/pocket-blush-toasted-teddy",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0606/5451/8510/files/mainimage-SQ-toastedteddy.png?v=1717624446",
+    "localFile": "materials/catalog-7b/originals/b012-a/Румяна кремовые Rhode toasted teddy--gc004569.png",
+    "verification": {
+      "identity": "Official pocket-blush-okendo collection JSON maps pocket blush toasted teddy, product 8524699959534, to its own primary image 41236466696430. Each shade has its own product handle and image; no generic shared shade photo.",
+      "volumeAndVariant": "No explicit catalog volume; exact named regular product and shade, no mini or decant substitution.",
+      "visualReview": "Whole uncapped Rhode Pocket Blush, exact exposed colour and brown case, alpha flattened on white, intact rounded edges, no watermark or graphic. Source2000px and opaque object about900px; standard source shadow retained.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha flattened on white viewed via view_image; source opaque bounds checked separately; prepared review documented in review.md,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Румяна кремовые Rhode toasted teddy",
+        "url": "https://www.rhodeskin.com/products/pocket-blush-toasted-teddy",
+        "note": "Official pocket-blush-okendo collection JSON maps pocket blush toasted teddy, product 8524699959534, to its own primary image 41236466696430. Each shade has its own product handle and image; no generic shared shade photo."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 346089,
+    "sha256": "3ea06292098c16221dc531dc749381c33468d1c6c75794078742894c55021eac"
+  },
+  {
+    "index": 563,
+    "productId": "gc004568",
+    "variantId": "gc004568",
+    "productName": "Румяна кремовые Rhode Tan Line",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.rhodeskin.com/products/pocket-blush-tan-line",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0606/5451/8510/files/tanline-main_e79dd56e-2264-4542-8247-40e659c3825b.png?v=1765924635",
+    "localFile": "materials/catalog-7b/originals/b012-a/Румяна кремовые Rhode Tan Line Стандарт--gc004568.png",
+    "verification": {
+      "identity": "Official pocket-blush-okendo collection JSON maps pocket blush tan line, product 8882906530030, to its own primary image 44413638738158. Each shade has its own product handle and image; no generic shared shade photo.",
+      "volumeAndVariant": "No explicit catalog volume; exact named regular product and shade, no mini or decant substitution.",
+      "visualReview": "Exact Tan Line source only1000px square and actual object about450px; fails800px object-detail minimum, blocked.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha flattened on white viewed via view_image; source opaque bounds checked separately; prepared review documented in review.md,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Румяна кремовые Rhode Tan Line Стандарт",
+        "url": "https://www.rhodeskin.com/products/pocket-blush-tan-line",
+        "note": "Official pocket-blush-okendo collection JSON maps pocket blush tan line, product 8882906530030, to its own primary image 44413638738158. Each shade has its own product handle and image; no generic shared shade photo."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 237955,
+    "sha256": "18ac3adeb748020fbc54ac7566588c7b223cb3fe0fd999c8744f4a8e6fdb0270"
+  },
+  {
+    "index": 564,
+    "productId": "gc004561",
+    "variantId": "gc004561",
+    "productName": "Румяна кремовые Rhode Date Cake",
+    "variant": "Стандарт",
+    "status": "verified",
+    "sourcePage": "https://www.rhodeskin.com/products/pocket-blush-date-cake",
+    "sourceImage": "https://cdn.shopify.com/s/files/1/0606/5451/8510/files/datecake-main.png?v=1741891501",
+    "localFile": "materials/catalog-7b/originals/b012-a/Румяна кремовые Rhode Date Cake Стандарт--gc004561.png",
+    "verification": {
+      "identity": "Official pocket-blush-okendo collection JSON maps pocket blush date cake, product 8782552596718, to its own primary image 43307792924910. Each shade has its own product handle and image; no generic shared shade photo.",
+      "volumeAndVariant": "No explicit catalog volume; exact named regular product and shade, no mini or decant substitution.",
+      "visualReview": "Whole uncapped Rhode Pocket Blush, exact exposed colour and brown case, alpha flattened on white, intact rounded edges, no watermark or graphic. Source2000px and opaque object about900px; standard source shadow retained.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha flattened on white viewed via view_image; source opaque bounds checked separately; prepared review documented in review.md,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Румяна кремовые Rhode Date Cake Стандарт",
+        "url": "https://www.rhodeskin.com/products/pocket-blush-date-cake",
+        "note": "Official pocket-blush-okendo collection JSON maps pocket blush date cake, product 8782552596718, to its own primary image 43307792924910. Each shade has its own product handle and image; no generic shared shade photo."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 2000,
+    "height": 2000,
+    "format": "PNG",
+    "bytes": 912436,
+    "sha256": "20cf2568fab2f416d138f49bbebc24107483bb1d3cc90516408bacf5cfa15b15"
+  },
+  {
+    "index": 565,
+    "productId": "parent-0083",
+    "variantId": "gc004570",
+    "productName": "Румяна матовые Seventeen Natural Matte Silky Blusher",
+    "variant": "01",
+    "status": "verified",
+    "sourcePage": "https://seventeencosmetics.com/en/catalogue/natural-matte-silky-blusher_103/?vid=104",
+    "sourceImage": "https://seventeencosmetics.com/media/images/products/2020/03/51182001.jpg",
+    "localFile": "materials/catalog-7b/originals/b012-a/Румяна матовые Seventeen Natural Matte Silky Blusher 01--gc004570.jpg",
+    "verification": {
+      "identity": "Official structured product list ties shade 01, selected vid104, to SKU image51182001.jpg. Natural Matte Silky Blusher family, not satin Silky Blusher.",
+      "volumeAndVariant": "No explicit catalog volume; exact named regular product and shade, no mini or decant substitution.",
+      "visualReview": "Whole transparent closed compact on pure white, exact visible colour, no clipping, no graphic badge, source1200px and object comfortably over800px.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha flattened on white viewed via view_image; source opaque bounds checked separately; prepared review documented in review.md,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Румяна матовые Seventeen Natural Matte Silky Blusher 01",
+        "url": "https://seventeencosmetics.com/en/catalogue/natural-matte-silky-blusher_103/?vid=104",
+        "note": "Official structured product list ties shade 01, selected vid104, to SKU image51182001.jpg. Natural Matte Silky Blusher family, not satin Silky Blusher."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1200,
+    "format": "JPEG",
+    "bytes": 477285,
+    "sha256": "2c29a055a1e4a9ec1fb2e6c1fe9b931a46b7d714385dfc3c2401701db66ed906"
+  },
+  {
+    "index": 566,
+    "productId": "parent-0083",
+    "variantId": "gc004571",
+    "productName": "Румяна матовые Seventeen Natural Matte Silky Blusher",
+    "variant": "06",
+    "status": "skipped",
+    "sourcePage": "https://www.dumyah.com/en/beauty/makeup/face/seventeen-natural-matte-silky-blusher-number-6",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Official family lists01/02/03/04/09/13/14/15 but no06. Focused retailer search confirms exact06 code51182006; direct retrieval is Cloudflare blocked. No shade guessed or alternate series substituted.",
+    "searches": [
+      {
+        "query": "Румяна матовые Seventeen Natural Matte Silky Blusher 06",
+        "url": "https://www.dumyah.com/en/beauty/makeup/face/seventeen-natural-matte-silky-blusher-number-6",
+        "note": "Official family lists01/02/03/04/09/13/14/15 but no06. Focused retailer search confirms exact06 code51182006; direct retrieval is Cloudflare blocked. No shade guessed or alternate series substituted."
+      }
+    ],
+    "sharedImageWith": []
+  },
+  {
+    "index": 567,
+    "productId": "parent-0083",
+    "variantId": "gc004572",
+    "productName": "Румяна матовые Seventeen Natural Matte Silky Blusher",
+    "variant": "13",
+    "status": "verified",
+    "sourcePage": "https://seventeencosmetics.com/en/catalogue/natural-matte-silky-blusher_103/?vid=115",
+    "sourceImage": "https://seventeencosmetics.com/media/images/products/2020/03/51182013.jpg",
+    "localFile": "materials/catalog-7b/originals/b012-a/Румяна матовые Seventeen Natural Matte Silky Blusher 13--gc004572.jpg",
+    "verification": {
+      "identity": "Official structured product list ties shade 13, selected vid115, to SKU image51182013.jpg. Natural Matte Silky Blusher family, not satin Silky Blusher.",
+      "volumeAndVariant": "No explicit catalog volume; exact named regular product and shade, no mini or decant substitution.",
+      "visualReview": "Whole transparent closed compact on pure white, exact visible colour, no clipping, no graphic badge, source1200px and object comfortably over800px.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha flattened on white viewed via view_image; source opaque bounds checked separately; prepared review documented in review.md,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Румяна матовые Seventeen Natural Matte Silky Blusher 13",
+        "url": "https://seventeencosmetics.com/en/catalogue/natural-matte-silky-blusher_103/?vid=115",
+        "note": "Official structured product list ties shade 13, selected vid115, to SKU image51182013.jpg. Natural Matte Silky Blusher family, not satin Silky Blusher."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 1200,
+    "height": 1200,
+    "format": "JPEG",
+    "bytes": 478945,
+    "sha256": "8741ac864a7a70cbd212e4b4ab554ada598a71069ad2ea31f10e2c305f3e8ed0"
+  },
+  {
+    "index": 568,
+    "productId": "gc004573",
+    "variantId": "gc004573",
+    "productName": "Румяна матовые Персиковый Vivienne Sabo Macaron 01 5 г",
+    "variant": "5 г",
+    "status": "verified",
+    "sourcePage": "https://viviennesabo.ru/catalog/rumyana/macaron/",
+    "sourceImage": "https://viviennesabo.ru/upload/dev2fun.imagecompress/webp/iblock/dc6/hplzwn1hv5y1wvnm0961aulsp5vwpeve.webp",
+    "localFile": "materials/catalog-7b/originals/b012-a/Румяна матовые Персиковый Vivienne Sabo Macaron 01 5 г 5 г--gc004573.webp",
+    "verification": {
+      "identity": "Official offer map code macaron-01, offerID24290, explicitly binds the corresponding primary image.01peach and02pink checked separately.",
+      "volumeAndVariant": "Catalog5g matching retailer references for01and02. No change to catalog volume.",
+      "visualReview": "Whole Macaron compact, exact colour packaging,3000px square, but opaque gray background and dark cast shadow. Not a clean white catalog photo; blocked without repainting.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha flattened on white viewed via view_image; source opaque bounds checked separately; prepared review documented in review.md,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Румяна матовые Персиковый Vivienne Sabo Macaron 01 5 г 5 г",
+        "url": "https://viviennesabo.ru/catalog/rumyana/macaron/",
+        "note": "Official offer map code macaron-01, offerID24290, explicitly binds the corresponding primary image.01peach and02pink checked separately."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 3000,
+    "height": 3000,
+    "format": "WEBP",
+    "bytes": 104298,
+    "sha256": "1c8a5e4cafebfa6dab0d958f6d08a68fbe05013b93513ff1bfe5b34a36c09f71"
+  },
+  {
+    "index": 569,
+    "productId": "gc004574",
+    "variantId": "gc004574",
+    "productName": "Румяна матовые Розовые Vivienne Sabo Macaron 02 5 г",
+    "variant": "5 г",
+    "status": "verified",
+    "sourcePage": "https://viviennesabo.ru/catalog/rumyana/macaron/",
+    "sourceImage": "https://viviennesabo.ru/upload/dev2fun.imagecompress/webp/iblock/306/e3cunjez7n37ack94stlfo9jva2zy6a7.webp",
+    "localFile": "materials/catalog-7b/originals/b012-a/Румяна матовые Розовые Vivienne Sabo Macaron 02 5 г 5 г--gc004574.webp",
+    "verification": {
+      "identity": "Official offer map code macaron-02, offerID24291, explicitly binds the corresponding primary image.01peach and02pink checked separately.",
+      "volumeAndVariant": "Catalog5g matching retailer references for01and02. No change to catalog volume.",
+      "visualReview": "Whole Macaron compact, exact colour packaging,3000px square, but opaque gray background and dark cast shadow. Not a clean white catalog photo; blocked without repainting.",
+      "reviewMethod": "Full-source fit-contain sheet with alpha flattened on white viewed via view_image; source opaque bounds checked separately; prepared review documented in review.md,2026-09-24.",
+      "sourceBytesUnmodified": true
+    },
+    "skipReason": null,
+    "searches": [
+      {
+        "query": "Румяна матовые Розовые Vivienne Sabo Macaron 02 5 г 5 г",
+        "url": "https://viviennesabo.ru/catalog/rumyana/macaron/",
+        "note": "Official offer map code macaron-02, offerID24291, explicitly binds the corresponding primary image.01peach and02pink checked separately."
+      }
+    ],
+    "sharedImageWith": [],
+    "width": 3000,
+    "height": 3000,
+    "format": "WEBP",
+    "bytes": 99988,
+    "sha256": "83803d765ed4ef0f9883f954f633c165285beed75283d21053f3f358abc7eb22"
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "productId": "parent-0137",
+    "variantId": "gc002740",
+    "productName": "Губная помада Golden Rose Longstay Liquid Matte",
+    "brand": "Golden Rose",
+    "variant": "03",
+    "sku": "GC002740",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 990,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick?variant=40302194393277",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official regional store Shopify selected variant 40302194393277 shade03 maps original featured_image 41770823713036 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted.",
+    "searches": [
+      {
+        "query": "GoldenRose Flüssiger Lippenstift Matt Longstay GR 03",
+        "url": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick?variant=40302194393277",
+        "note": "Exact official regional store Shopify selected variant 40302194393277 shade03 maps original featured_image 41770823713036 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/products/3-807057.jpg?v=1756455893",
+      "width": 370,
+      "height": 370,
+      "variantId": 40302194393277,
+      "imageId": 41770823713036,
+      "metadataFile": "artifacts\\step-7b\\b020-c\\longstay.json"
+    }
+  },
+  {
+    "productId": "parent-0137",
+    "variantId": "gc002741",
+    "productName": "Губная помада Golden Rose Longstay Liquid Matte",
+    "brand": "Golden Rose",
+    "variant": "10",
+    "sku": "GC002741",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 991,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick?variant=40383178408125",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official regional store Shopify selected variant 40383178408125 shade10 maps original featured_image 41770823909644 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted.",
+    "searches": [
+      {
+        "query": "GoldenRose Flüssiger Lippenstift Matt Longstay GR 10",
+        "url": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick?variant=40383178408125",
+        "note": "Exact official regional store Shopify selected variant 40383178408125 shade10 maps original featured_image 41770823909644 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/products/10-513790.jpg?v=1756455893",
+      "width": 370,
+      "height": 370,
+      "variantId": 40383178408125,
+      "imageId": 41770823909644,
+      "metadataFile": "artifacts\\step-7b\\b020-c\\longstay.json"
+    }
+  },
+  {
+    "productId": "parent-0137",
+    "variantId": "gc002742",
+    "productName": "Губная помада Golden Rose Longstay Liquid Matte",
+    "brand": "Golden Rose",
+    "variant": "16",
+    "sku": "GC002742",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 992,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick?variant=40383192268989",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official regional store Shopify selected variant 40383192268989 shade16 maps original featured_image 41770824106252 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted.",
+    "searches": [
+      {
+        "query": "GoldenRose Flüssiger Lippenstift Matt Longstay GR 16",
+        "url": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick?variant=40383192268989",
+        "note": "Exact official regional store Shopify selected variant 40383192268989 shade16 maps original featured_image 41770824106252 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/products/16-699673.jpg?v=1756455893",
+      "width": 370,
+      "height": 370,
+      "variantId": 40383192268989,
+      "imageId": 41770824106252,
+      "metadataFile": "artifacts\\step-7b\\b020-c\\longstay.json"
+    }
+  },
+  {
+    "productId": "parent-0137",
+    "variantId": "gc002743",
+    "productName": "Губная помада Golden Rose Longstay Liquid Matte",
+    "brand": "Golden Rose",
+    "variant": "17",
+    "sku": "GC002743",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 993,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick?variant=40383195840701",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official regional store Shopify selected variant 40383195840701 shade17 maps original featured_image 41770824139020 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted.",
+    "searches": [
+      {
+        "query": "GoldenRose Flüssiger Lippenstift Matt Longstay GR 17",
+        "url": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick?variant=40383195840701",
+        "note": "Exact official regional store Shopify selected variant 40383195840701 shade17 maps original featured_image 41770824139020 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/products/17-178414.jpg?v=1756455893",
+      "width": 370,
+      "height": 370,
+      "variantId": 40383195840701,
+      "imageId": 41770824139020,
+      "metadataFile": "artifacts\\step-7b\\b020-c\\longstay.json"
+    }
+  },
+  {
+    "productId": "parent-0137",
+    "variantId": "gc002744",
+    "productName": "Губная помада Golden Rose Longstay Liquid Matte",
+    "brand": "Golden Rose",
+    "variant": "22",
+    "sku": "GC002744",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 994,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick?variant=40383211045053",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official regional store Shopify selected variant 40383211045053 shade22 maps original featured_image 41770824302860 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted.",
+    "searches": [
+      {
+        "query": "GoldenRose Flüssiger Lippenstift Matt Longstay GR 22",
+        "url": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick?variant=40383211045053",
+        "note": "Exact official regional store Shopify selected variant 40383211045053 shade22 maps original featured_image 41770824302860 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/products/22-261713.jpg?v=1756455893",
+      "width": 370,
+      "height": 370,
+      "variantId": 40383211045053,
+      "imageId": 41770824302860,
+      "metadataFile": "artifacts\\step-7b\\b020-c\\longstay.json"
+    }
+  },
+  {
+    "productId": "parent-0137",
+    "variantId": "gc002745",
+    "productName": "Губная помада Golden Rose Longstay Liquid Matte",
+    "brand": "Golden Rose",
+    "variant": "24",
+    "sku": "GC002745",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 995,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick?variant=40383215370429",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official regional store Shopify selected variant 40383215370429 shade24 maps original featured_image 41770824368396 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted.",
+    "searches": [
+      {
+        "query": "GoldenRose Flüssiger Lippenstift Matt Longstay GR 24",
+        "url": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick?variant=40383215370429",
+        "note": "Exact official regional store Shopify selected variant 40383215370429 shade24 maps original featured_image 41770824368396 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/products/24_f34242de-e0c9-4a03-a673-7e7d43c8ae6d-728235.jpg?v=1756455893",
+      "width": 370,
+      "height": 370,
+      "variantId": 40383215370429,
+      "imageId": 41770824368396,
+      "metadataFile": "artifacts\\step-7b\\b020-c\\longstay.json"
+    }
+  },
+  {
+    "productId": "parent-0137",
+    "variantId": "gc002746",
+    "productName": "Губная помада Golden Rose Longstay Liquid Matte",
+    "brand": "Golden Rose",
+    "variant": "35",
+    "sku": "GC002746",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 996,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick?variant=40383243518141",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official regional store Shopify selected variant 40383243518141 shade35 maps original featured_image 41770824728844 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted.",
+    "searches": [
+      {
+        "query": "GoldenRose Flüssiger Lippenstift Matt Longstay GR 35",
+        "url": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick?variant=40383243518141",
+        "note": "Exact official regional store Shopify selected variant 40383243518141 shade35 maps original featured_image 41770824728844 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/products/35_dad66bd0-2241-404c-89de-672b87b30af8-872404.jpg?v=1756455893",
+      "width": 370,
+      "height": 370,
+      "variantId": 40383243518141,
+      "imageId": 41770824728844,
+      "metadataFile": "artifacts\\step-7b\\b020-c\\longstay.json"
+    }
+  },
+  {
+    "productId": "parent-0137",
+    "variantId": "gc002747",
+    "productName": "Губная помада Golden Rose Longstay Liquid Matte",
+    "brand": "Golden Rose",
+    "variant": "37",
+    "sku": "GC002747",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 997,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick?variant=40383246532797",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official regional store Shopify selected variant 40383246532797 shade37 maps original featured_image 41770824794380 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted.",
+    "searches": [
+      {
+        "query": "GoldenRose Flüssiger Lippenstift Matt Longstay GR 37",
+        "url": "https://goldenrose-germany.de/products/gr-longstay-liquid-matte-lipstick?variant=40383246532797",
+        "note": "Exact official regional store Shopify selected variant 40383246532797 shade37 maps original featured_image 41770824794380 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/products/37-405322.jpg?v=1756455893",
+      "width": 370,
+      "height": 370,
+      "variantId": 40383246532797,
+      "imageId": 41770824794380,
+      "metadataFile": "artifacts\\step-7b\\b020-c\\longstay.json"
+    }
+  },
+  {
+    "productId": "parent-0138",
+    "variantId": "gc002748",
+    "productName": "Губная помада Golden Rose Nude Look Perfect Matte Lipstick",
+    "brand": "Golden Rose",
+    "variant": "01",
+    "sku": "GC002748",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 998,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/nude-look-perfect-matte-lipstick?variant=39960340463805",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official regional store Shopify selected variant 39960340463805 shade01 maps original featured_image 41715616579852 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted.",
+    "searches": [
+      {
+        "query": "GoldenRose Lippenstift - Nude Look Perfect Matte Lipstick 01",
+        "url": "https://goldenrose-germany.de/products/nude-look-perfect-matte-lipstick?variant=39960340463805",
+        "note": "Exact official regional store Shopify selected variant 39960340463805 shade01 maps original featured_image 41715616579852 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/products/nudelooklipstick01-899496.jpg?v=1671915645",
+      "width": 370,
+      "height": 370,
+      "variantId": 39960340463805,
+      "imageId": 41715616579852,
+      "metadataFile": "artifacts\\step-7b\\b020-c\\nude.json"
+    }
+  },
+  {
+    "productId": "parent-0138",
+    "variantId": "gc002749",
+    "productName": "Губная помада Golden Rose Nude Look Perfect Matte Lipstick",
+    "brand": "Golden Rose",
+    "variant": "02",
+    "sku": "GC002749",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 999,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/nude-look-perfect-matte-lipstick?variant=39960340496573",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official regional store Shopify selected variant 39960340496573 shade02 maps original featured_image 41715616645388 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted.",
+    "searches": [
+      {
+        "query": "GoldenRose Lippenstift - Nude Look Perfect Matte Lipstick 02",
+        "url": "https://goldenrose-germany.de/products/nude-look-perfect-matte-lipstick?variant=39960340496573",
+        "note": "Exact official regional store Shopify selected variant 39960340496573 shade02 maps original featured_image 41715616645388 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/products/nudelooklipstick02-305520.jpg?v=1756456787",
+      "width": 370,
+      "height": 370,
+      "variantId": 39960340496573,
+      "imageId": 41715616645388,
+      "metadataFile": "artifacts\\step-7b\\b020-c\\nude.json"
+    }
+  },
+  {
+    "productId": "parent-0138",
+    "variantId": "gc002750",
+    "productName": "Губная помада Golden Rose Nude Look Perfect Matte Lipstick",
+    "brand": "Golden Rose",
+    "variant": "03",
+    "sku": "GC002750",
+    "format": null,
+    "decant": false,
+    "paths": [
+      "makeup/lips/1"
+    ],
+    "index": 1000,
+    "batch": 20,
+    "status": "skipped",
+    "sourcePage": "https://goldenrose-germany.de/products/nude-look-perfect-matte-lipstick?variant=39960340529341",
+    "sourceImage": null,
+    "localFile": null,
+    "verification": null,
+    "skipReason": "Exact official regional store Shopify selected variant 39960340529341 shade03 maps original featured_image 41715616678156 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted.",
+    "searches": [
+      {
+        "query": "GoldenRose Lippenstift - Nude Look Perfect Matte Lipstick 03",
+        "url": "https://goldenrose-germany.de/products/nude-look-perfect-matte-lipstick?variant=39960340529341",
+        "note": "Exact official regional store Shopify selected variant 39960340529341 shade03 maps original featured_image 41715616678156 at native370x370. This is original src metadata, not a requested resized thumbnail. Entire canvas below800, so physical product cannot pass800px. Skip before unnecessary download/upscale; no other shade or default photo substituted."
+      }
+    ],
+    "preparation": {
+      "status": "not-started"
+    },
+    "integration": {
+      "status": "not-started"
+    },
+    "content": {
+      "status": "not-started"
+    },
+    "candidateEvidence": {
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0572/8937/5933/products/nudelooklipsick03-940280.jpg?v=1756456787",
+      "width": 370,
+      "height": 370,
+      "variantId": 39960340529341,
+      "imageId": 41715616678156,
+      "metadataFile": "artifacts\\step-7b\\b020-c\\nude.json"
+    }
+  }
+]

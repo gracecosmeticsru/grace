@@ -35,7 +35,8 @@ const localBindingConfig = {
     : [],
 };
 
-export default defineConfig(async () => {
+export default defineConfig(async ({command}) => {
+  const orderTest = command !== 'build' && process.env.GRACE_ORDER_TEST_MODE === '1';
   // Use Miniflare's local Request.cf placeholder unless fetching is requested.
   process.env.CLOUDFLARE_CF_FETCH_ENABLED ??= "false";
   process.env.WRANGLER_SEND_METRICS ??= "false";
@@ -61,7 +62,10 @@ export default defineConfig(async () => {
       cloudflare({
         viteEnvironment: { name: "rsc", childEnvironments: ["ssr"] },
         inspectorPort: false,
-        config: localBindingConfig,
+        ...(orderTest ? {persistState: {path: '.wrangler/order-test'}} : {}),
+        // Local delivery credentials belong in dev runtime only, never build artifacts.
+        config: {...localBindingConfig, ...(command === 'build' ? {secrets: {required: []}} : {}),
+          ...(orderTest ? {vars: {GRACE_ORDER_TEST_MODE: '1'}, d1_databases: [{binding: 'DB', database_name: 'grace-order-test', database_id: '00000000-0000-4000-8000-000000000002'}]} : {})},
       }),
     ],
   };

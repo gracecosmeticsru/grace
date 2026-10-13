@@ -5,4 +5,4 @@ Pointers only. State, requirements and next action live in each task; evidence l
 | Task | Latest checkpoint |
 |---|---|
 | [TASK-20261014-001](tasks/TASK-20261014-001.md) | [checkpoint](checkpoints/TASK-20261014-001-0008.md) |
-| [TASK-20261014-002](tasks/TASK-20261014-002.md) | [checkpoint](checkpoints/TASK-20261014-002-0003.md) |
+| [TASK-20261014-002](tasks/TASK-20261014-002.md) | [checkpoint](checkpoints/TASK-20261014-002-0004.md) |

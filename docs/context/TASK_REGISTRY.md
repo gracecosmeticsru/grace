@@ -1,0 +1,7 @@
+# Task registry
+
+Pointers only. State, requirements and next action live in each task; evidence lives in checkpoints. Select by user intent, never by newest timestamp.
+
+| Task | Latest checkpoint |
+|---|---|
+| [TASK-20261014-001](tasks/TASK-20261014-001.md) | [checkpoint](checkpoints/TASK-20261014-001-0008.md) |

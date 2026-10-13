@@ -870,15 +870,15 @@
     "semantic_hash": ""
   },
   "AGENTS.md": {
-    "mtime": 1791742788.1860845,
-    "seen": 1791755925.7298493,
-    "ast_hash": "2924e3286020a5f852f948c0f2cc914b",
+    "mtime": 1791928100.7906654,
+    "seen": 1791928223.2025945,
+    "ast_hash": "a5b4622c536d6d0163ab3d0f4b86d146",
     "semantic_hash": ""
   },
   "README.md": {
-    "mtime": 1791733598.2426617,
-    "seen": 1791733720.069951,
-    "ast_hash": "bc4883578f872a2b2f1d5346890a212d",
+    "mtime": 1791921691.7217398,
+    "seen": 1791928223.2025945,
+    "ast_hash": "e6b25d862e8c2552451615d71793549d",
     "semantic_hash": ""
   },
   "docs/ARCHITECTURE-AUDIT.md": {
@@ -1680,9 +1680,135 @@
     "semantic_hash": ""
   },
   "docs/FRIEND-ORDERS.md": {
-    "mtime": 1791756120.0484602,
-    "seen": 1791756490.0211842,
-    "ast_hash": "2808e820d4a28c886fb8ec5c6dbe806b",
+    "mtime": 1791757597.0269976,
+    "seen": 1791928223.203595,
+    "ast_hash": "36c764d11741aaac5ab92a7b768a6dca",
+    "semantic_hash": ""
+  },
+  "scripts/context-os.mjs": {
+    "mtime": 1791928320.8325672,
+    "seen": 1791928360.9419217,
+    "ast_hash": "8e5eddef379e68deec114466386b4b61",
+    "semantic_hash": ""
+  },
+  "tests/context-os.test.mjs": {
+    "mtime": 1791928320.8325672,
+    "seen": 1791928360.9439223,
+    "ast_hash": "0ec77a42f653cbcb855d76c4b038ee1f",
+    "semantic_hash": ""
+  },
+  "PROJECT_CONTEXT.md": {
+    "mtime": 1791927752.687755,
+    "seen": 1791928223.2025945,
+    "ast_hash": "99f173d20a1f907f6fc55af82bcf0784",
+    "semantic_hash": ""
+  },
+  "docs/GITHUB.md": {
+    "mtime": 1791921691.7217398,
+    "seen": 1791928223.203595,
+    "ast_hash": "4fbd8a79aebe4b47c44f891d7caae087",
+    "semantic_hash": ""
+  },
+  "docs/context/DECISIONS.md": {
+    "mtime": 1791927752.6887548,
+    "seen": 1791928223.2115965,
+    "ast_hash": "990d1b012ff42e3f06596e7f47914709",
+    "semantic_hash": ""
+  },
+  "docs/context/INDEX.md": {
+    "mtime": 1791927752.687755,
+    "seen": 1791928223.2115965,
+    "ast_hash": "742952e43839c05f0ecd8e0b3b267e3a",
+    "semantic_hash": ""
+  },
+  "docs/context/KNOWN_ISSUES.md": {
+    "mtime": 1791927752.689757,
+    "seen": 1791928223.2115965,
+    "ast_hash": "df20e77a4bd0575273bd235283cf9b86",
+    "semantic_hash": ""
+  },
+  "docs/context/PROJECT_STATE.md": {
+    "mtime": 1791927752.6887548,
+    "seen": 1791928223.2115965,
+    "ast_hash": "884587dfc6fc7b5c9eee3a453b2693f1",
+    "semantic_hash": ""
+  },
+  "docs/context/README.md": {
+    "mtime": 1791928100.031941,
+    "seen": 1791928223.2115965,
+    "ast_hash": "a2e4c6ae0a4aaf9ae283e300d7d96fea",
+    "semantic_hash": ""
+  },
+  "docs/context/TASK_REGISTRY.md": {
+    "mtime": 1791928180.6209507,
+    "seen": 1791928223.2115965,
+    "ast_hash": "f4bcbf03fd578bb987eaad8dd61cf09d",
+    "semantic_hash": ""
+  },
+  "docs/context/archive/AGENTS-before-context-os.md": {
+    "mtime": 1791928100.7886655,
+    "seen": 1791928223.2115965,
+    "ast_hash": "3c8a34ee27b86b42faa3cc140726c0d6",
+    "semantic_hash": ""
+  },
+  "docs/context/archive/README.md": {
+    "mtime": 1791927752.6917567,
+    "seen": 1791928223.2115965,
+    "ast_hash": "f8caca6aa145e033906d193d9d85e5bc",
+    "semantic_hash": ""
+  },
+  "docs/context/checkpoints/TASK-20261014-001-0001.md": {
+    "mtime": 1791928161.15548,
+    "seen": 1791928223.2115965,
+    "ast_hash": "52165000d8d05d1e01dda4e1de1e4e03",
+    "semantic_hash": ""
+  },
+  "docs/context/checkpoints/TASK-20261014-001-0002.md": {
+    "mtime": 1791928180.2894332,
+    "seen": 1791928223.2115965,
+    "ast_hash": "9de03e4d363e59965b14d9b07994773e",
+    "semantic_hash": ""
+  },
+  "docs/context/checkpoints/TASK-20261014-001-0003.md": {
+    "mtime": 1791928180.6016262,
+    "seen": 1791928223.2115965,
+    "ast_hash": "6441836dbd2de5c7ea516672b4d9412f",
+    "semantic_hash": ""
+  },
+  "docs/context/domains/catalog.md": {
+    "mtime": 1791927752.690757,
+    "seen": 1791928223.2115965,
+    "ast_hash": "80ea1600289abbaefb88ade2309282f3",
+    "semantic_hash": ""
+  },
+  "docs/context/domains/delivery.md": {
+    "mtime": 1791927752.690757,
+    "seen": 1791928223.2115965,
+    "ast_hash": "bb68f3c4e787487373874d266139c9b8",
+    "semantic_hash": ""
+  },
+  "docs/context/domains/orders.md": {
+    "mtime": 1791927752.690757,
+    "seen": 1791928223.2115965,
+    "ast_hash": "3e848658e51c15475cd446326c153168",
+    "semantic_hash": ""
+  },
+  "docs/context/spec/GRACE_CODEX_CONTEXT_OS_v4.md": {
+    "mtime": 1791928100.7896652,
+    "seen": 1791928223.2115965,
+    "ast_hash": "8e5a83df49965edd9a240ee4ba98a1f4",
+    "semantic_hash": ""
+  },
+  "docs/context/spec/GRACE_CODEX_START_PROMPT.txt": {
+    "mtime": 1791928100.7896652,
+    "seen": 1791928223.2115965,
+    "ast_hash": "9b6ee931792fbd7514948d4c001fe2da",
+    "semantic_hash": ""
+  },
+  "docs/context/tasks/TASK-20261014-001.md": {
+    "mtime": 1791928180.6104026,
+    "seen": 1791928223.2115965,
+    "ast_hash": "29910e25ff8543217cb0f81f3c35a8b5",
     "semantic_hash": ""
   }
 }

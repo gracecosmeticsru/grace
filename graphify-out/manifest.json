@@ -876,9 +876,9 @@
     "semantic_hash": ""
   },
   "README.md": {
-    "mtime": 1791921691.7217398,
-    "seen": 1791928223.2025945,
-    "ast_hash": "e6b25d862e8c2552451615d71793549d",
+    "mtime": 1791928747.4849322,
+    "seen": 1791930417.4060476,
+    "ast_hash": "2865ff5d1aeabe8e3ff195d17f849db3",
     "semantic_hash": ""
   },
   "docs/ARCHITECTURE-AUDIT.md": {
@@ -1176,9 +1176,9 @@
     "semantic_hash": ""
   },
   "app/info/page.tsx": {
-    "mtime": 1791756557.7227051,
-    "seen": 1791756734.6337812,
-    "ast_hash": "299f8b31cae0ddf44ff1d84f0b7ef8e6",
+    "mtime": 1791929949.07418,
+    "seen": 1791930417.3800418,
+    "ast_hash": "bf63e0223ad72706b76ea4d5d7475ce6",
     "semantic_hash": ""
   },
   "app/legal/[slug]/page.tsx": {
@@ -1194,9 +1194,9 @@
     "semantic_hash": ""
   },
   "lib/legal-documents.ts": {
-    "mtime": 1791756557.729707,
-    "seen": 1791756734.6547854,
-    "ast_hash": "582e3ffde0b9e40fd1e27e557e460be8",
+    "mtime": 1791929949.07418,
+    "seen": 1791930417.399046,
+    "ast_hash": "0355cf15b81c56f789331101f4f2dc08",
     "semantic_hash": ""
   },
   "lib/store-details.ts": {
@@ -1410,9 +1410,9 @@
     "semantic_hash": ""
   },
   "components/guest-checkout.tsx": {
-    "mtime": 1791755731.830954,
-    "seen": 1791755925.7068439,
-    "ast_hash": "d1200d1b89ff72b2b2712599fecbfb51",
+    "mtime": 1791929990.973796,
+    "seen": 1791930417.3820434,
+    "ast_hash": "0a05786365241cfa71cee1a17f50b4f6",
     "semantic_hash": ""
   },
   "lib/cdek-pickup.ts": {
@@ -1428,9 +1428,9 @@
     "semantic_hash": ""
   },
   "lib/guest-checkout.ts": {
-    "mtime": 1791732378.3724651,
-    "seen": 1791733720.0629494,
-    "ast_hash": "e3d24ed91a5cc4282c470336afdbf79d",
+    "mtime": 1791929949.071179,
+    "seen": 1791930417.399046,
+    "ast_hash": "6c20c3a53c9980b35d01a7d08915a29e",
     "semantic_hash": ""
   },
   "tests/cdek-service.test.mjs": {
@@ -1440,9 +1440,9 @@
     "semantic_hash": ""
   },
   "tests/guest-checkout.test.mjs": {
-    "mtime": 1791668959.825838,
-    "seen": 1791673440.2291412,
-    "ast_hash": "24fc99cd238e10a8f699e0174dc14745",
+    "mtime": 1791929990.9747975,
+    "seen": 1791930417.4040468,
+    "ast_hash": "b6ebb71805ef154a5704be5958dbf640",
     "semantic_hash": ""
   },
   "docs/CDEK-INTEGRATION.md": {
@@ -1518,9 +1518,9 @@
     "semantic_hash": ""
   },
   "lib/order-service.ts": {
-    "mtime": 1791755381.2395163,
-    "seen": 1791755925.7248478,
-    "ast_hash": "d221e4900e079472c1a4a222c49300aa",
+    "mtime": 1791929949.0721784,
+    "seen": 1791930417.400048,
+    "ast_hash": "d8620a306332d710dfe33e1f93d8d412",
     "semantic_hash": ""
   },
   "scripts/check-step-10b.mjs": {
@@ -1536,9 +1536,9 @@
     "semantic_hash": ""
   },
   "tests/order-service.test.mjs": {
-    "mtime": 1791733175.39804,
-    "seen": 1791733720.0679505,
-    "ast_hash": "59200860dd8ede444a09eb1627b5b16d",
+    "mtime": 1791929990.975798,
+    "seen": 1791930417.4040468,
+    "ast_hash": "df24a62f71d19d0ca4c52db4b1f3b509",
     "semantic_hash": ""
   },
   "docs/CONTINUATION-2026-10-11.md": {
@@ -1566,9 +1566,9 @@
     "semantic_hash": ""
   },
   "lib/telegram-outbox.ts": {
-    "mtime": 1791757024.9106798,
-    "seen": 1791757191.8284178,
-    "ast_hash": "4e189d812175ae38f85ddab03bc6dc05",
+    "mtime": 1791929949.0731807,
+    "seen": 1791930417.4010477,
+    "ast_hash": "d84c9cde689d2332a10e1404e9d3b6a5",
     "semantic_hash": ""
   },
   "scripts/check-step-10v.mjs": {
@@ -1596,9 +1596,9 @@
     "semantic_hash": ""
   },
   "tests/telegram-outbox.test.mjs": {
-    "mtime": 1791757024.9106798,
-    "seen": 1791757191.833419,
-    "ast_hash": "a81bbc0b0b701ca72bbdd9c3414338cd",
+    "mtime": 1791929990.975798,
+    "seen": 1791930417.4050472,
+    "ast_hash": "76b770182fa5c85f3a9c9b722c9c5661",
     "semantic_hash": ""
   },
   "docs/ORDER-TO-TELEGRAM-PLAN.md": {
@@ -1740,9 +1740,9 @@
     "semantic_hash": ""
   },
   "docs/context/TASK_REGISTRY.md": {
-    "mtime": 1791928180.6209507,
-    "seen": 1791928223.2115965,
-    "ast_hash": "f4bcbf03fd578bb987eaad8dd61cf09d",
+    "mtime": 1791929907.844559,
+    "seen": 1791930417.41605,
+    "ast_hash": "3c4592a4c2307393141743b3f5a6d3d0",
     "semantic_hash": ""
   },
   "docs/context/archive/AGENTS-before-context-os.md": {
@@ -1806,9 +1806,75 @@
     "semantic_hash": ""
   },
   "docs/context/tasks/TASK-20261014-001.md": {
-    "mtime": 1791928180.6104026,
-    "seen": 1791928223.2115965,
-    "ast_hash": "29910e25ff8543217cb0f81f3c35a8b5",
+    "mtime": 1791928801.9760778,
+    "seen": 1791930417.4180505,
+    "ast_hash": "081e3df804d3264ceabe07b2f30a4254",
+    "semantic_hash": ""
+  },
+  "START-HERE-RU.txt": {
+    "mtime": 1791928747.4909334,
+    "seen": 1791930417.4060476,
+    "ast_hash": "f7123564caac3ef369e6b8ddc0fa77e4",
+    "semantic_hash": ""
+  },
+  "docs/CLEAN-CLONE-CHECK.md": {
+    "mtime": 1791928747.496935,
+    "seen": 1791930417.4060476,
+    "ast_hash": "76c12e135a511c909658556147399d36",
+    "semantic_hash": ""
+  },
+  "docs/context/INSTALLATION-2026-10-14.md": {
+    "mtime": 1791928799.5693517,
+    "seen": 1791930417.41605,
+    "ast_hash": "ea74cf5dda71f3a30903c12f037604b7",
+    "semantic_hash": ""
+  },
+  "docs/context/checkpoints/TASK-20261014-001-0004.md": {
+    "mtime": 1791928623.2510984,
+    "seen": 1791930417.4170501,
+    "ast_hash": "2e3c9ccbdb310b09401be0a34738b3a2",
+    "semantic_hash": ""
+  },
+  "docs/context/checkpoints/TASK-20261014-001-0005.md": {
+    "mtime": 1791928623.5313134,
+    "seen": 1791930417.4170501,
+    "ast_hash": "97ad2caee6a3b4a5a1b020ccba445e84",
+    "semantic_hash": ""
+  },
+  "docs/context/checkpoints/TASK-20261014-001-0006.md": {
+    "mtime": 1791928747.324897,
+    "seen": 1791930417.4170501,
+    "ast_hash": "bd6ddfc736cb3e7e377fc529664f202c",
+    "semantic_hash": ""
+  },
+  "docs/context/checkpoints/TASK-20261014-001-0007.md": {
+    "mtime": 1791928801.6835136,
+    "seen": 1791930417.4170501,
+    "ast_hash": "f80aab9fa8adcabea30b29689f3d7505",
+    "semantic_hash": ""
+  },
+  "docs/context/checkpoints/TASK-20261014-001-0008.md": {
+    "mtime": 1791928801.9680753,
+    "seen": 1791930417.4170501,
+    "ast_hash": "809132da6a64be67addc3443694873e1",
+    "semantic_hash": ""
+  },
+  "docs/context/checkpoints/TASK-20261014-002-0001.md": {
+    "mtime": 1791929496.8745832,
+    "seen": 1791930417.4170501,
+    "ast_hash": "bf1fa3c008b35bbcbe78987ea9e2f6bb",
+    "semantic_hash": ""
+  },
+  "docs/context/checkpoints/TASK-20261014-002-0002.md": {
+    "mtime": 1791929907.8275552,
+    "seen": 1791930417.4170501,
+    "ast_hash": "11bd2dec5c8bab82f630be7df4b03921",
+    "semantic_hash": ""
+  },
+  "docs/context/tasks/TASK-20261014-002.md": {
+    "mtime": 1791929907.8355558,
+    "seen": 1791930417.4180505,
+    "ast_hash": "144d1cf4145308cb01f96fb7eab11e71",
     "semantic_hash": ""
   }
 }

@@ -17,6 +17,7 @@ import styles from './guest-checkout.module.css';
 import {CdekPickupList} from './cdek-pickup-list';
 import {confirmOrderQuote, createOrderClient, orderSubmission} from '@/lib/order-client';
 import type {OrderQuoteLine, OrderSubmission} from '@/lib/order-contract';
+import {storeDetails} from '@/lib/store-details';
 
 export function GuestCheckout({ordersEnabled = false, friendsOrders = false, pickupEnabled = true}: {ordersEnabled?: boolean; friendsOrders?: boolean; pickupEnabled?: boolean}) {
   const {bag, ready, consumeOrder} = useShop();
@@ -139,6 +140,7 @@ export function GuestCheckout({ordersEnabled = false, friendsOrders = false, pic
   }
 
   const total = checkoutTotal(bag);
+  const deliveryNote = fields.delivery === 'store-pickup' ? 'Готовность заказа к самовывозу подтвердит менеджер' : 'Стоимость доставки уточнит менеджер';
   return <main id="main" className={`wrap personal-main ${styles.main}`}>
     <div className="breadcrumbs"><Link href="/">Главная</Link><span>/</span><Link href="/bag">Корзина</Link><span>/</span><span>Оформление</span></div>
     <span className="eyebrow">GRACE · ТВОЙ ВЫБОР</span>
@@ -155,7 +157,7 @@ export function GuestCheckout({ordersEnabled = false, friendsOrders = false, pic
       <Link href="/catalog" className="button primary">Перейти в каталог <ArrowRight size={18}/></Link>
     </section> : <>
       <p className={styles.intro}>Без регистрации. Доставка по России. Подтверждение заказа и оплата — через менеджера.</p>
-      <div className={styles.notice}><strong>{friendsOrders ? 'Оформление через менеджера' : ordersEnabled ? 'Изолированная тестовая заявка' : 'Форма для проверки'}</strong><p>{friendsOrders ? 'Оставьте заявку на выбранные товары. Цена и наличие требуют подтверждения менеджером; доставка оплачивается отдельно. Контакты и адрес будут переданы менеджеру для обработки заявки.' : ordersEnabled ? 'Данные будут сохранены только в локальную тестовую базу. Не вводите реальные контакты. Реальные заказы и уведомления отключены. После сохранения из корзины вычитаются только заказанные количества.' : 'Заказы через сайт пока не принимаются. Можно проверить заполнение формы. Не вводите реальные контактные данные.'}</p></div>
+      <div className={styles.notice}><strong>{friendsOrders ? 'Оформление через менеджера' : ordersEnabled ? 'Изолированная тестовая заявка' : 'Форма для проверки'}</strong><p>{friendsOrders ? 'Оставьте заявку на выбранные товары. Цена, наличие и условия получения требуют подтверждения менеджером. Указанные контакты и данные получения будут переданы менеджеру для обработки заявки.' : ordersEnabled ? 'Данные будут сохранены только в локальную тестовую базу. Не вводите реальные контакты. Реальные заказы и уведомления отключены. После сохранения из корзины вычитаются только заказанные количества.' : 'Заказы через сайт пока не принимаются. Можно проверить заполнение формы. Не вводите реальные контактные данные.'}</p></div>
       <div className={styles.layout}>
         <form ref={form} noValidate onSubmit={check} className={styles.form} aria-label="Данные для заказа" aria-busy={busy}>
           <fieldset disabled={busy || uncertain}><legend>1. Получатель</legend>
@@ -166,20 +168,19 @@ export function GuestCheckout({ordersEnabled = false, friendsOrders = false, pic
             <div className={styles.methods}>
               <label><input type="radio" name="delivery" value="cdek" disabled={!pickupEnabled} checked={fields.delivery === 'cdek'} onChange={() => update('delivery', 'cdek')}/><span>СДЭК<small>В пункт выдачи</small></span></label>
               <label><input type="radio" name="delivery" value="cdek-courier" checked={fields.delivery === 'cdek-courier'} onChange={() => update('delivery', 'cdek-courier')}/><span>СДЭК<small>Курьер до двери</small></span></label>
-              <label><input type="radio" name="delivery" value="post" checked={fields.delivery === 'post'} onChange={() => update('delivery', 'post')}/><span>Почта России<small>По адресу</small></span></label>
+              <label><input type="radio" name="delivery" value="store-pickup" checked={fields.delivery === 'store-pickup'} onChange={() => update('delivery', 'store-pickup')}/><span>Самовывоз<small>{storeDetails.shopAddress}</small></span></label>
             </div>
-            {!pickupEnabled && <p className={styles.hint}>Пункты выдачи СДЭК временно недоступны. Выберите курьера или почту.</p>}
-            {fields.delivery !== 'cdek' && input('region', 'Область, край или республика', {autoComplete: 'address-level1', maxLength: 120})}
+            {!pickupEnabled && <p className={styles.hint}>Пункты выдачи СДЭК временно недоступны. Выберите курьера или самовывоз.</p>}
+            {fields.delivery === 'cdek-courier' && input('region', 'Область, край или республика', {autoComplete: 'address-level1', maxLength: 120})}
             {fields.delivery === 'cdek' ? <CdekPickupList city={fields.city} selected={fields.pickupPoint} cityError={errors.city} error={errors.pickupPoint} onCityChange={value => update('city', value)} onSelect={point => {
               setFields(previous => ({...previous, city: point.city, pickupPoint: point}));
               setErrors(previous => ({...previous, city: undefined, pickupPoint: undefined}));setMessage('');setReview(null);
-            }}/> : <>
+            }}/> : fields.delivery === 'store-pickup' ? null : <>
               {input('city', 'Город или населённый пункт', {autoComplete: 'address-level2', maxLength: 120})}
-              {fields.delivery === 'post' && input('postcode', 'Почтовый индекс', {inputMode: 'numeric', autoComplete: 'postal-code', maxLength: 6})}
               {input('address', 'Улица, дом, корпус', {autoComplete: 'address-line1', maxLength: 250})}
               {input('apartment', 'Квартира или офис — необязательно', {autoComplete: 'address-line2', maxLength: 30, required: false})}
             </>}
-            <p className={styles.deliveryNote}>Стоимость доставки уточнит менеджер</p>
+            <p className={styles.deliveryNote}>{deliveryNote}</p>
           </fieldset>
           <div className={styles.field}>
             <label htmlFor="checkout-comment">Комментарий — необязательно</label>
@@ -216,7 +217,7 @@ export function GuestCheckout({ordersEnabled = false, friendsOrders = false, pic
           </li>)}</ul>
           <div className={styles.total}><span>Сумма товаров · {bag.reduce((count, line) => count + line.quantity, 0)} шт.</span><strong>{formatPrice(total)}</strong></div>
           {total === null && <p className={styles.hint}>Цена есть не у всех товаров. Сумму уточнит менеджер.</p>}
-          <p className={styles.deliveryNote}>Стоимость доставки уточнит менеджер</p>
+          <p className={styles.deliveryNote}>{deliveryNote}</p>
           <p className={styles.hint}>{demoInventory.enabled && `${stockNotice} `}Цену и наличие подтвердит менеджер.</p>
           <Link href="/bag" className={styles.back}><ArrowLeft size={16}/> Вернуться в корзину</Link>
         </aside>

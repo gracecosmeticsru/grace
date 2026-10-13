@@ -58,6 +58,16 @@ test('courier needs an address, but no postcode/PVZ; comment is optional and bou
   assert.equal('comment' in prepareGuestOrder(post,bag).request,false);
 });
 
+test('store pickup needs contacts only and omits hidden shipping fields from the request', () => {
+  const pickup = {...emptyCheckoutFields, fullName: cdek.fullName, phone: cdek.phone, delivery: 'store-pickup'};
+  for (const fields of [pickup, {...post, delivery: 'store-pickup', postcode: 'invalid', address: 'x'.repeat(300)}]) {
+    const prepared = prepareGuestOrder(fields, bag);
+    assert.equal(prepared.ok, true);
+    assert.deepEqual(prepared.request.delivery, {method: 'store-pickup', countryCode: 'RU'});
+  }
+  assert.deepEqual(Object.keys(validateCheckout({...pickup, fullName: '', phone: ''}, bag)), ['fullName', 'phone']);
+});
+
 test('empty bag, invalid quantities, mismatched and duplicate variants are rejected without mutation', () => {
   const before = structuredClone(bag);
   assert.ok(validateCheckout(cdek, []).items);

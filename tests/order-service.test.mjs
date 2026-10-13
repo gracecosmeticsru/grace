@@ -5,6 +5,7 @@ import {tmpdir} from 'node:os';
 import {resolve, sep} from 'node:path';
 import {Miniflare, Log, LogLevel} from 'miniflare';
 import {createOrderService} from '../lib/order-service.ts';
+import {storeDetails} from '../lib/store-details.ts';
 
 const migration = await readFile(new URL('../db/migrations/0001_guest_orders.sql', import.meta.url), 'utf8');
 const origin = 'http://127.0.0.1:5173';
@@ -119,6 +120,22 @@ test('saved snapshot uses exact server variant, integer money, normalized contac
   const job = await db.prepare('SELECT * FROM order_outbox').first();
   assert.deepEqual(job, {order_id: row.id, channel: 'telegram', state: 'pending', attempts: 0, next_attempt_at: timestamp});
   assert.deepEqual(Object.keys(saved.value).sort(), ['ok', 'orderId']);
+});
+
+test('store pickup saves the canonical shop address without calling CDEK and rejects a client-supplied address', async () => {
+  let pickupCalls = 0;
+  const handler = service({verifyPickup: async () => {pickupCalls++; throw Error('Store pickup must not call CDEK');}});
+  const cookie = await session(handler);
+  const input = body();
+  input.order.delivery = {method: 'store-pickup', countryCode: 'RU'};
+  const saved = await result(handler, input, {cookie});
+  assert.equal(saved.status, 200);
+  const row = await db.prepare('SELECT snapshot_json FROM guest_orders WHERE id = ?').bind(saved.value.orderId).first();
+  assert.deepEqual(JSON.parse(row.snapshot_json).delivery, {...input.order.delivery, address: storeDetails.shopAddress});
+  assert.equal(pickupCalls, 0);
+  input.order.delivery.address = 'Подменённый адрес магазина';
+  assert.equal((await result(handler, input, {cookie})).status, 400);
+  await counts(1);
 });
 
 test('strict unknown input rejects nested shape, contact, delivery, item, and quote manipulation', async () => {

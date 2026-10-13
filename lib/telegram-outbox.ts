@@ -6,6 +6,7 @@ const address = {countryCode: z.literal('RU'), region: plain(120), city: plain(1
 const snapshotSchema = z.object({
   schemaVersion: z.literal(1), customer: z.object({fullName: plain(150).min(1), phone: plain(40).min(1)}),
   delivery: z.union([
+    z.object({method: z.literal('store-pickup'), countryCode: z.literal('RU'), address: plain(250).min(1)}),
     z.object({method: z.literal('post'), ...address, postcode: z.string().regex(/^\d{6}$/)}),
     z.object({method: z.literal('cdek'), mode: z.literal('courier'), ...address}),
     z.object({method: z.literal('cdek'), mode: z.literal('pickup'), countryCode: z.literal('RU'),
@@ -25,7 +26,7 @@ export function formatTelegramOrder(orderId: string, input: unknown): string[] {
   if (!Number.isSafeInteger(total) || total !== order.totalKopecks || new Set(order.items.map(item => item.variantId)).size !== order.items.length) throw Error('invalid_snapshot');
   const {delivery} = order;
   const lines = [`Покупатель: ${order.customer.fullName}`, `Телефон / WhatsApp: ${order.customer.phone}`,
-    ...('pickupPoint' in delivery ? [`Доставка: СДЭК, пункт ${delivery.pickupPoint.code}`, `${delivery.pickupPoint.city}, ${delivery.pickupPoint.address}`] : [
+    ...(delivery.method === 'store-pickup' ? ['Получение: Самовывоз', `Магазин: ${delivery.address}`] : 'pickupPoint' in delivery ? [`Доставка: СДЭК, пункт ${delivery.pickupPoint.code}`, `${delivery.pickupPoint.city}, ${delivery.pickupPoint.address}`] : [
       `Доставка: ${delivery.method === 'post' ? 'Почта России' : 'СДЭК, курьер'}`,
       `${delivery.region}, ${delivery.city}${delivery.method === 'post' ? ', ' + delivery.postcode : ''}`,
       `${delivery.address}${delivery.apartment ? ', кв. ' + delivery.apartment : ''}`,

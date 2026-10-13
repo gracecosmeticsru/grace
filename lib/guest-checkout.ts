@@ -4,7 +4,7 @@ import {parseCdekPoint, type CdekPickupPoint} from './cdek-pickup.ts';
 export type CheckoutFields = {
   fullName: string;
   phone: string;
-  delivery: 'cdek' | 'cdek-courier' | 'post';
+  delivery: 'cdek' | 'cdek-courier' | 'store-pickup' | 'post';
   city: string;
   pickupPoint: CdekPickupPoint | null;
   region: string;
@@ -17,7 +17,8 @@ export type CheckoutErrors = Partial<Record<keyof CheckoutFields | 'items', stri
 export type GuestOrderRequest = {
   schemaVersion: 1;
   customer: {fullName: string; phone: string};
-  delivery: {method: 'cdek'; mode: 'pickup'; countryCode: 'RU'; pickupPoint: CdekPickupPoint} |
+  delivery: {method: 'store-pickup'; countryCode: 'RU'} |
+    {method: 'cdek'; mode: 'pickup'; countryCode: 'RU'; pickupPoint: CdekPickupPoint} |
     {method: 'cdek'; mode: 'courier'; countryCode: 'RU'; region: string; city: string; address: string; apartment?: string} |
     {method: 'post'; countryCode: 'RU'; region: string; city: string; postcode: string; address: string; apartment?: string};
   items: {productId: string; variantId: string; quantity: number}[];
@@ -69,7 +70,7 @@ export function validateCheckoutFields(fields: CheckoutFields): CheckoutErrors {
     const value = clean(fields[key]);
     if (value.length < min || value.length > max || /[\u0000-\u001f\u007f]/.test(fields[key])) errors[key] = message;
   };
-  requiredText('city', 2, 120, 'Укажите город или населённый пункт (от 2 до 120 символов).');
+  if (fields.delivery !== 'store-pickup') requiredText('city', 2, 120, 'Укажите город или населённый пункт (от 2 до 120 символов).');
   if (fields.delivery === 'cdek') {
     const point = parseCdekPoint(fields.pickupPoint);
     if (!point || point.city !== clean(fields.city)) errors.pickupPoint = 'Выберите пункт СДЭК из списка для указанного города.';
@@ -78,8 +79,8 @@ export function validateCheckoutFields(fields: CheckoutFields): CheckoutErrors {
     if (fields.delivery === 'post' && !/^\d{6}$/.test(fields.postcode.trim())) errors.postcode = 'Почтовый индекс должен содержать 6 цифр.';
     requiredText('address', 4, 250, 'Укажите улицу и дом (от 4 до 250 символов).');
     if (fields.apartment.trim().length > 30 || /[\u0000-\u001f\u007f]/.test(fields.apartment)) errors.apartment = 'Не больше 30 символов.';
-  } else {
-    errors.delivery = 'Выберите СДЭК или почту.';
+  } else if (fields.delivery !== 'store-pickup') {
+    errors.delivery = 'Выберите СДЭК или самовывоз.';
   }
   if (fields.comment.trim().length > 500 || /[\u0000-\u0008\u000b\u000c\u000e-\u001f\u007f]/.test(fields.comment)) errors.comment = 'Не больше 500 символов.';
   return errors;
@@ -92,7 +93,7 @@ export function prepareGuestOrder(fields: CheckoutFields, bag: BagLine[]):
   return {ok: true, request: {
     schemaVersion: 1,
     customer: {fullName: clean(fields.fullName), phone: normalizePhone(fields.phone)!},
-    delivery: fields.delivery === 'cdek'
+    delivery: fields.delivery === 'store-pickup' ? {method: 'store-pickup', countryCode: 'RU'} : fields.delivery === 'cdek'
       ? {method: 'cdek', mode: 'pickup', countryCode: 'RU', pickupPoint: parseCdekPoint(fields.pickupPoint)!}
       : {...(fields.delivery === 'post' ? {method: 'post' as const, postcode: fields.postcode.trim()} : {method: 'cdek' as const, mode: 'courier' as const}),
         countryCode: 'RU', region: clean(fields.region), city: clean(fields.city),

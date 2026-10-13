@@ -5,6 +5,7 @@ import {tmpdir} from 'node:os';
 import {resolve, sep} from 'node:path';
 import {createTelegramOutbox, formatTelegramOrder, preflightTelegram, discoverTelegramGroup} from '../lib/telegram-outbox.ts';
 import {openLocalDatabase, seedDemo, fakeTelegram} from '../scripts/telegram-local.mjs';
+import {storeDetails} from '../lib/store-details.ts';
 
 const token = '123456789:isolated_fixture_no_external_network';
 const chatId = '-1001234567890';
@@ -46,6 +47,21 @@ test('formatter preserves complete long orders in deterministic bounded plain te
   assert.ok(parts.at(-1).includes('Комментарий: ТЕСТ.'));
   assert.ok(parts.at(-1).includes('12 345,00'.replaceAll(' ', '\u00a0')));
   assert.throws(() => formatTelegramOrder(id, {...value, totalKopecks: 1}));
+});
+
+test('store pickup notification uses the saved shop address and keeps legacy postal formatting', async () => {
+  const id = await seedDemo(db);
+  const value = await snapshot(id);
+  assert.ok(formatTelegramOrder(id, value).join('\n').includes('Доставка: Почта России'));
+  value.delivery = {method: 'store-pickup', countryCode: 'RU', address: storeDetails.shopAddress};
+  const message = formatTelegramOrder(id, value).join('\n');
+  assert.ok(message.includes('Получение: Самовывоз'));
+  assert.ok(message.includes('Магазин: ' + storeDetails.shopAddress));
+  assert.ok(!message.includes('Почта России') && !message.includes('СДЭК'));
+  value.delivery.address = 'Сохранённый прежний адрес магазина';
+  assert.ok(formatTelegramOrder(id, value).join('\n').includes(value.delivery.address));
+  delete value.delivery.address;
+  assert.throws(() => formatTelegramOrder(id, value));
 });
 
 test('disabled sender and invalid config perform no network or storage mutation', async () => {

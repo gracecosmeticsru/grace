@@ -2,6 +2,7 @@ import {z} from 'zod';
 import {emptyCheckoutFields, normalizePhone, validateCheckoutFields} from './guest-checkout.ts';
 import {parseCdekPoint, type CdekPickupPoint} from './cdek-pickup.ts';
 import type {OrderCatalogVariant, OrderResult, OrderSubmission} from './order-contract.ts';
+import {storeDetails} from './store-details.ts';
 
 const maxBodyBytes = 32_768;
 const sessionLifetime = 30 * 24 * 60 * 60 * 1000;
@@ -19,6 +20,7 @@ const submissionSchema = z.object({
     schemaVersion: z.literal(1),
     customer: z.object({fullName: text(150), phone: text(40)}).strict(),
     delivery: z.union([
+      z.object({method: z.literal('store-pickup'), countryCode: z.literal('RU')}).strict(),
       z.object({method: z.literal('cdek'), mode: z.literal('pickup'), countryCode: z.literal('RU'), pickupPoint: pickupSchema}).strict(),
       z.object({method: z.literal('cdek'), mode: z.literal('courier'), ...addressShape}).strict(),
       z.object({method: z.literal('post'), ...addressShape, postcode: z.string().regex(/^\d{6}$/)}).strict(),
@@ -164,7 +166,7 @@ export function createOrderService({db, enabled, lookupVariant, verifyPickup, no
       const pickup = delivery.method === 'cdek' && delivery.mode === 'pickup';
       const fields = validateCheckoutFields({...emptyCheckoutFields,
         fullName: customer.fullName, phone: customer.phone, comment: order.comment ?? '',
-        ...('pickupPoint' in delivery ? {delivery: 'cdek', city: delivery.pickupPoint.city, pickupPoint: delivery.pickupPoint} : {
+        ...(delivery.method === 'store-pickup' ? {delivery: 'store-pickup'} : 'pickupPoint' in delivery ? {delivery: 'cdek', city: delivery.pickupPoint.city, pickupPoint: delivery.pickupPoint} : {
           delivery: delivery.method === 'post' ? 'post' : 'cdek-courier', region: delivery.region,
           city: delivery.city, address: delivery.address, apartment: delivery.apartment ?? '',
           postcode: delivery.method === 'post' ? delivery.postcode : '',
@@ -214,7 +216,8 @@ export function createOrderService({db, enabled, lookupVariant, verifyPickup, no
       }
       const snapshot = {
         schemaVersion: 1, customer: {fullName: customer.fullName.trim().replace(/\s+/g, ' '), phone: normalizePhone(customer.phone)!},
-        delivery, items: quote, ...(order.comment?.trim() ? {comment: order.comment.trim()} : {}), totalKopecks: total,
+        delivery: delivery.method === 'store-pickup' ? {...delivery, address: storeDetails.shopAddress} : delivery,
+        items: quote, ...(order.comment?.trim() ? {comment: order.comment.trim()} : {}), totalKopecks: total,
       };
       const orderId = crypto.randomUUID();
       // The migration trigger creates the notification job atomically with this insert.

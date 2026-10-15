@@ -92,6 +92,33 @@ test('authentication, init and ordered raw chunks persist without an import ackn
   }
 });
 
+test('unused client query parameters do not block capture or bypass validation', async t => {
+  const capture = await fixture(t);
+  const extra = '&sessid=fixture-service-marker';
+  assert.equal((await rawRequest(capture, `?type=catalog&mode=init${extra}`)).status, 401);
+  const cookie = await authorize(capture);
+  const headers = {Cookie: cookie};
+  const init = await rawRequest(capture, `?type=catalog&mode=init${extra}`, {headers});
+  assert.equal(init.status, 200);
+  assert.match(init.body, /^zip=no\nfile_limit=\d+\n$/);
+  const body = Buffer.from('<root>товар</root>');
+  const uploaded = await rawRequest(capture, `?type=catalog&mode=file&filename=import.xml${extra}`, {headers, method: 'POST', body});
+  assert.equal(uploaded.status, 200);
+  assert.equal(uploaded.body, 'success\n');
+  const [directory] = await sessionDirectories(capture);
+  assert.deepEqual(await readFile(join(directory, '000001.bin')), body);
+  const imported = await rawRequest(capture, `?type=catalog&mode=import&filename=import.xml${extra}`, {headers});
+  assert.equal(imported.body, 'failure\nDiagnostic capture only; import disabled\n');
+  assert.equal((await rawRequest(capture, `?type=sale&mode=init${extra}`, {headers})).status, 403);
+  assert.equal((await rawRequest(capture, `?type=catalog&mode=file&filename=../import.xml${extra}`, {headers, method: 'POST', body})).status, 400);
+  for (const duplicate of ['type=catalog', 'mode=init', 'sessid=duplicate']) {
+    assert.equal((await rawRequest(capture, `?type=catalog&mode=init${extra}&${duplicate}`, {headers})).status, 400);
+  }
+  for (const name of (await readdir(directory)).filter(name => name.endsWith('.json'))) {
+    assert.doesNotMatch(await readFile(join(directory, name), 'utf8'), /fixture-service-marker/);
+  }
+});
+
 test('browser origins, rebinding hosts, sale, malformed modes and unsafe filenames are rejected', async t => {
   const capture = await fixture(t);
   const cookie = await initialize(capture);

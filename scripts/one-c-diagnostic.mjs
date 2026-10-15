@@ -100,8 +100,9 @@ export async function startDiagnosticServer({directory, port = 5179, username, p
     if (request.headers.host !== host || request.headers.origin !== undefined) throw failure(403, 'Only direct loopback requests are allowed');
     if (!request.url?.startsWith('/exchange?')) throw failure(404, 'Unknown endpoint');
     const url = new URL(request.url, `http://${host}`);
+    // Native clients attach service parameters; unused values must not block the catalog protocol.
     if (url.pathname !== '/exchange' || url.hash || [...url.searchParams.keys()].some(key =>
-      !['type', 'mode', 'filename'].includes(key) || url.searchParams.getAll(key).length !== 1)) throw failure(400, 'Invalid exchange parameters');
+      url.searchParams.getAll(key).length !== 1)) throw failure(400, 'Invalid exchange parameters');
     if (url.searchParams.get('type') !== 'catalog') throw failure(403, 'Only catalog capture is allowed; orders are disabled');
     const mode = url.searchParams.get('mode');
     if (!['checkauth', 'init', 'file', 'import'].includes(mode)) throw failure(400, 'Unsupported diagnostic mode');

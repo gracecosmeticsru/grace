@@ -11,3 +11,4 @@ Pointers only. State, requirements and next action live in each task; evidence l
 | [TASK-20261015-002](tasks/TASK-20261015-002.md) | [checkpoint](checkpoints/TASK-20261015-002-0003.md) |
 | [TASK-20261016-001](tasks/TASK-20261016-001.md) | [checkpoint](checkpoints/TASK-20261016-001-0003.md) |
 | [TASK-20261017-001](tasks/TASK-20261017-001.md) | [checkpoint](checkpoints/TASK-20261017-001-0003.md) |
+| [TASK-20261017-002](tasks/TASK-20261017-002.md) | [checkpoint](checkpoints/TASK-20261017-002-0003.md) |

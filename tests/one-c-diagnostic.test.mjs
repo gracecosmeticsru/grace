@@ -58,6 +58,55 @@ async function rawRequest(capture, path, {headers = {}, body, method = 'GET'} = 
   });
 }
 
+async function rejections(capture) {
+  const names = (await readdir(capture.runDirectory)).filter(name => /^rejection-\d{6}\.json$/.test(name)).sort();
+  return Promise.all(names.map(async name => JSON.parse(await readFile(join(capture.runDirectory, name), 'utf8'))));
+}
+
+test('rejections before init persist only bounded enum metadata and no supplied credentials or input', async t => {
+  const capture = await fixture(t, {now: () => 1000});
+  const marker = 'attacker-input-that-must-not-be-recorded';
+  const cookie = await authorize(capture);
+  assert.deepEqual(await rejections(capture), []);
+  assert.equal((await call(capture, 'init', {headers: {Cookie: marker, Authorization: `${authorization}${marker}`}})).status, 401);
+  assert.equal((await rawRequest(capture, `?type=catalog&mode=init&mode=${marker}`, {headers: {Cookie: cookie}})).status, 400);
+  assert.equal((await rawRequest(capture, `?type=catalog&mode=${marker}&${marker}=${password}`, {
+    method: 'PATCH', headers: {Cookie: cookie, Authorization: authorization, 'X-Untrusted': marker}, body: marker,
+  })).status, 400);
+  const entries = await rejections(capture);
+  assert.deepEqual(entries.map(entry => [entry.status, entry.method, entry.mode]), [[401, 'GET', 'init'], [400, 'GET', 'UNKNOWN'], [400, 'OTHER', 'UNKNOWN']]);
+  for (const entry of entries) {
+    assert.deepEqual(Object.keys(entry).sort(), ['capturedAt', 'method', 'mode', 'parserFailure', 'status']);
+    assert.equal(entry.capturedAt, '1970-01-01T00:00:01.000Z');
+    assert.equal(entry.parserFailure, false);
+  }
+  const serialized = JSON.stringify(entries);
+  for (const value of [marker, username, password, authorization, cookie, 'X-Untrusted']) assert.equal(serialized.includes(value), false);
+});
+
+test('rejection event allocations stop at a fixed run-wide limit under concurrent requests', async t => {
+  const capture = await fixture(t);
+  const metadata = JSON.parse(await readFile(join(capture.runDirectory, 'run.json'), 'utf8'));
+  assert.equal(metadata.httpFailureEventLimit, 64);
+  for (let wave = 0; wave < 10; wave++) {
+    const replies = await Promise.all(Array.from({length: 8}, () => call(capture, 'init')));
+    assert.ok(replies.every(reply => reply.status === 401 && reply.body === 'failure\nCapture session is missing, expired or invalid\n'));
+  }
+  assert.equal((await rejections(capture)).length, 64);
+  assert.equal((await readdir(capture.runDirectory)).length, 65);
+});
+
+test('a rejection journal write failure cannot replace or suppress the original protocol response', async t => {
+  const capture = await fixture(t);
+  await mkdir(join(capture.runDirectory, 'rejection-000001.json'));
+  const response = await call(capture, 'init');
+  assert.equal(response.status, 401);
+  assert.equal(response.body, 'failure\nCapture session is missing, expired or invalid\n');
+  assert.equal((await call(capture, 'init')).status, 401);
+  const second = JSON.parse(await readFile(join(capture.runDirectory, 'rejection-000002.json'), 'utf8'));
+  assert.equal(second.status, 401);
+});
+
 test('authentication, init and ordered raw chunks persist without an import acknowledgment', async t => {
   const capture = await fixture(t);
   assert.equal((await call(capture, 'checkauth')).status, 401);
@@ -265,5 +314,6 @@ test('upload timeout invalidates the partial session and malformed HTTP does not
     socket.once('close', () => resolveResponse(response));
   });
   assert.match(malformedReply, /^HTTP\/1\.1 400 Bad Request/);
+  assert.ok((await rejections(capture)).some(entry => entry.parserFailure === true && entry.status === 400 && entry.method === 'OTHER' && entry.mode === 'UNKNOWN'));
   assert.equal((await call(capture, 'checkauth', {headers: {Authorization: authorization}})).status, 200);
 });

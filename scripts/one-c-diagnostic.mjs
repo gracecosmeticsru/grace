@@ -6,6 +6,7 @@ import {fileURLToPath} from 'node:url';
 
 const cookieName = 'GRACE_DIAGNOSTIC_SESSION';
 const importFailure = 'Diagnostic capture only; import disabled';
+const maxFailureEvents = 64;
 const defaults = {
   maxBodyBytes: 2 * 1024 * 1024,
   maxSessionBytes: 64 * 1024 * 1024,
@@ -82,15 +83,35 @@ export async function startDiagnosticServer({directory, port = 5179, username, p
   const runDirectory = await mkdtemp(join(baseDirectory, 'capture-'));
   await durableWrite(join(runDirectory, 'run.json'), JSON.stringify({
     captureOnly: true, importEnabled: false, createdAt: new Date(now()).toISOString(), limits: config,
+    httpFailureEventLimit: maxFailureEvents,
   }, null, 2));
   const expectedAuthorization = Buffer.from(`Basic ${Buffer.from(`${username}:${password}`).toString('base64')}`);
   const sessions = new Map();
+  let failureCount = 0;
+  let failureWrites = Promise.resolve();
   let host;
+
+  function recordFailure(status, request, parserFailure = false) {
+    if (failureCount >= maxFailureEvents) return Promise.resolve();
+    const sequence = ++failureCount;
+    let mode = 'UNKNOWN';
+    try {
+      const url = new URL(request?.url, 'http://127.0.0.1');
+      const modes = url.searchParams.getAll('mode');
+      if (url.pathname === '/exchange' && modes.length === 1 && ['checkauth', 'init', 'file', 'import'].includes(modes[0])) mode = modes[0];
+    } catch { /* A malformed URL has no recognized diagnostic command. */ }
+    const entry = {capturedAt: new Date(now()).toISOString(), status,
+      method: ['GET', 'POST'].includes(request?.method) ? request.method : 'OTHER', mode, parserFailure};
+    // Best-effort bounded evidence: logging failure must not change a protocol response.
+    failureWrites = failureWrites.then(() => durableWrite(join(runDirectory, `rejection-${String(sequence).padStart(6, '0')}.json`), JSON.stringify(entry))).catch(() => {});
+    return failureWrites;
+  }
 
   const server = createServer({maxHeaderSize: 8192}, (request, response) => {
     // Socket errors may arrive after a bounded body reader has detached its listeners.
     request.on('error', () => {});
-    void handle(request, response).catch(error => {
+    void handle(request, response).catch(async error => {
+      await recordFailure(error.status ?? 500, request);
       reply(response, error.status ?? 500, `failure\n${error.status ? error.message : 'Capture storage failed; no import performed'}\n`,
         error.status === 401 ? {'WWW-Authenticate': 'Basic realm="1C diagnostic"'} : {});
     });
@@ -190,8 +211,10 @@ export async function startDiagnosticServer({directory, port = 5179, username, p
   server.requestTimeout = config.requestTimeoutMs;
   server.headersTimeout = config.requestTimeoutMs;
   server.setTimeout(config.requestTimeoutMs, socket => socket.destroy());
-  server.on('clientError', (_error, socket) => {
-    if (socket.writable) socket.end('HTTP/1.1 400 Bad Request\r\nConnection: close\r\nContent-Length: 0\r\n\r\n');
+  server.on('clientError', (error, socket) => {
+    void recordFailure(400, undefined, error.code?.startsWith('HPE_') === true).then(() => {
+      if (socket.writable) socket.end('HTTP/1.1 400 Bad Request\r\nConnection: close\r\nContent-Length: 0\r\n\r\n');
+    });
   });
   await new Promise((resolveListen, reject) => {
     server.once('error', reject);
@@ -203,7 +226,7 @@ export async function startDiagnosticServer({directory, port = 5179, username, p
   });
   let closing;
   return {server, url: `http://${host}/exchange`, runDirectory, close: () => closing ??= new Promise((resolveClose, reject) => {
-    server.close(error => error ? reject(error) : resolveClose());
+    server.close(error => { void failureWrites.then(() => error ? reject(error) : resolveClose()); });
     server.closeAllConnections();
   })};
 }
